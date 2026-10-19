@@ -36,7 +36,9 @@ export function DialoguesScreen({ save, setSave, onExit }: Props) {
   useEffect(() => {
     loadDialogues().then(setAll)
   }, [])
-  useEffect(() => window.scrollTo(0, 0), [step])
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [step])
 
   if (!all) return <div className="screen center muted">Chargement des dialogues…</div>
 
