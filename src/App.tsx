@@ -6,6 +6,7 @@ import {
   Landmark,
   Languages,
   LibraryBig,
+  MessagesSquare,
   PackageOpen,
   Sparkles,
   Trophy,
@@ -43,10 +44,12 @@ import { Binder } from './screens/Binder'
 import { BoosterScreen } from './screens/BoosterScreen'
 import { Landing } from './screens/Landing'
 import { LangPicker } from './components/LangPicker'
-import { LANG, TEXT_ATTRS } from './game/lang'
+import { LANG, LANG_PAUSED, TEXT_ATTRS } from './game/lang'
 import { Placement } from './screens/Placement'
 import { FiguresScreen } from './screens/FiguresScreen'
 import { ReviewScreen } from './screens/ReviewScreen'
+import { DialoguesScreen } from './screens/DialoguesScreen'
+import { HAS_DIALOGUES } from './game/dialogues'
 
 type Screen =
   | 'placement'
@@ -61,6 +64,7 @@ type Screen =
   | 'landing'
   | 'backup'
   | 'stats'
+  | 'dialogues'
 
 export default function App() {
   const [save, setSaveState] = useState<Save>(() => rescue(loadSave()))
@@ -143,7 +147,7 @@ export default function App() {
     return (
       <Onboarding
         save={save}
-        returning={playedOtherLang()}
+        returning={playedOtherLang() && !LANG_PAUSED}
         onLanding={() => setScreen('landing')}
         onAccount={() => setScreen('backup')}
         onDone={(s) => {
@@ -204,6 +208,7 @@ export default function App() {
         cards={focus ?? undefined}
       />
     )
+  if (screen === 'dialogues') return <DialoguesScreen save={save} setSave={setSave} onExit={home} />
   if (screen === 'binder') return <Binder save={save} onExit={home} />
   if (screen === 'rules') return <Rules onExit={home} />
   if (screen === 'landing') return <Landing returning onStart={home} />
@@ -368,6 +373,12 @@ export default function App() {
           <LibraryBig size={20} aria-hidden />
           <span>Classeur</span>
         </button>
+        {HAS_DIALOGUES && (
+          <button className="dock-item tile-dialogues" onClick={() => setScreen('dialogues')}>
+            <MessagesSquare size={20} aria-hidden />
+            <span>Dialogues</span>
+          </button>
+        )}
         <button className="dock-item tile-board" onClick={() => setScreen('board')}>
           <Trophy size={20} aria-hidden />
           <span>Classement</span>

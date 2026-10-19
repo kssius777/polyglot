@@ -48,6 +48,8 @@ export interface Save {
   goal: number
   /** Pourquoi on apprend cette langue (choisi à l'accueil des débutants). */
   reason: string
+  /** Dialogues faits : id → meilleur nombre de bonnes réponses à l'exercice. */
+  dialogues: Record<string, number>
 }
 
 export const XP_PER_ANSWER = 10
@@ -78,6 +80,7 @@ export function newSave(): Save {
     xp: 0,
     goal: DEFAULT_GOAL,
     reason: '',
+    dialogues: {},
   }
 }
 
@@ -346,19 +349,22 @@ function bump(map: Record<string, Tally>, key: string, correct: boolean): Record
   return { ...map, [key]: [c + (correct ? 1 : 0), t + 1] }
 }
 
+function bumpDay(days: Record<string, Tally>, now: number, correct: boolean): Record<string, Tally> {
+  const out = bump(days, dayKey(now), correct)
+  const keys = Object.keys(out)
+  if (keys.length <= HISTORY_DAYS) return out
+  return Object.fromEntries(
+    keys
+      .sort()
+      .slice(-HISTORY_DAYS)
+      .map((k) => [k, out[k]]),
+  )
+}
+
 /** Note la réponse pour les statistiques et la liste des cartes à travailler. */
 function record(save: Save, card: Card, correct: boolean, now: number): Save {
-  let days = bump(save.history.days, dayKey(now), correct)
-  const keys = Object.keys(days)
-  if (keys.length > HISTORY_DAYS)
-    days = Object.fromEntries(
-      keys
-        .sort()
-        .slice(-HISTORY_DAYS)
-        .map((k) => [k, days[k]]),
-    )
   const history = {
-    days,
+    days: bumpDay(save.history.days, now, correct),
     levels: bump(save.history.levels, String(card.rarity), correct),
     themes: bump(save.history.themes, card.theme, correct),
   }
@@ -369,6 +375,21 @@ function record(save: Save, card: Card, correct: boolean, now: number): Save {
     fails,
     xp: save.xp + (correct ? XP_PER_ANSWER : 0),
   }
+}
+
+/** Réponse à l'exercice d'un dialogue : de l'XP et des pièces comme en révision, et elle compte pour l'objectif du jour. */
+export function answerDialogue(save: Save, correct: boolean, now: number): Save {
+  return {
+    ...save,
+    history: { ...save.history, days: bumpDay(save.history.days, now, correct) },
+    xp: save.xp + (correct ? XP_PER_ANSWER : 0),
+    coins: save.coins + (correct ? COINS_PER_CORRECT : 0),
+  }
+}
+
+/** Garde le meilleur score de chaque dialogue, pour cocher ceux qui sont faits. */
+export function finishDialogue(save: Save, id: string, good: number): Save {
+  return { ...save, dialogues: { ...save.dialogues, [id]: Math.max(good, save.dialogues[id] ?? 0) } }
 }
 
 /** Lundi de la semaine en cours (heure locale), au format AAAA-MM-JJ. */

@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest'
+import { dialogueQuiz } from './dialogues'
 
 /** Les dialogues sont vérifiés comme les cartes : écriture de la langue seulement, accents russes, français présent. */
 interface Line {
@@ -59,6 +60,24 @@ describe.each(['ar', 'ru', 'ka'])('dialogues %s', (lang) => {
           if (vowels > 1) expect(w, `${w} dans « ${l.ar} »`).toMatch(/[́ёЁ]/)
         }
       }
+    }
+  })
+})
+
+describe('exercice des dialogues', () => {
+  it.each(['ar', 'ru', 'ka'])("%s : 3 questions dans l'ordre, 4 choix distincts dont la bonne réponse", (lang) => {
+    const all = load(lang)
+    for (const d of all) {
+      const qs = dialogueQuiz(d, all, Math.random)
+      expect(qs).toHaveLength(3)
+      for (const q of qs) {
+        expect(q.index).toBeGreaterThan(0)
+        expect(q.choices).toHaveLength(4)
+        expect(q.choices).toContain(q.answer)
+        expect(new Set(q.choices.map((c) => c.line.ar)).size).toBe(4)
+      }
+      const order = qs.map((q) => q.index)
+      expect(order).toEqual([...order].sort((a, b) => a - b))
     }
   })
 })

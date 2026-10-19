@@ -50,6 +50,7 @@ export function sanitize(raw: unknown): Save {
     xp: Math.max(0, Math.floor(num(r.xp, xpFromHistory(r.history)))),
     goal: GOALS.includes(num(r.goal, 0)) ? num(r.goal, DEFAULT_GOAL) : DEFAULT_GOAL,
     reason: typeof r.reason === 'string' ? r.reason.slice(0, 40) : '',
+    dialogues: cleanDialogues(r.dialogues),
     missed: Array.isArray(r.missed)
       ? r.missed.filter((id): id is string => typeof id === 'string' && CARD_BY_ID.has(id)).slice(-60)
       : [],
@@ -63,6 +64,13 @@ function cleanCounts(raw: unknown, valid: (id: string) => boolean): Record<strin
     const v = Math.floor(num(n, 0))
     if (valid(id) && v > 0) out[id] = v
   }
+  return out
+}
+
+function cleanDialogues(raw: unknown): Record<string, number> {
+  const out: Record<string, number> = {}
+  if (!raw || typeof raw !== 'object') return out
+  for (const [id, n] of Object.entries(raw)) if (/^[a-z]{2}-d\d{1,3}$/.test(id)) out[id] = Math.max(0, Math.floor(num(n, 0)))
   return out
 }
 
