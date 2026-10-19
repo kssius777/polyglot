@@ -15,7 +15,7 @@ export function Placement({ onDone }: { onDone: (results: PlacementResult[]) => 
     const level = placementLevel(results)
     const won = results.filter((r) => r.correct)
     return (
-      <div className="screen center">
+      <div className="screen center placement-end">
         <h2>Test terminé !</h2>
         <p>
           {won.length} bonne{won.length > 1 ? 's' : ''} réponse{won.length > 1 ? 's' : ''} sur {results.length}. Ton niveau :{' '}
@@ -34,9 +34,13 @@ export function Placement({ onDone }: { onDone: (results: PlacementResult[]) => 
           </>
         )}
         <p>Tu reçois aussi 3 boosters pour démarrer ta collection.</p>
-        <button className="btn primary big" onClick={() => onDone(results)}>
-          C'est parti !
-        </button>
+        <div className="end-bar">
+          <div className="end-actions">
+            <button className="btn primary big" onClick={() => onDone(results)}>
+              C'est parti !
+            </button>
+          </div>
+        </div>
       </div>
     )
   }
@@ -49,10 +53,7 @@ export function Placement({ onDone }: { onDone: (results: PlacementResult[]) => 
         key={q.card.id}
         question={q}
         onAnswer={(correct) => setResults((r) => [...r, { card: q.card, correct }])}
-        feedback={
-          results[i]?.correct ? <p className="good">✅ Bravo !</p> : <p className="bad">Ce n'est pas grave, on continue.</p>
-        }
-        glow={results[i]?.correct ? 'win' : 'lose'}
+        feedback={!results[i]?.correct && <p>Ce n'est pas grave, c'est juste pour trouver ton niveau.</p>}
         onNext={() => setI(i + 1)}
         nextLabel={i + 1 === questions.length ? 'Voir mon niveau' : 'Suivante'}
       />

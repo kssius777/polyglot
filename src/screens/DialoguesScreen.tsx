@@ -6,6 +6,7 @@ import { TargetText } from '../components/TargetText'
 import { Verdict } from '../components/Verdict'
 import {
   DIALOGUE_LEVELS,
+  quizSize,
   dialogueQuiz,
   loadDialogues,
   type Choice,
@@ -62,6 +63,8 @@ export function DialoguesScreen({ save, setSave, onExit }: Props) {
     return (
       <SessionSummary
         title={`Dialogue terminé · ${step.d.title}`}
+        onClose={() => setStep({ kind: 'list' })}
+        closeLabel="Dialogues"
         good={step.good}
         total={step.total}
         lines={
@@ -90,6 +93,8 @@ export function DialoguesScreen({ save, setSave, onExit }: Props) {
   }
 
   const done = all.filter((d) => d.id in save.dialogues).length
+  // Le niveau du joueur (celui des cartes), ramené aux niveaux des dialogues : de A1 à C1.
+  const mine = Math.min(5, save.level ?? 1)
   return (
     <div className="screen dl-screen">
       <div className="dl-top">
@@ -107,39 +112,44 @@ export function DialoguesScreen({ save, setSave, onExit }: Props) {
         <h2>Dialogues</h2>
         <p>Des scènes du quotidien à lire, puis un petit exercice : chaque bonne réponse rapporte de l'XP et des pièces.</p>
       </header>
-      {([1, 2] as const).map((level) => (
-        <section key={level} className="dl-level">
-          <h3>{DIALOGUE_LEVELS[level]}</h3>
-          <ul className="dl-list">
-            {all
-              .filter((d) => d.level === level)
-              .map((d) => {
-                const best = save.dialogues[d.id]
-                return (
-                  <li key={d.id}>
-                    <button
-                      className={`dl-item ${best !== undefined ? 'done' : ''}`}
-                      onClick={() => setStep({ kind: 'read', d })}
-                    >
-                      <span className="dl-item-text">
-                        <span className="dl-sit">{d.situation}</span>
-                        <b>{d.title}</b>
-                      </span>
-                      {best !== undefined ? (
-                        <span className="dl-best" title="Meilleur score">
-                          <Check size={14} strokeWidth={3} aria-hidden />
-                          {best}/3
+      {([1, 2, 3, 4, 5] as const)
+        .filter((level) => all.some((d) => d.level === level))
+        .map((level) => (
+          <section key={level} className={`dl-level ${level === mine ? 'mine' : ''}`}>
+            <h3>
+              {DIALOGUE_LEVELS[level]}
+              {level === mine && <span className="dl-mine">Ton niveau</span>}
+            </h3>
+            <ul className="dl-list">
+              {all
+                .filter((d) => d.level === level)
+                .map((d) => {
+                  const best = save.dialogues[d.id]
+                  return (
+                    <li key={d.id}>
+                      <button
+                        className={`dl-item ${best !== undefined ? 'done' : ''}`}
+                        onClick={() => setStep({ kind: 'read', d })}
+                      >
+                        <span className="dl-item-text">
+                          <span className="dl-sit">{d.situation}</span>
+                          <b>{d.title}</b>
                         </span>
-                      ) : (
-                        <ChevronRight size={18} className="dl-chev" aria-hidden />
-                      )}
-                    </button>
-                  </li>
-                )
-              })}
-          </ul>
-        </section>
-      ))}
+                        {best !== undefined ? (
+                          <span className="dl-best" title="Meilleur score">
+                            <Check size={14} strokeWidth={3} aria-hidden />
+                            {best}/{quizSize(d.level)}
+                          </span>
+                        ) : (
+                          <ChevronRight size={18} className="dl-chev" aria-hidden />
+                        )}
+                      </button>
+                    </li>
+                  )
+                })}
+            </ul>
+          </section>
+        ))}
     </div>
   )
 }
@@ -270,11 +280,12 @@ function Quiz({
 
   const before = d.lines[q.index - 1]
   const missing = q.answer.line
+  const after = q.mode === 'missing' ? d.lines[q.index + 1] : undefined
   return (
     <div className="screen quiz-screen dl-screen dl-quiz">
       <Progress value={i + (chosen ? 1 : 0)} max={questions.length} label={d.title} />
       <div className={`question dl-body ${chosen ? 'answered' : ''}`}>
-        <p className="prompt">Que répond {d.speakers[missing.s]} ?</p>
+        <p className="prompt">{after ? 'Quelle réplique manque ?' : `Que répond ${d.speakers[missing.s]} ?`}</p>
         <ol className="dl-lines">
           <Bubble line={before} who={d.speakers[before.s]} showFr />
           {chosen ? (
@@ -291,6 +302,7 @@ function Quiz({
               </div>
             </li>
           )}
+          {after && <Bubble line={after} who={d.speakers[after.s]} showFr />}
         </ol>
         <div className="choices choices-ar">
           {q.choices.map((c) => {

@@ -76,6 +76,7 @@ export default function App() {
   const [signupPending, setSignupPending] = useState(false)
   const [profile, setProfile] = useState(cachedProfile)
   const [reviewRound, setReviewRound] = useState(0)
+  const [boosterRound, setBoosterRound] = useState(0)
   const [focus, setFocus] = useState<Card[] | null>(null)
 
   // Partie modifiée ici et pas encore envoyée sur le compte.
@@ -177,8 +178,10 @@ export default function App() {
   if (screen === 'booster')
     return (
       <BoosterScreen
+        key={boosterRound}
         save={save}
         setSave={setSave}
+        onAgain={() => setBoosterRound((n) => n + 1)}
         onExit={() => {
           // Fin de l'accueil des nouveaux : après le premier booster, on propose de créer son profil.
           if (signupPending && !getSession()) {

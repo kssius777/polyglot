@@ -14,7 +14,6 @@ interface Props {
   onAnswer: (correct: boolean) => void
   /** Message affiché après la réponse (gain ou punition). */
   feedback?: ReactNode
-  glow?: 'win' | 'lose' | null
   onNext: () => void
   nextLabel?: string
 }
@@ -29,15 +28,12 @@ const PROMPTS = {
 // La carte rétrécit sur les petits écrans pour que les réponses et le bouton « Suivante » tiennent sans défiler.
 const CARD_WIDTH = 'max(150px, min(72vw, 300px, calc((100dvh - 380px) * 0.716)))'
 
-export function QuestionView({ question, copies, onAnswer, feedback, glow, onNext, nextLabel = 'Continuer' }: Props) {
+export function QuestionView({ question, copies, onAnswer, feedback, onNext, nextLabel = 'Continuer' }: Props) {
   const [chosen, setChosen] = useState<Card | null>(null)
   const { card, type, choices } = question
   const toArabic = type.startsWith('fr-ar')
   const answered = chosen !== null
   const correct = chosen?.id === card.id
-  // Sans indication (test de niveau), la carte réagit simplement à la réponse.
-  const reaction = glow === undefined ? (correct ? 'win' : 'lose') : glow
-  const tone = correct ? 'good' : reaction === null ? 'new' : 'bad'
 
   // Avant la réponse on montre le côté de la question ; après, le recto révèle tout : le mot, sa prononciation et son sens.
   const face: Face = answered || !toArabic ? 'front' : 'back'
@@ -56,7 +52,7 @@ export function QuestionView({ question, copies, onAnswer, feedback, glow, onNex
         face={face}
         translit={answered}
         copies={copies}
-        glow={answered ? reaction : null}
+        glow={answered ? (correct ? 'win' : 'lose') : null}
         width={CARD_WIDTH}
       />
       <div className={`choices ${toArabic ? 'choices-ar' : ''}`}>
@@ -80,7 +76,7 @@ export function QuestionView({ question, copies, onAnswer, feedback, glow, onNex
       </div>
       {answered && (
         <Verdict
-          tone={tone}
+          tone={correct ? 'good' : 'bad'}
           answer={
             !correct &&
             (toArabic ? (

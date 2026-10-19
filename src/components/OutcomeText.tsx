@@ -2,12 +2,6 @@ import { BookOpenText, Check, Coins, Copy, HeartCrack, PartyPopper, Sparkles } f
 import type { Outcome } from '../game/rules'
 import { BRILLANT, COINS_PER_CORRECT, PROGRESS_FOR_COPY } from '../game/rules'
 
-export function outcomeGlow(o: Outcome | null): 'win' | 'lose' | null {
-  if (!o) return null
-  if (o.kind === 'discovered') return null
-  return o.kind === 'won' || o.kind === 'progress' ? 'win' : 'lose'
-}
-
 export function OutcomeText({ outcome }: { outcome: Outcome }) {
   switch (outcome.kind) {
     case 'won':
@@ -55,8 +49,8 @@ export function OutcomeText({ outcome }: { outcome: Outcome }) {
     case 'discovered':
       return (
         <p className="discover">
-          <BookOpenText size={16} className="fb-icon" aria-hidden /> Nouvelle carte : regarde bien la réponse. Pas de punition
-          cette fois, elle reviendra dans un prochain booster.
+          <BookOpenText size={16} className="fb-icon" aria-hidden /> Carte jamais vue : pas de punition, elle reviendra dans un
+          prochain booster.
         </p>
       )
     case 'lost-copy':

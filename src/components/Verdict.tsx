@@ -1,8 +1,8 @@
 import { useEffect, type ReactNode } from 'react'
-import { Check, Sparkles, X } from 'lucide-react'
+import { Check, X } from 'lucide-react'
 
 interface Props {
-  tone: 'good' | 'bad' | 'new'
+  tone: 'good' | 'bad'
   /** La bonne réponse, montrée quand on s'est trompé. */
   answer?: ReactNode
   detail?: ReactNode
@@ -10,7 +10,7 @@ interface Props {
   nextLabel: string
 }
 
-const TITLES = { good: 'Bonne réponse !', bad: 'Pas tout à fait', new: 'Nouvelle carte' }
+const TITLES = { good: 'Bonne réponse !', bad: 'Mauvaise réponse' }
 
 /** Bandeau du bas après une réponse : vert ou rouge sur toute la largeur, avec le bouton pour continuer. */
 export function Verdict({ tone, answer, detail, onNext, nextLabel }: Props) {
@@ -30,17 +30,11 @@ export function Verdict({ tone, answer, detail, onNext, nextLabel }: Props) {
     <div className={`verdict ${tone}`} role="status">
       <div className="verdict-inner">
         <span className="verdict-icon" aria-hidden>
-          {tone === 'good' ? (
-            <Check size={26} strokeWidth={3} />
-          ) : tone === 'bad' ? (
-            <X size={26} strokeWidth={3} />
-          ) : (
-            <Sparkles size={24} />
-          )}
+          {tone === 'good' ? <Check size={26} strokeWidth={3} /> : <X size={26} strokeWidth={3} />}
         </span>
         <div className="verdict-text">
           <b>{TITLES[tone]}</b>
-          {answer && <span className="verdict-answer">Réponse : {answer}</span>}
+          {answer && <span className="verdict-answer">La bonne réponse : {answer}</span>}
           {detail && <div className="verdict-detail">{detail}</div>}
         </div>
         <button className="verdict-next" onClick={onNext} autoFocus>

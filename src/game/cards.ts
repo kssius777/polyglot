@@ -38,6 +38,60 @@ export interface ThemeInfo {
   light: string
 }
 
+/**
+ * Teinte « pierre précieuse » du fond de carte, par thème : une douzaine de tons riches mais doux, pour que le classeur soit varié
+ * sans être criard. Les thèmes proches partagent une teinte.
+ */
+const JEWEL = {
+  ambre: '#c7742c',
+  emeraude: '#1f9467',
+  mousse: '#5f8f2e',
+  rose: '#c94c80',
+  rubis: '#b83b55',
+  saphir: '#2f67c9',
+  sarcelle: '#138a8c',
+  corail: '#d2604b',
+  violet: '#7052cc',
+  or: '#b88a1e',
+  indigo: '#4553bd',
+  prune: '#9b43b0',
+  azur: '#1c86b3',
+}
+export const THEME_JEWEL: Record<string, string> = {
+  nourriture: JEWEL.ambre,
+  restaurant: JEWEL.ambre,
+  courses: JEWEL.ambre,
+  nature: JEWEL.emeraude,
+  animaux: JEWEL.mousse,
+  famille: JEWEL.rose,
+  expressions: JEWEL.rose,
+  emotions: JEWEL.rubis,
+  couleurs: JEWEL.rubis,
+  voyage: JEWEL.saphir,
+  transport: JEWEL.saphir,
+  verbes: JEWEL.saphir,
+  maison: JEWEL.sarcelle,
+  vetements: JEWEL.sarcelle,
+  outils: JEWEL.sarcelle,
+  corps: JEWEL.corail,
+  sante: JEWEL.corail,
+  travail: JEWEL.violet,
+  metiers: JEWEL.violet,
+  tech: JEWEL.violet,
+  religion: JEWEL.or,
+  phrases: JEWEL.or,
+  salutations: JEWEL.or,
+  temps: JEWEL.indigo,
+  nombres: JEWEL.indigo,
+  questions: JEWEL.indigo,
+  pronoms: JEWEL.indigo,
+  loisirs: JEWEL.prune,
+  adjectifs: JEWEL.prune,
+  ecole: JEWEL.azur,
+  societe: JEWEL.azur,
+  ville: JEWEL.azur,
+}
+
 export const THEMES: Record<string, ThemeInfo> = {
   salutations: {
     label: 'Salutations',

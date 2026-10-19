@@ -1,4 +1,5 @@
-import type { ReactNode } from 'react'
+import { useEffect, type ReactNode } from 'react'
+import { X } from 'lucide-react'
 import type { Card } from '../game/cards'
 import { GameCard } from './GameCard'
 
@@ -15,10 +16,20 @@ interface Props {
   lines: SummaryLine[]
   groups: { title: string; cards: Card[] }[]
   children: ReactNode
+  /** Sortie : bouton en haut à gauche et touche Échap. */
+  onClose: () => void
+  closeLabel?: string
 }
 
 /** Écran de fin de séance (révision ou booster) : le score, ce qui a changé, puis les cartes à revoir en grand. */
-export function SessionSummary({ title, good, total, lines, groups, children }: Props) {
+export function SessionSummary({ title, good, total, lines, groups, children, onClose, closeLabel = 'Accueil' }: Props) {
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose()
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [onClose])
   const ratio = total ? good / total : 0
   const mood =
     ratio === 1
@@ -30,6 +41,10 @@ export function SessionSummary({ title, good, total, lines, groups, children }: 
           : 'On s’accroche, ça va rentrer.'
   return (
     <div className="screen center session-end">
+      <button className="btn ghost small end-close" onClick={onClose}>
+        <X size={16} aria-hidden />
+        {closeLabel}
+      </button>
       <div className="end-ring">
         <svg viewBox="0 0 44 44" aria-hidden>
           <circle cx="22" cy="22" r="19" className="ring-bg" />
@@ -64,7 +79,10 @@ export function SessionSummary({ title, good, total, lines, groups, children }: 
             </div>
           </section>
         ))}
-      <div className="end-actions">{children}</div>
+      {/* Les boutons restent toujours visibles, en bas de l'écran, même avec beaucoup de cartes au-dessus. */}
+      <div className="end-bar">
+        <div className="end-actions">{children}</div>
+      </div>
     </div>
   )
 }

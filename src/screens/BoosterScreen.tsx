@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { RotateCcw, Sparkles } from 'lucide-react'
 import { plural, SessionSummary } from '../components/SessionSummary'
 import { BoosterPack } from '../components/BoosterPack'
-import { OutcomeText, outcomeGlow } from '../components/OutcomeText'
+import { OutcomeText } from '../components/OutcomeText'
 import { QuestionView } from '../components/QuestionView'
 import type { Card } from '../game/cards'
 import { answerBooster, consumeBooster, makeQuestion, openBooster, type Outcome, type Question, type Save } from '../game/rules'
@@ -12,11 +12,13 @@ interface Props {
   save: Save
   setSave: (s: Save) => void
   onExit: () => void
+  /** Ouvrir le booster suivant directement depuis la fin de celui-ci. */
+  onAgain?: () => void
 }
 
 type Stage = 'pack' | 'question' | 'summary'
 
-export function BoosterScreen({ save, setSave, onExit }: Props) {
+export function BoosterScreen({ save, setSave, onExit, onAgain }: Props) {
   const [stage, setStage] = useState<Stage>('pack')
   const [opening, setOpening] = useState(false)
   const [cards, setCards] = useState<Card[]>([])
@@ -74,6 +76,7 @@ export function BoosterScreen({ save, setSave, onExit }: Props) {
     return (
       <SessionSummary
         title="Booster ouvert"
+        onClose={onExit}
         good={won.length}
         total={cards.length}
         lines={[
@@ -100,9 +103,20 @@ export function BoosterScreen({ save, setSave, onExit }: Props) {
           { title: 'À revoir', cards: lost },
         ]}
       >
-        <button className="btn primary big" onClick={onExit}>
-          Retour à l'accueil
-        </button>
+        {onAgain && save.boosters > 0 ? (
+          <>
+            <button className="btn primary big" onClick={onAgain}>
+              Ouvrir un autre booster ({save.boosters})
+            </button>
+            <button className="btn ghost" onClick={onExit}>
+              Retour à l'accueil
+            </button>
+          </>
+        ) : (
+          <button className="btn primary big" onClick={onExit}>
+            Retour à l'accueil
+          </button>
+        )}
       </SessionSummary>
     )
   }
@@ -117,7 +131,6 @@ export function BoosterScreen({ save, setSave, onExit }: Props) {
           question={question}
           onAnswer={answer}
           feedback={outcome && <OutcomeText outcome={outcome} />}
-          glow={outcomeGlow(outcome)}
           onNext={next}
           nextLabel={i + 1 < cards.length ? 'Carte suivante' : 'Voir le résultat'}
         />

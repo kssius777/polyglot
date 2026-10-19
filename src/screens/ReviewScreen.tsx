@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { OutcomeText, outcomeGlow } from '../components/OutcomeText'
+import { OutcomeText } from '../components/OutcomeText'
 import { QuestionView } from '../components/QuestionView'
 import { answerReview, finishReview, makeQuestion, questionTypeFor, reviewSession, type Outcome, type Save } from '../game/rules'
 import { Progress } from './Placement'
@@ -46,6 +46,7 @@ export function ReviewScreen({ save, setSave, onExit, onAgain, cards }: Props) {
     return (
       <SessionSummary
         title="Révision terminée"
+        onClose={onExit}
         good={good.length}
         total={outcomes.length}
         lines={[
@@ -85,7 +86,6 @@ export function ReviewScreen({ save, setSave, onExit, onAgain, cards }: Props) {
         copies={save.owned[q.card.id]?.copies ?? 0}
         onAnswer={answer}
         feedback={outcome && <OutcomeText outcome={outcome} />}
-        glow={outcomeGlow(outcome)}
         onNext={next}
         nextLabel={i + 1 < questions.length ? 'Suivante' : 'Terminer'}
       />

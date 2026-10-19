@@ -1,5 +1,5 @@
 import type { CSSProperties, ReactNode } from 'react'
-import { cardNumber, RARITIES, THEMES, type Card } from '../game/cards'
+import { cardNumber, RARITIES, THEME_JEWEL, THEMES, type Card } from '../game/cards'
 import { BRILLANT } from '../game/rules'
 import { LANG, TEXT_ATTRS } from '../game/lang'
 import { TargetText } from './TargetText'
@@ -26,6 +26,7 @@ export function GameCard({ card, face = 'front', translit = true, copies, width 
     '--w': width,
     '--theme': theme.color,
     '--theme-light': theme.light,
+    '--jewel': THEME_JEWEL[card.theme] ?? theme.color,
     '--rarity': rarity.color,
   } as CSSProperties
   const flipped = face !== 'front'
