@@ -1402,5 +1402,2537 @@
         "fr": "De rien. Mais ne sois pas en retard !"
       }
     ]
+  },
+  {
+    "id": "ru-d29",
+    "level": 3,
+    "situation": "Chez le médecin",
+    "title": "Une angine",
+    "speakers": [
+      "Elena",
+      "Ivan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте, проходи́те. На что жа́луетесь?",
+        "translit": "zdrávstvuyte, prokhodíte. na chto zháluyetes'?",
+        "fr": "Bonjour, entrez. De quoi vous plaignez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "У меня́ уже́ тре́тий день боли́т го́рло, а вчера́ ве́чером подняла́сь температу́ра.",
+        "translit": "u menyá uzhé trétiy den' bolít górlo, a vcherá vécherom podnyalás' temperatúra.",
+        "fr": "J'ai mal à la gorge depuis trois jours, et hier soir j'ai eu de la fièvre."
+      },
+      {
+        "s": 0,
+        "ar": "Кака́я была́ температу́ра?",
+        "translit": "kakáya bylá temperatúra?",
+        "fr": "Vous aviez combien de fièvre ?"
+      },
+      {
+        "s": 1,
+        "ar": "Три́дцать во́семь и пять. Я при́нял табле́тку, и ста́ло немно́го ле́гче.",
+        "translit": "trídtsat' vósem' i pyat'. ya prínyal tablétku, i stálo nemnógo légche.",
+        "fr": "Trente-huit cinq. J'ai pris un cachet et ça allait un peu mieux."
+      },
+      {
+        "s": 0,
+        "ar": "Откро́йте рот, пожа́луйста. Да, го́рло си́льно покрасне́ло. Ка́шель есть?",
+        "translit": "otkróyte rot, pozháluysta. da, górlo síl'no pokrasnélo. káshel' yest'?",
+        "fr": "Ouvrez la bouche, s'il vous plaît. Oui, la gorge est très rouge. Vous toussez ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, осо́бенно по ноча́м. Э́то что-то серьёзное?",
+        "translit": "da, osóbenno po nochám. éto chto-to ser'yóznoye?",
+        "fr": "Oui, surtout la nuit. C'est quelque chose de grave ?"
+      },
+      {
+        "s": 0,
+        "ar": "Не ду́маю, э́то анги́на. Я вы́пишу вам реце́пт. Принима́йте лека́рство три ра́за в день по́сле еды́.",
+        "translit": "ne dúmayu, éto angína. ya výpishu vam retsépt. prinimáyte lekárstvo tri ráza v den' pósle yedý.",
+        "fr": "Je ne pense pas, c'est une angine. Je vais vous faire une ordonnance. Prenez le médicament trois fois par jour après les repas."
+      },
+      {
+        "s": 1,
+        "ar": "А на рабо́ту мне мо́жно ходи́ть?",
+        "translit": "a na rabótu mne mózhno khodít'?",
+        "fr": "Et je peux aller travailler ?"
+      },
+      {
+        "s": 0,
+        "ar": "Ни в ко́ем слу́чае. Я дам вам больни́чный на неде́лю. И пе́йте побо́льше тёплого ча́я.",
+        "translit": "ni v kóyem slúchaye. ya dam vam bol'níchnyy na nedélyu. i péyte poból'she tyóplovo cháya.",
+        "fr": "Surtout pas. Je vous donne un arrêt maladie d'une semaine. Et buvez beaucoup de thé chaud."
+      },
+      {
+        "s": 1,
+        "ar": "Спаси́бо, до́ктор. До свида́ния!",
+        "translit": "spasíbo, dóktor. do svidániya!",
+        "fr": "Merci, docteur. Au revoir !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d30",
+    "level": 3,
+    "situation": "Louer un appartement",
+    "title": "Un studio à louer",
+    "speakers": [
+      "Maria",
+      "Oleg"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте! Я звоню́ по объявле́нию. Кварти́ра ещё сдаётся?",
+        "translit": "zdrávstvuyte! ya zvonyú po obyavléniyu. kvartíra yeshchó sdayótsya?",
+        "fr": "Bonjour ! J'appelle pour l'annonce. L'appartement est encore à louer ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, ещё свобо́дна. Э́то одноко́мнатная кварти́ра на пя́том этаже́, ря́дом с метро́.",
+        "translit": "da, yeshchó svobódna. éto odnokómnatnaya kvartíra na pyátom etazhé, ryádom s metró.",
+        "fr": "Oui, il est encore libre. C'est un studio au cinquième étage, près du métro."
+      },
+      {
+        "s": 0,
+        "ar": "Ско́лько она́ сто́ит в ме́сяц?",
+        "translit": "skól'ko oná stóit v mésyats?",
+        "fr": "Combien coûte le loyer par mois ?"
+      },
+      {
+        "s": 1,
+        "ar": "Три́дцать ты́сяч плюс коммуна́льные услу́ги. И ну́жен зало́г за оди́н ме́сяц.",
+        "translit": "trídtsat' týsyach plyus kommunál'nyye uslúgi. i núzhen zalóg za odín mésyats.",
+        "fr": "Trente mille plus les charges. Et il faut une caution d'un mois."
+      },
+      {
+        "s": 0,
+        "ar": "А мо́жно с ко́шкой? У меня́ о́чень споко́йная ко́шка.",
+        "translit": "a mózhno s kóshkoy? u menyá óchen' spokóynaya kóshka.",
+        "fr": "Et c'est possible avec un chat ? Ma chatte est très calme."
+      },
+      {
+        "s": 1,
+        "ar": "В при́нципе мо́жно, е́сли она́ не бу́дет по́ртить ме́бель.",
+        "translit": "v príntsipe mózhno, yésli oná ne búdet pórtit' mébel'.",
+        "fr": "En principe oui, si elle n'abîme pas les meubles."
+      },
+      {
+        "s": 0,
+        "ar": "Отли́чно. Когда́ мо́жно посмотре́ть кварти́ру?",
+        "translit": "otlíchno. kogdá mózhno posmotrét' kvartíru?",
+        "fr": "Parfait. Quand est-ce que je peux visiter ?"
+      },
+      {
+        "s": 1,
+        "ar": "Дава́йте за́втра в шесть ве́чера. Я вам пришлю́ а́дрес.",
+        "translit": "daváyte závtra v shest' véchera. ya vam prishlyú ádres.",
+        "fr": "Disons demain à six heures du soir. Je vous enverrai l'adresse."
+      },
+      {
+        "s": 0,
+        "ar": "Хорошо́, договори́лись. До за́втра!",
+        "translit": "khoroshó, dogovorílis'. do závtra!",
+        "fr": "D'accord, entendu. À demain !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d31",
+    "level": 3,
+    "situation": "À la banque",
+    "title": "Une carte bloquée",
+    "speakers": [
+      "Sergueï",
+      "Olga"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "До́брый день. У меня́ заблоки́ровали ка́рту, и я не понима́ю почему́.",
+        "translit": "dóbryy den'. u menyá zablokírovali kártu, i ya ne ponimáyu pochemú.",
+        "fr": "Bonjour. Ma carte a été bloquée et je ne comprends pas pourquoi."
+      },
+      {
+        "s": 1,
+        "ar": "Дава́йте посмо́трим. Ваш па́спорт, пожа́луйста.",
+        "translit": "daváyte posmótrim. vash pásport, pozháluysta.",
+        "fr": "Voyons cela. Votre passeport, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "Вот, пожа́луйста.",
+        "translit": "vot, pozháluysta.",
+        "fr": "Le voici."
+      },
+      {
+        "s": 1,
+        "ar": "Ка́рта заблоки́рована, потому́ что вчера́ кто-то три ра́за ввёл непра́вильный ПИН-код.",
+        "translit": "kárta zablokírovana, potomú chto vcherá kto-to tri ráza vvyol neprávil'nyy pin-kod.",
+        "fr": "La carte est bloquée parce qu'hier quelqu'un a saisi trois fois un mauvais code PIN."
+      },
+      {
+        "s": 0,
+        "ar": "Э́то был я. Я про́сто забы́л но́вый код.",
+        "translit": "éto byl ya. ya prósto zabýl nóvyy kod.",
+        "fr": "C'était moi. J'avais tout simplement oublié le nouveau code."
+      },
+      {
+        "s": 1,
+        "ar": "Поня́тно. Я могу́ разблоки́ровать ка́рту, но вам на́до бу́дет поменя́ть код в банкома́те.",
+        "translit": "ponyátno. ya mogú razblokírovat' kártu, no vam nádo búdet pomenyát' kod v bankomáte.",
+        "fr": "Je vois. Je peux débloquer la carte, mais vous devrez changer le code au distributeur."
+      },
+      {
+        "s": 0,
+        "ar": "А е́сли я опя́ть его́ забу́ду?",
+        "translit": "a yésli ya opyát' yevó zabúdu?",
+        "fr": "Et si je l'oublie encore ?"
+      },
+      {
+        "s": 1,
+        "ar": "Тогда́ лу́чше запиши́те его́, но не храни́те вме́сте с ка́ртой!",
+        "translit": "togdá lúchshe zapishíte yevó, no ne khraníte vméste s kártoy!",
+        "fr": "Alors notez-le, mais ne le gardez pas avec la carte !"
+      },
+      {
+        "s": 0,
+        "ar": "Хоро́шая иде́я. Спаси́бо за по́мощь!",
+        "translit": "khoróshaya idéya. spasíbo za pómoshch'!",
+        "fr": "Bonne idée. Merci pour votre aide !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d32",
+    "level": 3,
+    "situation": "À la poste",
+    "title": "Envoyer un colis",
+    "speakers": [
+      "Natacha",
+      "Pavel"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте. Я хочу́ отпра́вить посы́лку во Фра́нцию.",
+        "translit": "zdrávstvuyte. ya khochú otprávit' posýlku vo Frántsiyu.",
+        "fr": "Bonjour. Je voudrais envoyer un colis en France."
+      },
+      {
+        "s": 1,
+        "ar": "Что внутри́?",
+        "translit": "chto vnutrí?",
+        "fr": "Qu'est-ce qu'il y a dedans ?"
+      },
+      {
+        "s": 0,
+        "ar": "Кни́ги и пода́рки для друзе́й: шарф и коро́бка конфе́т.",
+        "translit": "knígi i podárki dlya druzéy: sharf i koróbka konfét.",
+        "fr": "Des livres et des cadeaux pour des amis : une écharpe et une boîte de chocolats."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́. Запо́лните, пожа́луйста, э́тот бланк. А́дрес пиши́те лати́нскими бу́квами.",
+        "translit": "khoroshó. zapólnite, pozháluysta, étot blank. ádres pishíte latínskimi búkvami.",
+        "fr": "Bien. Remplissez ce formulaire, s'il vous plaît. Écrivez l'adresse en lettres latines."
+      },
+      {
+        "s": 0,
+        "ar": "Ско́лько вре́мени идёт посы́лка?",
+        "translit": "skól'ko vrémeni idyót posýlka?",
+        "fr": "Combien de temps met le colis ?"
+      },
+      {
+        "s": 1,
+        "ar": "Обы́чно две-три неде́ли. Есть и экспре́сс-доста́вка, но она́ доро́же.",
+        "translit": "obýchno dve-tri nedéli. yest' i ekspréss-dostávka, no oná dorózhe.",
+        "fr": "En général deux ou trois semaines. Il y a aussi la livraison express, mais c'est plus cher."
+      },
+      {
+        "s": 0,
+        "ar": "Нет, не на́до, я не тороплю́сь. Ско́лько с меня́?",
+        "translit": "net, ne nádo, ya ne toroplyús'. skól'ko s menyá?",
+        "fr": "Non, pas la peine, je ne suis pas pressée. Je vous dois combien ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ты́сяча две́сти рубле́й. Вот ваш чек с но́мером для отсле́живания.",
+        "translit": "týsyacha dvésti rubléy. vot vash chek s nómerom dlya otslézhivaniya.",
+        "fr": "Mille deux cents roubles. Voici votre reçu avec le numéro de suivi."
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо большо́е!",
+        "translit": "spasíbo bol'shóye!",
+        "fr": "Merci beaucoup !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d33",
+    "level": 3,
+    "situation": "Raconter sa journée",
+    "title": "Une journée catastrophique",
+    "speakers": [
+      "Dmitri",
+      "Svetlana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Что с тобо́й? Ты вы́глядишь уста́лой.",
+        "translit": "chto s tobóy? ty výglyadish' ustáloy.",
+        "fr": "Qu'est-ce qui t'arrive ? Tu as l'air fatiguée."
+      },
+      {
+        "s": 1,
+        "ar": "Ох, вчера́ был ужа́сный день. Снача́ла я проспа́ла и опозда́ла на рабо́ту.",
+        "translit": "okh, vcherá byl uzhásnyy den'. snachála ya prospála i opozdála na rabótu.",
+        "fr": "Oh, hier c'était une journée horrible. D'abord je ne me suis pas réveillée et je suis arrivée en retard au travail."
+      },
+      {
+        "s": 0,
+        "ar": "Быва́ет. А пото́м?",
+        "translit": "byváyet. a potóm?",
+        "fr": "Ça arrive. Et ensuite ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пото́м на совеща́нии я проли́ла ко́фе на ноутбу́к нача́льника.",
+        "translit": "potóm na soveshchánii ya prolíla kófe na noutbúk nachál'nika.",
+        "fr": "Ensuite, en réunion, j'ai renversé du café sur l'ordinateur portable du chef."
+      },
+      {
+        "s": 0,
+        "ar": "Не мо́жет быть! И что он сказа́л?",
+        "translit": "ne mózhet byt'! i chto on skazál?",
+        "fr": "Pas possible ! Et qu'est-ce qu'il a dit ?"
+      },
+      {
+        "s": 1,
+        "ar": "К сча́стью, ничего́. Он то́лько засмея́лся и сказа́л, что ему́ давно́ пора́ купи́ть но́вый.",
+        "translit": "k schást'yu, nichevó. on tól'ko zasmeyálsya i skazál, chto yemú davnó porá kupít' nóvyy.",
+        "fr": "Heureusement, rien. Il a juste ri et a dit qu'il était temps d'en acheter un nouveau."
+      },
+      {
+        "s": 0,
+        "ar": "Повезло́ тебе́! А ве́чером?",
+        "translit": "povezló tebé! a vécherom?",
+        "fr": "Tu as eu de la chance ! Et le soir ?"
+      },
+      {
+        "s": 1,
+        "ar": "А ве́чером я наконе́ц легла́ спать в де́вять часо́в и прекра́сно вы́спалась.",
+        "translit": "a vécherom ya nakonéts leglá spat' v dévyat' chasóv i prekrásno výspalas'.",
+        "fr": "Et le soir je me suis enfin couchée à neuf heures et j'ai très bien dormi."
+      },
+      {
+        "s": 0,
+        "ar": "Вот ви́дишь, всё хорошо́, что хорошо́ конча́ется!",
+        "translit": "vot vídish', vsyo khoroshó, chto khoroshó koncháyetsya!",
+        "fr": "Tu vois, tout est bien qui finit bien !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d34",
+    "level": 3,
+    "situation": "Projets et envies",
+    "title": "Les projets pour l'été",
+    "speakers": [
+      "Anna",
+      "Maxime"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Макси́м, куда́ ты пое́дешь ле́том?",
+        "translit": "maksím, kudá ty poyédesh' létom?",
+        "fr": "Maxime, où est-ce que tu pars cet été ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ещё не реши́л. Хоте́лось бы пое́хать на Байка́л, но э́то далеко́ и до́рого.",
+        "translit": "yeshchó ne reshíl. khotélos' by poyékhat' na Baykál, no éto dalekó i dórogo.",
+        "fr": "Je n'ai pas encore décidé. J'aimerais bien aller au Baïkal, mais c'est loin et cher."
+      },
+      {
+        "s": 0,
+        "ar": "А я пла́нирую пойти́ в похо́д по Алта́ю с друзья́ми. Хо́чешь с на́ми?",
+        "translit": "a ya plániruyu poytí v pokhód po Altáyu s druz'yámi. khóchesh' s námi?",
+        "fr": "Moi, je prévois une randonnée dans l'Altaï avec des amis. Tu veux venir avec nous ?"
+      },
+      {
+        "s": 1,
+        "ar": "Звучи́т интере́сно! А ско́лько дней вы бу́дете идти́?",
+        "translit": "zvuchít interésno! a skól'ko dney vy búdete idtí?",
+        "fr": "Ça a l'air intéressant ! Et vous allez marcher combien de jours ?"
+      },
+      {
+        "s": 0,
+        "ar": "Неде́лю. Бу́дем спать в пала́тках и гото́вить на костре́.",
+        "translit": "nedélyu. búdem spat' v palátkakh i gotóvit' na kostré.",
+        "fr": "Une semaine. On dormira sous des tentes et on cuisinera au feu de camp."
+      },
+      {
+        "s": 1,
+        "ar": "Я никогда́ не спал в пала́тке, но давно́ мечта́ю попро́бовать.",
+        "translit": "ya nikogdá ne spal v palátke, no davnó mechtáyu popróbovat'.",
+        "fr": "Je n'ai jamais dormi sous une tente, mais je rêve d'essayer depuis longtemps."
+      },
+      {
+        "s": 0,
+        "ar": "Тогда́ реша́й быстре́е: мы покупа́ем биле́ты в конце́ ме́сяца.",
+        "translit": "togdá resháy bystréye: my pokupáyem biléty v kontsé mésyatsa.",
+        "fr": "Alors décide-toi vite : on achète les billets à la fin du mois."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́, я поговорю́ с нача́льником об о́тпуске и сра́зу тебе́ напишу́.",
+        "translit": "khoroshó, ya pogovoryú s nachál'nikom ob ótpuske i srázu tebé napishú.",
+        "fr": "D'accord, je parle de mes congés à mon chef et je t'écris tout de suite."
+      }
+    ]
+  },
+  {
+    "id": "ru-d35",
+    "level": 3,
+    "situation": "Objet perdu",
+    "title": "Le sac oublié",
+    "speakers": [
+      "Irina",
+      "Viktor"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте. Я вчера́ забы́ла су́мку в электри́чке. Её никто́ не приноси́л?",
+        "translit": "zdrávstvuyte. ya vcherá zabýla súmku v elektríchke. yeyó niktó ne prinosíl?",
+        "fr": "Bonjour. Hier j'ai oublié mon sac dans le train de banlieue. Quelqu'un l'a rapporté ?"
+      },
+      {
+        "s": 1,
+        "ar": "Опиши́те её, пожа́луйста. Како́го она́ цве́та?",
+        "translit": "opishíte yeyó, pozháluysta. kakóvo oná tsvéta?",
+        "fr": "Décrivez-le, s'il vous plaît. De quelle couleur est-il ?"
+      },
+      {
+        "s": 0,
+        "ar": "Кори́чневая, ко́жаная, с дли́нным ремнём.",
+        "translit": "koríchnevaya, kózhanaya, s dlínnym remnyóm.",
+        "fr": "Marron, en cuir, avec une longue bandoulière."
+      },
+      {
+        "s": 1,
+        "ar": "А что в ней бы́ло?",
+        "translit": "a chto v ney býlo?",
+        "fr": "Et qu'est-ce qu'il y avait dedans ?"
+      },
+      {
+        "s": 0,
+        "ar": "Кошелёк, ключи́ от кварти́ры и кни́га на англи́йском языке́.",
+        "translit": "koshelyók, klyuchí ot kvartíry i kníga na anglíyskom yazyké.",
+        "fr": "Un portefeuille, les clés de l'appartement et un livre en anglais."
+      },
+      {
+        "s": 1,
+        "ar": "Подожди́те мину́точку, я посмотрю́ на скла́де.",
+        "translit": "podozhdíte minútochku, ya posmotryú na skláde.",
+        "fr": "Attendez une petite minute, je vais regarder à la réserve."
+      },
+      {
+        "s": 0,
+        "ar": "Коне́чно, я подожду́.",
+        "translit": "konéshno, ya podozhdú.",
+        "fr": "Bien sûr, j'attends."
+      },
+      {
+        "s": 1,
+        "ar": "Вам повезло́! Вот ва́ша су́мка. Прове́рьте, всё ли на ме́сте.",
+        "translit": "vam povezló! vot vásha súmka. provér'te, vsyo li na méste.",
+        "fr": "Vous avez de la chance ! Voici votre sac. Vérifiez que tout y est."
+      },
+      {
+        "s": 0,
+        "ar": "Всё на ме́сте! Огро́мное вам спаси́бо!",
+        "translit": "vsyo na méste! ogrómnoye vam spasíbo!",
+        "fr": "Tout y est ! Merci infiniment !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d36",
+    "level": 3,
+    "situation": "Une réparation",
+    "title": "Le lave-linge en panne",
+    "speakers": [
+      "Ekaterina",
+      "Andreï"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Здра́вствуйте, я ма́стер. Что у вас случи́лось?",
+        "translit": "zdrávstvuyte, ya máster. chto u vas sluchílos'?",
+        "fr": "Bonjour, je suis le réparateur. Qu'est-ce qui vous arrive ?"
+      },
+      {
+        "s": 0,
+        "ar": "Стира́льная маши́на переста́ла слива́ть во́ду. И ещё она́ стра́нно шуми́т.",
+        "translit": "stirál'naya mashína perestála slivát' vódu. i yeshchó oná stránno shumít.",
+        "fr": "Le lave-linge ne vide plus l'eau. Et en plus il fait un bruit bizarre."
+      },
+      {
+        "s": 1,
+        "ar": "Сейча́с посмо́трим. Когда́ э́то начало́сь?",
+        "translit": "seychás posmótrim. kogdá éto nachalós'?",
+        "fr": "On va voir ça. Ça a commencé quand ?"
+      },
+      {
+        "s": 0,
+        "ar": "Позавчера́. Я стира́ла ку́ртку сы́на, и вдруг маши́на останови́лась.",
+        "translit": "pozavcherá. ya stirála kúrtku sýna, i vdrug mashína ostanovílas'.",
+        "fr": "Avant-hier. Je lavais le blouson de mon fils et tout à coup la machine s'est arrêtée."
+      },
+      {
+        "s": 1,
+        "ar": "Так, ви́жу. В фи́льтре застря́ли моне́та и кака́я-то игру́шка.",
+        "translit": "tak, vízhu. v fíl'tre zastryáli monéta i kakáya-to igrúshka.",
+        "fr": "Bon, je vois. Une pièce de monnaie et un jouet sont coincés dans le filtre."
+      },
+      {
+        "s": 0,
+        "ar": "Ой, э́то, наве́рное, его́ маши́нка! Он её давно́ иска́л.",
+        "translit": "oy, éto, navérnoye, yevó mashínka! on yeyó davnó iskál.",
+        "fr": "Oh, c'est sûrement sa petite voiture ! Il la cherchait depuis longtemps."
+      },
+      {
+        "s": 1,
+        "ar": "Тепе́рь всё рабо́тает. Но в сле́дующий раз проверя́йте карма́ны пе́ред сти́ркой.",
+        "translit": "tepér' vsyo rabótayet. no v sléduyushchiy raz proveryáyte karmány péred stírkoy.",
+        "fr": "Maintenant tout marche. Mais la prochaine fois, vérifiez les poches avant la lessive."
+      },
+      {
+        "s": 0,
+        "ar": "Обяза́тельно. Ско́лько я вам должна́?",
+        "translit": "obyazátel'no. skól'ko ya vam dolzhná?",
+        "fr": "Promis. Combien je vous dois ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ты́сяча пятьсо́т рубле́й за вы́зов и рабо́ту.",
+        "translit": "týsyacha pyat'sót rubléy za výzov i rabótu.",
+        "fr": "Mille cinq cents roubles pour le déplacement et le travail."
+      }
+    ]
+  },
+  {
+    "id": "ru-d37",
+    "level": 3,
+    "situation": "Organiser une fête",
+    "title": "L'anniversaire surprise",
+    "speakers": [
+      "Olga",
+      "Igor"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "И́горь, ты по́мнишь, что в суббо́ту у Ле́ны день рожде́ния?",
+        "translit": "Ígor', ty pómnish', chto v subbótu u Lény den' rozhdéniya?",
+        "fr": "Igor, tu te souviens que samedi c'est l'anniversaire de Léna ?"
+      },
+      {
+        "s": 1,
+        "ar": "Коне́чно, по́мню. Ты хоте́ла устро́ить ей сюрпри́з?",
+        "translit": "konéshno, pómnyu. ty khotéla ustróit' yey syurpríz?",
+        "fr": "Bien sûr que je m'en souviens. Tu voulais lui faire une surprise ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да. Я ду́маю собра́ть всех друзе́й у меня́ до́ма. Ты мо́жешь заказа́ть торт?",
+        "translit": "da. ya dúmayu sobrát' vsekh druzéy u menyá dóma. ty mózhesh' zakazát' tort?",
+        "fr": "Oui. Je pense réunir tous les amis chez moi. Tu peux commander le gâteau ?"
+      },
+      {
+        "s": 1,
+        "ar": "Без пробле́м. А како́й она́ лю́бит?",
+        "translit": "bez problém. a kakóy oná lyúbit?",
+        "fr": "Pas de problème. Et elle aime lequel ?"
+      },
+      {
+        "s": 0,
+        "ar": "Шокола́дный, с ви́шней. А я куплю́ цветы́ и шары́.",
+        "translit": "shokoládnyy, s víshney. a ya kuplyú tsvetý i sharý.",
+        "fr": "Au chocolat, avec des cerises. Et moi j'achèterai des fleurs et des ballons."
+      },
+      {
+        "s": 1,
+        "ar": "А как мы её приведём к тебе́, что́бы она́ ни о чём не догада́лась?",
+        "translit": "a kak my yeyó privedyóm k tebé, chtóby oná ni o chom ne dogadálas'?",
+        "fr": "Et comment on l'amène chez toi sans qu'elle se doute de rien ?"
+      },
+      {
+        "s": 0,
+        "ar": "Её брат ска́жет, что ему́ ну́жно забра́ть у меня́ кни́гу, и попро́сит её пойти́ с ним.",
+        "translit": "yeyó brat skázhet, chto yemú núzhno zabrát' u menyá knígu, i poprósit yeyó poytí s nim.",
+        "fr": "Son frère dira qu'il doit récupérer un livre chez moi et lui demandera de venir avec lui."
+      },
+      {
+        "s": 1,
+        "ar": "Хитро́! Тогда́ встреча́емся у тебя́ в суббо́ту в пять.",
+        "translit": "khitró! togdá vstrecháyemsya u tebyá v subbótu v pyat'.",
+        "fr": "Malin ! Alors on se retrouve chez toi samedi à cinq heures."
+      },
+      {
+        "s": 0,
+        "ar": "Отли́чно. То́лько никому́ ни сло́ва!",
+        "translit": "otlíchno. tól'ko nikomú ni slóva!",
+        "fr": "Parfait. Mais pas un mot à personne !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d38",
+    "level": 3,
+    "situation": "Chez le coiffeur",
+    "title": "Une nouvelle coupe",
+    "speakers": [
+      "Ksenia",
+      "Roman"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "До́брый день! Сади́тесь, пожа́луйста. Как бу́дем стри́чься?",
+        "translit": "dóbryy den'! sadítes', pozháluysta. kak búdem strích'sya?",
+        "fr": "Bonjour ! Asseyez-vous, je vous en prie. Quelle coupe on fait ?"
+      },
+      {
+        "s": 0,
+        "ar": "Я хочу́ что-то совсе́м но́вое. Мне надое́ли дли́нные во́лосы.",
+        "translit": "ya khochú chto-to sovsém nóvoye. mne nadoyéli dlínnyye vólosy.",
+        "fr": "Je veux quelque chose de complètement nouveau. J'en ai assez des cheveux longs."
+      },
+      {
+        "s": 1,
+        "ar": "Мо́жет быть, каре́? Вам пойдёт, у вас краси́вое лицо́.",
+        "translit": "mózhet byt', karé? vam poydyót, u vas krasívoye litsó.",
+        "fr": "Peut-être un carré ? Ça vous ira, vous avez un joli visage."
+      },
+      {
+        "s": 0,
+        "ar": "Да, я как раз об э́том ду́мала. А покра́сить мо́жно?",
+        "translit": "da, ya kak raz ob étom dúmala. a pokrásit' mózhno?",
+        "fr": "Oui, justement j'y pensais. Et on peut faire une couleur ?"
+      },
+      {
+        "s": 1,
+        "ar": "Мо́жно. Како́й цвет вы хоти́те?",
+        "translit": "mózhno. kakóy tsvet vy khotíte?",
+        "fr": "Oui. Quelle couleur voulez-vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "Немно́го светле́е, чем сейча́с. Но не сли́шком.",
+        "translit": "nemnógo svetléye, chem seychás. no ne slíshkom.",
+        "fr": "Un peu plus clair que maintenant. Mais pas trop."
+      },
+      {
+        "s": 1,
+        "ar": "По́нял. Э́то займёт часа́ два. Вы не торо́питесь?",
+        "translit": "pónyal. éto zaymyót chasá dva. vy ne torópites'?",
+        "fr": "Compris. Ça prendra environ deux heures. Vous n'êtes pas pressée ?"
+      },
+      {
+        "s": 0,
+        "ar": "Нет, у меня́ сего́дня выходно́й. Де́лайте, как счита́ете ну́жным.",
+        "translit": "net, u menyá sevódnya vykhodnóy. délayte, kak schitáyete núzhnym.",
+        "fr": "Non, aujourd'hui je suis en congé. Faites comme bon vous semble."
+      }
+    ]
+  },
+  {
+    "id": "ru-d39",
+    "level": 3,
+    "situation": "Raconter un voyage",
+    "title": "Le vol annulé",
+    "speakers": [
+      "Ivan",
+      "Daria"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Ва́ня! Ты же до́лжен был быть в Со́чи! Что случи́лось?",
+        "translit": "Ványa! ty zhe dólzhen byl byt' v Sóchi! chto sluchílos'?",
+        "fr": "Vania ! Tu devais être à Sotchi ! Qu'est-ce qui s'est passé ?"
+      },
+      {
+        "s": 0,
+        "ar": "Ох, лу́чше не спра́шивай. Я прие́хал в аэропо́рт, а рейс отмени́ли из-за пого́ды.",
+        "translit": "okh, lúchshe ne spráshivay. ya priyékhal v aeropórt, a reys otmeníli iz-za pogódy.",
+        "fr": "Oh, ne m'en parle pas. Je suis arrivé à l'aéroport et le vol a été annulé à cause de la météo."
+      },
+      {
+        "s": 1,
+        "ar": "Како́й у́жас! И что ты де́лал?",
+        "translit": "kakóy úzhas! i chto ty délal?",
+        "fr": "Quelle horreur ! Et qu'est-ce que tu as fait ?"
+      },
+      {
+        "s": 0,
+        "ar": "Пять часо́в сиде́л в аэропорту́, пока́ нам не предложи́ли друго́й рейс на сле́дующий день.",
+        "translit": "pyat' chasóv sidél v aeroportú, poká nam ne predlozhíli drugóy reys na sléduyushchiy den'.",
+        "fr": "Je suis resté cinq heures à l'aéroport jusqu'à ce qu'on nous propose un autre vol pour le lendemain."
+      },
+      {
+        "s": 1,
+        "ar": "А гости́ницу вам да́ли?",
+        "translit": "a gostínitsu vam dáli?",
+        "fr": "Et on vous a donné un hôtel ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да́ли, но она́ была́ так далеко́, что я реши́л верну́ться домо́й.",
+        "translit": "dáli, no oná bylá tak dalekó, chto ya reshíl vernút'sya domóy.",
+        "fr": "Oui, mais il était si loin que j'ai décidé de rentrer chez moi."
+      },
+      {
+        "s": 1,
+        "ar": "Так ты всё равно́ полети́шь за́втра?",
+        "translit": "tak ty vsyo ravnó poletísh' závtra?",
+        "fr": "Alors tu pars quand même demain ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, е́сли сно́ва ничего́ не случи́тся. В э́тот раз возьму́ с собо́й то́лстую кни́гу.",
+        "translit": "da, yésli snóva nichevó ne sluchítsya. v étot raz voz'mú s sobóy tólstuyu knígu.",
+        "fr": "Oui, si rien ne se passe encore. Cette fois je prends un gros livre avec moi."
+      }
+    ]
+  },
+  {
+    "id": "ru-d40",
+    "level": 3,
+    "situation": "Apprendre une langue",
+    "title": "Pourquoi le français ?",
+    "speakers": [
+      "Vera",
+      "Kirill"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Кири́лл, я слы́шала, ты на́чал учи́ть францу́зский?",
+        "translit": "Kiríll, ya slýshala, ty náchal uchít' frantsúzskiy?",
+        "fr": "Kirill, j'ai entendu dire que tu as commencé à apprendre le français ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, уже́ три ме́сяца занима́юсь. Хочу́ пое́хать рабо́тать в Лио́н.",
+        "translit": "da, uzhé tri mésyatsa zanimáyus'. khochú poyékhat' rabótat' v Lión.",
+        "fr": "Oui, ça fait déjà trois mois. Je veux aller travailler à Lyon."
+      },
+      {
+        "s": 0,
+        "ar": "Здо́рово! А тебе́ не тру́дно? Говоря́т, произноше́ние о́чень сло́жное.",
+        "translit": "zdórovo! a tebé ne trúdno? govoryát, proiznoshéniye óchen' slózhnoye.",
+        "fr": "Génial ! Ce n'est pas difficile ? On dit que la prononciation est très compliquée."
+      },
+      {
+        "s": 1,
+        "ar": "Произноше́ние ещё ничего́, а вот глаго́лы — настоя́щий кошма́р.",
+        "translit": "proiznoshéniye yeshchó nichevó, a vot glagóly — nastoyáshchiy koshmár.",
+        "fr": "La prononciation, ça va encore, mais les verbes, c'est un vrai cauchemar."
+      },
+      {
+        "s": 0,
+        "ar": "Как ты занима́ешься? С преподава́телем?",
+        "translit": "kak ty zanimáyesh'sya? s prepodavátelem?",
+        "fr": "Comment tu travailles ? Avec un professeur ?"
+      },
+      {
+        "s": 1,
+        "ar": "Два ра́за в неде́лю с преподава́телем, а ещё смотрю́ сериа́лы с субти́трами.",
+        "translit": "dva ráza v nedélyu s prepodavátelem, a yeshchó smotryú seriály s subtítrami.",
+        "fr": "Deux fois par semaine avec un prof, et en plus je regarde des séries avec sous-titres."
+      },
+      {
+        "s": 0,
+        "ar": "Я то́же давно́ хочу́ нача́ть, но всё вре́мени нет.",
+        "translit": "ya tózhe davnó khochú nachát', no vsyo vrémeni net.",
+        "fr": "Moi aussi, je veux commencer depuis longtemps, mais je n'ai jamais le temps."
+      },
+      {
+        "s": 1,
+        "ar": "Дава́й занима́ться вме́сте! Вдвоём ле́гче не бро́сить.",
+        "translit": "daváy zanimát'sya vméste! vdvoyóm légche ne brósit'.",
+        "fr": "Travaillons ensemble ! À deux, c'est plus facile de ne pas abandonner."
+      },
+      {
+        "s": 0,
+        "ar": "Дава́й! Начнём с понеде́льника.",
+        "translit": "daváy! nachnyóm s ponedél'nika.",
+        "fr": "D'accord ! On commence lundi."
+      }
+    ]
+  },
+  {
+    "id": "ru-d41",
+    "level": 4,
+    "situation": "Entretien d'embauche",
+    "title": "Pourquoi vous ?",
+    "speakers": [
+      "Mikhaïl",
+      "Alina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Расскажи́те, пожа́луйста, почему́ вы реши́ли смени́ть рабо́ту.",
+        "translit": "rasskazhíte, pozháluysta, pochemú vy reshíli smenít' rabótu.",
+        "fr": "Racontez-moi, s'il vous plaît, pourquoi vous avez décidé de changer de travail."
+      },
+      {
+        "s": 1,
+        "ar": "На ны́нешнем ме́сте я рабо́таю уже́ пять лет, и, несмотря́ на то что мне там нра́вится, я чу́вствую, что переста́ла расти́.",
+        "translit": "na nýneshnem méste ya rabótayu uzhé pyat' let, i, nesmotryá na to chto mne tam nrávitsya, ya chúvstvuyu, chto perestála rastí.",
+        "fr": "Je suis à mon poste actuel depuis cinq ans et, bien que je m'y plaise, je sens que j'ai cessé de progresser."
+      },
+      {
+        "s": 0,
+        "ar": "А что вас привлека́ет в на́шей компа́нии?",
+        "translit": "a chto vas privlekáyet v náshey kompánii?",
+        "fr": "Et qu'est-ce qui vous attire dans notre entreprise ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пре́жде всего́ ва́ши прое́кты, свя́занные с эколо́гией. Э́та те́ма для меня́ ли́чно о́чень важна́.",
+        "translit": "prézhde vsevó váshi proyékty, svyázannyye s ekológiyey. éta téma dlya menyá líchno óchen' vazhná.",
+        "fr": "Avant tout vos projets liés à l'écologie. C'est un sujet qui me tient personnellement à cœur."
+      },
+      {
+        "s": 0,
+        "ar": "Каки́е, по-ва́шему, у вас сла́бые сто́роны?",
+        "translit": "kakíye, po-váshemu, u vas slábyye stórony?",
+        "fr": "Quels sont, selon vous, vos points faibles ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пожа́луй, я сли́шком тре́бовательна к себе́. Иногда́ тра́чу на зада́чу бо́льше вре́мени, чем ну́жно, стара́ясь сде́лать всё идеа́льно.",
+        "translit": "pozháluy, ya slíshkom trébovatel'na k sebé. inogdá tráchu na zadáchu ból'she vrémeni, chem núzhno, staráyas' sdélat' vsyo ideál'no.",
+        "fr": "Je suis sans doute trop exigeante envers moi-même. Parfois je passe plus de temps que nécessaire sur une tâche, en essayant de tout faire parfaitement."
+      },
+      {
+        "s": 0,
+        "ar": "Э́то, впро́чем, не са́мый плохо́й недоста́ток. Как вы отно́ситесь к командиро́вкам?",
+        "translit": "éto, vpróchem, ne sámyy plokhóy nedostátok. kak vy otnósites' k komandiróvkam?",
+        "fr": "Ce n'est d'ailleurs pas le pire des défauts. Que pensez-vous des déplacements professionnels ?"
+      },
+      {
+        "s": 1,
+        "ar": "Положи́тельно. Я бы да́же сказа́ла, что люблю́ е́здить: э́то возмо́жность уви́деть, как рабо́тают колле́ги в други́х города́х.",
+        "translit": "polozhítel'no. ya by dázhe skazála, chto lyublyú yézdit': éto vozmózhnost' uvídet', kak rabótayut kollégi v drugíkh gorodákh.",
+        "fr": "Positivement. Je dirais même que j'aime voyager : c'est l'occasion de voir comment travaillent les collègues dans d'autres villes."
+      },
+      {
+        "s": 0,
+        "ar": "Хорошо́. Каки́е у вас ожида́ния по зарпла́те?",
+        "translit": "khoroshó. kakíye u vas ozhidániya po zarpláte?",
+        "fr": "Bien. Quelles sont vos prétentions salariales ?"
+      },
+      {
+        "s": 1,
+        "ar": "Учи́тывая мой о́пыт, я рассчи́тываю на сто два́дцать ты́сяч в ме́сяц.",
+        "translit": "uchítyvaya moy ópyt, ya rasschítyvayu na sto dvádtsat' týsyach v mésyats.",
+        "fr": "Compte tenu de mon expérience, je compte sur cent vingt mille par mois."
+      },
+      {
+        "s": 0,
+        "ar": "Поня́тно. Мы свя́жемся с ва́ми до конца́ неде́ли.",
+        "translit": "ponyátno. my svyázhemsya s vámi do kontsá nedéli.",
+        "fr": "Entendu. Nous vous recontacterons d'ici la fin de la semaine."
+      },
+      {
+        "s": 1,
+        "ar": "Благодарю́ вас за вре́мя. Бу́ду ждать ва́шего отве́та.",
+        "translit": "blagodaryú vas za vrémya. búdu zhdat' váshevo otvéta.",
+        "fr": "Je vous remercie de votre temps. J'attendrai votre réponse."
+      }
+    ]
+  },
+  {
+    "id": "ru-d42",
+    "level": 4,
+    "situation": "Réclamation",
+    "title": "Une chambre avec vue… sur un chantier",
+    "speakers": [
+      "Denis",
+      "Olessia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Извини́те, но я вы́нужден пожа́ловаться. Но́мер, кото́рый вы мне да́ли, совсе́м не соотве́тствует описа́нию на са́йте.",
+        "translit": "izviníte, no ya výnuzhden pozhálovat'sya. nómer, kotóryy vy mne dáli, sovsém ne sootvétstvuyet opisániyu na sáyte.",
+        "fr": "Excusez-moi, mais je suis obligé de me plaindre. La chambre que vous m'avez donnée ne correspond pas du tout à la description du site."
+      },
+      {
+        "s": 1,
+        "ar": "Мне о́чень жаль. Что и́менно вас не устра́ивает?",
+        "translit": "mne óchen' zhal'. chto ímenno vas ne ustráivayet?",
+        "fr": "J'en suis vraiment désolée. Qu'est-ce qui ne vous convient pas exactement ?"
+      },
+      {
+        "s": 0,
+        "ar": "Я брони́ровал но́мер с ви́дом на мо́ре, а окно́ выхо́дит на стро́йку. К тому́ же не рабо́тает кондиционе́р.",
+        "translit": "ya broníroval nómer s vídom na móre, a oknó vykhódit na stróyku. k tomú zhe ne rabótayet konditsionér.",
+        "fr": "J'avais réservé une chambre avec vue sur la mer, et la fenêtre donne sur un chantier. En plus, la climatisation ne marche pas."
+      },
+      {
+        "s": 1,
+        "ar": "Позво́льте, я прове́рю ва́шу бро́нь. Действи́тельно, произошла́ оши́бка.",
+        "translit": "pozvól'te, ya provéryu váshu brón'. deystvítel'no, proizoshlá oshíbka.",
+        "fr": "Permettez-moi de vérifier votre réservation. Effectivement, il y a eu une erreur."
+      },
+      {
+        "s": 0,
+        "ar": "Я рассчи́тывал на споко́йный о́тдых, а вме́сто э́того с семи́ утра́ слу́шаю отбо́йный молото́к.",
+        "translit": "ya rasschítyval na spokóynyy ótdykh, a vmésto étovo s semí utrá slúshayu otbóynyy molotók.",
+        "fr": "Je comptais sur des vacances tranquilles, et au lieu de ça j'entends un marteau-piqueur dès sept heures du matin."
+      },
+      {
+        "s": 1,
+        "ar": "Понима́ю ва́ше возмуще́ние. К сожале́нию, сего́дня свобо́дных номеро́в с ви́дом на мо́ре нет.",
+        "translit": "ponimáyu váshe vozmushchéniye. k sozhaléniyu, sevódnya svobódnykh nomeróv s vídom na móre net.",
+        "fr": "Je comprends votre indignation. Malheureusement, il n'y a aucune chambre libre avec vue sur la mer aujourd'hui."
+      },
+      {
+        "s": 0,
+        "ar": "И что вы предлага́ете?",
+        "translit": "i chto vy predlagáyete?",
+        "fr": "Et que proposez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "За́втра освобожда́ется люкс. Мы пересели́м вас туда́ без допла́ты, а за сего́дняшнюю ночь вернём полови́ну сто́имости.",
+        "translit": "závtra osvobozhdáyetsya lyuks. my pereselím vas tudá bez dopláty, a za sevódnyashnyuyu noch' vernyóm polovínu stóimosti.",
+        "fr": "Demain une suite se libère. Nous vous y installerons sans supplément, et nous vous rembourserons la moitié du prix de cette nuit."
+      },
+      {
+        "s": 0,
+        "ar": "Ну что ж, э́то разу́мное предложе́ние. Но кондиционе́р, пожа́луйста, почини́те уже́ сего́дня.",
+        "translit": "nu chto zh, éto razúmnoye predlozhéniye. no konditsionér, pozháluysta, pochiníte uzhé sevódnya.",
+        "fr": "Bon, c'est une proposition raisonnable. Mais la climatisation, réparez-la dès aujourd'hui, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "Разуме́ется. Те́хник подни́мется к вам в тече́ние получа́са.",
+        "translit": "razuméyetsya. tékhnik podnímetsya k vam v techéniye poluchása.",
+        "fr": "Bien entendu. Le technicien montera chez vous d'ici une demi-heure."
+      }
+    ]
+  },
+  {
+    "id": "ru-d43",
+    "level": 4,
+    "situation": "Négociation",
+    "title": "Une voiture d'occasion",
+    "speakers": [
+      "Boris",
+      "Galina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Маши́на, коне́чно, в хоро́шем состоя́нии, но три́ста ты́сяч — э́то сли́шком мно́го.",
+        "translit": "mashína, konéshno, v khoróshem sostoyánii, no trísta týsyach — éto slíshkom mnógo.",
+        "fr": "La voiture est en bon état, certes, mais trois cent mille, c'est trop."
+      },
+      {
+        "s": 1,
+        "ar": "Почему́ же? За таку́ю це́ну вы не найдёте ничего́ лу́чше.",
+        "translit": "pochemú zhe? za takúyu tsénu vy ne naydyóte nichevó lúchshe.",
+        "fr": "Pourquoi donc ? À ce prix-là vous ne trouverez rien de mieux."
+      },
+      {
+        "s": 0,
+        "ar": "Посмотри́те са́ми: ши́ны изно́шенные, на две́ри цара́пина, а техосмо́тр конча́ется че́рез ме́сяц.",
+        "translit": "posmotríte sámi: shíny iznóshennyye, na dvéri tsarápina, a tekhosmótr koncháyetsya chérez mésyats.",
+        "fr": "Regardez vous-même : les pneus sont usés, il y a une rayure sur la portière, et le contrôle technique expire dans un mois."
+      },
+      {
+        "s": 1,
+        "ar": "Цара́пина ме́лкая, её почти́ не заме́тно. А ши́ны всё равно́ прихо́дится меня́ть ка́ждые не́сколько лет.",
+        "translit": "tsarápina mélkaya, yeyó pochtí ne zamétno. a shíny vsyo ravnó prikhóditsya menyát' kázhdyye néskol'ko let.",
+        "fr": "La rayure est minuscule, on la voit à peine. Et les pneus, de toute façon, il faut les changer tous les quelques ans."
+      },
+      {
+        "s": 0,
+        "ar": "Вот и́менно. Поэ́тому я гото́в предложи́ть две́сти пятьдеся́т.",
+        "translit": "vot ímenno. poétomu ya gotóv predlozhít' dvésti pyat'desyát.",
+        "fr": "Justement. C'est pourquoi je suis prêt à proposer deux cent cinquante."
+      },
+      {
+        "s": 1,
+        "ar": "Две́сти пятьдеся́т — э́то несерьёзно. Две́сти девяно́сто, и ни копе́йкой ме́ньше.",
+        "translit": "dvésti pyat'desyát — éto neser'yózno. dvésti devyanósto, i ni kopéykoy mén'she.",
+        "fr": "Deux cent cinquante, ce n'est pas sérieux. Deux cent quatre-vingt-dix, et pas un kopeck de moins."
+      },
+      {
+        "s": 0,
+        "ar": "Дава́йте встре́тимся посереди́не: две́сти се́мьдесят, и я забира́ю её пря́мо сего́дня.",
+        "translit": "daváyte vstrétimsya poseredíne: dvésti sém'desyat, i ya zabiráyu yeyó pryámo sevódnya.",
+        "fr": "Coupons la poire en deux : deux cent soixante-dix, et je la prends aujourd'hui même."
+      },
+      {
+        "s": 1,
+        "ar": "Е́сли запла́тите нали́чными, то договори́лись.",
+        "translit": "yésli zaplátite nalíchnymi, to dogovorílis'.",
+        "fr": "Si vous payez en liquide, marché conclu."
+      },
+      {
+        "s": 0,
+        "ar": "Нали́чными так нали́чными. По рука́м!",
+        "translit": "nalíchnymi tak nalíchnymi. po rukám!",
+        "fr": "Va pour le liquide. Tope là !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d44",
+    "level": 4,
+    "situation": "Discuter de l'actualité",
+    "title": "La semaine de quatre jours",
+    "speakers": [
+      "Anton",
+      "Ioulia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ты чита́ла, что не́которые компа́нии перехо́дят на четырёхдне́вную рабо́чую неде́лю?",
+        "translit": "ty chitála, chto nékotoryye kompánii perekhódyat na chetyryókhdnévnuyu rabóchuyu nedélyu?",
+        "fr": "Tu as lu que certaines entreprises passent à la semaine de quatre jours ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, и, по-мо́ему, э́то прекра́сная иде́я. Отдохну́вшие сотру́дники рабо́тают эффекти́внее.",
+        "translit": "da, i, po-móyemu, éto prekrásnaya idéya. otdokhnúvshiye sotrúdniki rabótayut effektívneye.",
+        "fr": "Oui, et à mon avis c'est une excellente idée. Des employés reposés travaillent plus efficacement."
+      },
+      {
+        "s": 0,
+        "ar": "Я не уве́рен. Ведь тот же объём рабо́ты придётся де́лать за ме́ньшее вре́мя.",
+        "translit": "ya ne uvéren. ved' tot zhe obyóm rabóty pridyótsya délat' za mén'sheye vrémya.",
+        "fr": "Je n'en suis pas sûr. Car il faudra abattre le même volume de travail en moins de temps."
+      },
+      {
+        "s": 1,
+        "ar": "Иссле́дования пока́зывают, что производи́тельность от э́того не па́дает. Наоборо́т, лю́ди ме́ньше боле́ют.",
+        "translit": "isslédovaniya pokázyvayut, chto proizvodítel'nost' ot étovo ne pádayet. naoborót, lyúdi mén'she boléyut.",
+        "fr": "Les études montrent que la productivité n'en souffre pas. Au contraire, les gens sont moins souvent malades."
+      },
+      {
+        "s": 0,
+        "ar": "Мо́жет быть, в о́фисе. А как быть врача́м и учителя́м? Больни́ца же не мо́жет закры́ться на три дня.",
+        "translit": "mózhet byt', v ófise. a kak byt' vrachám i uchitelyám? bol'nítsa zhe ne mózhet zakrýt'sya na tri dnya.",
+        "fr": "Peut-être dans un bureau. Mais comment faire pour les médecins et les enseignants ? Un hôpital ne peut pas fermer trois jours."
+      },
+      {
+        "s": 1,
+        "ar": "Тут ты прав. Для таки́х профе́ссий пришло́сь бы приду́мать каку́ю-то другу́ю систе́му.",
+        "translit": "tut ty prav. dlya takíkh proféssiy prishlós' by pridúmat' kakúyu-to drugúyu sistému.",
+        "fr": "Là, tu as raison. Pour ces métiers-là, il faudrait inventer un autre système."
+      },
+      {
+        "s": 0,
+        "ar": "Вот и́менно. Поско́льку всё зави́сит от сфе́ры, вводи́ть э́то для всех сра́зу бы́ло бы оши́бкой.",
+        "translit": "vot ímenno. poskól'ku vsyo zavísit ot sféry, vvodít' éto dlya vsekh srázu býlo by oshíbkoy.",
+        "fr": "Justement. Puisque tout dépend du secteur, l'imposer à tout le monde d'un coup serait une erreur."
+      },
+      {
+        "s": 1,
+        "ar": "Согла́сна. Но попро́бовать там, где э́то возмо́жно, по-мо́ему, сто́ит.",
+        "translit": "soglásna. no popróbovat' tam, gde éto vozmózhno, po-móyemu, stóit.",
+        "fr": "D'accord. Mais essayer là où c'est possible, à mon avis, ça vaut le coup."
+      },
+      {
+        "s": 0,
+        "ar": "С э́тим я спо́рить не ста́ну. Я бы и сам не отказа́лся от трёхдне́вных выходны́х!",
+        "translit": "s étim ya spórit' ne stánu. ya by i sam ne otkazálsya ot tryókhdnévnykh vykhodnýkh!",
+        "fr": "Ça, je ne le contesterai pas. Moi-même, je ne dirais pas non à des week-ends de trois jours !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d45",
+    "level": 4,
+    "situation": "Au travail",
+    "title": "Une collègue débordée",
+    "speakers": [
+      "Polina",
+      "Grigori"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Гри́ша, мо́жно тебя́ на мину́ту? Мне ну́жно с тобо́й поговори́ть.",
+        "translit": "Grísha, mózhno tebyá na minútu? mne núzhno s tobóy pogovorít'.",
+        "fr": "Grisha, je peux te voir une minute ? J'ai besoin de te parler."
+      },
+      {
+        "s": 1,
+        "ar": "Коне́чно. Что-то случи́лось? Ты вы́глядишь расстро́енной.",
+        "translit": "konéshno. chto-to sluchílos'? ty výglyadish' rasstróyennoy.",
+        "fr": "Bien sûr. Il s'est passé quelque chose ? Tu as l'air contrariée."
+      },
+      {
+        "s": 0,
+        "ar": "Я бо́льше не справля́юсь. Кро́ме свои́х прое́ктов, я тепе́рь веду́ ещё и прое́кт Ма́рка, уше́дшего в о́тпуск по ухо́ду за ребёнком.",
+        "translit": "ya ból'she ne spravlyáyus'. króme svoíkh proyéktov, ya tepér' vedú yeshchó i proyékt Márka, ushédshevo v ótpusk po ukhódu za rebyónkom.",
+        "fr": "Je ne m'en sors plus. En plus de mes projets, je gère maintenant aussi celui de Mark, parti en congé parental."
+      },
+      {
+        "s": 1,
+        "ar": "Я ду́мал, что вы с Дени́сом договори́лись разде́лить его́ зада́чи.",
+        "translit": "ya dúmal, chto vy s Denísom dogovorílis' razdélit' yevó zadáchi.",
+        "fr": "Je pensais que Denis et toi vous étiez mis d'accord pour vous répartir ses tâches."
+      },
+      {
+        "s": 0,
+        "ar": "Так и бы́ло заду́мано, но в ито́ге всё свали́лось на меня́. Я рабо́таю по двена́дцать часо́в в день.",
+        "translit": "tak i býlo zadúmano, no v itóge vsyo svalílos' na menyá. ya rabótayu po dvenádtsat' chasóv v den'.",
+        "fr": "C'était prévu comme ça, mais finalement tout m'est retombé dessus. Je travaille douze heures par jour."
+      },
+      {
+        "s": 1,
+        "ar": "Почему́ ты ра́ньше не сказа́ла? Мы бы давно́ нашли́ реше́ние.",
+        "translit": "pochemú ty rán'she ne skazála? my by davnó nashlí reshéniye.",
+        "fr": "Pourquoi tu ne l'as pas dit plus tôt ? On aurait trouvé une solution depuis longtemps."
+      },
+      {
+        "s": 0,
+        "ar": "Не хоте́ла, что́бы ду́мали, бу́дто я не уме́ю организова́ть своё вре́мя.",
+        "translit": "ne khotéla, chtóby dúmali, búdto ya ne uméyu organizovát' svoyó vrémya.",
+        "fr": "Je ne voulais pas qu'on pense que je ne sais pas organiser mon temps."
+      },
+      {
+        "s": 1,
+        "ar": "Глу́пости. Перегру́женный сотру́дник — э́то пробле́ма руково́дства, а не твоя́.",
+        "translit": "glúposti. peregrúzhennyy sotrúdnik — éto probléma rukovódstva, a ne tvoyá.",
+        "fr": "Bêtises. Un employé surchargé, c'est le problème de la direction, pas le tien."
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо. И что ты предлага́ешь?",
+        "translit": "spasíbo. i chto ty predlagáyesh'?",
+        "fr": "Merci. Et qu'est-ce que tu proposes ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пусть Дени́с возьмёт на себя́ клие́нтов Ма́рка, а ты сосредото́чишься на свои́х прое́ктах. Сего́дня же с ним поговорю́.",
+        "translit": "pust' Denís voz'myót na sebyá kliyéntov Márka, a ty sosredotóchish'sya na svoíkh proyéktakh. sevódnya zhe s nim pogovoryú.",
+        "fr": "Que Denis prenne en charge les clients de Mark, et toi tu te concentres sur tes projets. Je lui parle dès aujourd'hui."
+      },
+      {
+        "s": 0,
+        "ar": "Ты меня́ про́сто спас!",
+        "translit": "ty menyá prósto spas!",
+        "fr": "Tu me sauves la vie !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d46",
+    "level": 4,
+    "situation": "Culture",
+    "title": "Le livre ou le film ?",
+    "speakers": [
+      "Sofia",
+      "Artiom"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ну как тебе́ экраниза́ция «А́нны Каре́ниной»?",
+        "translit": "nu kak tebé ekranizátsiya «Ánny Karéninoy»?",
+        "fr": "Alors, comment tu as trouvé l'adaptation d'« Anna Karénine » ?"
+      },
+      {
+        "s": 1,
+        "ar": "Че́стно говоря́, я разочаро́ван. Фильм, сня́тый с таки́м бюдже́том, мог бы быть гора́здо глу́бже.",
+        "translit": "chéstno govoryá, ya razocharóvan. fil'm, snyátyy s takím byudzhétom, mog by byt' gorázdo glúbzhe.",
+        "fr": "Franchement, je suis déçu. Un film tourné avec un tel budget aurait pu être bien plus profond."
+      },
+      {
+        "s": 0,
+        "ar": "А мне понра́вилось. Актёры игра́ют блестя́ще, а костю́мы про́сто великоле́пны.",
+        "translit": "a mne ponrávilos'. aktyóry igráyut blestyáshche, a kostyúmy prósto velikolépny.",
+        "fr": "Moi, j'ai aimé. Les acteurs jouent brillamment, et les costumes sont tout simplement magnifiques."
+      },
+      {
+        "s": 1,
+        "ar": "Не спо́рю, сня́то краси́во. Но от рома́на оста́лась одна́ любо́вная исто́рия, а вся филосо́фия Толсто́го пропа́ла.",
+        "translit": "ne spóryu, snyáto krasívo. no ot romána ostálas' odná lyubóvnaya istóriya, a vsya filosófiya Tolstóvo propála.",
+        "fr": "Je ne dis pas le contraire, c'est joliment filmé. Mais du roman il ne reste qu'une histoire d'amour, et toute la philosophie de Tolstoï a disparu."
+      },
+      {
+        "s": 0,
+        "ar": "Но ведь невозмо́жно уложи́ть ты́сячу страни́ц в два часа́. Режиссёру пришло́сь выбира́ть.",
+        "translit": "no ved' nevozmózhno ulozhít' týsyachu straníts v dva chasá. rezhissyóru prishlós' vybirát'.",
+        "fr": "Mais c'est impossible de faire tenir mille pages en deux heures. Le réalisateur a dû faire des choix."
+      },
+      {
+        "s": 1,
+        "ar": "Тогда́ лу́чше бы сня́ли сериа́л. Так хотя́ бы Ле́вин не потеря́лся бы на второ́м пла́не.",
+        "translit": "togdá lúchshe by snyáli seriál. tak khotyá by Lévin ne poteryálsya by na vtoróm pláne.",
+        "fr": "Alors il aurait mieux valu tourner une série. Comme ça, au moins, Levine ne se serait pas perdu au second plan."
+      },
+      {
+        "s": 0,
+        "ar": "Возмо́жно. Впро́чем, е́сли фильм заста́вит кого́-то прочита́ть рома́н, его́ сня́ли не зря.",
+        "translit": "vozmózhno. vpróchem, yésli fil'm zastávit kovó-to prochitát' román, yevó snyáli ne zrya.",
+        "fr": "Possible. Cela dit, si le film pousse quelqu'un à lire le roman, il n'aura pas été tourné pour rien."
+      },
+      {
+        "s": 1,
+        "ar": "С э́тим не поспо́ришь. Я, кста́ти, по́сле фи́льма сам реши́л его́ перечита́ть.",
+        "translit": "s étim ne pospórish'. ya, kstáti, pósle fíl'ma sam reshíl yevó perechitát'.",
+        "fr": "Ça, c'est indiscutable. D'ailleurs, après le film, j'ai moi-même décidé de le relire."
+      },
+      {
+        "s": 0,
+        "ar": "Вот ви́дишь! Зна́чит, фильм всё же уда́лся.",
+        "translit": "vot vídish'! znáchit, fil'm vsyo zhe událsya.",
+        "fr": "Tu vois ! Donc le film est quand même réussi."
+      }
+    ]
+  },
+  {
+    "id": "ru-d47",
+    "level": 4,
+    "situation": "Hypothèses",
+    "title": "Si tu gagnais un million",
+    "speakers": [
+      "Egor",
+      "Alissa"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Али́са, а что бы ты сде́лала, е́сли бы вы́играла миллио́н?",
+        "translit": "Alísa, a chto by ty sdélala, yésli by výigrala millión?",
+        "fr": "Alissa, qu'est-ce que tu ferais si tu gagnais un million ?"
+      },
+      {
+        "s": 1,
+        "ar": "Миллио́н рубле́й и́ли до́лларов? Э́то, зна́ешь ли, огро́мная ра́зница.",
+        "translit": "millión rubléy íli dóllarov? éto, znáyesh' li, ogrómnaya ráznitsa.",
+        "fr": "Un million de roubles ou de dollars ? Ça, vois-tu, ça fait une énorme différence."
+      },
+      {
+        "s": 0,
+        "ar": "Пусть бу́дет до́лларов.",
+        "translit": "pust' búdet dóllarov.",
+        "fr": "Disons de dollars."
+      },
+      {
+        "s": 1,
+        "ar": "Тогда́ я бы сра́зу уво́лилась и уе́хала путеше́ствовать по Ю́жной Аме́рике.",
+        "translit": "togdá ya by srázu uvólilas' i uyékhala puteshéstvovat' po Yúzhnoy Amérike.",
+        "fr": "Alors je démissionnerais tout de suite et je partirais voyager en Amérique du Sud."
+      },
+      {
+        "s": 0,
+        "ar": "А пото́м? Ведь де́ньги ра́но и́ли по́здно ко́нчатся.",
+        "translit": "a potóm? ved' dén'gi ráno íli pózdno kónchatsya.",
+        "fr": "Et après ? L'argent finira bien par s'épuiser tôt ou tard."
+      },
+      {
+        "s": 1,
+        "ar": "Пото́м я бы откры́ла ма́ленькую кни́жную ла́вку с кафе́. Я об э́том мечта́ю с де́тства.",
+        "translit": "potóm ya by otkrýla málen'kuyu knízhnuyu lávku s kafé. ya ob étom mechtáyu s détstva.",
+        "fr": "Après, j'ouvrirais une petite librairie avec un café. J'en rêve depuis l'enfance."
+      },
+      {
+        "s": 0,
+        "ar": "Непло́хо. А я бы, наве́рное, ничего́ не меня́л. Положи́л бы де́ньги в банк и жил бы споко́йно.",
+        "translit": "neplókho. a ya by, navérnoye, nichevó ne menyál. polozhíl by dén'gi v bank i zhil by spokóyno.",
+        "fr": "Pas mal. Moi, je ne changerais sans doute rien. Je mettrais l'argent à la banque et je vivrais tranquillement."
+      },
+      {
+        "s": 1,
+        "ar": "Как ску́чно! Име́я таки́е возмо́жности, сиде́ть сложа́ ру́ки?",
+        "translit": "kak skúchno! iméya takíye vozmózhnosti, sidét' slozhá rúki?",
+        "fr": "Comme c'est ennuyeux ! Avoir de telles possibilités et rester les bras croisés ?"
+      },
+      {
+        "s": 0,
+        "ar": "Почему́ сложа́ ру́ки? Я бы наконе́ц занима́лся тем, что мне интере́сно, а не тем, за что пла́тят.",
+        "translit": "pochemú slozhá rúki? ya by nakonéts zanimálsya tem, chto mne interésno, a ne tem, za chto plátyat.",
+        "fr": "Pourquoi les bras croisés ? Je ferais enfin ce qui m'intéresse, et pas ce pour quoi on me paie."
+      },
+      {
+        "s": 1,
+        "ar": "Хм, в э́том что-то есть. Но для нача́ла на́до бы купи́ть лотере́йный биле́т!",
+        "translit": "khm, v étom chto-to yest'. no dlya nachála nádo by kupít' loteréynyy bilét!",
+        "fr": "Hum, il y a du vrai là-dedans. Mais pour commencer, il faudrait acheter un billet de loterie !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d48",
+    "level": 4,
+    "situation": "Débat de quartier",
+    "title": "Un centre-ville sans voitures",
+    "speakers": [
+      "Stepan",
+      "Larissa"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Вы слы́шали, что мэ́рия хо́чет закры́ть центр го́рода для маши́н?",
+        "translit": "vy slýshali, chto mériya khóchet zakrýt' tsentr góroda dlya mashín?",
+        "fr": "Vous avez entendu que la mairie veut fermer le centre-ville aux voitures ?"
+      },
+      {
+        "s": 1,
+        "ar": "Слы́шала и, призна́юсь, по́лностью за. Во́здух ста́нет чи́ще, а у́лицы — ти́ше.",
+        "translit": "slýshala i, priznáyus', pólnost'yu za. vózdukh stánet chíshche, a úlitsy — tíshe.",
+        "fr": "Oui, et j'avoue que je suis complètement pour. L'air sera plus pur et les rues plus calmes."
+      },
+      {
+        "s": 0,
+        "ar": "А о тех, кто там живёт, вы поду́мали? Мне, наприме́р, придётся оставля́ть маши́ну за три кварта́ла от до́ма.",
+        "translit": "a o tekh, kto tam zhivyót, vy podúmali? mne, naprimér, pridyótsya ostavlyát' mashínu za tri kvartála ot dóma.",
+        "fr": "Et à ceux qui y habitent, vous y avez pensé ? Moi, par exemple, je devrai laisser ma voiture à trois rues de chez moi."
+      },
+      {
+        "s": 1,
+        "ar": "Наско́лько я поняла́, для жи́телей сде́лают исключе́ние.",
+        "translit": "naskól'ko ya ponyalá, dlya zhíteley sdélayut isklyuchéniye.",
+        "fr": "D'après ce que j'ai compris, il y aura une exception pour les habitants."
+      },
+      {
+        "s": 0,
+        "ar": "Обеща́ть-то они́ обеща́ют, но я не ве́рю, что всё пройдёт так гла́дко.",
+        "translit": "obeshchát'-to oní obeshcháyut, no ya ne véryu, chto vsyo proydyót tak gládko.",
+        "fr": "Promettre, ils le promettent, mais je ne crois pas que tout se passera aussi bien."
+      },
+      {
+        "s": 1,
+        "ar": "Понима́ю ва́ши сомне́ния. Одна́ко в Евро́пе подо́бные ме́ры уже́ доказа́ли свою́ эффекти́вность.",
+        "translit": "ponimáyu váshi somnéniya. odnáko v Yevrópe podóbnyye méry uzhé dokazáli svoyú effektívnost'.",
+        "fr": "Je comprends vos doutes. Pourtant, en Europe, des mesures semblables ont déjà prouvé leur efficacité."
+      },
+      {
+        "s": 0,
+        "ar": "Там и обще́ственный тра́нспорт рабо́тает ина́че. А у нас авто́бусы хо́дят раз в полчаса́.",
+        "translit": "tam i obshchéstvennyy tránsport rabótayet ináche. a u nas avtóbusy khódyat raz v polchasá.",
+        "fr": "Là-bas, les transports en commun fonctionnent autrement. Chez nous, les bus passent une fois par demi-heure."
+      },
+      {
+        "s": 1,
+        "ar": "Вот с э́того и ну́жно начина́ть: снача́ла тра́нспорт, пото́м запре́ты.",
+        "translit": "vot s étovo i núzhno nachinát': snachála tránsport, potóm zapréty.",
+        "fr": "C'est justement par là qu'il faut commencer : d'abord les transports, ensuite les interdictions."
+      },
+      {
+        "s": 0,
+        "ar": "Тут я с ва́ми соверше́нно согла́сен. Дава́йте ска́жем об э́том на собра́нии жи́телей.",
+        "translit": "tut ya s vámi sovershénno soglásen. daváyte skázhem ob étom na sobránii zhíteley.",
+        "fr": "Là, je suis tout à fait d'accord avec vous. Disons-le à la réunion des habitants."
+      }
+    ]
+  },
+  {
+    "id": "ru-d49",
+    "level": 4,
+    "situation": "Le télétravail",
+    "title": "Retour au bureau ?",
+    "speakers": [
+      "Oleg",
+      "Kristina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Кристи́на, руково́дство хо́чет, что́бы с сентября́ все рабо́тали в о́фисе пять дней в неде́лю. Что вы об э́том ду́маете?",
+        "translit": "Kristína, rukovódstvo khóchet, chtóby s sentyabryá vse rabótali v ófise pyat' dney v nedélyu. chto vy ob étom dúmayete?",
+        "fr": "Kristina, la direction veut qu'à partir de septembre tout le monde travaille au bureau cinq jours par semaine. Qu'en pensez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "Открове́нно говоря́, я не ви́жу в э́том смы́сла. За два го́да удалёнки на́ша кома́нда ни ра́зу не сорвала́ сро́ки.",
+        "translit": "otkrovénno govoryá, ya ne vízhu v étom smýsla. za dva góda udalyónki násha kománda ni rázu ne sorvalá sróki.",
+        "fr": "Pour être franche, je n'y vois aucun sens. En deux ans de télétravail, notre équipe n'a jamais raté une échéance."
+      },
+      {
+        "s": 0,
+        "ar": "Э́то так. Но руково́дство счита́ет, что без живо́го обще́ния страда́ет корпорати́вный дух.",
+        "translit": "éto tak. no rukovódstvo schitáyet, chto bez zhivóvo obshchéniya stradáyet korporatívnyy dukh.",
+        "fr": "C'est vrai. Mais la direction estime que sans contact en personne, l'esprit d'équipe en pâtit."
+      },
+      {
+        "s": 1,
+        "ar": "Корпорати́вный дух создаётся не от того́, что лю́ди сидя́т в одно́м помеще́нии.",
+        "translit": "korporatívnyy dukh sozdayótsya ne ot tovó, chto lyúdi sidyát v odnóm pomeshchénii.",
+        "fr": "L'esprit d'équipe ne naît pas du simple fait d'être assis dans la même pièce."
+      },
+      {
+        "s": 0,
+        "ar": "Допу́стим. А что бы вы предложи́ли взаме́н?",
+        "translit": "dopústim. a chto by vy predlozhíli vzamén?",
+        "fr": "Admettons. Et que proposeriez-vous à la place ?"
+      },
+      {
+        "s": 1,
+        "ar": "Гибри́дный форма́т: два дня в о́фисе, когда́ прово́дятся встре́чи, а остально́е вре́мя — до́ма.",
+        "translit": "gibrídnyy formát: dva dnya v ófise, kogdá provódyatsya vstréchi, a ostal'nóye vrémya — dóma.",
+        "fr": "Un format hybride : deux jours au bureau, quand ont lieu les réunions, et le reste du temps à la maison."
+      },
+      {
+        "s": 0,
+        "ar": "Звучи́т разу́мно. Но мне ну́жны аргуме́нты, подкреплённые ци́фрами.",
+        "translit": "zvuchít razúmno. no mne núzhny arguménty, podkreplyónnyye tsíframi.",
+        "fr": "Ça paraît raisonnable. Mais il me faut des arguments étayés par des chiffres."
+      },
+      {
+        "s": 1,
+        "ar": "Я подгото́влю отчёт о на́ших результа́тах за про́шлый год, сравни́в их с показа́телями о́фисных кома́нд.",
+        "translit": "ya podgotóvlyu otchót o náshikh rezul'tátakh za próshlyy god, sravnív ikh s pokazátelyami ófisnykh kománd.",
+        "fr": "Je préparerai un rapport sur nos résultats de l'an dernier, en les comparant aux indicateurs des équipes au bureau."
+      },
+      {
+        "s": 0,
+        "ar": "Отли́чно. Принеси́те его́ к пя́тнице, и я переда́м его́ дире́ктору.",
+        "translit": "otlíchno. prinesíte yevó k pyátnitse, i ya peredám yevó diréktoru.",
+        "fr": "Parfait. Apportez-le-moi d'ici vendredi et je le transmettrai au directeur."
+      },
+      {
+        "s": 1,
+        "ar": "Договори́лись. Спаси́бо, что вы́слушали.",
+        "translit": "dogovorílis'. spasíbo, chto výslushali.",
+        "fr": "Entendu. Merci de m'avoir écoutée."
+      }
+    ]
+  },
+  {
+    "id": "ru-d50",
+    "level": 4,
+    "situation": "Éducation",
+    "title": "Un smartphone à dix ans ?",
+    "speakers": [
+      "Vladimir",
+      "Marina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ма́ша опя́ть про́сит смартфо́н. Говори́т, у всех в кла́ссе уже́ есть.",
+        "translit": "Másha opyát' prósit smartfón. govorít, u vsekh v klásse uzhé yest'.",
+        "fr": "Macha demande encore un smartphone. Elle dit que tout le monde dans sa classe en a déjà un."
+      },
+      {
+        "s": 1,
+        "ar": "Ей всего́ де́сять лет. По-мо́ему, ра́но.",
+        "translit": "yey vsevó désyat' let. po-móyemu, ráno.",
+        "fr": "Elle n'a que dix ans. À mon avis, c'est trop tôt."
+      },
+      {
+        "s": 0,
+        "ar": "Я то́же так ду́мал, но не хочу́, что́бы она́ чу́вствовала себя́ бе́лой воро́ной.",
+        "translit": "ya tózhe tak dúmal, no ne khochú, chtóby oná chúvstvovala sebyá béloy vorónoy.",
+        "fr": "Je le pensais aussi, mais je ne veux pas qu'elle se sente comme le mouton noir."
+      },
+      {
+        "s": 1,
+        "ar": "Лу́чше быть бе́лой воро́ной, чем часа́ми сиде́ть в соцсетя́х. Ты же зна́ешь, как э́то влия́ет на дете́й.",
+        "translit": "lúchshe byt' béloy vorónoy, chem chasámi sidét' v sotssetyákh. ty zhe znáyesh', kak éto vliyáyet na detéy.",
+        "fr": "Mieux vaut être le mouton noir que de passer des heures sur les réseaux sociaux. Tu sais bien l'effet que ça a sur les enfants."
+      },
+      {
+        "s": 0,
+        "ar": "Зна́ю. Но мо́жно же установи́ть роди́тельский контро́ль и ограни́чить вре́мя.",
+        "translit": "znáyu. no mózhno zhe ustanovít' rodítel'skiy kontról' i ograníchit' vrémya.",
+        "fr": "Je sais. Mais on peut installer un contrôle parental et limiter le temps d'écran."
+      },
+      {
+        "s": 1,
+        "ar": "Де́ти всегда́ нахо́дят спо́соб обойти́ запре́ты. Да и пробле́ма не то́лько во вре́мени, а в том, что они́ там ви́дят.",
+        "translit": "déti vsegdá nakhódyat spósob oboytí zapréty. da i probléma ne tól'ko vo vrémeni, a v tom, chto oní tam vídyat.",
+        "fr": "Les enfants trouvent toujours un moyen de contourner les interdits. Et puis le problème n'est pas seulement le temps, c'est ce qu'ils y voient."
+      },
+      {
+        "s": 0,
+        "ar": "Тогда́ дава́й компроми́сс: обы́чный телефо́н, что́бы звони́ть, а смартфо́н — когда́ ей испо́лнится двена́дцать.",
+        "translit": "togdá daváy kompromíss: obýchnyy telefón, chtóby zvonít', a smartfón — kogdá yey ispólnitsya dvenádtsat'.",
+        "fr": "Alors faisons un compromis : un téléphone simple pour appeler, et le smartphone quand elle aura douze ans."
+      },
+      {
+        "s": 1,
+        "ar": "Вот э́то разу́мно. Хотя́ бою́сь, она́ бу́дет недово́льна.",
+        "translit": "vot éto razúmno. khotyá boyús', oná búdet nedovól'na.",
+        "fr": "Ça, c'est raisonnable. Même si j'ai peur qu'elle ne soit pas contente."
+      },
+      {
+        "s": 0,
+        "ar": "Ничего́, переживёт. Мы в её во́зрасте и обы́чного телефо́на не име́ли.",
+        "translit": "nichevó, perezhivyót. my v yeyó vózraste i obýchnovo telefóna ne iméli.",
+        "fr": "Tant pis, elle s'en remettra. Nous, à son âge, nous n'avions même pas de téléphone simple."
+      }
+    ]
+  },
+  {
+    "id": "ru-d51",
+    "level": 4,
+    "situation": "Plainte au voisin",
+    "title": "Le bruit de la nuit",
+    "speakers": [
+      "Ilia",
+      "Tamara"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "До́брый ве́чер. Извини́те за беспоко́йство, я ваш сосе́д сни́зу.",
+        "translit": "dóbryy vécher. izviníte za bespokóystvo, ya vash soséd snízu.",
+        "fr": "Bonsoir. Excusez-moi de vous déranger, je suis votre voisin du dessous."
+      },
+      {
+        "s": 1,
+        "ar": "До́брый ве́чер. Что-то случи́лось?",
+        "translit": "dóbryy vécher. chto-to sluchílos'?",
+        "fr": "Bonsoir. Il y a un problème ?"
+      },
+      {
+        "s": 0,
+        "ar": "Понима́ете, уже́ неде́лю у вас по ноча́м что-то стучи́т. Я не высыпа́юсь, а мне ра́но встава́ть.",
+        "translit": "ponimáyete, uzhé nedélyu u vas po nochám chto-to stuchít. ya ne vysypáyus', a mne ráno vstavát'.",
+        "fr": "Voyez-vous, depuis une semaine, quelque chose cogne chez vous la nuit. Je manque de sommeil, et je dois me lever tôt."
+      },
+      {
+        "s": 1,
+        "ar": "Стучи́т? Стра́нно. Мы ложи́мся в оди́ннадцать и ничего́ не слы́шим.",
+        "translit": "stuchít? stránno. my lozhímsya v odínnadtsat' i nichevó ne slýshim.",
+        "fr": "Ça cogne ? Bizarre. Nous nous couchons à onze heures et nous n'entendons rien."
+      },
+      {
+        "s": 0,
+        "ar": "Мо́жет быть, стира́льная маши́на? Звук тако́й, бу́дто кто-то забива́ет гво́зди.",
+        "translit": "mózhet byt', stirál'naya mashína? zvuk takóy, búdto kto-to zabiváyet gvózdi.",
+        "fr": "Peut-être la machine à laver ? On dirait que quelqu'un enfonce des clous."
+      },
+      {
+        "s": 1,
+        "ar": "А ведь пра́вда! Мы ста́вим сти́рку на ночь, поско́льку но́чью электри́чество деше́вле.",
+        "translit": "a ved' právda! my stávim stírku na noch', poskól'ku nóch'yu elektríchestvo deshévle.",
+        "fr": "Mais c'est vrai ! Nous lançons la lessive la nuit, puisque l'électricité est moins chère la nuit."
+      },
+      {
+        "s": 0,
+        "ar": "Тепе́рь всё поня́тно. Не могли́ бы вы включа́ть её хотя́ бы до десяти́?",
+        "translit": "tepér' vsyo ponyátno. ne moglí by vy vklyuchát' yeyó khotyá by do desyatí?",
+        "fr": "Maintenant tout s'explique. Pourriez-vous la lancer au moins avant dix heures ?"
+      },
+      {
+        "s": 1,
+        "ar": "Коне́чно. Прости́те, мы да́же не подозрева́ли, что меша́ем вам.",
+        "translit": "konéshno. prostíte, my dázhe ne podozreváli, chto mesháyem vam.",
+        "fr": "Bien sûr. Pardonnez-nous, nous ne soupçonnions même pas que nous vous dérangions."
+      },
+      {
+        "s": 0,
+        "ar": "Ничего́ стра́шного. Спаси́бо за понима́ние!",
+        "translit": "nichevó stráshnovo. spasíbo za ponimániye!",
+        "fr": "Ce n'est pas grave. Merci de votre compréhension !"
+      },
+      {
+        "s": 1,
+        "ar": "Э́то вам спаси́бо, что пришли́ и сказа́ли, а не ста́ли жа́ловаться в управля́ющую компа́нию.",
+        "translit": "éto vam spasíbo, chto prishlí i skazáli, a ne stáli zhálovat'sya v upravlyáyushchuyu kompániyu.",
+        "fr": "Merci à vous d'être venu nous le dire plutôt que d'aller vous plaindre au syndic."
+      }
+    ]
+  },
+  {
+    "id": "ru-d52",
+    "level": 4,
+    "situation": "Les études",
+    "title": "Étudier à distance",
+    "speakers": [
+      "Fiodor",
+      "Evguenia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Же́ня, ты пра́вда бро́сила университе́т?",
+        "translit": "Zhénya, ty právda brósila universitét?",
+        "fr": "Jénia, c'est vrai que tu as quitté l'université ?"
+      },
+      {
+        "s": 1,
+        "ar": "Не бро́сила, а перевела́сь на зао́чное отделе́ние. Тепе́рь учу́сь онла́йн и рабо́таю.",
+        "translit": "ne brósila, a perevelás' na zaóchnoye otdeléniye. tepér' uchús' onláyn i rabótayu.",
+        "fr": "Je n'ai pas abandonné, je suis passée en cursus à distance. Maintenant j'étudie en ligne et je travaille."
+      },
+      {
+        "s": 0,
+        "ar": "Не жале́ешь? Всё же живо́е обще́ние с преподава́телями ниче́м не заме́нишь.",
+        "translit": "ne zhaléyesh'? vsyo zhe zhivóye obshchéniye s prepodavátelyami nichém ne zaménish'.",
+        "fr": "Tu ne regrettes pas ? Rien ne remplace quand même le contact direct avec les professeurs."
+      },
+      {
+        "s": 1,
+        "ar": "Отча́сти ты прав. Но, рабо́тая по специа́льности, я учу́сь гора́здо бо́льшему, чем на ле́кциях.",
+        "translit": "otchásti ty prav. no, rabótaya po spetsiál'nosti, ya uchús' gorázdo ból'shemu, chem na léktsiyakh.",
+        "fr": "En partie, tu as raison. Mais en travaillant dans mon domaine, j'apprends bien plus qu'en cours."
+      },
+      {
+        "s": 0,
+        "ar": "А дипло́м? Работода́тели ведь смо́трят, како́й вуз ты око́нчила.",
+        "translit": "a diplóm? rabotodáteli ved' smótryat, kakóy vuz ty okónchila.",
+        "fr": "Et le diplôme ? Les employeurs regardent bien de quelle fac tu sors."
+      },
+      {
+        "s": 1,
+        "ar": "Дипло́м бу́дет тако́й же, как у всех. Да и, мне ка́жется, о́пыт сего́дня це́нится вы́ше, чем оце́нки.",
+        "translit": "diplóm búdet takóy zhe, kak u vsekh. da i, mne kázhetsya, ópyt sevódnya tsénitsya výshe, chem otsénki.",
+        "fr": "Le diplôme sera le même que pour tout le monde. Et puis il me semble qu'aujourd'hui l'expérience compte plus que les notes."
+      },
+      {
+        "s": 0,
+        "ar": "Возмо́жно, в твое́й о́бласти. А вот врачо́м и́ли инжене́ром онла́йн не ста́нешь.",
+        "translit": "vozmózhno, v tvoyéy óblasti. a vot vrachóm íli inzhenérom onláyn ne stánesh'.",
+        "fr": "Peut-être dans ton domaine. Mais on ne devient pas médecin ou ingénieur en ligne."
+      },
+      {
+        "s": 1,
+        "ar": "Тут не поспо́ришь. Я и не утвержда́ю, что э́то подхо́дит всем.",
+        "translit": "tut ne pospórish'. ya i ne utverzhdáyu, chto éto podkhódit vsem.",
+        "fr": "Là-dessus, rien à redire. Je ne prétends pas que ça convient à tout le monde."
+      },
+      {
+        "s": 0,
+        "ar": "Ну, гла́вное, что тебе́ нра́вится. Жела́ю уда́чи на се́ссии!",
+        "translit": "nu, glávnoye, chto tebé nrávitsya. zheláyu udáchi na séssii!",
+        "fr": "Bon, l'essentiel, c'est que ça te plaise. Bonne chance pour tes examens !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d53",
+    "level": 5,
+    "situation": "Débat",
+    "title": "Faut-il imposer les classiques ?",
+    "speakers": [
+      "Arkadi",
+      "Veronika"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Позво́льте с ва́ми не согласи́ться. Заставля́я подро́стков чита́ть Достое́вского, мы лишь отбива́ем у них охо́ту к чте́нию.",
+        "translit": "pozvól'te s vámi ne soglasít'sya. zastavlyáya podróstkov chitát' Dostoyévskovo, my lish' otbiváyem u nikh okhótu k chténiyu.",
+        "fr": "Permettez-moi de ne pas être d'accord avec vous. En forçant les adolescents à lire Dostoïevski, on ne fait que les dégoûter de la lecture."
+      },
+      {
+        "s": 1,
+        "ar": "Позво́льте, но е́сли не в шко́ле, то где ещё они́ с ним познако́мятся? Предоста́вленные са́ми себе́, подро́стки вряд ли возьму́т в ру́ки «Бра́тьев Карама́зовых».",
+        "translit": "pozvól'te, no yésli ne v shkóle, to gde yeshchó oní s nim poznakómyatsya? predostávlennyye sámi sebé, podróstki vryad li voz'mút v rúki «Brát'yev Karamázovykh».",
+        "fr": "Permettez, mais si ce n'est pas à l'école, où le découvriront-ils ? Livrés à eux-mêmes, les adolescents n'ouvriront guère « Les Frères Karamazov »."
+      },
+      {
+        "s": 0,
+        "ar": "А заче́м навя́зывать им кни́ги, до кото́рых они́ попро́сту не доросли́? Всему́ своё вре́мя.",
+        "translit": "a zachém navyázyvat' im knígi, do kotórykh oní popróstu ne doroslí? vsemú svoyó vrémya.",
+        "fr": "Mais pourquoi leur imposer des livres pour lesquels ils ne sont tout simplement pas mûrs ? Chaque chose en son temps."
+      },
+      {
+        "s": 1,
+        "ar": "Тут вы, пожа́луй, пра́вы, но лишь отча́сти. Зада́ча шко́лы — не развлека́ть, а дать ключ, кото́рым челове́к, повзросле́в, смо́жет откры́ть э́ти две́ри.",
+        "translit": "tut vy, pozháluy, právy, no lish' otchásti. zadácha shkóly — ne razvlekát', a dat' klyuch, kotórym chelovék, povzroslév, smózhet otkrýt' éti dvéri.",
+        "fr": "Là, vous avez peut-être raison, mais en partie seulement. Le rôle de l'école n'est pas de divertir, mais de donner une clé avec laquelle on pourra, une fois adulte, ouvrir ces portes."
+      },
+      {
+        "s": 0,
+        "ar": "Краси́во ска́зано. Одна́ко на пра́ктике ученики́ чита́ют кра́ткие содержа́ния и забыва́ют их на сле́дующий же день.",
+        "translit": "krasívo skázano. odnáko na práktike uchenikí chitáyut krátkiye soderzhániya i zabyváyut ikh na sléduyushchiy zhe den'.",
+        "fr": "Joliment dit. Pourtant, en pratique, les élèves lisent des résumés et les oublient dès le lendemain."
+      },
+      {
+        "s": 1,
+        "ar": "Так ведь э́то вопро́с не к спи́ску литерату́ры, а к тому́, как её преподаю́т.",
+        "translit": "tak ved' éto voprós ne k spísku literatúry, a k tomú, kak yeyó prepodayút.",
+        "fr": "Mais ça, ce n'est pas la faute de la liste des lectures, c'est celle de la manière dont on les enseigne."
+      },
+      {
+        "s": 0,
+        "ar": "Не могу́ не призна́ть, что в э́том есть рациона́льное зерно́. Хоро́ший учи́тель спосо́бен оживи́ть да́же са́мый тяжелове́сный текст.",
+        "translit": "ne mogú ne priznát', chto v étom yest' ratsionál'noye zernó. khoróshiy uchítel' sposóben ozhivít' dázhe sámyy tyazhelovésnyy tekst.",
+        "fr": "Je dois reconnaître qu'il y a là un fond de vérité. Un bon professeur est capable de rendre vivant même le texte le plus pesant."
+      },
+      {
+        "s": 1,
+        "ar": "Вот и́менно. Сократи́ть програ́мму про́ще всего́, но как бы нам не вы́плеснуть вме́сте с водо́й и ребёнка.",
+        "translit": "vot ímenno. sokratít' prográmmu próshche vsevó, no kak by nam ne výplesnut' vméste s vodóy i rebyónka.",
+        "fr": "Justement. Réduire le programme, c'est le plus simple, mais gare à ne pas jeter le bébé avec l'eau du bain."
+      },
+      {
+        "s": 0,
+        "ar": "Что ж, ду́маю, мы схо́димся в гла́вном: класси́ка нужна́, но подава́ть её на́до уме́ючи.",
+        "translit": "chto zh, dúmayu, my skhódimsya v glávnom: klassíka nuzhná, no podavát' yeyó nádo uméyuchi.",
+        "fr": "Bon, je crois que nous sommes d'accord sur l'essentiel : les classiques sont nécessaires, mais il faut savoir les présenter."
+      }
+    ]
+  },
+  {
+    "id": "ru-d54",
+    "level": 5,
+    "situation": "Persuader",
+    "title": "Sauter le pas",
+    "speakers": [
+      "Gleb",
+      "Kira"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ки́ра, ну ско́лько мо́жно отне́киваться? Прыжо́к с парашю́том — э́то же мечта́ всей твое́й жи́зни!",
+        "translit": "Kíra, nu skól'ko mózhno otnékivat'sya? pryzhók s parashyútom — éto zhe mechtá vsey tvoyéy zhízni!",
+        "fr": "Kira, tu vas te dérober encore longtemps ? Un saut en parachute, c'est le rêve de toute ta vie !"
+      },
+      {
+        "s": 1,
+        "ar": "Мечта́ть не вре́дно. А вот пры́гать с высоты́ четырёх киломе́тров — уже́ совсе́м друга́я исто́рия.",
+        "translit": "mechtát' ne vrédno. a vot prýgat' s vysotý chetyryókh kilométrov — uzhé sovsém drugáya istóriya.",
+        "fr": "Rêver ne fait pas de mal. Mais sauter de quatre kilomètres de haut, c'est une tout autre histoire."
+      },
+      {
+        "s": 0,
+        "ar": "Да не волну́йся ты: прыжо́к в та́ндеме с инстру́ктором, соверши́вшим не одну́ ты́сячу прыжко́в.",
+        "translit": "da ne volnúysya ty: pryzhók v tándeme s instrúktorom, sovershívshim ne odnú týsyachu pryzhkóv.",
+        "fr": "Mais ne t'inquiète pas : c'est un saut en tandem avec un instructeur qui a plusieurs milliers de sauts à son actif."
+      },
+      {
+        "s": 1,
+        "ar": "Утеши́л, не́чего сказа́ть. А е́сли парашю́т не раскро́ется?",
+        "translit": "uteshíl, néchevo skazát'. a yésli parashyút ne raskróyetsya?",
+        "fr": "Quel réconfort, vraiment. Et si le parachute ne s'ouvre pas ?"
+      },
+      {
+        "s": 0,
+        "ar": "Для э́того есть запасно́й. Статисти́чески е́хать в маши́не куда́ опа́снее, а ты ведь ка́ждый день сади́шься за руль.",
+        "translit": "dlya étovo yest' zapasnóy. statistícheski yékhat' v mashíne kudá opásneye, a ty ved' kázhdyy den' sadísh'sya za rul'.",
+        "fr": "Pour ça, il y a le parachute de secours. Statistiquement, la voiture est bien plus dangereuse, et pourtant tu prends le volant tous les jours."
+      },
+      {
+        "s": 1,
+        "ar": "Статисти́ка — вещь кова́рная. Ты мне зу́бы не заговари́вай.",
+        "translit": "statistíka — veshch' kovárnaya. ty mne zúby ne zagovarívay.",
+        "fr": "Les statistiques, c'est traître. N'essaie pas de m'embobiner."
+      },
+      {
+        "s": 0,
+        "ar": "И не ду́мал! Я про́сто напомина́ю, что кто не риску́ет, тот не пьёт шампа́нского.",
+        "translit": "i ne dúmal! ya prósto napomináyu, chto kto ne riskúyet, tot ne p'yot shampánskovo.",
+        "fr": "Loin de moi cette idée ! Je te rappelle simplement que qui ne risque rien n'a rien."
+      },
+      {
+        "s": 1,
+        "ar": "Ох уж э́ти твои́ погово́рки! Ла́дно, пусть бу́дет по-тво́ему, но при одно́м усло́вии.",
+        "translit": "okh uzh éti tvoí pogovórki! ládno, pust' búdet po-tvóyemu, no pri odnóm uslóvii.",
+        "fr": "Ah, toi et tes dictons ! Bon, d'accord, va pour ton idée, mais à une condition."
+      },
+      {
+        "s": 0,
+        "ar": "При како́м?",
+        "translit": "pri kakóm?",
+        "fr": "Laquelle ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пе́рвым пры́гаешь ты, а я посмотрю́, оста́нешься ли ты в живы́х.",
+        "translit": "pérvym prýgayesh' ty, a ya posmotryú, ostánesh'sya li ty v zhivýkh.",
+        "fr": "C'est toi qui sautes le premier, et je regarde si tu restes en vie."
+      },
+      {
+        "s": 0,
+        "ar": "Идёт! Счита́й, что мы договори́лись.",
+        "translit": "idyót! schitáy, chto my dogovorílis'.",
+        "fr": "Ça marche ! Considère que c'est entendu."
+      }
+    ]
+  },
+  {
+    "id": "ru-d55",
+    "level": 5,
+    "situation": "Registre administratif",
+    "title": "Au guichet des passeports",
+    "speakers": [
+      "Konstantin",
+      "Lioudmila"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "До́брый день. Я пода́л докуме́нты на загранпа́спорт ме́сяц наза́д, но до сих пор ничего́ не получи́л.",
+        "translit": "dóbryy den'. ya podál dokuménty na zagranpásport mésyats nazád, no do sikh por nichevó ne poluchíl.",
+        "fr": "Bonjour. J'ai déposé mon dossier de passeport il y a un mois, mais je n'ai toujours rien reçu."
+      },
+      {
+        "s": 1,
+        "ar": "Согла́сно действу́ющему регла́менту, срок оформле́ния составля́ет три́дцать рабо́чих дней с моме́нта пода́чи заявле́ния.",
+        "translit": "soglásno deystvúyushchemu reglámentu, srok oformléniya sostavlyáyet trídtsat' rabóchikh dney s moménta podáchi zayavléniya.",
+        "fr": "Conformément au règlement en vigueur, le délai de traitement est de trente jours ouvrables à compter du dépôt de la demande."
+      },
+      {
+        "s": 0,
+        "ar": "Хорошо́, но мне его́ обеща́ли ещё в про́шлый понеде́льник. А у меня́ командиро́вка че́рез неде́лю.",
+        "translit": "khoroshó, no mne yevó obeshcháli yeshchó v próshlyy ponedél'nik. a u menyá komandiróvka chérez nedélyu.",
+        "fr": "D'accord, mais on me l'avait promis dès lundi dernier. Et je pars en déplacement dans une semaine."
+      },
+      {
+        "s": 1,
+        "ar": "У́стные обеща́ния сотру́дников юриди́ческой си́лы не име́ют. Предъяви́те, пожа́луйста, распи́ску о приёме докуме́нтов.",
+        "translit": "ústnyye obeshchániya sotrúdnikov yuridícheskoy síly ne iméyut. predyavíte, pozháluysta, raspísku o priyóme dokuméntov.",
+        "fr": "Les promesses orales des agents n'ont aucune valeur juridique. Veuillez présenter le récépissé de dépôt de votre dossier."
+      },
+      {
+        "s": 0,
+        "ar": "Вот она́.",
+        "translit": "vot oná.",
+        "fr": "Le voici."
+      },
+      {
+        "s": 1,
+        "ar": "Так. Ва́ше заявле́ние бы́ло возвращено́ на дорабо́тку в связи́ с отсу́тствием фотогра́фии надлежа́щего форма́та.",
+        "translit": "tak. váshe zayavléniye býlo vozvrashchenó na dorabótku v svyazí s otsútstviyem fotográfii nadlezháshchevo formáta.",
+        "fr": "Bien. Votre demande a été renvoyée pour complément en raison de l'absence d'une photographie au format réglementaire."
+      },
+      {
+        "s": 0,
+        "ar": "Как э́то? Почему́ же меня́ никто́ не уве́домил?",
+        "translit": "kak éto? pochemú zhe menyá niktó ne uvédomil?",
+        "fr": "Comment ça ? Pourquoi personne ne m'a prévenu ?"
+      },
+      {
+        "s": 1,
+        "ar": "Уведомле́ние бы́ло напра́влено на электро́нную по́чту, ука́занную в ва́шей анке́те.",
+        "translit": "uvedomléniye býlo naprávleno na elektrónnuyu póchtu, ukázannuyu v váshey ankéte.",
+        "fr": "La notification a été envoyée à l'adresse électronique indiquée dans votre formulaire."
+      },
+      {
+        "s": 0,
+        "ar": "Ну коне́чно, лежи́т в спа́ме, как всегда́. И что тепе́рь, начина́ть всё с нуля́?",
+        "translit": "nu konéshno, lezhít v spáme, kak vsegdá. i chto tepér', nachinát' vsyo s nulyá?",
+        "fr": "Évidemment, elle est dans les spams, comme toujours. Et maintenant, il faut tout reprendre à zéro ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, доста́точно предоста́вить фотогра́фию. Учи́тывая сро́чность, я отме́чу ва́ше де́ло как приорите́тное.",
+        "translit": "net, dostátochno predostávit' fotográfiyu. uchítyvaya sróchnost', ya otméchu váshe délo kak prioritétnoye.",
+        "fr": "Non, il suffit de fournir la photo. Vu l'urgence, je marquerai votre dossier comme prioritaire."
+      },
+      {
+        "s": 0,
+        "ar": "Вот за э́то вам огро́мное челове́ческое спаси́бо!",
+        "translit": "vot za éto vam ogrómnoye chelovécheskoye spasíbo!",
+        "fr": "Pour ça, mille mercis du fond du cœur !"
+      },
+      {
+        "s": 1,
+        "ar": "Не за что. Фотогра́фия три на четы́ре, ма́товая, без уголка́.",
+        "translit": "ne za chto. fotográfiya tri na chetýre, mátovaya, bez ugolká.",
+        "fr": "Il n'y a pas de quoi. Photo trois sur quatre, mate, sans coin blanc."
+      }
+    ]
+  },
+  {
+    "id": "ru-d56",
+    "level": 5,
+    "situation": "Humour",
+    "title": "Le régime de lundi",
+    "speakers": [
+      "Vassili",
+      "Zoïa"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Зо́я, с понеде́льника я сажу́сь на дие́ту. Оконча́тельно и бесповоро́тно.",
+        "translit": "Zóya, s ponedél'nika ya sazhús' na diyétu. okonchátel'no i bespovorótno.",
+        "fr": "Zoïa, à partir de lundi je me mets au régime. Définitivement et irrévocablement."
+      },
+      {
+        "s": 1,
+        "ar": "Ты э́то уже́ в кото́рый раз говори́шь? В деся́тый?",
+        "translit": "ty éto uzhé v kotóryy raz govorísh'? v desyátyy?",
+        "fr": "C'est la combientième fois que tu le dis ? La dixième ?"
+      },
+      {
+        "s": 0,
+        "ar": "Смея́ться над чужи́м го́рем грешно́. На э́тот раз я настро́ен серьёзно: никаки́х пирожко́в, никаки́х бутербро́дов на ночь.",
+        "translit": "smeyát'sya nad chuzhím górem greshnó. na étot raz ya nastróyen ser'yózno: nikakíkh pirozhkóv, nikakíkh buterbródov na noch'.",
+        "fr": "C'est un péché de se moquer du malheur des autres. Cette fois je suis sérieux : plus de petits pâtés, plus de sandwichs le soir."
+      },
+      {
+        "s": 1,
+        "ar": "А торт, кото́рый ты вчера́ спря́тал за кастрю́лями, — э́то, наве́рное, проща́льный у́жин?",
+        "translit": "a tort, kotóryy ty vcherá spryátal za kastryúlyami, — éto, navérnoye, proshchál'nyy úzhin?",
+        "fr": "Et le gâteau que tu as caché hier derrière les casseroles, c'est sans doute le dîner d'adieu ?"
+      },
+      {
+        "s": 0,
+        "ar": "Ты его́ нашла́?! Э́то не торт, а стратеги́ческий запа́с на чёрный день.",
+        "translit": "ty yevó nashlá?! éto ne tort, a strategícheskiy zapás na chórnyy den'.",
+        "fr": "Tu l'as trouvé ?! Ce n'est pas un gâteau, c'est une réserve stratégique pour les jours difficiles."
+      },
+      {
+        "s": 1,
+        "ar": "Чёрный день, как я понима́ю, наступа́ет ка́ждый ве́чер часо́в в оди́ннадцать?",
+        "translit": "chórnyy den', kak ya ponimáyu, nastupáyet kázhdyy vécher chasóv v odínnadtsat'?",
+        "fr": "Et les jours difficiles, si je comprends bien, arrivent tous les soirs vers onze heures ?"
+      },
+      {
+        "s": 0,
+        "ar": "Не́чего иронизи́ровать. Аппети́т прихо́дит во вре́мя еды́, а у меня́ он, похо́же, вообще́ не ухо́дит.",
+        "translit": "néchevo ironizírovat'. appetít prikhódit vo vrémya yedý, a u menyá on, pokhózhe, voobshché ne ukhódit.",
+        "fr": "Inutile d'ironiser. L'appétit vient en mangeant, et chez moi, apparemment, il ne repart jamais."
+      },
+      {
+        "s": 1,
+        "ar": "Ла́дно, дава́й так: торт мы съеди́м вме́сте, сего́дня же, а с понеде́льника — дие́та для обо́их.",
+        "translit": "ládno, daváy tak: tort my syedím vméste, sevódnya zhe, a s ponedél'nika — diyéta dlya obóikh.",
+        "fr": "Bon, faisons comme ça : le gâteau, on le mange ensemble, aujourd'hui même, et à partir de lundi, régime pour tous les deux."
+      },
+      {
+        "s": 0,
+        "ar": "Вот что зна́чит настоя́щая подде́ржка! Ста́вь ча́йник.",
+        "translit": "vot chto znáchit nastoyáshchaya poddérzhka! stáv' cháynik.",
+        "fr": "Voilà ce que j'appelle un vrai soutien ! Mets la bouilloire."
+      },
+      {
+        "s": 1,
+        "ar": "То́лько пото́м не говори́, что э́то я тебя́ соблазни́ла.",
+        "translit": "tól'ko potóm ne govorí, chto éto ya tebyá soblazníla.",
+        "fr": "Seulement, ne viens pas dire après que c'est moi qui t'ai tenté."
+      }
+    ]
+  },
+  {
+    "id": "ru-d57",
+    "level": 5,
+    "situation": "Expressions figées",
+    "title": "Le collègue tire-au-flanc",
+    "speakers": [
+      "Nadejda",
+      "Lev"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ты ви́дел, Ве́ня опя́ть пришёл к обе́ду? Сиди́т, плюёт в потоло́к, а мы за него́ отдува́емся.",
+        "translit": "ty vídel, Vénya opyát' prishól k obédu? sidít, plyuyót v potolók, a my za nevó otduváyemsya.",
+        "fr": "Tu as vu, Vénia est encore arrivé à midi ? Il se tourne les pouces, et c'est nous qui trinquons à sa place."
+      },
+      {
+        "s": 1,
+        "ar": "Ви́дел. Он у нас вообще́ ма́стер втира́ть очки́ нача́льству.",
+        "translit": "vídel. on u nas voobshché máster vtirát' ochkí nachál'stvu.",
+        "fr": "Je l'ai vu. Pour jeter de la poudre aux yeux à la hiérarchie, c'est un champion."
+      },
+      {
+        "s": 0,
+        "ar": "Вот и́менно! На плану́рках соловьём залива́ется, а как до де́ла дохо́дит — его́ и след просты́л.",
+        "translit": "vot ímenno! na planúrkakh solov'yóm zaliváyetsya, a kak do déla dokhódit — yevó i sled prostýl.",
+        "fr": "Exactement ! Aux réunions, il parle d'or, mais quand on passe aux actes, il s'est volatilisé."
+      },
+      {
+        "s": 1,
+        "ar": "Мо́жет, пора́ сказа́ть об э́том нача́льнику? Ско́лько верёвочке ни ви́ться, а коне́ц бу́дет.",
+        "translit": "mózhet, porá skazát' ob étom nachál'niku? skól'ko veryóvochke ni vít'sya, a konéts búdet.",
+        "fr": "Il est peut-être temps d'en parler au chef ? Tôt ou tard, tout finit par se savoir."
+      },
+      {
+        "s": 0,
+        "ar": "Не хочу́ выноси́ть сор из избы́. Да и жа́ловаться — не в мои́х пра́вилах.",
+        "translit": "ne khochú vynosít' sor iz izbý. da i zhálovat'sya — ne v moíkh právilakh.",
+        "fr": "Je ne veux pas laver notre linge sale en public. Et puis me plaindre, ce n'est pas mon genre."
+      },
+      {
+        "s": 1,
+        "ar": "Тогда́ поговори́ с ним сама́, по душа́м. Вдруг у него́ что-то стрясло́сь до́ма?",
+        "translit": "togdá pogovorí s nim samá, po dushám. vdrug u nevó chto-to stryaslós' dóma?",
+        "fr": "Alors parle-lui toi-même, à cœur ouvert. Il a peut-être un souci à la maison ?"
+      },
+      {
+        "s": 0,
+        "ar": "Пожа́луй, ты прав. Не сто́ит руби́ть с плеча́.",
+        "translit": "pozháluy, ty prav. ne stóit rubít' s plechá.",
+        "fr": "Tu as sans doute raison. Inutile d'agir sur un coup de tête."
+      },
+      {
+        "s": 1,
+        "ar": "Вот и́менно. Семь раз отме́рь, оди́н раз отре́жь.",
+        "translit": "vot ímenno. sem' raz otmér', odín raz otrézh'.",
+        "fr": "Exactement. Il faut tourner sept fois sa langue dans sa bouche."
+      },
+      {
+        "s": 0,
+        "ar": "Ла́дно, за́втра же приглашу́ его́ на ко́фе. Но е́сли он и тут ста́нет выкру́чиваться, пусть пеня́ет на себя́.",
+        "translit": "ládno, závtra zhe priglashú yevó na kófe. no yésli on i tut stánet vykrúchivat'sya, pust' penyáyet na sebyá.",
+        "fr": "Bon, dès demain je l'invite à prendre un café. Mais si là aussi il cherche à se défiler, il ne pourra s'en prendre qu'à lui-même."
+      },
+      {
+        "s": 1,
+        "ar": "Справедли́во. Держи́ меня́ в ку́рсе.",
+        "translit": "spravedlívo. derzhí menyá v kúrse.",
+        "fr": "C'est juste. Tiens-moi au courant."
+      }
+    ]
+  },
+  {
+    "id": "ru-d58",
+    "level": 5,
+    "situation": "Proverbes",
+    "title": "Les conseils de grand-mère",
+    "speakers": [
+      "Antonina",
+      "Stanislav"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Ба́бушка, я не зна́ю, что де́лать. Мне предложи́ли рабо́ту в друго́м го́роде, а здесь и друзья́, и вы с де́душкой.",
+        "translit": "bábushka, ya ne znáyu, chto délat'. mne predlozhíli rabótu v drugóm górode, a zdes' i druz'yá, i vy s dédushkoy.",
+        "fr": "Grand-mère, je ne sais pas quoi faire. On m'a proposé un travail dans une autre ville, mais ici il y a mes amis, et grand-père et toi."
+      },
+      {
+        "s": 0,
+        "ar": "Ох, Ста́сик, ры́ба и́щет, где глу́бже, а челове́к — где лу́чше. Не на́до из-за нас упуска́ть свой шанс.",
+        "translit": "okh, Stásik, rýba íshchet, gde glúbzhe, a chelovék — gde lúchshe. ne nádo iz-za nas upuskát' svoy shans.",
+        "fr": "Oh, Stassik, le poisson cherche l'eau profonde, et l'homme, l'endroit où il est le mieux. Ne laisse pas passer ta chance à cause de nous."
+      },
+      {
+        "s": 1,
+        "ar": "Но я ведь там никого́ не зна́ю. Начина́ть всё с чи́стого листа́ стра́шно.",
+        "translit": "no ya ved' tam nikovó ne znáyu. nachinát' vsyo s chístovo listá stráshno.",
+        "fr": "Mais je n'y connais personne. Repartir de zéro, ça fait peur."
+      },
+      {
+        "s": 0,
+        "ar": "Волко́в боя́ться — в лес не ходи́ть. Твой дед в твои́ го́ды уе́хал на се́вер, не име́я за душо́й ни копе́йки, и ни ра́зу не пожале́л.",
+        "translit": "volkóv boyát'sya — v les ne khodít'. tvoy ded v tvoí gódy uyékhal na séver, ne iméya za dushóy ni kopéyki, i ni rázu ne pozhalél.",
+        "fr": "Qui a peur des loups ne va pas au bois. Ton grand-père, à ton âge, est parti dans le Nord sans un sou en poche, et il ne l'a jamais regretté."
+      },
+      {
+        "s": 1,
+        "ar": "Зна́ю, он мне ты́сячу раз расска́зывал. Но тогда́ бы́ли други́е времена́.",
+        "translit": "znáyu, on mne týsyachu raz rasskázyval. no togdá býli drugíye vremená.",
+        "fr": "Je sais, il me l'a raconté mille fois. Mais c'était une autre époque."
+      },
+      {
+        "s": 0,
+        "ar": "Времена́ меня́ются, а лю́ди — нет. Гла́вное — не сиде́ть сложа́ ру́ки, а там, гляди́шь, всё и сло́жится.",
+        "translit": "vremená menyáyutsya, a lyúdi — net. glávnoye — ne sidét' slozhá rúki, a tam, glyadísh', vsyo i slózhitsya.",
+        "fr": "Les époques changent, les gens non. L'essentiel, c'est de ne pas rester les bras croisés, et tu verras, tout finira par s'arranger."
+      },
+      {
+        "s": 1,
+        "ar": "А е́сли не сло́жится?",
+        "translit": "a yésli ne slózhitsya?",
+        "fr": "Et si ça ne s'arrange pas ?"
+      },
+      {
+        "s": 0,
+        "ar": "Тогда́ вернёшься. Дом-то никуда́ не де́нется. Как говори́тся, в гостя́х хорошо́, а до́ма лу́чше.",
+        "translit": "togdá vernyósh'sya. dom-to nikudá ne dénetsya. kak govorítsya, v gostyákh khoroshó, a dóma lúchshe.",
+        "fr": "Alors tu reviendras. La maison ne va pas s'envoler. Comme on dit, on est bien chez les autres, mais on est mieux chez soi."
+      },
+      {
+        "s": 1,
+        "ar": "Спаси́бо, ба́бушка. С тобо́й всё всегда́ стано́вится про́ще.",
+        "translit": "spasíbo, bábushka. s tobóy vsyo vsegdá stanóvitsya próshche.",
+        "fr": "Merci, grand-mère. Avec toi, tout devient toujours plus simple."
+      },
+      {
+        "s": 0,
+        "ar": "Ну то-то же. Иди́, звони́ им, пока́ не переду́мал.",
+        "translit": "nu to-to zhe. idí, zvoní im, poká ne peredúmal.",
+        "fr": "Eh bien voilà. Va, appelle-les avant de changer d'avis."
+      }
+    ]
+  },
+  {
+    "id": "ru-d59",
+    "level": 5,
+    "situation": "Négociation formelle",
+    "title": "Les termes du contrat",
+    "speakers": [
+      "Guennadi",
+      "Elizaveta"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Елизаве́та Андре́евна, мы внима́тельно изучи́ли ва́ше предложе́ние и, не скро́ю, оно́ нас заинтересова́ло.",
+        "translit": "Yelizavéta Andréyevna, my vnimátel'no izuchíli váshe predlozhéniye i, ne skróyu, onó nas zainteresoválo.",
+        "fr": "Elizaveta Andreïevna, nous avons étudié votre proposition avec attention et, je ne vous le cache pas, elle nous a intéressés."
+      },
+      {
+        "s": 1,
+        "ar": "Ра́да э́то слы́шать. Одна́ко, наско́лько я понима́ю, у вас есть ряд замеча́ний?",
+        "translit": "ráda éto slýshat'. odnáko, naskól'ko ya ponimáyu, u vas yest' ryad zamechániy?",
+        "fr": "Ravie de l'entendre. Cependant, si je comprends bien, vous avez un certain nombre de remarques ?"
+      },
+      {
+        "s": 0,
+        "ar": "Соверше́нно ве́рно. Пре́жде всего́ нас смуща́ют сро́ки поста́вки. Шесть ме́сяцев для нас неприе́млемы.",
+        "translit": "sovershénno vérno. prézhde vsevó nas smushcháyut sróki postávki. shest' mésyatsev dlya nas nepriyémlemy.",
+        "fr": "Tout à fait. Avant tout, les délais de livraison nous posent problème. Six mois, c'est inacceptable pour nous."
+      },
+      {
+        "s": 1,
+        "ar": "Понима́ю. Впро́чем, учи́тывая объём зака́за, уско́рить произво́дство без уще́рба для ка́чества весьма́ непро́сто.",
+        "translit": "ponimáyu. vpróchem, uchítyvaya obyóm zakáza, uskórit' proizvódstvo bez ushchérba dlya káchestva ves'má neprósto.",
+        "fr": "Je comprends. Cela dit, compte tenu du volume de la commande, accélérer la production sans nuire à la qualité est loin d'être simple."
+      },
+      {
+        "s": 0,
+        "ar": "А е́сли бы мы согласи́лись на поэта́пную поста́вку? Ска́жем, пе́рвая па́ртия — че́рез два ме́сяца, остально́е — по ме́ре гото́вности.",
+        "translit": "a yésli by my soglasílis' na poetápnuyu postávku? skázhem, pérvaya pártiya — chérez dva mésyatsa, ostal'nóye — po mére gotóvnosti.",
+        "fr": "Et si nous acceptions une livraison échelonnée ? Disons, le premier lot dans deux mois, le reste au fur et à mesure."
+      },
+      {
+        "s": 1,
+        "ar": "Тако́й вариа́нт впо́лне прие́млем. Но в тако́м слу́чае нам пришло́сь бы пересмотре́ть усло́вия опла́ты.",
+        "translit": "takóy variánt vpólne priyémlem. no v takóm slúchaye nam prishlós' by peresmotrét' uslóviya opláty.",
+        "fr": "Une telle option est tout à fait acceptable. Mais dans ce cas, nous devrions revoir les conditions de paiement."
+      },
+      {
+        "s": 0,
+        "ar": "Что и́менно вы име́ете в виду́?",
+        "translit": "chto ímenno vy iméyete v vidú?",
+        "fr": "Qu'entendez-vous exactement par là ?"
+      },
+      {
+        "s": 1,
+        "ar": "Предопла́ту в разме́ре тридцати́ проце́нтов, что́бы покры́ть расхо́ды на сырьё.",
+        "translit": "predoplátu v razmére tridtsatí protséntov, chtóby pokrýt' raskhódy na syr'yó.",
+        "fr": "Un acompte de trente pour cent, pour couvrir les dépenses en matières premières."
+      },
+      {
+        "s": 0,
+        "ar": "Два́дцать проце́нтов — и мы подпи́сываем догово́р хоть за́втра.",
+        "translit": "dvádtsat' protséntov — i my podpísyvayem dogovór khot' závtra.",
+        "fr": "Vingt pour cent, et nous signons le contrat dès demain."
+      },
+      {
+        "s": 1,
+        "ar": "Два́дцать пять — и счита́йте, что мы пришли́ к соглаше́нию.",
+        "translit": "dvádtsat' pyat' — i schitáyte, chto my prishlí k soglashéniyu.",
+        "fr": "Vingt-cinq, et considérez que nous sommes parvenus à un accord."
+      },
+      {
+        "s": 0,
+        "ar": "Вы жёсткий перегово́рщик, Елизаве́та Андре́евна. Что ж, по рука́м.",
+        "translit": "vy zhóstkiy peregovórshchik, Yelizavéta Andréyevna. chto zh, po rukám.",
+        "fr": "Vous êtes une négociatrice coriace, Elizaveta Andreïevna. Eh bien, marché conclu."
+      },
+      {
+        "s": 1,
+        "ar": "Прия́тно име́ть де́ло с разу́мными людьми́. Прое́кт догово́ра вы полу́чите к ве́черу.",
+        "translit": "priyátno imét' délo s razúmnymi lyud'mí. proyékt dogovóra vy polúchite k vécheru.",
+        "fr": "C'est un plaisir de traiter avec des gens raisonnables. Vous recevrez le projet de contrat d'ici ce soir."
+      }
+    ]
+  },
+  {
+    "id": "ru-d60",
+    "level": 5,
+    "situation": "Registre soutenu ou familier",
+    "title": "La lettre de motivation",
+    "speakers": [
+      "Rodion",
+      "Varvara"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ва́ря, глянь, пожа́луйста, моё сопроводи́тельное письмо́. Что-то оно́ мне не нра́вится.",
+        "translit": "Várya, glyan', pozháluysta, moyó soprovodítel'noye pis'mó. chto-to onó mne ne nrávitsya.",
+        "fr": "Varia, jette un œil à ma lettre de motivation, s'il te plaît. Il y a quelque chose qui me gêne."
+      },
+      {
+        "s": 1,
+        "ar": "Так: «Приве́т! Я Родио́н, и я реа́льно кру́то ша́рю в марке́тинге». Ты серьёзно?",
+        "translit": "tak: «privét! ya Rodión, i ya reál'no krúto sháryu v markétinge». ty ser'yózno?",
+        "fr": "Voyons : « Salut ! Moi c'est Rodion, et je gère carrément en marketing. » Tu es sérieux ?"
+      },
+      {
+        "s": 0,
+        "ar": "А что? Зато́ и́скренне. Сейча́с все компа́нии хотя́т, что́бы с ни́ми говори́ли на одно́м языке́.",
+        "translit": "a chto? zató ískrenne. seychás vse kompánii khotyát, chtóby s ními govoríli na odnóm yazyké.",
+        "fr": "Et alors ? Au moins c'est sincère. Aujourd'hui, toutes les entreprises veulent qu'on parle leur langue."
+      },
+      {
+        "s": 1,
+        "ar": "На одно́м языке́ — не зна́чит на жарго́не. Ты пи́шешь в банк, а не дру́гу в мессе́нджер.",
+        "translit": "na odnóm yazyké — ne znáchit na zhargóne. ty píshesh' v bank, a ne drúgu v messéndzher.",
+        "fr": "Parler leur langue, ça ne veut pas dire parler argot. Tu écris à une banque, pas à un pote sur une messagerie."
+      },
+      {
+        "s": 0,
+        "ar": "Ну и как, по-тво́ему, на́до?",
+        "translit": "nu i kak, po-tvóyemu, nádo?",
+        "fr": "Bon, et selon toi, il faut écrire comment ?"
+      },
+      {
+        "s": 1,
+        "ar": "Наприме́р, так: «Уважа́емые господа́! Позво́льте предста́вить ва́шему внима́нию мою́ кандидату́ру на до́лжность специали́ста по марке́тингу».",
+        "translit": "naprimér, tak: «uvazháyemyye gospodá! pozvól'te predstávit' váshemu vnimániyu moyú kandidatúru na dólzhnost' spetsialísta po markétingu».",
+        "fr": "Par exemple comme ça : « Madame, Monsieur, permettez-moi de soumettre à votre attention ma candidature au poste de spécialiste marketing. »"
+      },
+      {
+        "s": 0,
+        "ar": "Звучи́т так, бу́дто мне се́мьдесят лет и я всю жизнь просиде́л штаны́ в министе́рстве.",
+        "translit": "zvuchít tak, búdto mne sém'desyat let i ya vsyu zhizn' prosidél shtaný v ministérstve.",
+        "fr": "On dirait que j'ai soixante-dix ans et que j'ai passé toute ma vie à user mes fonds de culotte dans un ministère."
+      },
+      {
+        "s": 1,
+        "ar": "Лу́чше пересоли́ть с ве́жливостью, чем недосоли́ть. Встреча́ют по оде́жке, а провожа́ют по уму́.",
+        "translit": "lúchshe peresolít' s vézhlivost'yu, chem nedosolít'. vstrecháyut po odézhke, a provozháyut po umú.",
+        "fr": "Mieux vaut trop de politesse que pas assez. On t'accueille d'après l'habit, et on te raccompagne d'après l'esprit."
+      },
+      {
+        "s": 0,
+        "ar": "Ла́дно, убеди́ла. Но «кру́то ша́рю» я оста́влю хотя́ бы в постскри́птуме.",
+        "translit": "ládno, ubedíla. no «krúto sháryu» ya ostávlyu khotyá by v postskríptume.",
+        "fr": "Bon, tu m'as convaincu. Mais « je gère carrément », je le garde au moins pour le post-scriptum."
+      },
+      {
+        "s": 1,
+        "ar": "Че́рез мой труп!",
+        "translit": "chérez moy trup!",
+        "fr": "Il faudra me passer sur le corps !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d61",
+    "level": 5,
+    "situation": "Débat d'idées",
+    "title": "L'art des machines",
+    "speakers": [
+      "Matveï",
+      "Margarita"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Вчера́ на вы́ставке я ви́дел карти́ну, напи́санную нейросе́тью. И, представля́ешь, её купи́ли за басносло́вные де́ньги.",
+        "translit": "vcherá na výstavke ya vídel kartínu, napísannuyu neyrosét'yu. i, predstavlyáyesh', yeyó kupíli za basnoslóvnyye dén'gi.",
+        "fr": "Hier, à une expo, j'ai vu un tableau peint par un réseau de neurones. Et figure-toi, il s'est vendu une somme astronomique."
+      },
+      {
+        "s": 1,
+        "ar": "Ничего́ удиви́тельного: мо́да на всё но́вое. Но называ́ть э́то иску́сством, по-мо́ему, по ме́ньшей ме́ре наи́вно.",
+        "translit": "nichevó udivítel'novo: móda na vsyo nóvoye. no nazyvát' éto iskússtvom, po-móyemu, po mén'shey mére naívno.",
+        "fr": "Rien d'étonnant : c'est la mode de tout ce qui est nouveau. Mais appeler ça de l'art, à mon avis, c'est pour le moins naïf."
+      },
+      {
+        "s": 0,
+        "ar": "Почему́ же? Е́сли карти́на вызыва́ет у зри́теля чу́вства, како́е име́ет значе́ние, кто её со́здал?",
+        "translit": "pochemú zhe? yésli kartína vyzyváyet u zrítelya chúvstva, kakóye iméyet znachéniye, kto yeyó sózdal?",
+        "fr": "Pourquoi donc ? Si un tableau suscite des émotions chez le spectateur, qu'importe qui l'a créé ?"
+      },
+      {
+        "s": 1,
+        "ar": "Огро́мное. Иску́сство — э́то разгово́р челове́ка с челове́ком. Маши́на же, не испыта́вшая ни бо́ли, ни ра́дости, мо́жет лишь имити́ровать.",
+        "translit": "ogrómnoye. iskússtvo — éto razgovór chelovéka s chelovékom. mashína zhe, ne ispytávshaya ni bóli, ni rádosti, mózhet lish' imitírovat'.",
+        "fr": "Ça importe énormément. L'art, c'est une conversation d'un être humain à un autre. Or une machine, qui n'a connu ni la douleur ni la joie, ne peut qu'imiter."
+      },
+      {
+        "s": 0,
+        "ar": "Но ведь и худо́жники всегда́ учи́лись, подража́я мастера́м. Где прохо́дит грани́ца ме́жду подража́нием и тво́рчеством?",
+        "translit": "no ved' i khudózhniki vsegdá uchílis', podrazháya masterám. gde prokhódit granítsa mézhdu podrazhániyem i tvórchestvom?",
+        "fr": "Mais les artistes aussi ont toujours appris en imitant les maîtres. Où passe la frontière entre imitation et création ?"
+      },
+      {
+        "s": 1,
+        "ar": "Вопро́с, коне́чно, на засы́пку. Пожа́луй, в наме́рении: худо́жник хо́чет что-то сказа́ть, а алгори́тм про́сто подбира́ет вероя́тные сочета́ния.",
+        "translit": "voprós, konéshno, na zasýpku. pozháluy, v namérenii: khudózhnik khóchet chto-to skazát', a algorítm prósto podbiráyet veroyátnyye sochetániya.",
+        "fr": "Ça, c'est une colle. Sans doute dans l'intention : l'artiste veut dire quelque chose, alors que l'algorithme se contente d'assembler des combinaisons probables."
+      },
+      {
+        "s": 0,
+        "ar": "А е́сли челове́к испо́льзует нейросе́ть как ки́сть? Ведь за́мысел-то его́.",
+        "translit": "a yésli chelovék ispól'zuyet neyrosét' kak kíst'? ved' zámysel-to yevó.",
+        "fr": "Et si quelqu'un utilise le réseau de neurones comme un pinceau ? L'idée, elle, vient bien de lui."
+      },
+      {
+        "s": 1,
+        "ar": "Вот тут ты меня́ подлови́л. Тогда́ э́то, наве́рное, про́сто но́вый инструме́нт, как когда́-то фотоаппара́т.",
+        "translit": "vot tut ty menyá podlovíl. togdá éto, navérnoye, prósto nóvyy instrumént, kak kogdá-to fotoapparát.",
+        "fr": "Là, tu m'as eue. Dans ce cas, c'est sans doute juste un nouvel outil, comme jadis l'appareil photo."
+      },
+      {
+        "s": 0,
+        "ar": "И́менно! А ведь в своё вре́мя фотогра́фию то́же не счита́ли иску́сством.",
+        "translit": "ímenno! a ved' v svoyó vrémya fotográfiyu tózhe ne schitáli iskússtvom.",
+        "fr": "Exactement ! Et en son temps, la photographie non plus n'était pas considérée comme un art."
+      },
+      {
+        "s": 1,
+        "ar": "Сдаю́сь. Но пове́сить тако́е у себя́ до́ма я бы всё равно́ не согласи́лась.",
+        "translit": "sdayús'. no povésit' takóye u sebyá dóma ya by vsyo ravnó ne soglasílas'.",
+        "fr": "Je me rends. Mais accrocher ça chez moi, je ne l'accepterais quand même pas."
+      }
+    ]
+  },
+  {
+    "id": "ru-d62",
+    "level": 5,
+    "situation": "Rattraper une gaffe",
+    "title": "Une question de trop",
+    "speakers": [
+      "Iouri",
+      "Lidia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ли́да, мне ка́жется, я вчера́ за у́жином сморо́зил глу́пость.",
+        "translit": "Lída, mne kázhetsya, ya vcherá za úzhinom smorózil glúpost'.",
+        "fr": "Lida, j'ai l'impression d'avoir sorti une énormité hier au dîner."
+      },
+      {
+        "s": 1,
+        "ar": "Ты про то, как спроси́л Ната́шу, когда́ она́ ждёт ребёнка?",
+        "translit": "ty pro to, kak sprosíl Natáshu, kogdá oná zhdyot rebyónka?",
+        "fr": "Tu parles du moment où tu as demandé à Natacha pour quand était le bébé ?"
+      },
+      {
+        "s": 0,
+        "ar": "Ну да. Отку́да мне бы́ло знать, что она́ во́все не бере́менна, а про́сто в свобо́дном пла́тье?",
+        "translit": "nu da. otkúda mne býlo znat', chto oná vóvse ne berémenna, a prósto v svobódnom plát'ye?",
+        "fr": "Ben oui. Comment j'aurais pu savoir qu'elle n'est pas du tout enceinte, mais simplement en robe ample ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да уж, попа́л па́льцем в не́бо. Она́ пото́м полве́чера ни с кем не разгова́ривала.",
+        "translit": "da uzh, popál pál'tsem v nébo. oná potóm polvéchera ni s kem ne razgovárivala.",
+        "fr": "Ah ça, tu es tombé complètement à côté. Après, elle n'a parlé à personne pendant la moitié de la soirée."
+      },
+      {
+        "s": 0,
+        "ar": "Я гото́в сквозь зе́млю провали́ться. Как мне тепе́рь загла́дить свою́ вину́?",
+        "translit": "ya gotóv skvoz' zémlyu provalít'sya. kak mne tepér' zagládit' svoyú vinú?",
+        "fr": "J'aimerais rentrer sous terre. Comment me faire pardonner maintenant ?"
+      },
+      {
+        "s": 1,
+        "ar": "Гла́вное — не усугубля́ть. Не начина́й опра́вдываться и объясня́ть, почему́ тебе́ так показа́лось.",
+        "translit": "glávnoye — ne usugublyát'. ne nachináy oprávdyvat'sya i obyasnyát', pochemú tebé tak pokazálos'.",
+        "fr": "L'essentiel, c'est de ne pas aggraver les choses. Ne commence pas à te justifier ni à expliquer pourquoi tu as cru ça."
+      },
+      {
+        "s": 0,
+        "ar": "А что же тогда́? Сде́лать вид, что ничего́ не произошло́?",
+        "translit": "a chto zhe togdá? sdélat' vid, chto nichevó ne proizoshló?",
+        "fr": "Et alors quoi ? Faire comme si de rien n'était ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет. Позвони́ ей, извини́сь про́сто и и́скренне, без ли́шних подро́бностей. И пошли́ буке́т, ей бу́дет прия́тно.",
+        "translit": "net. pozvoní yey, izvinís' prósto i ískrenne, bez líshnikh podróbnostey. i poshlí bukét, yey búdet priyátno.",
+        "fr": "Non. Appelle-la, excuse-toi simplement et sincèrement, sans détails superflus. Et envoie-lui un bouquet, ça lui fera plaisir."
+      },
+      {
+        "s": 0,
+        "ar": "Буке́т? А она́ не поду́мает, что я пыта́юсь её задо́брить?",
+        "translit": "bukét? a oná ne podúmayet, chto ya pytáyus' yeyó zadóbrit'?",
+        "fr": "Un bouquet ? Elle ne va pas croire que j'essaie de l'amadouer ?"
+      },
+      {
+        "s": 1,
+        "ar": "Не выду́мывай. Цветы́ ещё никому́ не повреди́ли. Пови́нишься — и де́ло с концо́м.",
+        "translit": "ne vydúmyvay. tsvetý yeshchó nikomú ne povredíli. povínish'sya — i délo s kontsóm.",
+        "fr": "N'invente pas. Les fleurs n'ont jamais fait de mal à personne. Tu fais amende honorable, et l'affaire est close."
+      },
+      {
+        "s": 0,
+        "ar": "Ла́дно. Но впредь бу́ду держа́ть язы́к за зуба́ми.",
+        "translit": "ládno. no vpred' búdu derzhát' yazýk za zubámi.",
+        "fr": "D'accord. Mais à l'avenir, je tiendrai ma langue."
+      },
+      {
+        "s": 1,
+        "ar": "Вот э́то и есть са́мый це́нный уро́к вчера́шнего ве́чера.",
+        "translit": "vot éto i yest' sámyy tsénnyy urók vcheráshnevo véchera.",
+        "fr": "Ça, c'est la leçon la plus précieuse de la soirée d'hier."
+      }
+    ]
+  },
+  {
+    "id": "ru-d63",
+    "level": 5,
+    "situation": "Patrimoine",
+    "title": "Démolir ou restaurer ?",
+    "speakers": [
+      "Valéri",
+      "Inna"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "И́нна Серге́евна, дава́йте смотре́ть пра́вде в глаза́: дом в авари́йном состоя́нии. Реставра́ция обойдётся доро́же, чем строи́тельство но́вого зда́ния.",
+        "translit": "Ínna Sergéyevna, daváyte smotrét' právde v glazá: dom v avaríynom sostoyánii. restavrátsiya oboydyótsya dorózhe, chem stroítel'stvo nóvovo zdániya.",
+        "fr": "Inna Sergueïevna, regardons la vérité en face : le bâtiment menace ruine. La restauration coûtera plus cher que la construction d'un immeuble neuf."
+      },
+      {
+        "s": 1,
+        "ar": "Вале́рий Па́влович, вопро́с не то́лько в деньга́х. Э́тот особня́к — часть исто́рии го́рода. Его́ стро́или ещё при Екатери́не Второ́й.",
+        "translit": "Valériy Pávlovich, voprós ne tól'ko v den'gákh. étot osobnyák — chast' istórii góroda. yevó stróili yeshchó pri Yekateríne Vtoróy.",
+        "fr": "Valéri Pavlovitch, la question n'est pas seulement l'argent. Cet hôtel particulier fait partie de l'histoire de la ville. Il a été construit dès l'époque de Catherine II."
+      },
+      {
+        "s": 0,
+        "ar": "Я э́то прекра́сно понима́ю. Но исто́рией сыт не бу́дешь, а жильё лю́дям ну́жно сейча́с.",
+        "translit": "ya éto prekrásno ponimáyu. no istóriyey syt ne búdesh', a zhil'yó lyúdyam núzhno seychás.",
+        "fr": "Je le comprends parfaitement. Mais l'histoire ne nourrit pas son homme, et les gens ont besoin de logements maintenant."
+      },
+      {
+        "s": 1,
+        "ar": "Никто́ не спо́рит. Одна́ко, снеся́ особня́к, мы потеря́ем его́ навсегда́. Подо́бные реше́ния необрати́мы.",
+        "translit": "niktó ne spórit. odnáko, snesyá osobnyák, my poteryáyem yevó navsegdá. podóbnyye reshéniya neobratímy.",
+        "fr": "Personne ne dit le contraire. Toutefois, en démolissant cet hôtel particulier, nous le perdrons à jamais. Ce genre de décision est irréversible."
+      },
+      {
+        "s": 0,
+        "ar": "А е́сли сохрани́ть фаса́д, а внутри́ постро́ить совреме́нные кварти́ры? Таки́м о́бразом мы уби́ли бы двух за́йцев.",
+        "translit": "a yésli sokhranít' fasád, a vnutrí postróit' sovreménnyye kvartíry? takím óbrazom my ubíli by dvukh záytsev.",
+        "fr": "Et si l'on gardait la façade en aménageant des appartements modernes à l'intérieur ? Nous ferions ainsi d'une pierre deux coups."
+      },
+      {
+        "s": 1,
+        "ar": "Компроми́сс, безусло́вно, интере́сный. Хотя́ я опаса́юсь, что от исто́рии оста́нется одна́ декора́ция.",
+        "translit": "kompromíss, bezuslóvno, interésnyy. khotyá ya opasáyus', chto ot istórii ostánetsya odná dekorátsiya.",
+        "fr": "Le compromis est certes intéressant. Même si je crains qu'il ne reste de l'histoire qu'un décor."
+      },
+      {
+        "s": 0,
+        "ar": "Лу́чше декора́ция, чем пусты́рь. Впро́чем, оконча́тельное реше́ние за градострои́тельным сове́том.",
+        "translit": "lúchshe dekorátsiya, chem pustýr'. vpróchem, okonchátel'noye reshéniye za gradostroítel'nym sovétom.",
+        "fr": "Mieux vaut un décor qu'un terrain vague. Cela dit, la décision finale revient au conseil d'urbanisme."
+      },
+      {
+        "s": 1,
+        "ar": "В тако́м слу́чае я наста́иваю, что́бы в сове́т пригласи́ли незави́симых экспе́ртов-реставра́торов.",
+        "translit": "v takóm slúchaye ya nastáivayu, chtóby v sovét priglasíli nezavísimykh ekspértov-restavrátorov.",
+        "fr": "Dans ce cas, j'insiste pour que des experts-restaurateurs indépendants soient invités au conseil."
+      },
+      {
+        "s": 0,
+        "ar": "Возража́ть не ста́ну. Пусть реша́ют специали́сты, а не мы с ва́ми в пылу́ спо́ра.",
+        "translit": "vozrazhát' ne stánu. pust' resháyut spetsialísty, a ne my s vámi v pylú spóra.",
+        "fr": "Je ne m'y opposerai pas. Que les spécialistes tranchent, et non pas nous deux dans le feu de la discussion."
+      },
+      {
+        "s": 1,
+        "ar": "Ре́дкий слу́чай, когда́ мы с ва́ми по́лностью согла́сны.",
+        "translit": "rédkiy slúchay, kogdá my s vámi pólnost'yu soglásny.",
+        "fr": "Un cas rare où nous sommes entièrement d'accord, vous et moi."
+      }
+    ]
+  },
+  {
+    "id": "ru-d64",
+    "level": 5,
+    "situation": "Joute amicale",
+    "title": "Chats contre chiens",
+    "speakers": [
+      "Platon",
+      "Ouliana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Призна́йся, Улья́на: ко́шки — существа́ эгоисти́чные. Ко́рмишь её, по́ишь, а она́ смо́трит на тебя́, как на прислу́гу.",
+        "translit": "priznáysya, Ul'yána: kóshki — sushchestvá egoistíchnyye. kórmish' yeyó, póish', a oná smótrit na tebyá, kak na prislúgu.",
+        "fr": "Avoue, Ouliana : les chats sont des êtres égoïstes. Tu la nourris, tu lui donnes à boire, et elle te regarde comme un domestique."
+      },
+      {
+        "s": 1,
+        "ar": "Э́то не эгои́зм, а чу́вство со́бственного досто́инства. Не всем же виля́ть хвосто́м пе́ред ка́ждым встре́чным.",
+        "translit": "éto ne egoízm, a chúvstvo sóbstvennovo dostóinstva. ne vsem zhe vilyát' khvostóm péred kázhdym vstréchnym.",
+        "fr": "Ce n'est pas de l'égoïsme, c'est le sens de sa propre dignité. Tout le monde n'est pas obligé de remuer la queue devant le premier venu."
+      },
+      {
+        "s": 0,
+        "ar": "Зато́ соба́ка тебе́ друг. Она́ за хозя́ином и в ого́нь, и в во́ду.",
+        "translit": "zató sobáka tebé drug. oná za khozyáinom i v ogón', i v vódu.",
+        "fr": "En revanche, un chien, c'est un ami. Il suivrait son maître dans le feu et dans l'eau."
+      },
+      {
+        "s": 1,
+        "ar": "А ещё в лу́жу и в грязь, по́сле чего́ прыга́ет на дива́н. Нет уж, уво́ль.",
+        "translit": "a yeshchó v lúzhu i v gryaz', pósle chevó prygáyet na diván. net uzh, uvól'.",
+        "fr": "Et aussi dans les flaques et la boue, après quoi il saute sur le canapé. Non merci, très peu pour moi."
+      },
+      {
+        "s": 0,
+        "ar": "Ме́лочи жи́зни! Зато́ с соба́кой ты во́лей-нево́лей гуля́ешь два ра́за в день. Э́то же по́льза для здоро́вья.",
+        "translit": "mélochi zhízni! zató s sobákoy ty vóley-nevóley gulyáyesh' dva ráza v den'. éto zhe pól'za dlya zdoróv'ya.",
+        "fr": "Des broutilles ! En revanche, avec un chien, bon gré mal gré, tu te promènes deux fois par jour. C'est bon pour la santé."
+      },
+      {
+        "s": 1,
+        "ar": "В ли́вень, в мете́ль, в шесть утра́? Поко́рно благодарю́. Я уж лу́чше с ко́шкой и кни́жкой на дива́не.",
+        "translit": "v líven', v metél', v shest' utrá? pokórno blagodaryú. ya uzh lúchshe s kóshkoy i knízhkoy na diváne.",
+        "fr": "Sous l'averse, dans la tempête de neige, à six heures du matin ? Très humblement merci. Je préfère encore le canapé, avec ma chatte et un livre."
+      },
+      {
+        "s": 0,
+        "ar": "Вот! Ко́шки пло́дят лентя́ев. Что и тре́бовалось доказа́ть.",
+        "translit": "vot! kóshki plódyat lentyáyev. chto i trébovalos' dokazát'.",
+        "fr": "Voilà ! Les chats fabriquent des paresseux. CQFD."
+      },
+      {
+        "s": 1,
+        "ar": "Лу́чше быть дово́льным лентя́ем, чем заму́ченным соба́чником.",
+        "translit": "lúchshe byt' dovól'nym lentyáyem, chem zamúchennym sobáchnikom.",
+        "fr": "Mieux vaut être un paresseux comblé qu'un maître de chien épuisé."
+      },
+      {
+        "s": 0,
+        "ar": "Ла́дно, о вку́сах не спо́рят. Ничья́?",
+        "translit": "ládno, o vkúsakh ne spóryat. nich'yá?",
+        "fr": "Bon, des goûts et des couleurs, on ne discute pas. Match nul ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ничья́. Но мой кот всё равно́ умне́е твоего́ пса.",
+        "translit": "nich'yá. no moy kot vsyo ravnó umnéye tvoyevó psa.",
+        "fr": "Match nul. Mais mon chat reste plus intelligent que ton chien."
+      },
+      {
+        "s": 0,
+        "ar": "Э́то мы ещё посмо́трим!",
+        "translit": "éto my yeshchó posmótrim!",
+        "fr": "Ça, on verra !"
+      }
+    ]
   }
 ]

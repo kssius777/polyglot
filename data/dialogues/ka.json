@@ -1390,5 +1390,2669 @@
         "fr": "Les herbes, c'est cadeau !"
       }
     ]
+  },
+  {
+    "id": "ka-d29",
+    "level": 3,
+    "situation": "Chez le médecin",
+    "title": "J'ai de la fièvre",
+    "speakers": [
+      "Levan",
+      "Tamar"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ, ექიმო. სამი დღეა, ცუდად ვარ.",
+        "translit": "gamarjobat, ekimo. sami dghea, tsudad var.",
+        "fr": "Bonjour, docteur. Ça fait trois jours que je ne me sens pas bien."
+      },
+      {
+        "s": 1,
+        "ar": "რა გაწუხებთ?",
+        "translit": "ra gats'ukhebt?",
+        "fr": "Qu'est-ce qui ne va pas ?"
+      },
+      {
+        "s": 0,
+        "ar": "თავი მტკივა და სიცხე მაქვს. გუშინ ღამით საერთოდ არ მეძინა.",
+        "translit": "tavi mt'k'iva da sitskhe makvs. gushin ghamit saertod ar medzina.",
+        "fr": "J'ai mal à la tête et de la fièvre. Cette nuit, je n'ai pas dormi du tout."
+      },
+      {
+        "s": 1,
+        "ar": "ხველა თუ გაქვთ?",
+        "translit": "khvela tu gakvt?",
+        "fr": "Vous toussez ?"
+      },
+      {
+        "s": 0,
+        "ar": "დიახ, განსაკუთრებით დილით.",
+        "translit": "diakh, gansak'utrebit dilit.",
+        "fr": "Oui, surtout le matin."
+      },
+      {
+        "s": 1,
+        "ar": "მოდით, გაგსინჯავთ. ღრმად ჩაისუნთქეთ.",
+        "translit": "modit, gagsinjavt. ghrmad chaisuntket.",
+        "fr": "Venez, je vais vous examiner. Respirez profondément."
+      },
+      {
+        "s": 0,
+        "ar": "სერიოზული ხომ არაფერია?",
+        "translit": "seriozuli khom araperia?",
+        "fr": "Ce n'est rien de grave, j'espère ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა, უბრალოდ გრიპია. წამალს გამოგიწერთ.",
+        "translit": "ara, ubralod grip'ia. ts'amals gamogits'ert.",
+        "fr": "Non, c'est juste la grippe. Je vais vous prescrire un médicament."
+      },
+      {
+        "s": 0,
+        "ar": "სამსახურში წასვლა შემიძლია?",
+        "translit": "samsakhurshi ts'asvla shemidzlia?",
+        "fr": "Je peux aller au travail ?"
+      },
+      {
+        "s": 1,
+        "ar": "სჯობს, რამდენიმე დღე სახლში დარჩეთ და ბევრი სითხე დალიოთ.",
+        "translit": "sjobs, ramdenime dghe sakhlshi darchet da bevri sitkhe daliot.",
+        "fr": "Il vaut mieux que vous restiez quelques jours à la maison et que vous buviez beaucoup."
+      }
+    ]
+  },
+  {
+    "id": "ka-d30",
+    "level": 3,
+    "situation": "Louer un appartement",
+    "title": "L'appartement est encore libre ?",
+    "speakers": [
+      "Nino",
+      "Davit"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ, ბინის თაობაზე გირეკავთ. ჯერ კიდევ თავისუფალია?",
+        "translit": "gamarjobat, binis taobaze girek'avt. jer k'idev tavisupalia?",
+        "fr": "Bonjour, je vous appelle au sujet de l'appartement. Il est encore libre ?"
+      },
+      {
+        "s": 1,
+        "ar": "დიახ, თავისუფალია. ორი ოთახია, მეოთხე სართულზე.",
+        "translit": "diakh, tavisupalia. ori otakhia, meotkhe sartulze.",
+        "fr": "Oui, il est libre. Deux pièces, au quatrième étage."
+      },
+      {
+        "s": 0,
+        "ar": "შენობას ლიფტი აქვს?",
+        "translit": "shenobas lipt'i akvs?",
+        "fr": "L'immeuble a un ascenseur ?"
+      },
+      {
+        "s": 1,
+        "ar": "აქვს, ახლახან გაარემონტეს.",
+        "translit": "akvs, akhlakhan gaaremont'es.",
+        "fr": "Oui, il a été rénové récemment."
+      },
+      {
+        "s": 0,
+        "ar": "თვეში რა ღირს?",
+        "translit": "tveshi ra ghirs?",
+        "fr": "C'est combien par mois ?"
+      },
+      {
+        "s": 1,
+        "ar": "ხუთასი ლარი, კომუნალური გადასახადების გარეშე.",
+        "translit": "khutasi lari, k'omunaluri gadasakhadebis gareshe.",
+        "fr": "Cinq cents laris, charges non comprises."
+      },
+      {
+        "s": 0,
+        "ar": "შინაური ცხოველები შეიძლება? კატა მყავს.",
+        "translit": "shinauri tskhovelebi sheidzleba? k'at'a mq'avs.",
+        "fr": "Les animaux sont acceptés ? J'ai un chat."
+      },
+      {
+        "s": 1,
+        "ar": "კატა არაუშავს, ოღონდ ერთი თვის ქირა წინასწარ უნდა გადამიხადოთ.",
+        "translit": "k'at'a araushavs, oghond erti tvis kira ts'inasts'ar unda gadamikhadot.",
+        "fr": "Un chat, ça va, mais vous devrez me payer un mois de loyer d'avance."
+      },
+      {
+        "s": 0,
+        "ar": "გასაგებია. ხვალ ნახვა შეიძლება?",
+        "translit": "gasagebia. khval nakhva sheidzleba?",
+        "fr": "Compris. Je peux visiter demain ?"
+      },
+      {
+        "s": 1,
+        "ar": "რა თქმა უნდა. ექვს საათზე მოდით.",
+        "translit": "ra tkma unda. ekvs saatze modit.",
+        "fr": "Bien sûr. Venez à six heures."
+      }
+    ]
+  },
+  {
+    "id": "ka-d31",
+    "level": 3,
+    "situation": "À la banque",
+    "title": "Ouvrir un compte",
+    "speakers": [
+      "Giorgi",
+      "Mariam"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ, ანგარიშის გახსნა მინდა.",
+        "translit": "gamarjobat, angarishis gakhsna minda.",
+        "fr": "Bonjour, je voudrais ouvrir un compte."
+      },
+      {
+        "s": 1,
+        "ar": "პირადობის მოწმობა ან პასპორტი თან გაქვთ?",
+        "translit": "p'iradobis mots'moba an p'asp'ort'i tan gakvt?",
+        "fr": "Vous avez votre carte d'identité ou votre passeport sur vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "დიახ, აი, ჩემი პასპორტი.",
+        "translit": "diakh, ai, chemi p'asp'ort'i.",
+        "fr": "Oui, voici mon passeport."
+      },
+      {
+        "s": 1,
+        "ar": "ბარათიც გინდათ?",
+        "translit": "baratits gindat?",
+        "fr": "Vous voulez aussi une carte ?"
+      },
+      {
+        "s": 0,
+        "ar": "კი, და ინტერნეტბანკიც, თუ შეიძლება.",
+        "translit": "k'i, da int'ernet'bank'its, tu sheidzleba.",
+        "fr": "Oui, et la banque en ligne aussi, si possible."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი. ეს ფორმა შეავსეთ და აქ მოაწერეთ ხელი.",
+        "translit": "k'argi. es porma sheavset da ak moats'eret kheli.",
+        "fr": "Bien. Remplissez ce formulaire et signez ici."
+      },
+      {
+        "s": 0,
+        "ar": "ბარათს როდის მივიღებ?",
+        "translit": "barats rodis mivigheb?",
+        "fr": "Quand est-ce que je recevrai la carte ?"
+      },
+      {
+        "s": 1,
+        "ar": "ხუთ სამუშაო დღეში. როცა მზად იქნება, შეტყობინებას მიიღებთ.",
+        "translit": "khut samushao dgheshi. rotsa mzad ikneba, shet'q'obinebas miighebt.",
+        "fr": "Dans cinq jours ouvrables. Quand elle sera prête, vous recevrez un message."
+      },
+      {
+        "s": 0,
+        "ar": "მომსახურება რა ღირს?",
+        "translit": "momsakhureba ra ghirs?",
+        "fr": "Combien coûte le service ?"
+      },
+      {
+        "s": 1,
+        "ar": "პირველი წელი უფასოა.",
+        "translit": "p'irveli ts'eli upasoa.",
+        "fr": "La première année est gratuite."
+      }
+    ]
+  },
+  {
+    "id": "ka-d32",
+    "level": 3,
+    "situation": "À la poste",
+    "title": "Envoyer un colis",
+    "speakers": [
+      "Eka",
+      "Sandro"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "საფრანგეთში ამანათის გაგზავნა მინდა.",
+        "translit": "saprangetshi amanatis gagzavna minda.",
+        "fr": "Je voudrais envoyer un colis en France."
+      },
+      {
+        "s": 1,
+        "ar": "შიგნით რა არის?",
+        "translit": "shignit ra aris?",
+        "fr": "Qu'est-ce qu'il y a dedans ?"
+      },
+      {
+        "s": 0,
+        "ar": "წიგნები და ცოტა ჩურჩხელა. მეგობრისთვის საჩუქარია.",
+        "translit": "ts'ignebi da tsot'a churchkhela. megobristvis sachukaria.",
+        "fr": "Des livres et quelques tchourtchkhelas. C'est un cadeau pour une amie."
+      },
+      {
+        "s": 1,
+        "ar": "მოდით, ავწონოთ. ორი კილოა.",
+        "translit": "modit, avts'onot. ori k'iloa.",
+        "fr": "Voyons, pesons-le. Deux kilos."
+      },
+      {
+        "s": 0,
+        "ar": "რამდენ ხანში ჩავა?",
+        "translit": "ramden khanshi chava?",
+        "fr": "Il arrivera en combien de temps ?"
+      },
+      {
+        "s": 1,
+        "ar": "ჩვეულებრივი ფოსტით — ორ კვირაში, ექსპრესით — ოთხ დღეში.",
+        "translit": "chveulebrivi post'it — or k'virashi, eksp'resit — otkh dgheshi.",
+        "fr": "Par courrier normal, en deux semaines ; en express, en quatre jours."
+      },
+      {
+        "s": 0,
+        "ar": "ექსპრესი რა ღირს?",
+        "translit": "eksp'resi ra ghirs?",
+        "fr": "Combien coûte l'express ?"
+      },
+      {
+        "s": 1,
+        "ar": "ოთხმოცი ლარი. ჩვეულებრივი — ოცდახუთი.",
+        "translit": "otkhmotsi lari. chveulebrivi — otsdakhuti.",
+        "fr": "Quatre-vingts laris. Le normal, vingt-cinq."
+      },
+      {
+        "s": 0,
+        "ar": "არ მეჩქარება, ჩვეულებრივით გავგზავნი.",
+        "translit": "ar mechkareba, chveulebrivit gavgzavni.",
+        "fr": "Je ne suis pas pressée, je l'enverrai en normal."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი. მისამართი აქ დაწერეთ, ლათინური ასოებით.",
+        "translit": "k'argi. misamarti ak dats'eret, latinuri asoebit.",
+        "fr": "Bien. Écrivez l'adresse ici, en lettres latines."
+      }
+    ]
+  },
+  {
+    "id": "ka-d33",
+    "level": 3,
+    "situation": "Raconter sa journée",
+    "title": "Où étais-tu hier ?",
+    "speakers": [
+      "Luka",
+      "Ana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გუშინ სად იყავი? მთელი დღე გირეკავდი.",
+        "translit": "gushin sad iq'avi? mteli dghe girek'avdi.",
+        "fr": "Tu étais où hier ? Je t'ai appelée toute la journée."
+      },
+      {
+        "s": 1,
+        "ar": "ოჰ, ტელეფონი სახლში დამრჩა. მეგობრებთან ერთად მცხეთაში წავედით.",
+        "translit": "oh, t'eleponi sakhlshi damrcha. megobrebtan ertad mtskhetashi ts'avedit.",
+        "fr": "Oh, j'avais oublié mon téléphone à la maison. On est allés à Mtskheta avec des amis."
+      },
+      {
+        "s": 0,
+        "ar": "მართლა? რა ნახეთ?",
+        "translit": "martla? ra nakhet?",
+        "fr": "Vraiment ? Qu'est-ce que vous avez vu ?"
+      },
+      {
+        "s": 1,
+        "ar": "ჯერ სვეტიცხოველში შევედით, მერე ჯვრის მონასტერზე ავედით.",
+        "translit": "jer svet'itskhovelshi shevedit, mere jvris monast'erze avedit.",
+        "fr": "D'abord on est entrés à Svétitskhovéli, puis on est montés au monastère de Djvari."
+      },
+      {
+        "s": 0,
+        "ar": "ფეხით ახვედით?",
+        "translit": "pekhit akhvedit?",
+        "fr": "Vous êtes montés à pied ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა, ტაქსით. მაგრამ ხედი საოცარი იყო, ორივე მდინარე ჩანდა.",
+        "translit": "ara, t'aksit. magram khedi saotsari iq'o, orive mdinare chanda.",
+        "fr": "Non, en taxi. Mais la vue était incroyable, on voyait les deux rivières."
+      },
+      {
+        "s": 0,
+        "ar": "სადილი სად ჭამეთ?",
+        "translit": "sadili sad ch'amet?",
+        "fr": "Vous avez déjeuné où ?"
+      },
+      {
+        "s": 1,
+        "ar": "მდინარის პირას, პატარა რესტორანში. ისეთი ხინკალი ვჭამე, ვერასდროს დავივიწყებ!",
+        "translit": "mdinaris p'iras, p'at'ara rest'oranshi. iseti khink'ali vch'ame, verasdros davivits'q'eb!",
+        "fr": "Au bord de la rivière, dans un petit restaurant. J'ai mangé des khinkalis inoubliables !"
+      },
+      {
+        "s": 0,
+        "ar": "შემშურდა! შემდეგ ჯერზე მეც წამიყვანეთ.",
+        "translit": "shemshurda! shemdeg jerze mets ts'amiq'vanet.",
+        "fr": "Je suis jaloux ! La prochaine fois, emmenez-moi aussi."
+      },
+      {
+        "s": 1,
+        "ar": "აუცილებლად.",
+        "translit": "autsileblad.",
+        "fr": "Sans faute."
+      }
+    ]
+  },
+  {
+    "id": "ka-d34",
+    "level": 3,
+    "situation": "Projets de vacances",
+    "title": "Cet été, on part où ?",
+    "speakers": [
+      "Irakli",
+      "Salome"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ზაფხულში რას აპირებ?",
+        "translit": "zapkhulshi ras ap'ireb?",
+        "fr": "Qu'est-ce que tu comptes faire cet été ?"
+      },
+      {
+        "s": 1,
+        "ar": "ზღვაზე წასვლა მინდა, ბათუმში. შენ?",
+        "translit": "zghvaze ts'asvla minda, batumshi. shen?",
+        "fr": "Je veux aller à la mer, à Batoumi. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "მე სვანეთში ვაპირებ წასვლას, მთებში ლაშქრობა მინდა.",
+        "translit": "me svanetshi vap'ireb ts'asvlas, mtebshi lashkroba minda.",
+        "fr": "Moi, je compte aller en Svanétie, je veux faire de la randonnée en montagne."
+      },
+      {
+        "s": 1,
+        "ar": "ძალიან მაგარია! მარტო წახვალ?",
+        "translit": "dzalian magaria! mart'o ts'akhval?",
+        "fr": "Génial ! Tu y vas seul ?"
+      },
+      {
+        "s": 0,
+        "ar": "ჯერ არ ვიცი. ჩემი ძმა შეიძლება გამომყვეს.",
+        "translit": "jer ar vitsi. chemi dzma sheidzleba gamomq'ves.",
+        "fr": "Je ne sais pas encore. Mon frère viendra peut-être avec moi."
+      },
+      {
+        "s": 1,
+        "ar": "მეც ძალიან მინდა სვანეთის ნახვა. იქნებ მეც წამოვიდე?",
+        "translit": "mets dzalian minda svanetis nakhva. ikneb mets ts'amovide?",
+        "fr": "Moi aussi, j'aimerais beaucoup voir la Svanétie. Je pourrais peut-être venir aussi ?"
+      },
+      {
+        "s": 0,
+        "ar": "რა თქმა უნდა! რაც მეტი ვიქნებით, მით უკეთესი.",
+        "translit": "ra tkma unda! rats met'i viknebit, mit uk'etesi.",
+        "fr": "Bien sûr ! Plus on est nombreux, mieux c'est."
+      },
+      {
+        "s": 1,
+        "ar": "მაშინ ივლისის ბოლოს დავგეგმოთ, ბათუმში აგვისტოში წავალ.",
+        "translit": "mashin ivlisis bolos davgegmot, batumshi agvist'oshi ts'aval.",
+        "fr": "Alors prévoyons ça pour fin juillet, j'irai à Batoumi en août."
+      },
+      {
+        "s": 0,
+        "ar": "შესანიშნავია. ბილეთებს მე ვიყიდი.",
+        "translit": "shesanishnavia. biletebs me viq'idi.",
+        "fr": "Parfait. C'est moi qui achèterai les billets."
+      }
+    ]
+  },
+  {
+    "id": "ka-d35",
+    "level": 3,
+    "situation": "Objet perdu",
+    "title": "Mon parapluie oublié",
+    "speakers": [
+      "Mariam",
+      "Nika"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, გუშინ საღამოს აქ ვიყავი და ქოლგა დამრჩა.",
+        "translit": "uk'atsravad, gushin saghamos ak viq'avi da kolga damrcha.",
+        "fr": "Excusez-moi, j'étais ici hier soir et j'ai oublié mon parapluie."
+      },
+      {
+        "s": 1,
+        "ar": "როგორი ქოლგა იყო?",
+        "translit": "rogori kolga iq'o?",
+        "fr": "Il était comment, ce parapluie ?"
+      },
+      {
+        "s": 0,
+        "ar": "შავი, გრძელი, ხის სახელურით.",
+        "translit": "shavi, grdzeli, khis sakhelurit.",
+        "fr": "Noir, long, avec un manche en bois."
+      },
+      {
+        "s": 1,
+        "ar": "ფანჯარასთან იჯექით?",
+        "translit": "panjarastan ijekit?",
+        "fr": "Vous étiez assise près de la fenêtre ?"
+      },
+      {
+        "s": 0,
+        "ar": "დიახ, კუთხის მაგიდასთან.",
+        "translit": "diakh, k'utkhis magidastan.",
+        "fr": "Oui, à la table du coin."
+      },
+      {
+        "s": 1,
+        "ar": "მოიცადეთ, შევამოწმებ. დილით რამდენიმე ნივთი ვიპოვეთ.",
+        "translit": "moitsadet, shevamots'meb. dilit ramdenime nivti vip'ovet.",
+        "fr": "Attendez, je vais vérifier. Ce matin, on a trouvé quelques objets."
+      },
+      {
+        "s": 0,
+        "ar": "დიდი მადლობა. ჩემთვის ძალიან ძვირფასია — ბებიაჩემის ნაჩუქარია.",
+        "translit": "didi madloba. chemtvis dzalian dzvirpasia — bebiachemis nachukaria.",
+        "fr": "Merci beaucoup. Il compte beaucoup pour moi — c'est un cadeau de ma grand-mère."
+      },
+      {
+        "s": 1,
+        "ar": "ეს ხომ არ არის?",
+        "translit": "es khom ar aris?",
+        "fr": "Ce ne serait pas celui-ci ?"
+      },
+      {
+        "s": 0,
+        "ar": "ის არის! როგორ გამიხარდა!",
+        "translit": "is aris! rogor gamikharda!",
+        "fr": "C'est lui ! Je suis tellement contente !"
+      },
+      {
+        "s": 1,
+        "ar": "შემდეგ ჯერზე ფრთხილად იყავით.",
+        "translit": "shemdeg jerze prtkhilad iq'avit.",
+        "fr": "Faites attention la prochaine fois."
+      }
+    ]
+  },
+  {
+    "id": "ka-d36",
+    "level": 3,
+    "situation": "Une réparation",
+    "title": "Le robinet fuit",
+    "speakers": [
+      "Natia",
+      "Zurab"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ, ხელოსანს ვეძებ. სამზარეულოში ონკანი გაფუჭდა.",
+        "translit": "gamarjobat, khelosans vedzeb. samzareuloshi onk'ani gapuch'da.",
+        "fr": "Bonjour, je cherche un réparateur. Le robinet de la cuisine est cassé."
+      },
+      {
+        "s": 1,
+        "ar": "ზუსტად რა მოხდა?",
+        "translit": "zust'ad ra mokhda?",
+        "fr": "Que s'est-il passé exactement ?"
+      },
+      {
+        "s": 0,
+        "ar": "წყალი გამუდმებით წვეთავს, ღამით კი იატაკზეც დაიღვარა.",
+        "translit": "ts'q'ali gamudmebit ts'vetavs, ghamit k'i iat'ak'zets daighvara.",
+        "fr": "L'eau goutte sans arrêt, et cette nuit elle a même coulé par terre."
+      },
+      {
+        "s": 1,
+        "ar": "ალბათ შუასადებია გამოსაცვლელი. დღეს ვერ მოვალ, ხვალ დილით შემიძლია.",
+        "translit": "albat shuasadebia gamosatsvleli. dghes ver moval, khval dilit shemidzlia.",
+        "fr": "C'est sûrement le joint qu'il faut changer. Je ne peux pas venir aujourd'hui, mais demain matin, oui."
+      },
+      {
+        "s": 0,
+        "ar": "რომელ საათზე? ცხრაზე სამსახურში უნდა ვიყო.",
+        "translit": "romel saatze? tskhraze samsakhurshi unda viq'o.",
+        "fr": "À quelle heure ? Je dois être au travail à neuf heures."
+      },
+      {
+        "s": 1,
+        "ar": "რვაზე მოვალ, ნახევარ საათში დავამთავრებ.",
+        "translit": "rvaze moval, nakhevar saatshi davamtavreb.",
+        "fr": "Je viendrai à huit heures, j'aurai fini en une demi-heure."
+      },
+      {
+        "s": 0,
+        "ar": "რამდენი დაჯდება?",
+        "translit": "ramdeni dajdeba?",
+        "fr": "Combien ça coûtera ?"
+      },
+      {
+        "s": 1,
+        "ar": "ნაწილთან ერთად, დაახლოებით ორმოცდაათი ლარი.",
+        "translit": "nats'iltan ertad, daakhloebit ormotsdaati lari.",
+        "fr": "Avec la pièce, environ cinquante laris."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, შეთანხმებულია. მისამართს მესიჯით გამოგიგზავნით.",
+        "translit": "k'argi, shetankhmebulia. misamarts mesijit gamogigzavnit.",
+        "fr": "D'accord, c'est entendu. Je vous envoie l'adresse par texto."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, ხვალამდე.",
+        "translit": "k'argi, khvalamde.",
+        "fr": "Très bien, à demain."
+      }
+    ]
+  },
+  {
+    "id": "ka-d37",
+    "level": 3,
+    "situation": "Organiser une fête",
+    "title": "Une surprise pour Nino",
+    "speakers": [
+      "Ana",
+      "Beka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "შაბათს ნინოს დაბადების დღეა. სიურპრიზი ხომ არ მოვუწყოთ?",
+        "translit": "shabats ninos dabadebis dghea. siurp'rizi khom ar movuts'q'ot?",
+        "fr": "Samedi, c'est l'anniversaire de Nino. Et si on lui organisait une surprise ?"
+      },
+      {
+        "s": 1,
+        "ar": "კარგი იდეაა! სად?",
+        "translit": "k'argi ideaa! sad?",
+        "fr": "Bonne idée ! Où ça ?"
+      },
+      {
+        "s": 0,
+        "ar": "ჩემთან, სახლში. ხალხს მე დავპატიჟებ.",
+        "translit": "chemtan, sakhlshi. khalkhs me davp'at'izheb.",
+        "fr": "Chez moi. C'est moi qui inviterai les gens."
+      },
+      {
+        "s": 1,
+        "ar": "მე ტორტზე ვიზრუნებ. რომელი უყვარს?",
+        "translit": "me t'ort'ze vizruneb. romeli uq'vars?",
+        "fr": "Moi, je m'occupe du gâteau. Lequel elle aime ?"
+      },
+      {
+        "s": 0,
+        "ar": "შოკოლადის. და ყვავილებიც ვიყიდოთ.",
+        "translit": "shok'oladis. da q'vavilebits viq'idot.",
+        "fr": "Au chocolat. Et achetons aussi des fleurs."
+      },
+      {
+        "s": 1,
+        "ar": "ოღონდ არაფერი უთხრა! ხომ იცი, საიდუმლოს შენახვა არ გეხერხება.",
+        "translit": "oghond araperi utkhra! khom itsi, saidumlos shenakhva ar gekherkheba.",
+        "fr": "Mais ne lui dis rien ! Tu sais bien que tu ne sais pas garder un secret."
+      },
+      {
+        "s": 0,
+        "ar": "ჰა-ჰა, ამჯერად პირს არ გავაღებ.",
+        "translit": "ha-ha, amjerad p'irs ar gavagheb.",
+        "fr": "Ha ha, cette fois je ne dirai pas un mot."
+      },
+      {
+        "s": 1,
+        "ar": "როცა მოვა, ყველამ ერთად დავიძახოთ: «გილოცავ!»",
+        "translit": "rotsa mova, q'velam ertad davidzakhot: «gilotsav!»",
+        "fr": "Quand elle arrivera, crions tous ensemble : « Joyeux anniversaire ! »"
+      },
+      {
+        "s": 0,
+        "ar": "შევთანხმდით!",
+        "translit": "shevtankhmdit!",
+        "fr": "Marché conclu !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d38",
+    "level": 3,
+    "situation": "À la gare",
+    "title": "Le train a du retard",
+    "speakers": [
+      "Davit",
+      "Keti"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, ბათუმის მატარებელი რატომ აგვიანებს?",
+        "translit": "uk'atsravad, batumis mat'arebeli rat'om agvianebs?",
+        "fr": "Excusez-moi, pourquoi le train pour Batoumi est-il en retard ?"
+      },
+      {
+        "s": 1,
+        "ar": "ტექნიკური პრობლემის გამო. დაახლოებით ერთი საათით დაიგვიანებს.",
+        "translit": "t'eknik'uri p'roblemis gamo. daakhloebit erti saatit daigvianebs.",
+        "fr": "À cause d'un problème technique. Il aura environ une heure de retard."
+      },
+      {
+        "s": 0,
+        "ar": "ერთი საათით? ბათუმში საღამოს შეხვედრა მაქვს.",
+        "translit": "erti saatit? batumshi saghamos shekhvedra makvs.",
+        "fr": "Une heure ? J'ai un rendez-vous ce soir à Batoumi."
+      },
+      {
+        "s": 1,
+        "ar": "ვწუხვარ. თუ გინდათ, ბილეთს შემდეგ მატარებელზე გადაგიცვლით.",
+        "translit": "vts'ukhvar. tu gindat, bilets shemdeg mat'arebelze gadagitsvlit.",
+        "fr": "Je suis désolée. Si vous voulez, je vous échange le billet pour le train suivant."
+      },
+      {
+        "s": 0,
+        "ar": "შემდეგი როდის გადის?",
+        "translit": "shemdegi rodis gadis?",
+        "fr": "Le suivant part quand ?"
+      },
+      {
+        "s": 1,
+        "ar": "ორ საათზე, მაგრამ ის უფრო ნელია.",
+        "translit": "or saatze, magram is upro nelia.",
+        "fr": "À deux heures, mais il est plus lent."
+      },
+      {
+        "s": 0,
+        "ar": "მაშინ დაველოდები. ფულს დამიბრუნებენ?",
+        "translit": "mashin davelodebi. puls damibruneben?",
+        "fr": "Alors j'attendrai. On me remboursera ?"
+      },
+      {
+        "s": 1,
+        "ar": "ნაწილობრივ. განცხადება ინტერნეტით უნდა შეავსოთ.",
+        "translit": "nats'ilobriv. gantskhadeba int'ernet'it unda sheavsot.",
+        "fr": "En partie. Vous devez remplir une demande en ligne."
+      },
+      {
+        "s": 0,
+        "ar": "გასაგებია. აქ ახლოს კაფე არის?",
+        "translit": "gasagebia. ak akhlos k'ape aris?",
+        "fr": "Compris. Il y a un café près d'ici ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, მეორე სართულზე, ესკალატორის გვერდით.",
+        "translit": "k'i, meore sartulze, esk'alat'oris gverdit.",
+        "fr": "Oui, au premier étage, à côté de l'escalator."
+      }
+    ]
+  },
+  {
+    "id": "ka-d39",
+    "level": 3,
+    "situation": "Apprendre une langue",
+    "title": "Vingt minutes par jour",
+    "speakers": [
+      "Saba",
+      "Lika"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ლიკა, გავიგე, ფრანგულს სწავლობ.",
+        "translit": "lik'a, gavige, pranguls sts'avlob.",
+        "fr": "Lika, j'ai appris que tu étudiais le français."
+      },
+      {
+        "s": 1,
+        "ar": "კი, უკვე ნახევარი წელია. პარიზში სწავლის გაგრძელება მინდა.",
+        "translit": "k'i, uk've nakhevari ts'elia. p'arizshi sts'avlis gagrdzeleba minda.",
+        "fr": "Oui, depuis six mois déjà. Je veux continuer mes études à Paris."
+      },
+      {
+        "s": 0,
+        "ar": "რთულია?",
+        "translit": "rtulia?",
+        "fr": "C'est difficile ?"
+      },
+      {
+        "s": 1,
+        "ar": "გრამატიკა არა, მაგრამ გამოთქმა ძალიან რთულია.",
+        "translit": "gramat'ik'a ara, magram gamotkma dzalian rtulia.",
+        "fr": "La grammaire, non, mais la prononciation est très difficile."
+      },
+      {
+        "s": 0,
+        "ar": "მეც მინდა რომელიმე ენის სწავლა, მაგრამ დრო არ მყოფნის.",
+        "translit": "mets minda romelime enis sts'avla, magram dro ar mq'opnis.",
+        "fr": "Moi aussi, je voudrais apprendre une langue, mais je n'ai pas assez de temps."
+      },
+      {
+        "s": 1,
+        "ar": "დღეში ოცი წუთიც საკმარისია, მთავარია, ყოველდღე ივარჯიშო.",
+        "translit": "dgheshi otsi ts'utits sak'marisia, mtavaria, q'oveldghe ivarjisho.",
+        "fr": "Vingt minutes par jour suffisent, l'essentiel est de pratiquer tous les jours."
+      },
+      {
+        "s": 0,
+        "ar": "შენ როგორ სწავლობ?",
+        "translit": "shen rogor sts'avlob?",
+        "fr": "Et toi, comment tu apprends ?"
+      },
+      {
+        "s": 1,
+        "ar": "ფილმებს სუბტიტრებით ვუყურებ და აპლიკაციით ბარათებს ვიმეორებ.",
+        "translit": "pilmebs subt'it'rebit vuq'ureb da ap'lik'atsiit baratebs vimeoreb.",
+        "fr": "Je regarde des films sous-titrés et je révise des cartes avec une application."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი რჩევაა. ხვალიდან დავიწყებ!",
+        "translit": "k'argi rchevaa. khvalidan davits'q'eb!",
+        "fr": "Bon conseil. Je commence dès demain !"
+      },
+      {
+        "s": 1,
+        "ar": "ყოჩაღ!",
+        "translit": "q'ochagh!",
+        "fr": "Bravo !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d40",
+    "level": 3,
+    "situation": "Un déménagement",
+    "title": "Tu peux m'aider samedi ?",
+    "speakers": [
+      "Tornike",
+      "Maka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "მაკა, შაბათს რას აკეთებ?",
+        "translit": "mak'a, shabats ras ak'eteb?",
+        "fr": "Maka, tu fais quoi samedi ?"
+      },
+      {
+        "s": 1,
+        "ar": "ჯერ არაფერს. რატომ?",
+        "translit": "jer arapers. rat'om?",
+        "fr": "Rien pour l'instant. Pourquoi ?"
+      },
+      {
+        "s": 0,
+        "ar": "ახალ ბინაში გადავდივარ და დახმარება მჭირდება.",
+        "translit": "akhal binashi gadavdivar da dakhmareba mch'irdeba.",
+        "fr": "Je déménage dans un nouvel appartement et j'ai besoin d'aide."
+      },
+      {
+        "s": 1,
+        "ar": "სიამოვნებით დაგეხმარები. ბევრი ნივთი გაქვს?",
+        "translit": "siamovnebit dagekhmarebi. bevri nivti gakvs?",
+        "fr": "Je t'aiderai avec plaisir. Tu as beaucoup d'affaires ?"
+      },
+      {
+        "s": 0,
+        "ar": "ძირითადად წიგნები და ტანსაცმელი. ავეჯი უკვე წაიღეს.",
+        "translit": "dziritadad ts'ignebi da t'ansatsmeli. aveji uk've ts'aighes.",
+        "fr": "Surtout des livres et des vêtements. Les meubles ont déjà été emportés."
+      },
+      {
+        "s": 1,
+        "ar": "მანქანა გაქვს?",
+        "translit": "mankana gakvs?",
+        "fr": "Tu as une voiture ?"
+      },
+      {
+        "s": 0,
+        "ar": "ბიძაჩემმა თავისი მანქანა მათხოვა.",
+        "translit": "bidzachemma tavisi mankana matkhova.",
+        "fr": "Mon oncle m'a prêté sa voiture."
+      },
+      {
+        "s": 1,
+        "ar": "მაშინ დილით ადრე დავიწყოთ, სანამ სიცხე დაიწყება.",
+        "translit": "mashin dilit adre davits'q'ot, sanam sitskhe daits'q'eba.",
+        "fr": "Alors commençons tôt le matin, avant qu'il fasse chaud."
+      },
+      {
+        "s": 0,
+        "ar": "შეთანხმებულია. სამაგიეროდ, საღამოს ვახშამზე დაგპატიჟებ.",
+        "translit": "shetankhmebulia. samagierod, saghamos vakhshamze dagp'at'izheb.",
+        "fr": "C'est entendu. En échange, je t'invite à dîner le soir."
+      },
+      {
+        "s": 1,
+        "ar": "ეგ უკვე სხვა საქმეა!",
+        "translit": "eg uk've skhva sakmea!",
+        "fr": "Là, c'est une autre histoire !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d41",
+    "level": 4,
+    "situation": "Entretien d'embauche",
+    "title": "Parlez-nous de vous",
+    "speakers": [
+      "Nana",
+      "Giorgi"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "დაბრძანდით. ცოტა რამ მოგვიყევით თქვენ შესახებ.",
+        "translit": "dabrdzandit. tsot'a ram mogviq'evit tkven shesakheb.",
+        "fr": "Asseyez-vous. Parlez-nous un peu de vous."
+      },
+      {
+        "s": 1,
+        "ar": "ეკონომიკა დავამთავრე და ბოლო სამი წელი სამშენებლო კომპანიაში ფინანსურ ანალიტიკოსად ვმუშაობდი.",
+        "translit": "ek'onomik'a davamtavre da bolo sami ts'eli samsheneblo k'omp'aniashi pinansur analit'ik'osad vmushaobdi.",
+        "fr": "J'ai fait des études d'économie et, ces trois dernières années, j'ai travaillé comme analyste financier dans une entreprise de construction."
+      },
+      {
+        "s": 0,
+        "ar": "რატომ გადაწყვიტეთ სამსახურის შეცვლა?",
+        "translit": "rat'om gadats'q'vit'et samsakhuris shetsvla?",
+        "fr": "Pourquoi avez-vous décidé de changer d'emploi ?"
+      },
+      {
+        "s": 1,
+        "ar": "იქ ბევრი რამ ვისწავლე, თუმცა ვგრძნობ, რომ განვითარების საშუალება აღარ მაქვს.",
+        "translit": "ik bevri ram vists'avle, tumtsa vgrdznob, rom ganvitarebis sashualeba aghar makvs.",
+        "fr": "J'y ai beaucoup appris, mais je sens que je n'ai plus de perspectives d'évolution."
+      },
+      {
+        "s": 0,
+        "ar": "ჩვენს კომპანიაში რა გიზიდავთ?",
+        "translit": "chvens k'omp'aniashi ra gizidavt?",
+        "fr": "Qu'est-ce qui vous attire dans notre entreprise ?"
+      },
+      {
+        "s": 1,
+        "ar": "საერთაშორისო პროექტები. გარდა ამისა, ორ უცხო ენას ვფლობ და მინდა, რომ ეს ცოდნა გამოვიყენო.",
+        "translit": "saertashoriso p'roekt'ebi. garda amisa, or utskho enas vplob da minda, rom es tsodna gamoviq'eno.",
+        "fr": "Les projets internationaux. De plus, je parle deux langues étrangères et je voudrais mettre ces connaissances à profit."
+      },
+      {
+        "s": 0,
+        "ar": "თქვენი სუსტი მხარე რა არის?",
+        "translit": "tkveni sust'i mkhare ra aris?",
+        "fr": "Quel est votre point faible ?"
+      },
+      {
+        "s": 1,
+        "ar": "ზოგჯერ ზედმეტად ვკონცენტრირდები დეტალებზე, მაგრამ ვსწავლობ, რომ პრიორიტეტები სწორად დავალაგო.",
+        "translit": "zogjer zedmet'ad vk'ontsent'rirdebi det'alebze, magram vsts'avlob, rom p'riorit'et'ebi sts'orad davalago.",
+        "fr": "Je me concentre parfois trop sur les détails, mais j'apprends à bien hiérarchiser les priorités."
+      },
+      {
+        "s": 0,
+        "ar": "სახელფასო მოლოდინი როგორი გაქვთ?",
+        "translit": "sakhelpaso molodini rogori gakvt?",
+        "fr": "Quelles sont vos prétentions salariales ?"
+      },
+      {
+        "s": 1,
+        "ar": "ვფიქრობ, ბაზრის საშუალო დონე სამართლიანი იქნებოდა, თუმცა მოლაპარაკებისთვის ღია ვარ.",
+        "translit": "vpikrob, bazris sashualo done samartliani ikneboda, tumtsa molap'arak'ebistvis ghia var.",
+        "fr": "Je pense que le niveau moyen du marché serait juste, mais je suis ouvert à la négociation."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი. ერთი კვირის განმავლობაში დაგიკავშირდებით.",
+        "translit": "k'argi. erti k'viris ganmavlobashi dagik'avshirdebit.",
+        "fr": "Bien. Nous vous recontacterons d'ici une semaine."
+      },
+      {
+        "s": 1,
+        "ar": "დიდი მადლობა, რომ დრო დამითმეთ.",
+        "translit": "didi madloba, rom dro damitmet.",
+        "fr": "Merci beaucoup de m'avoir accordé votre temps."
+      }
+    ]
+  },
+  {
+    "id": "ka-d42",
+    "level": 4,
+    "situation": "Une réclamation",
+    "title": "Ce lave-linge est encore en panne",
+    "speakers": [
+      "Teona",
+      "Rati"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "მენეჯერთან მინდა საუბარი.",
+        "translit": "menejertan minda saubari.",
+        "fr": "Je voudrais parler au responsable."
+      },
+      {
+        "s": 1,
+        "ar": "გისმენთ, მენეჯერი მე ვარ. რა მოხდა?",
+        "translit": "gisment, menejeri me var. ra mokhda?",
+        "fr": "Je vous écoute, le responsable, c'est moi. Que s'est-il passé ?"
+      },
+      {
+        "s": 0,
+        "ar": "ორი კვირის წინ ეს სარეცხი მანქანა თქვენთან ვიყიდე და უკვე გაფუჭდა.",
+        "translit": "ori k'viris ts'in es saretskhi mankana tkventan viq'ide da uk've gapuch'da.",
+        "fr": "Il y a deux semaines, j'ai acheté ce lave-linge chez vous et il est déjà en panne."
+      },
+      {
+        "s": 1,
+        "ar": "ძალიან ვწუხვარ. საგარანტიო ფურცელი თან გაქვთ?",
+        "translit": "dzalian vts'ukhvar. sagarant'io purtseli tan gakvt?",
+        "fr": "J'en suis vraiment désolé. Vous avez le bon de garantie sur vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "მაქვს. მაგრამ ხელოსანი უკვე ორჯერ გამოვიძახე და პრობლემა ისევ რჩება.",
+        "translit": "makvs. magram khelosani uk've orjer gamovidzakhe da p'roblema isev rcheba.",
+        "fr": "Oui. Mais j'ai déjà fait venir un technicien deux fois et le problème persiste."
+      },
+      {
+        "s": 1,
+        "ar": "ასეთ შემთხვევაში შეგვიძლია, ახლით შეგიცვალოთ.",
+        "translit": "aset shemtkhvevashi shegvidzlia, akhlit shegitsvalot.",
+        "fr": "Dans ce cas, nous pouvons vous l'échanger contre un neuf."
+      },
+      {
+        "s": 0,
+        "ar": "ახალი აღარ მინდა. მირჩევნია, ფული დამიბრუნოთ.",
+        "translit": "akhali aghar minda. mirchevnia, puli damibrunot.",
+        "fr": "Je n'en veux plus. Je préfère que vous me remboursiez."
+      },
+      {
+        "s": 1,
+        "ar": "კანონის მიხედვით, ჯერ შეკეთება ან გამოცვლა უნდა შემოგთავაზოთ.",
+        "translit": "k'anonis mikhedvit, jer shek'eteba an gamotsvla unda shemogtavazot.",
+        "fr": "Selon la loi, nous devons d'abord vous proposer une réparation ou un échange."
+      },
+      {
+        "s": 0,
+        "ar": "მიუხედავად იმისა, რომ უკვე ორჯერ შეაკეთეს? ეს სერიოზული დეფექტია.",
+        "translit": "miukhedavad imisa, rom uk've orjer sheak'etes? es seriozuli depekt'ia.",
+        "fr": "Alors qu'il a déjà été réparé deux fois ? C'est un défaut sérieux."
+      },
+      {
+        "s": 1,
+        "ar": "გეთანხმებით. ხელმძღვანელობას დავუკავშირდები და დღესვე გიპასუხებთ.",
+        "translit": "getankhmebit. khelmdzghvanelobas davuk'avshirdebi da dghesve gip'asukhebt.",
+        "fr": "Je vous l'accorde. Je vais contacter la direction et je vous réponds aujourd'hui même."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, დაველოდები. წინააღმდეგ შემთხვევაში, მომხმარებელთა უფლებების დაცვის სამსახურს მივმართავ.",
+        "translit": "k'argi, davelodebi. ts'inaaghmdeg shemtkhvevashi, momkhmarebelta uplebebis datsvis samsakhurs mivmartav.",
+        "fr": "Bien, j'attendrai. Sinon, je m'adresserai au service de protection des consommateurs."
+      }
+    ]
+  },
+  {
+    "id": "ka-d43",
+    "level": 4,
+    "situation": "Négociation",
+    "title": "Trouver un terrain d'entente",
+    "speakers": [
+      "Levan",
+      "Ketevan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "თქვენი შეთავაზება ვნახე. საკმაოდ ძვირია.",
+        "translit": "tkveni shetavazeba vnakhe. sak'maod dzviria.",
+        "fr": "J'ai vu votre offre. C'est assez cher."
+      },
+      {
+        "s": 1,
+        "ar": "ფასში შედის დიზაინი, ტექსტები და ექვსი თვის მხარდაჭერა.",
+        "translit": "passhi shedis dizaini, t'ekst'ebi da ekvsi tvis mkhardach'era.",
+        "fr": "Le prix comprend le design, les textes et six mois d'assistance."
+      },
+      {
+        "s": 0,
+        "ar": "ტექსტებს ჩვენ თვითონ დავწერდით. ეს ფასს შეამცირებდა?",
+        "translit": "t'ekst'ebs chven tviton davts'erdit. es pass sheamtsirebda?",
+        "fr": "Les textes, nous pourrions les écrire nous-mêmes. Ça réduirait le prix ?"
+      },
+      {
+        "s": 1,
+        "ar": "რა თქმა უნდა, დაახლოებით ოცი პროცენტით.",
+        "translit": "ra tkma unda, daakhloebit otsi p'rotsent'it.",
+        "fr": "Bien sûr, d'environ vingt pour cent."
+      },
+      {
+        "s": 0,
+        "ar": "ვადებზეც მინდა შევთანხმდეთ. საიტი თვის ბოლომდე გვჭირდება.",
+        "translit": "vadebzets minda shevtankhmdet. sait'i tvis bolomde gvch'irdeba.",
+        "fr": "Je voudrais aussi qu'on s'accorde sur les délais. Il nous faut le site avant la fin du mois."
+      },
+      {
+        "s": 1,
+        "ar": "ეს საკმაოდ მჭიდრო ვადაა. თუ მასალებს ამ კვირაში მომაწვდით, მოვასწრებ.",
+        "translit": "es sak'maod mch'idro vadaa. tu masalebs am k'virashi momats'vdit, movasts'reb.",
+        "fr": "C'est un délai assez serré. Si vous me fournissez les documents cette semaine, j'y arriverai."
+      },
+      {
+        "s": 0,
+        "ar": "წინასწარ რამდენს ითხოვთ?",
+        "translit": "ts'inasts'ar ramdens itkhovt?",
+        "fr": "Combien demandez-vous d'avance ?"
+      },
+      {
+        "s": 1,
+        "ar": "ჩვეულებრივ ნახევარს, მაგრამ თქვენთვის ოცდაათი პროცენტიც საკმარისი იქნება.",
+        "translit": "chveulebriv nakhevars, magram tkventvis otsdaati p'rotsent'its sak'marisi ikneba.",
+        "fr": "D'habitude la moitié, mais pour vous trente pour cent suffiront."
+      },
+      {
+        "s": 0,
+        "ar": "ეს მისაღებია. ხელშეკრულების პროექტს გამომიგზავნით?",
+        "translit": "es misaghebia. khelshek'rulebis p'roekt's gamomigzavnit?",
+        "fr": "C'est acceptable. Vous m'enverrez un projet de contrat ?"
+      },
+      {
+        "s": 1,
+        "ar": "ხვალვე გამოგიგზავნით. მიხარია, რომ საერთო ენა გამოვნახეთ.",
+        "translit": "khvalve gamogigzavnit. mikharia, rom saerto ena gamovnakhet.",
+        "fr": "Je vous l'envoie dès demain. Je suis contente que nous ayons trouvé un terrain d'entente."
+      }
+    ]
+  },
+  {
+    "id": "ka-d44",
+    "level": 4,
+    "situation": "Parler de l'actualité",
+    "title": "Plus de voitures dans le centre",
+    "speakers": [
+      "Dato",
+      "Elene"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "წაიკითხე, მერიამ ცენტრში მანქანების შესვლა რომ აკრძალა?",
+        "translit": "ts'aik'itkhe, meriam tsent'rshi mankanebis shesvla rom ak'rdzala?",
+        "fr": "Tu as lu que la mairie a interdit les voitures dans le centre ?"
+      },
+      {
+        "s": 1,
+        "ar": "წავიკითხე. ჩემი აზრით, დიდი ხნის წინ უნდა გაეკეთებინათ.",
+        "translit": "ts'avik'itkhe. chemi azrit, didi khnis ts'in unda gaek'etebinat.",
+        "fr": "Oui. À mon avis, ils auraient dû le faire depuis longtemps."
+      },
+      {
+        "s": 0,
+        "ar": "შენთვის ადვილია, ფეხით დადიხარ. მე კი ყოველდღე ქალაქის მეორე ბოლოდან მოვდივარ.",
+        "translit": "shentvis advilia, pekhit dadikhar. me k'i q'oveldghe kalakis meore bolodan movdivar.",
+        "fr": "C'est facile pour toi, tu marches. Moi, je viens tous les jours de l'autre bout de la ville."
+      },
+      {
+        "s": 1,
+        "ar": "მესმის, მაგრამ ჰაერი ისეთი დაბინძურებულია, რომ რაღაც უნდა შეიცვალოს.",
+        "translit": "mesmis, magram haeri iseti dabindzurebulia, rom raghats unda sheitsvalos.",
+        "fr": "Je comprends, mais l'air est tellement pollué qu'il faut que quelque chose change."
+      },
+      {
+        "s": 0,
+        "ar": "ვეთანხმები, თუმცა ჯერ საზოგადოებრივი ტრანსპორტი უნდა გააუმჯობესონ. ავტობუსები სულ გადატვირთულია.",
+        "translit": "vetankhmebi, tumtsa jer sazogadoebrivi t'ransp'ort'i unda gaaumjobeson. avt'obusebi sul gadat'virtulia.",
+        "fr": "D'accord, mais il faudrait d'abord améliorer les transports en commun. Les bus sont toujours bondés."
+      },
+      {
+        "s": 1,
+        "ar": "სწორედ ამიტომ ამბობენ, რომ ახალ ხაზებს გახსნიან.",
+        "translit": "sts'ored amit'om amboben, rom akhal khazebs gakhsnian.",
+        "fr": "C'est justement pour ça qu'ils annoncent l'ouverture de nouvelles lignes."
+      },
+      {
+        "s": 0,
+        "ar": "დაპირებები ბევრჯერ გაგვიგია.",
+        "translit": "dap'irebebi bevrjer gagvigia.",
+        "fr": "Des promesses, on en a entendu plus d'une fois."
+      },
+      {
+        "s": 1,
+        "ar": "ვნახოთ. თუ შეასრულებენ, ბევრი ადამიანი მანქანაზე უარს იტყვის.",
+        "translit": "vnakhot. tu sheasruleben, bevri adamiani mankanaze uars it'q'vis.",
+        "fr": "On verra. S'ils tiennent parole, beaucoup de gens renonceront à la voiture."
+      },
+      {
+        "s": 0,
+        "ar": "იმედი ვიქონიოთ. თუმცა ეჭვი მაინც მრჩება.",
+        "translit": "imedi vikoniot. tumtsa ech'vi maints mrcheba.",
+        "fr": "Espérons-le. Mais j'ai encore des doutes."
+      },
+      {
+        "s": 1,
+        "ar": "შენ ყოველთვის სკეპტიკოსი იყავი!",
+        "translit": "shen q'oveltvis sk'ep't'ik'osi iq'avi!",
+        "fr": "Tu as toujours été sceptique !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d45",
+    "level": 4,
+    "situation": "Au travail",
+    "title": "Bureau ou télétravail ?",
+    "speakers": [
+      "Mariam",
+      "Irakli"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გაიგე? ხელმძღვანელობას უნდა, რომ ყველამ ისევ ოფისში ვიმუშაოთ.",
+        "translit": "gaige? khelmdzghvanelobas unda, rom q'velam isev opisshi vimushaot.",
+        "fr": "Tu as entendu ? La direction veut qu'on retravaille tous au bureau."
+      },
+      {
+        "s": 1,
+        "ar": "ჩემი აზრით, ეს შეცდომაა. დისტანციურად გაცილებით პროდუქტიული ვარ.",
+        "translit": "chemi azrit, es shetsdomaa. dist'antsiurad gatsilebit p'rodukt'iuli var.",
+        "fr": "À mon avis, c'est une erreur. À distance, je suis bien plus productif."
+      },
+      {
+        "s": 0,
+        "ar": "შენ — შეიძლება, მაგრამ ახალ თანამშრომლებს ასე ძალიან უჭირთ.",
+        "translit": "shen — sheidzleba, magram akhal tanamshromlebs ase dzalian uch'irt.",
+        "fr": "Toi, peut-être, mais pour les nouveaux employés, c'est très dur comme ça."
+      },
+      {
+        "s": 1,
+        "ar": "რატომ ფიქრობ ასე?",
+        "translit": "rat'om pikrob ase?",
+        "fr": "Pourquoi tu penses ça ?"
+      },
+      {
+        "s": 0,
+        "ar": "იმიტომ, რომ ვერავის ეკითხებიან და თავს გუნდის ნაწილად ვერ გრძნობენ.",
+        "translit": "imit'om, rom veravis ek'itkhebian da tavs gundis nats'ilad ver grdznoben.",
+        "fr": "Parce qu'ils ne peuvent demander à personne et qu'ils ne se sentent pas membres de l'équipe."
+      },
+      {
+        "s": 1,
+        "ar": "ეგ მართალია, მაგრამ ეს ორგანიზაციის პრობლემაა და არა თავად ფორმატის.",
+        "translit": "eg martalia, magram es organizatsiis p'roblemaa da ara tavad pormat'is.",
+        "fr": "C'est vrai, mais c'est un problème d'organisation, pas du format lui-même."
+      },
+      {
+        "s": 0,
+        "ar": "იქნებ კომპრომისი ვიპოვოთ: კვირაში ორი დღე ოფისში, დანარჩენი — სახლიდან.",
+        "translit": "ikneb k'omp'romisi vip'ovot: k'virashi ori dghe opisshi, danarcheni — sakhlidan.",
+        "fr": "On pourrait peut-être trouver un compromis : deux jours par semaine au bureau, le reste à la maison."
+      },
+      {
+        "s": 1,
+        "ar": "ასეთ ვარიანტზე თანახმა ვიქნებოდი.",
+        "translit": "aset variant'ze tanakhma viknebodi.",
+        "fr": "Une option comme ça, je l'accepterais."
+      },
+      {
+        "s": 0,
+        "ar": "მაშინ ხვალ კრებაზე ეს იდეა ერთად წარვადგინოთ.",
+        "translit": "mashin khval k'rebaze es idea ertad ts'arvadginot.",
+        "fr": "Alors présentons cette idée ensemble demain à la réunion."
+      },
+      {
+        "s": 1,
+        "ar": "შეთანხმებულია. ოღონდ შენ ილაპარაკე, შენ უფრო დამაჯერებელი ხარ.",
+        "translit": "shetankhmebulia. oghond shen ilap'arak'e, shen upro damajerebeli khar.",
+        "fr": "Entendu. Mais c'est toi qui parles, tu es plus convaincante."
+      }
+    ]
+  },
+  {
+    "id": "ka-d46",
+    "level": 4,
+    "situation": "Et si… ?",
+    "title": "Si tu gagnais au loto",
+    "speakers": [
+      "Sandro",
+      "Tamar"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ლატარიაში მილიონი რომ მოგეგო, რას იზამდი?",
+        "translit": "lat'ariashi milioni rom mogego, ras izamdi?",
+        "fr": "Si tu gagnais un million au loto, qu'est-ce que tu ferais ?"
+      },
+      {
+        "s": 1,
+        "ar": "პირველ რიგში, მშობლებს სახლს ვუყიდდი.",
+        "translit": "p'irvel rigshi, mshoblebs sakhls vuq'iddi.",
+        "fr": "D'abord, j'achèterais une maison à mes parents."
+      },
+      {
+        "s": 0,
+        "ar": "მერე? სამსახურს თავს დაანებებდი?",
+        "translit": "mere? samsakhurs tavs daanebebdi?",
+        "fr": "Et ensuite ? Tu quitterais ton travail ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა მგონია. ჩემი საქმე მიყვარს, თუმცა ნაკლებს ვიმუშავებდი.",
+        "translit": "ara mgonia. chemi sakme miq'vars, tumtsa nak'lebs vimushavebdi.",
+        "fr": "Je ne crois pas. J'aime mon métier, mais je travaillerais moins."
+      },
+      {
+        "s": 0,
+        "ar": "მე კი მსოფლიოს გარშემო მოგზაურობას დავიწყებდი. ჯერ იაპონიაში წავიდოდი.",
+        "translit": "me k'i msoplios garshemo mogzaurobas davits'q'ebdi. jer iap'oniashi ts'avidodi.",
+        "fr": "Moi, je partirais faire le tour du monde. J'irais d'abord au Japon."
+      },
+      {
+        "s": 1,
+        "ar": "დაბრუნების შემდეგ ფული აღარ გექნებოდა!",
+        "translit": "dabrunebis shemdeg puli aghar gekneboda!",
+        "fr": "À ton retour, tu n'aurais plus un sou !"
+      },
+      {
+        "s": 0,
+        "ar": "ჰოდა, ისევ ლატარიას ვითამაშებდი.",
+        "translit": "hoda, isev lat'arias vitamashebdi.",
+        "fr": "Eh bien, je rejouerais au loto."
+      },
+      {
+        "s": 1,
+        "ar": "გამოუსწორებელი ხარ. მე ნაწილს ქველმოქმედებაზე დავხარჯავდი.",
+        "translit": "gamousts'orebeli khar. me nats'ils kvelmokmedebaze davkharjavdi.",
+        "fr": "Tu es incorrigible. Moi, j'en donnerais une partie à des œuvres caritatives."
+      },
+      {
+        "s": 0,
+        "ar": "კეთილშობილურია. კარგი, ორივემ ერთად დავიწყოთ ბილეთების ყიდვა.",
+        "translit": "k'etilshobiluria. k'argi, orivem ertad davits'q'ot biletebis q'idva.",
+        "fr": "C'est noble. Bon, commençons tous les deux à acheter des billets."
+      },
+      {
+        "s": 1,
+        "ar": "ჯერ ჩვეულებრივი ხელფასი ავიღოთ, მერე ვნახოთ.",
+        "translit": "jer chveulebrivi khelpasi avighot, mere vnakhot.",
+        "fr": "Touchons d'abord notre salaire normal, on verra après."
+      }
+    ]
+  },
+  {
+    "id": "ka-d47",
+    "level": 4,
+    "situation": "Parler cinéma",
+    "title": "Un film trop lent ?",
+    "speakers": [
+      "Nino",
+      "Beka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "როგორ მოგეწონა ფილმი?",
+        "translit": "rogor mogets'ona pilmi?",
+        "fr": "Comment as-tu trouvé le film ?"
+      },
+      {
+        "s": 1,
+        "ar": "ვიზუალურად შთამბეჭდავი იყო, მაგრამ სიუჟეტი ძალიან გაწელილი მომეჩვენა.",
+        "translit": "vizualurad shtambech'davi iq'o, magram siuzhet'i dzalian gats'elili momechvena.",
+        "fr": "Visuellement impressionnant, mais l'intrigue m'a paru très longuette."
+      },
+      {
+        "s": 0,
+        "ar": "არ გეთანხმები. ნელი ტემპი განზრახ იყო: რეჟისორს უნდოდა, რომ მაყურებელს ფიქრის დრო ჰქონოდა.",
+        "translit": "ar getankhmebi. neli t'emp'i ganzrakh iq'o: rezhisors undoda, rom maq'urebels pikris dro hkonoda.",
+        "fr": "Je ne suis pas d'accord. Le rythme lent était voulu : le réalisateur voulait que le spectateur ait le temps de réfléchir."
+      },
+      {
+        "s": 1,
+        "ar": "შეიძლება. თუმცა ბოლო ნახევარ საათში ლამის ჩამეძინა.",
+        "translit": "sheidzleba. tumtsa bolo nakhevar saatshi lamis chamedzina.",
+        "fr": "Peut-être. Mais pendant la dernière demi-heure, j'ai failli m'endormir."
+      },
+      {
+        "s": 0,
+        "ar": "მსახიობების თამაში ხომ მოგეწონა?",
+        "translit": "msakhiobebis tamashi khom mogets'ona?",
+        "fr": "Le jeu des acteurs t'a plu, quand même ?"
+      },
+      {
+        "s": 1,
+        "ar": "მთავარი როლის შემსრულებელი ბრწყინვალე იყო, ამაში ეჭვი არ მეპარება.",
+        "translit": "mtavari rolis shemsrulebeli brts'q'invale iq'o, amashi ech'vi ar mep'areba.",
+        "fr": "L'acteur principal était brillant, là-dessus je n'ai aucun doute."
+      },
+      {
+        "s": 0,
+        "ar": "კრიტიკოსები ამბობენ, რომ შეიძლება ოსკარზე წარადგინონ.",
+        "translit": "k'rit'ik'osebi amboben, rom sheidzleba osk'arze ts'aradginon.",
+        "fr": "Les critiques disent qu'il pourrait être présenté aux Oscars."
+      },
+      {
+        "s": 1,
+        "ar": "დამსახურებულად იქნებოდა, მაგრამ მე მაინც უფრო დინამიკური კინო მირჩევნია.",
+        "translit": "damsakhurebulad ikneboda, magram me maints upro dinamik'uri k'ino mirchevnia.",
+        "fr": "Ce serait mérité, mais je préfère quand même un cinéma plus dynamique."
+      },
+      {
+        "s": 0,
+        "ar": "მაშინ შემდეგ ჯერზე ფილმს შენ აირჩევ.",
+        "translit": "mashin shemdeg jerze pilms shen airchev.",
+        "fr": "Alors la prochaine fois, c'est toi qui choisis le film."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, ოღონდ ჩემს არჩევანს ნუ გააკრიტიკებ!",
+        "translit": "k'argi, oghond chems archevans nu gaak'rit'ik'eb!",
+        "fr": "D'accord, mais ne critique pas mon choix !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d48",
+    "level": 4,
+    "situation": "Entre voisins",
+    "title": "La musique trop forte",
+    "speakers": [
+      "Ketevan",
+      "Giga"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ბოდიში შეწუხებისთვის, ქვედა სართულზე ვცხოვრობ.",
+        "translit": "bodishi shets'ukhebistvis, kveda sartulze vtskhovrob.",
+        "fr": "Excusez-moi de vous déranger, j'habite à l'étage du dessous."
+      },
+      {
+        "s": 1,
+        "ar": "გისმენთ. რამე პრობლემაა?",
+        "translit": "gisment. rame p'roblemaa?",
+        "fr": "Je vous écoute. Il y a un problème ?"
+      },
+      {
+        "s": 0,
+        "ar": "ბოლო რამდენიმე ღამეა, თქვენთან გვიანობამდე ხმამაღალი მუსიკა უკრავს.",
+        "translit": "bolo ramdenime ghamea, tkventan gvianobamde khmamaghali musik'a uk'ravs.",
+        "fr": "Ces dernières nuits, il y a de la musique forte chez vous jusque tard."
+      },
+      {
+        "s": 1,
+        "ar": "ოჰ, ვერ წარმოვიდგენდი, რომ ასე ისმოდა.",
+        "translit": "oh, ver ts'armovidgendi, rom ase ismoda.",
+        "fr": "Oh, je n'imaginais pas qu'on l'entendait à ce point."
+      },
+      {
+        "s": 0,
+        "ar": "დილით ადრე ვდგები და ვერ ვიძინებ. თანაც პატარა ბავშვი მყავს.",
+        "translit": "dilit adre vdgebi da ver vidzineb. tanats p'at'ara bavshvi mq'avs.",
+        "fr": "Je me lève tôt et je n'arrive pas à dormir. En plus, j'ai un petit enfant."
+      },
+      {
+        "s": 1,
+        "ar": "მართლა ბოდიში. ჩემი ძმა ჩამოვიდა და, როგორც ჩანს, ცოტა გადავამეტეთ.",
+        "translit": "martla bodishi. chemi dzma chamovida da, rogorts chans, tsot'a gadavamet'et.",
+        "fr": "Vraiment désolé. Mon frère est venu et, apparemment, on a un peu exagéré."
+      },
+      {
+        "s": 0,
+        "ar": "მესმის, სტუმრები ყველას გვყავს. უბრალოდ, თერთმეტის მერე თუ ხმას დაუწევთ, ძალიან მადლობელი ვიქნები.",
+        "translit": "mesmis, st'umrebi q'velas gvq'avs. ubralod, tertmet'is mere tu khmas dauts'evt, dzalian madlobeli viknebi.",
+        "fr": "Je comprends, tout le monde reçoit. Simplement, si vous baissez le son après onze heures, je vous en serais très reconnaissante."
+      },
+      {
+        "s": 1,
+        "ar": "რა თქმა უნდა. დამიჯერეთ, აღარ განმეორდება.",
+        "translit": "ra tkma unda. damijeret, aghar ganmeordeba.",
+        "fr": "Bien sûr. Croyez-moi, ça ne se reproduira plus."
+      },
+      {
+        "s": 0,
+        "ar": "დიდი მადლობა გაგებისთვის.",
+        "translit": "didi madloba gagebistvis.",
+        "fr": "Merci beaucoup de votre compréhension."
+      },
+      {
+        "s": 1,
+        "ar": "არაფრის. თუ კიდევ რამე შეგაწუხებთ, პირდაპირ დამიკაკუნეთ.",
+        "translit": "arapris. tu k'idev rame shegats'ukhebt, p'irdap'ir damik'ak'unet.",
+        "fr": "Je vous en prie. Si quelque chose vous gêne encore, venez frapper directement chez moi."
+      }
+    ]
+  },
+  {
+    "id": "ka-d49",
+    "level": 4,
+    "situation": "Éducation",
+    "title": "Les portables à l'école",
+    "speakers": [
+      "Lasha",
+      "Natia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გაიგე? სკოლაში მობილურების აკრძალვას აპირებენ.",
+        "translit": "gaige? sk'olashi mobilurebis ak'rdzalvas ap'ireben.",
+        "fr": "Tu as entendu ? Ils veulent interdire les portables à l'école."
+      },
+      {
+        "s": 1,
+        "ar": "ჩემი აზრით, დიდი ხანია, დროა. ბავშვები შესვენებაზე ერთმანეთს აღარ ელაპარაკებიან.",
+        "translit": "chemi azrit, didi khania, droa. bavshvebi shesvenebaze ertmanets aghar elap'arak'ebian.",
+        "fr": "À mon avis, il était temps. Les enfants ne se parlent plus à la récréation."
+      },
+      {
+        "s": 0,
+        "ar": "ერთი მხრივ, გეთანხმები. მეორე მხრივ, გადაუდებელ შემთხვევაში ბავშვს მშობელთან დაკავშირება უნდა შეეძლოს.",
+        "translit": "erti mkhriv, getankhmebi. meore mkhriv, gadaudebel shemtkhvevashi bavshvs mshobeltan dak'avshireba unda sheedzlos.",
+        "fr": "D'un côté, je suis d'accord avec toi. De l'autre, en cas d'urgence, un enfant doit pouvoir joindre ses parents."
+      },
+      {
+        "s": 1,
+        "ar": "ამისთვის სკოლაში ტელეფონი არსებობს. ადრე ხომ ასე ვცხოვრობდით?",
+        "translit": "amistvis sk'olashi t'eleponi arsebobs. adre khom ase vtskhovrobdit?",
+        "fr": "Pour ça, il y a le téléphone de l'école. Avant, on vivait bien comme ça, non ?"
+      },
+      {
+        "s": 0,
+        "ar": "ადრე სხვა დრო იყო. დღეს ტელეფონი სწავლის იარაღიც არის.",
+        "translit": "adre skhva dro iq'o. dghes t'eleponi sts'avlis iaraghits aris.",
+        "fr": "Avant, c'était une autre époque. Aujourd'hui, le téléphone est aussi un outil d'apprentissage."
+      },
+      {
+        "s": 1,
+        "ar": "შეიძლება, მაგრამ რეალურად რამდენი ბავშვი იყენებს მას სასწავლებლად?",
+        "translit": "sheidzleba, magram realurad ramdeni bavshvi iq'enebs mas sasts'avleblad?",
+        "fr": "Peut-être, mais en réalité, combien d'enfants s'en servent pour apprendre ?"
+      },
+      {
+        "s": 0,
+        "ar": "ცოტა, ვაღიარებ. იქნებ საუკეთესო გამოსავალი ის იყოს, რომ გაკვეთილზე ტელეფონი ჩანთაში იდოს.",
+        "translit": "tsot'a, vaghiareb. ikneb sauk'eteso gamosavali is iq'os, rom gak'vetilze t'eleponi chantashi idos.",
+        "fr": "Peu, je l'admets. La meilleure solution serait peut-être que le téléphone reste dans le sac pendant les cours."
+      },
+      {
+        "s": 1,
+        "ar": "ეს უკვე გონივრული კომპრომისია.",
+        "translit": "es uk've gonivruli k'omp'romisia.",
+        "fr": "Ça, c'est un compromis raisonnable."
+      },
+      {
+        "s": 0,
+        "ar": "შემდეგ მშობელთა კრებაზე შევთავაზოთ.",
+        "translit": "shemdeg mshobelta k'rebaze shevtavazot.",
+        "fr": "Proposons-le à la prochaine réunion de parents."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, მხარს დაგიჭერ.",
+        "translit": "k'argi, mkhars dagich'er.",
+        "fr": "D'accord, je te soutiendrai."
+      }
+    ]
+  },
+  {
+    "id": "ka-d50",
+    "level": 4,
+    "situation": "Ville ou campagne",
+    "title": "Tout quitter pour le village ?",
+    "speakers": [
+      "Giorgi",
+      "Ana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ხშირად ვფიქრობ, რომ თბილისიდან სოფელში გადავიდე.",
+        "translit": "khshirad vpikrob, rom tbilisidan sopelshi gadavide.",
+        "fr": "Je pense souvent à quitter Tbilissi pour la campagne."
+      },
+      {
+        "s": 1,
+        "ar": "მართლა? მიუხედავად იმისა, რომ აქ ასეთი კარიერა გაქვს?",
+        "translit": "martla? miukhedavad imisa, rom ak aseti k'ariera gakvs?",
+        "fr": "Vraiment ? Bien que tu aies une telle carrière ici ?"
+      },
+      {
+        "s": 0,
+        "ar": "დისტანციურად მუშაობა ხომ შეიძლება. სამაგიეროდ, სუფთა ჰაერი და სიმშვიდე მექნება.",
+        "translit": "dist'antsiurad mushaoba khom sheidzleba. samagierod, supta haeri da simshvide mekneba.",
+        "fr": "On peut travailler à distance. En revanche, j'aurais de l'air pur et du calme."
+      },
+      {
+        "s": 1,
+        "ar": "მე ვერ შევძლებდი. თეატრები, კაფეები, მეგობრები — ყველაფერი აქ მაქვს.",
+        "translit": "me ver shevdzlebdi. teat'rebi, k'apeebi, megobrebi — q'velaperi ak makvs.",
+        "fr": "Moi, je ne pourrais pas. Les théâtres, les cafés, les amis — j'ai tout ici."
+      },
+      {
+        "s": 0,
+        "ar": "მეგობრები ჩამოვლენ. თან სოფელში საკუთარ ბოსტანს გავაშენებდი.",
+        "translit": "megobrebi chamovlen. tan sopelshi sak'utar bost'ans gavashenebdi.",
+        "fr": "Les amis viendront. Et puis, à la campagne, je ferais mon propre potager."
+      },
+      {
+        "s": 1,
+        "ar": "ზამთარზე გიფიქრია? გზები იკეტება, შეშა უნდა მოიმარაგო.",
+        "translit": "zamtarze gipikria? gzebi ik'et'eba, shesha unda moimarago.",
+        "fr": "Tu as pensé à l'hiver ? Les routes sont coupées, il faut faire des réserves de bois."
+      },
+      {
+        "s": 0,
+        "ar": "ვიცი, რომ ადვილი არ იქნება, მაგრამ ქალაქის ხმაურით დავიღალე.",
+        "translit": "vitsi, rom advili ar ikneba, magram kalakis khmaurit davighale.",
+        "fr": "Je sais que ce ne sera pas facile, mais je suis fatigué du bruit de la ville."
+      },
+      {
+        "s": 1,
+        "ar": "იქნებ ჯერ ერთი ზაფხული სცადო, სანამ საბოლოოდ გადაწყვეტ?",
+        "translit": "ikneb jer erti zapkhuli stsado, sanam sabolood gadats'q'vet'?",
+        "fr": "Et si tu essayais d'abord un été, avant de te décider pour de bon ?"
+      },
+      {
+        "s": 0,
+        "ar": "გონივრული რჩევაა. ასეც მოვიქცევი.",
+        "translit": "gonivruli rchevaa. asets moviktsevi.",
+        "fr": "C'est un conseil sensé. C'est ce que je vais faire."
+      },
+      {
+        "s": 1,
+        "ar": "და თუ მოგეწონა, შაბათ-კვირას მეც ჩამოვალ.",
+        "translit": "da tu mogets'ona, shabat-k'viras mets chamoval.",
+        "fr": "Et si ça te plaît, je viendrai aussi le week-end."
+      }
+    ]
+  },
+  {
+    "id": "ka-d51",
+    "level": 4,
+    "situation": "Réunion de travail",
+    "title": "Le projet a du retard",
+    "speakers": [
+      "Nikoloz",
+      "Salome"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "სალომე, პროექტი უკვე ორი კვირით გვიანდება. რა ხდება?",
+        "translit": "salome, p'roekt'i uk've ori k'virit gviandeba. ra khdeba?",
+        "fr": "Salomé, le projet a déjà deux semaines de retard. Que se passe-t-il ?"
+      },
+      {
+        "s": 1,
+        "ar": "სიმართლე გითხრათ, მომწოდებელმა მასალები დროზე არ მოგვაწოდა.",
+        "translit": "simartle gitkhrat, momts'odebelma masalebi droze ar mogvats'oda.",
+        "fr": "À vrai dire, le fournisseur ne nous a pas livré le matériel à temps."
+      },
+      {
+        "s": 0,
+        "ar": "ამის შესახებ რატომ არ მაცნობეთ?",
+        "translit": "amis shesakheb rat'om ar matsnobet?",
+        "fr": "Pourquoi ne m'en avez-vous pas informé ?"
+      },
+      {
+        "s": 1,
+        "ar": "მეგონა, რომ საკუთარი ძალებით მოვაგვარებდით. ეს ჩემი შეცდომა იყო.",
+        "translit": "megona, rom sak'utari dzalebit movagvarebdit. es chemi shetsdoma iq'o.",
+        "fr": "Je pensais qu'on réglerait ça par nos propres moyens. C'était mon erreur."
+      },
+      {
+        "s": 0,
+        "ar": "ვაფასებ, რომ ამას აღიარებთ. ახლა მთავარია, გამოსავალი ვიპოვოთ.",
+        "translit": "vapaseb, rom amas aghiarebt. akhla mtavaria, gamosavali vip'ovot.",
+        "fr": "J'apprécie que vous le reconnaissiez. Maintenant, l'essentiel est de trouver une solution."
+      },
+      {
+        "s": 1,
+        "ar": "სხვა მომწოდებელს უკვე დავუკავშირდი. ერთ კვირაში მოწოდებას გვპირდებიან.",
+        "translit": "skhva momts'odebels uk've davuk'avshirdi. ert k'virashi mots'odebas gvp'irdebian.",
+        "fr": "J'ai déjà contacté un autre fournisseur. Ils nous promettent une livraison sous une semaine."
+      },
+      {
+        "s": 0,
+        "ar": "დამკვეთს რას ვეტყვით?",
+        "translit": "damk'vets ras vet'q'vit?",
+        "fr": "Et que dirons-nous au client ?"
+      },
+      {
+        "s": 1,
+        "ar": "ჩემი აზრით, სჯობს, ყველაფერი გულახდილად ავუხსნათ და ახალი გეგმა წარვუდგინოთ.",
+        "translit": "chemi azrit, sjobs, q'velaperi gulakhdilad avukhsnat da akhali gegma ts'arvudginot.",
+        "fr": "À mon avis, il vaut mieux tout lui expliquer franchement et lui présenter un nouveau plan."
+      },
+      {
+        "s": 0,
+        "ar": "ვეთანხმები. ხვალ დილით შეხვედრა დანიშნეთ.",
+        "translit": "vetankhmebi. khval dilit shekhvedra danishnet.",
+        "fr": "D'accord. Fixez un rendez-vous pour demain matin."
+      },
+      {
+        "s": 1,
+        "ar": "ახლავე დავურეკავ.",
+        "translit": "akhlave davurek'av.",
+        "fr": "Je l'appelle tout de suite."
+      }
+    ]
+  },
+  {
+    "id": "ka-d52",
+    "level": 4,
+    "situation": "Tourisme et nature",
+    "title": "Un hôtel à Kazbegui",
+    "speakers": [
+      "Eka",
+      "Davit"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ყაზბეგში ახალი სასტუმროს აშენებას აპირებენ. რას ფიქრობ?",
+        "translit": "q'azbegshi akhali sast'umros ashenebas ap'ireben. ras pikrob?",
+        "fr": "Ils veulent construire un nouvel hôtel à Kazbegui. Qu'en penses-tu ?"
+      },
+      {
+        "s": 1,
+        "ar": "ერთი მხრივ, ადგილობრივებს სამუშაო ადგილები გაუჩნდებათ.",
+        "translit": "erti mkhriv, adgilobrivebs samushao adgilebi gauchndebat.",
+        "fr": "D'un côté, les habitants auront des emplois."
+      },
+      {
+        "s": 0,
+        "ar": "მეორე მხრივ კი, ბუნებას ზიანი მიადგება.",
+        "translit": "meore mkhriv k'i, bunebas ziani miadgeba.",
+        "fr": "Mais de l'autre, la nature en souffrira."
+      },
+      {
+        "s": 1,
+        "ar": "თუ მკაცრ წესებს დაიცავენ, ზიანი მინიმალური იქნება.",
+        "translit": "tu mk'atsr ts'esebs daitsaven, ziani minimaluri ikneba.",
+        "fr": "S'ils respectent des règles strictes, les dégâts seront minimes."
+      },
+      {
+        "s": 0,
+        "ar": "«თუ». ხომ იცი, როგორ ხდება ხოლმე: ჯერ ერთ სასტუმროს აშენებენ, მერე — ათს.",
+        "translit": "«tu». khom itsi, rogor khdeba kholme: jer ert sast'umros asheneben, mere — ats.",
+        "fr": "« S'ils… ». Tu sais comment ça se passe d'habitude : d'abord ils construisent un hôtel, puis dix."
+      },
+      {
+        "s": 1,
+        "ar": "ასეთი პესიმისტი რატომ ხარ? ტურიზმის გარეშე ეს რეგიონი დაცარიელდებოდა.",
+        "translit": "aseti p'esimist'i rat'om khar? t'urizmis gareshe es regioni datsarieldeboda.",
+        "fr": "Pourquoi es-tu si pessimiste ? Sans le tourisme, cette région se viderait."
+      },
+      {
+        "s": 0,
+        "ar": "ტურიზმის წინააღმდეგი არ ვარ. უბრალოდ, მინდა, რომ განვითარება მდგრადი იყოს.",
+        "translit": "t'urizmis ts'inaaghmdegi ar var. ubralod, minda, rom ganvitareba mdgradi iq'os.",
+        "fr": "Je ne suis pas contre le tourisme. Je veux simplement que le développement soit durable."
+      },
+      {
+        "s": 1,
+        "ar": "ამაში გეთანხმები. იქნებ ადგილობრივ მოსახლეობასაც ჰკითხონ აზრი.",
+        "translit": "amashi getankhmebi. ikneb adgilobriv mosakhleobasats hk'itkhon azri.",
+        "fr": "Là-dessus, je suis d'accord. Il faudrait peut-être aussi demander l'avis des habitants."
+      },
+      {
+        "s": 0,
+        "ar": "სწორედ ეგ არის მთავარი — გადაწყვეტილება მათ გარეშე არ უნდა მიიღონ.",
+        "translit": "sts'ored eg aris mtavari — gadats'q'vet'ileba mat gareshe ar unda miighon.",
+        "fr": "C'est exactement l'essentiel : la décision ne doit pas être prise sans eux."
+      },
+      {
+        "s": 1,
+        "ar": "საჯარო განხილვა თუ იქნება, ერთად წავიდეთ.",
+        "translit": "sajaro gankhilva tu ikneba, ertad ts'avidet.",
+        "fr": "S'il y a une consultation publique, allons-y ensemble."
+      }
+    ]
+  },
+  {
+    "id": "ka-d53",
+    "level": 5,
+    "situation": "Débat sur la tradition",
+    "title": "La supra, hier et aujourd'hui",
+    "speakers": [
+      "Zurab",
+      "Nino"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "სუფრის ტრადიცია, ჩემი აზრით, ჩვენი იდენტობის განუყოფელი ნაწილია.",
+        "translit": "supris t'raditsia, chemi azrit, chveni ident'obis ganuq'opeli nats'ilia.",
+        "fr": "La tradition de la supra est, selon moi, une part indissociable de notre identité."
+      },
+      {
+        "s": 1,
+        "ar": "ამას არავინ დავობს, მაგრამ ექვსსაათიანი სადღეგრძელოები და ძალით დალევა ძნელად თუ ჩაითვლება კულტურის მწვერვალად.",
+        "translit": "amas aravin davobs, magram ekvssaatiani sadghegrdzeloebi da dzalit daleva dznelad tu chaitvleba k'ult'uris mts'vervalad.",
+        "fr": "Personne ne le conteste, mais des toasts de six heures et l'alcool imposé ne sauraient guère passer pour le sommet de la culture."
+      },
+      {
+        "s": 0,
+        "ar": "ძალით დალევა უკიდურესობაა. თამადის ხელოვნება კი სწორედ იმაშია, რომ სიტყვამ ადამიანები დააახლოოს.",
+        "translit": "dzalit daleva uk'iduresobaa. tamadis khelovneba k'i sts'ored imashia, rom sit'q'vam adamianebi daaakhloos.",
+        "fr": "Boire de force, c'est un excès. L'art du tamada consiste justement à rapprocher les gens par la parole."
+      },
+      {
+        "s": 1,
+        "ar": "თეორიულად — დიახ. პრაქტიკაში კი ხშირად მონოლოგი გამოდის, სადაც ქალებს სიტყვა იშვიათად ეძლევათ.",
+        "translit": "teoriulad — diakh. p'rakt'ik'ashi k'i khshirad monologi gamodis, sadats kalebs sit'q'va ishviatad edzlevat.",
+        "fr": "En théorie, oui. En pratique, ça tourne souvent au monologue, où les femmes ont rarement la parole."
+      },
+      {
+        "s": 0,
+        "ar": "ამაში, ვაღიარებ, მართალი ხარ. თუმცა ტრადიცია ცოცხალი ორგანიზმია — იცვლება.",
+        "translit": "amashi, vaghiareb, martali khar. tumtsa t'raditsia tsotskhali organizmia — itsvleba.",
+        "fr": "Là-dessus, je l'admets, tu as raison. Mais une tradition est un organisme vivant : elle évolue."
+      },
+      {
+        "s": 1,
+        "ar": "ჰოდა, ნუ შევეწინააღმდეგებით ამ ცვლილებას. ქალი თამადა დღეს აღარავის უნდა აკვირვებდეს.",
+        "translit": "hoda, nu shevets'inaaghmdegebit am tsvlilebas. kali tamada dghes agharavis unda ak'virvebdes.",
+        "fr": "Eh bien, ne nous opposons pas à ce changement. Une femme tamada ne devrait plus étonner personne aujourd'hui."
+      },
+      {
+        "s": 0,
+        "ar": "დამაჯერებელია. მაგრამ თუ ყველაფერს გადავაკეთებთ, ხომ არ დავკარგავთ იმას, რაც ღირებულია?",
+        "translit": "damajerebelia. magram tu q'velapers gadavak'etebt, khom ar davk'argavt imas, rats ghirebulia?",
+        "fr": "C'est convaincant. Mais si on change tout, ne risque-t-on pas de perdre ce qui a de la valeur ?"
+      },
+      {
+        "s": 1,
+        "ar": "რაც ღირებულია, თავისით გადარჩება. დანარჩენი კი დროის ამბავია.",
+        "translit": "rats ghirebulia, tavisit gadarcheba. danarcheni k'i drois ambavia.",
+        "fr": "Ce qui a de la valeur survivra de lui-même. Le reste n'est qu'une question de temps."
+      },
+      {
+        "s": 0,
+        "ar": "ერთ რამეზე მაინც შევთანხმდით: ღვინოს ვერავინ შეეხება.",
+        "translit": "ert rameze maints shevtankhmdit: ghvinos veravin sheekheba.",
+        "fr": "Au moins, on est d'accord sur une chose : personne ne touchera au vin."
+      },
+      {
+        "s": 1,
+        "ar": "ამაზე, აბა, ვინ იდავებს!",
+        "translit": "amaze, aba, vin idavebs!",
+        "fr": "Ça, qui irait le contester !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d54",
+    "level": 5,
+    "situation": "Convaincre",
+    "title": "Une chance qui ne se représentera pas",
+    "speakers": [
+      "Tamar",
+      "Giorgi"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ჯერ კიდევ ყოყმანობ? ასეთი შანსი ადამიანს ცხოვრებაში ერთხელ ეძლევა.",
+        "translit": "jer k'idev q'oq'manob? aseti shansi adamians tskhovrebashi ertkhel edzleva.",
+        "fr": "Tu hésites encore ? Une chance pareille ne se présente qu'une fois dans une vie."
+      },
+      {
+        "s": 1,
+        "ar": "ადვილი სათქმელია. ოჯახი, მეგობრები — ყველაფერი აქ რჩება.",
+        "translit": "advili satkmelia. ojakhi, megobrebi — q'velaperi ak rcheba.",
+        "fr": "Facile à dire. La famille, les amis — tout reste ici."
+      },
+      {
+        "s": 0,
+        "ar": "ორი წლით მიდიხარ და არა სამუდამოდ. თანაც, ასჯერ გაგონილს ერთხელ ნანახი სჯობია.",
+        "translit": "ori ts'lit midikhar da ara samudamod. tanats, asjer gagonils ertkhel nanakhi sjobia.",
+        "fr": "Tu pars pour deux ans, pas pour toujours. Et puis, mieux vaut voir une fois qu'entendre cent fois."
+      },
+      {
+        "s": 1,
+        "ar": "ეგ კი, მაგრამ რომ ვერ შევეგუო? ჩემი ფრანგულიც ჯერ კიდევ კოჭლობს.",
+        "translit": "eg k'i, magram rom ver sheveguo? chemi prangulits jer k'idev k'och'lobs.",
+        "fr": "Certes, mais si je n'arrive pas à m'adapter ? Mon français est encore boiteux."
+      },
+      {
+        "s": 0,
+        "ar": "ენა იქ უფრო სწრაფად დაიხვეწება, ვიდრე აქ წლობით რომ ისწავლო.",
+        "translit": "ena ik upro sts'rapad daikhvets'eba, vidre ak ts'lobit rom ists'avlo.",
+        "fr": "Ta langue s'améliorera plus vite là-bas qu'en l'étudiant ici pendant des années."
+      },
+      {
+        "s": 1,
+        "ar": "ისე ლაპარაკობ, თითქოს ჩემს ადგილზე ერთ წამსაც არ დაფიქრდებოდი.",
+        "translit": "ise lap'arak'ob, titkos chems adgilze ert ts'amsats ar dapikrdebodi.",
+        "fr": "Tu parles comme si, à ma place, tu n'hésiterais pas une seconde."
+      },
+      {
+        "s": 0,
+        "ar": "არ დავფიქრდებოდი. ზოგჯერ ზედმეტი ფიქრი შიშის შენიღბული ფორმაა.",
+        "translit": "ar davpikrdebodi. zogjer zedmet'i pikri shishis shenighbuli pormaa.",
+        "fr": "Je n'hésiterais pas. Parfois, trop réfléchir n'est qu'une forme déguisée de peur."
+      },
+      {
+        "s": 1,
+        "ar": "ოჰ, ფსიქოლოგის როლში შესულხარ!",
+        "translit": "oh, psikologis rolshi shesulkhar!",
+        "fr": "Oh, te voilà dans le rôle de la psychologue !"
+      },
+      {
+        "s": 0,
+        "ar": "ხუმრობა იქით იყოს. უარს თუ იტყვი, მერე ინანებ — ეს შენც კარგად იცი.",
+        "translit": "khumroba ikit iq'os. uars tu it'q'vi, mere inaneb — es shents k'argad itsi.",
+        "fr": "Plaisanterie à part. Si tu refuses, tu le regretteras — et tu le sais très bien."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, დამარწმუნე. ხვალვე მოვაწერ ხელს.",
+        "translit": "k'argi, damarts'mune. khvalve movats'er khels.",
+        "fr": "Bon, tu m'as convaincu. Je signe dès demain."
+      }
+    ]
+  },
+  {
+    "id": "ka-d55",
+    "level": 5,
+    "situation": "Registre administratif",
+    "title": "Une requête à la mairie",
+    "speakers": [
+      "Levan",
+      "Rusudan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ქალბატონო რუსუდან, ნება მომეცით, მოგმართოთ ერთი საკითხით, რომელიც ჩვენს ქუჩას ეხება.",
+        "translit": "kalbat'ono rusudan, neba mometsit, mogmartot erti sak'itkhit, romelits chvens kuchas ekheba.",
+        "fr": "Madame Roussoudan, permettez-moi de vous solliciter au sujet d'une question qui concerne notre rue."
+      },
+      {
+        "s": 1,
+        "ar": "გისმენთ, ბატონო ლევან. რა გაწუხებთ?",
+        "translit": "gisment, bat'ono levan. ra gats'ukhebt?",
+        "fr": "Je vous écoute, monsieur Levan. Qu'est-ce qui vous préoccupe ?"
+      },
+      {
+        "s": 0,
+        "ar": "ქუჩის განათება სამი თვეა არ ფუნქციონირებს, მიუხედავად არაერთი წერილობითი მიმართვისა.",
+        "translit": "kuchis ganateba sami tvea ar punktsionirebs, miukhedavad araerti ts'erilobiti mimartvisa.",
+        "fr": "L'éclairage de la rue ne fonctionne plus depuis trois mois, malgré plusieurs demandes écrites."
+      },
+      {
+        "s": 1,
+        "ar": "მოგეხსენებათ, ბიუჯეტი შეზღუდულია და სამუშაოები რიგის მიხედვით სრულდება.",
+        "translit": "mogekhsenebat, biujet'i shezghudulia da samushaoebi rigis mikhedvit sruldeba.",
+        "fr": "Comme vous le savez, le budget est limité et les travaux sont effectués par ordre de priorité."
+      },
+      {
+        "s": 0,
+        "ar": "გასაგებია, თუმცა საქმე უსაფრთხოებას ეხება. გასულ კვირას ხანდაზმული მეზობელი სიბნელეში დაეცა.",
+        "translit": "gasagebia, tumtsa sakme usaprtkhoebas ekheba. gasul k'viras khandazmuli mezobeli sibneleshi daetsa.",
+        "fr": "Je comprends, mais il s'agit de sécurité. La semaine dernière, une voisine âgée est tombée dans l'obscurité."
+      },
+      {
+        "s": 1,
+        "ar": "ეს სერიოზული გარემოებაა. გთხოვთ, ოფიციალური განცხადება შეიტანოთ და ეს შემთხვევაც მიუთითოთ.",
+        "translit": "es seriozuli garemoebaa. gtkhovt, opitsialuri gantskhadeba sheit'anot da es shemtkhvevats miutitot.",
+        "fr": "C'est une circonstance sérieuse. Je vous prie de déposer une demande officielle en mentionnant cet incident."
+      },
+      {
+        "s": 0,
+        "ar": "განცხადება უკვე შევიტანე. აი, რეგისტრაციის ნომერი.",
+        "translit": "gantskhadeba uk've shevit'ane. ai, regist'ratsiis nomeri.",
+        "fr": "J'ai déjà déposé la demande. Voici le numéro d'enregistrement."
+      },
+      {
+        "s": 1,
+        "ar": "მადლობა. პირადად გავაკონტროლებ, რომ საკითხი პრიორიტეტულად განიხილონ.",
+        "translit": "madloba. p'iradad gavak'ont'roleb, rom sak'itkhi p'riorit'et'ulad ganikhilon.",
+        "fr": "Merci. Je veillerai personnellement à ce que la question soit traitée en priorité."
+      },
+      {
+        "s": 0,
+        "ar": "დიდად დამავალებთ. პასუხს რა ვადაში უნდა ველოდო?",
+        "translit": "didad damavalebt. p'asukhs ra vadashi unda velodo?",
+        "fr": "Je vous en serais très obligé. Dans quel délai dois-je attendre une réponse ?"
+      },
+      {
+        "s": 1,
+        "ar": "კანონით — ერთ თვეში, მაგრამ ვეცდები, უფრო ადრე გიპასუხოთ.",
+        "translit": "k'anonit — ert tveshi, magram vetsdebi, upro adre gip'asukhot.",
+        "fr": "Selon la loi, sous un mois, mais je tâcherai de vous répondre plus tôt."
+      }
+    ]
+  },
+  {
+    "id": "ka-d56",
+    "level": 5,
+    "situation": "Registre familier",
+    "title": "Alors, cette mairie ?",
+    "speakers": [
+      "Levan",
+      "Dato"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "აბა, მერიაში როგორ ჩაიარა?",
+        "translit": "aba, meriashi rogor chaiara?",
+        "fr": "Alors, ça s'est passé comment à la mairie ?"
+      },
+      {
+        "s": 1,
+        "ar": "რა გითხრა. ჯერ «ბიუჯეტი შეზღუდულიაო», მერე — «რიგის მიხედვითო».",
+        "translit": "ra gitkhra. jer «biujet'i shezghuduliao», mere — «rigis mikhedvito».",
+        "fr": "Que te dire. D'abord « le budget est limité », ensuite « par ordre de priorité »."
+      },
+      {
+        "s": 0,
+        "ar": "ანუ ისევ ძველი სიმღერა.",
+        "translit": "anu isev dzveli simghera.",
+        "fr": "Bref, toujours la même rengaine."
+      },
+      {
+        "s": 1,
+        "ar": "მოიცა, ბოლოს ტონი შეიცვალა. როცა ჩვენი მეზობელი ქალის ამბავი მოვუყევი, მაშინვე სხვანაირად დაიწყო ლაპარაკი.",
+        "translit": "moitsa, bolos t'oni sheitsvala. rotsa chveni mezobeli kalis ambavi movuq'evi, mashinve skhvanairad daits'q'o lap'arak'i.",
+        "fr": "Attends, à la fin le ton a changé. Quand je lui ai raconté l'histoire de notre voisine, elle s'est tout de suite mise à parler autrement."
+      },
+      {
+        "s": 0,
+        "ar": "ანუ თვალი აუხილე.",
+        "translit": "anu tvali aukhile.",
+        "fr": "Autrement dit, tu lui as ouvert les yeux."
+      },
+      {
+        "s": 1,
+        "ar": "ასე გამოდის. პირადად გავაკონტროლებო, თქვა.",
+        "translit": "ase gamodis. p'iradad gavak'ont'rolebo, tkva.",
+        "fr": "On dirait. Elle a dit qu'elle s'en occuperait personnellement."
+      },
+      {
+        "s": 0,
+        "ar": "ჰო, ჰო. ეგეთ დაპირებებს ქარი მიაქვს.",
+        "translit": "ho, ho. eget dap'irebebs kari miakvs.",
+        "fr": "Ouais, ouais. Ce genre de promesses, le vent les emporte."
+      },
+      {
+        "s": 1,
+        "ar": "შენ სულ ასეთი ხარ — ჭიქა ყოველთვის ნახევრად ცარიელი გაქვს.",
+        "translit": "shen sul aseti khar — ch'ika q'oveltvis nakhevrad tsarieli gakvs.",
+        "fr": "Tu es toujours comme ça — pour toi, le verre est toujours à moitié vide."
+      },
+      {
+        "s": 0,
+        "ar": "რეალისტი ვარ, ძმაო. ერთ თვეში ვნახოთ, ვინ იყო მართალი.",
+        "translit": "realist'i var, dzmao. ert tveshi vnakhot, vin iq'o martali.",
+        "fr": "Je suis réaliste, mon vieux. On verra dans un mois qui avait raison."
+      },
+      {
+        "s": 1,
+        "ar": "ნაძლევი? თუ შუქი ანთია, ხინკალი შენზეა.",
+        "translit": "nadzlevi? tu shuki antia, khink'ali shenzea.",
+        "fr": "On parie ? Si la lumière est allumée, c'est toi qui paies les khinkalis."
+      },
+      {
+        "s": 0,
+        "ar": "მოდი, ხელი დავარტყათ!",
+        "translit": "modi, kheli davart'q'at!",
+        "fr": "Tope là !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d57",
+    "level": 5,
+    "situation": "Proverbes",
+    "title": "Les conseils de grand-mère",
+    "speakers": [
+      "Luka",
+      "Ketevan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ბებო, გამოცდაზე ისევ ჩავიჭერი. აღარ ვიცი, რა ვქნა.",
+        "translit": "bebo, gamotsdaze isev chavich'eri. aghar vitsi, ra vkna.",
+        "fr": "Mamie, j'ai encore raté l'examen. Je ne sais plus quoi faire."
+      },
+      {
+        "s": 1,
+        "ar": "ნუ დარდობ, შვილო. წვეთი ქვას ხვრეტს — ხომ გაგიგია?",
+        "translit": "nu dardob, shvilo. ts'veti kvas khvret's — khom gagigia?",
+        "fr": "Ne t'en fais pas, mon petit. La goutte d'eau finit par percer la pierre — tu connais ?"
+      },
+      {
+        "s": 0,
+        "ar": "გამიგია, მაგრამ მგონი, ჩემი ქვა ზედმეტად მაგარია.",
+        "translit": "gamigia, magram mgoni, chemi kva zedmet'ad magaria.",
+        "fr": "Je connais, mais je crois que ma pierre est un peu trop dure."
+      },
+      {
+        "s": 1,
+        "ar": "ჰა-ჰა! სიმართლე მითხარი: ბევრს მეცადინეობდი თუ ისევ ღამეებს ტელეფონში ათენებდი?",
+        "translit": "ha-ha! simartle mitkhari: bevrs metsadineobdi tu isev ghameebs t'eleponshi atenebdi?",
+        "fr": "Ha ha ! Dis-moi la vérité : tu as beaucoup révisé ou tu passais encore tes nuits sur ton téléphone ?"
+      },
+      {
+        "s": 0,
+        "ar": "ცოტა ორივე.",
+        "translit": "tsot'a orive.",
+        "fr": "Un peu les deux."
+      },
+      {
+        "s": 1,
+        "ar": "აი, ხედავ? რასაც დათესავ, იმას მოიმკი.",
+        "translit": "ai, khedav? rasats datesav, imas moimk'i.",
+        "fr": "Tu vois ? On récolte ce que l'on sème."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, ბებო, ჭკუას ნუ მასწავლი.",
+        "translit": "k'argi, bebo, ch'k'uas nu masts'avli.",
+        "fr": "Bon, mamie, ne me fais pas la morale."
+      },
+      {
+        "s": 1,
+        "ar": "ჭკუას კი არა, გამოცდილებას გიზიარებ. ჩემს დროს ტელეფონი კი არა, ელექტროენერგიაც ხშირად არ გვქონდა.",
+        "translit": "ch'k'uas k'i ara, gamotsdilebas giziareb. chems dros t'eleponi k'i ara, elekt'roenergiats khshirad ar gvkonda.",
+        "fr": "Ce n'est pas la morale, je partage mon expérience. De mon temps, on n'avait pas de téléphone, et souvent même pas d'électricité."
+      },
+      {
+        "s": 0,
+        "ar": "და მაინც ყველაფერს სწავლობდით, ვიცი, ვიცი.",
+        "translit": "da maints q'velapers sts'avlobdit, vitsi, vitsi.",
+        "fr": "Et vous appreniez quand même tout, je sais, je sais."
+      },
+      {
+        "s": 1,
+        "ar": "ჰოდა, ტელეფონი ჩემთან დატოვე და წიგნს მიუჯექი. მე ხაჭაპურს გამოგიცხობ.",
+        "translit": "hoda, t'eleponi chemtan dat'ove da ts'igns miujeki. me khach'ap'urs gamogitskhob.",
+        "fr": "Eh bien, laisse-moi ton téléphone et mets-toi à tes livres. Moi, je te prépare un khatchapouri."
+      },
+      {
+        "s": 0,
+        "ar": "აი, ეს უკვე ნამდვილი მოლაპარაკებაა!",
+        "translit": "ai, es uk've namdvili molap'arak'ebaa!",
+        "fr": "Ça, c'est une vraie négociation !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d58",
+    "level": 5,
+    "situation": "Débat d'idées",
+    "title": "L'IA va-t-elle nous remplacer ?",
+    "speakers": [
+      "Mariam",
+      "Saba"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ხელოვნური ინტელექტი, ჩემი აზრით, უახლოეს ათწლეულში სამუშაო ადგილების ნახევარს გააქრობს.",
+        "translit": "khelovnuri int'elekt'i, chemi azrit, uakhloes atts'leulshi samushao adgilebis nakhevars gaakrobs.",
+        "fr": "L'intelligence artificielle, selon moi, fera disparaître la moitié des emplois dans la décennie à venir."
+      },
+      {
+        "s": 1,
+        "ar": "ასეთი პროგნოზები ინდუსტრიული რევოლუციის დროსაც ისმოდა, თუმცა ახალი პროფესიები წარმოიქმნა.",
+        "translit": "aseti p'rognozebi indust'riuli revolutsiis drosats ismoda, tumtsa akhali p'ropesiebi ts'armoikmna.",
+        "fr": "On entendait déjà ce genre de prévisions pendant la révolution industrielle, et pourtant de nouveaux métiers sont apparus."
+      },
+      {
+        "s": 0,
+        "ar": "განსხვავება ისაა, რომ მაშინ ცვლილება ათწლეულობით გრძელდებოდა, ახლა კი რამდენიმე წელიწადში ხდება.",
+        "translit": "ganskhvaveba isaa, rom mashin tsvlileba atts'leulobit grdzeldeboda, akhla k'i ramdenime ts'elits'adshi khdeba.",
+        "fr": "La différence, c'est qu'à l'époque le changement s'étalait sur des décennies, alors qu'aujourd'hui il se fait en quelques années."
+      },
+      {
+        "s": 1,
+        "ar": "სამართლიანი შენიშვნაა. მაგრამ სწრაფი ტემპი ავტომატურად კატასტროფას არ ნიშნავს.",
+        "translit": "samartliani shenishvnaa. magram sts'rapi t'emp'i avt'omat'urad k'at'ast'ropas ar nishnavs.",
+        "fr": "Remarque juste. Mais un rythme rapide ne signifie pas automatiquement la catastrophe."
+      },
+      {
+        "s": 0,
+        "ar": "თუ სახელმწიფო გადამზადებაზე დროულად არ იზრუნებს, სწორედ ასე იქნება.",
+        "translit": "tu sakhelmts'ipo gadamzadebaze droulad ar izrunebs, sts'ored ase ikneba.",
+        "fr": "Si l'État ne s'occupe pas à temps de la reconversion, c'est bien ce qui arrivera."
+      },
+      {
+        "s": 1,
+        "ar": "აქ გეთანხმები: პრობლემა ტექნოლოგიაში კი არ არის, არამედ იმაში, თუ როგორ ვემზადებით.",
+        "translit": "ak getankhmebi: p'roblema t'eknologiashi k'i ar aris, aramed imashi, tu rogor vemzadebit.",
+        "fr": "Là, je te rejoins : le problème n'est pas la technologie, mais la manière dont nous nous y préparons."
+      },
+      {
+        "s": 0,
+        "ar": "მაშინ რას შესთავაზებდი?",
+        "translit": "mashin ras shestavazebdi?",
+        "fr": "Alors, que proposerais-tu ?"
+      },
+      {
+        "s": 1,
+        "ar": "განათლების სისტემა ისე უნდა გარდაიქმნას, რომ ადამიანებს მთელი ცხოვრების განმავლობაში სწავლის შესაძლებლობა ჰქონდეთ.",
+        "translit": "ganatlebis sist'ema ise unda gardaikmnas, rom adamianebs mteli tskhovrebis ganmavlobashi sts'avlis shesadzlebloba hkondet.",
+        "fr": "Il faudrait transformer le système éducatif pour que chacun puisse apprendre tout au long de sa vie."
+      },
+      {
+        "s": 0,
+        "ar": "ლამაზად ჟღერს, მაგრამ ვინ დააფინანსებს?",
+        "translit": "lamazad zhghers, magram vin daapinansebs?",
+        "fr": "Ça sonne bien, mais qui va financer ça ?"
+      },
+      {
+        "s": 1,
+        "ar": "ის კომპანიები, რომლებიც ავტომატიზაციით ყველაზე მეტს იგებენ.",
+        "translit": "is k'omp'aniebi, romlebits avt'omat'izatsiit q'velaze met's igeben.",
+        "fr": "Les entreprises qui gagnent le plus grâce à l'automatisation."
+      },
+      {
+        "s": 0,
+        "ar": "ამ იდეას, ვფიქრობ, ბევრი ლობისტი შეეწინააღმდეგება.",
+        "translit": "am ideas, vpikrob, bevri lobist'i sheets'inaaghmdegeba.",
+        "fr": "Je pense que beaucoup de lobbyistes s'opposeront à cette idée."
+      },
+      {
+        "s": 1,
+        "ar": "რა თქმა უნდა. მაგრამ დებატი ხომ ამისთვისაა — ადვილ გზას არავინ დაგვპირებია.",
+        "translit": "ra tkma unda. magram debat'i khom amistvisaa — advil gzas aravin dagvp'irebia.",
+        "fr": "Bien sûr. Mais c'est à ça que sert un débat — personne ne nous a promis un chemin facile."
+      }
+    ]
+  },
+  {
+    "id": "ka-d59",
+    "level": 5,
+    "situation": "Humour et ironie",
+    "title": "L'exposition dans la cuisine",
+    "speakers": [
+      "Elene",
+      "Nika"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ნიკა, სამზარეულოში არქეოლოგიური გათხრები დავიწყე. ერთი კვირის თეფშებს ვპოულობ.",
+        "translit": "nik'a, samzareuloshi arkeologiuri gatkhrebi davits'q'e. erti k'viris tepshebs vp'oulob.",
+        "fr": "Nika, j'ai entamé des fouilles archéologiques dans la cuisine. Je trouve des assiettes vieilles d'une semaine."
+      },
+      {
+        "s": 1,
+        "ar": "ოჰ, ეს ხელოვნების ნიმუშია. ინსტალაციას «თანამედროვე ყოფა» ჰქვია.",
+        "translit": "oh, es khelovnebis nimushia. inst'alatsias «tanamedrove q'opa» hkvia.",
+        "fr": "Oh, c'est une œuvre d'art. L'installation s'intitule « La condition moderne »."
+      },
+      {
+        "s": 0,
+        "ar": "ძალიან სასაცილოა. თუ ხვალამდე «გამოფენა» არ დაიხურა, ყველა ექსპონატს შენს საწოლზე დავაწყობ.",
+        "translit": "dzalian sasatsiloa. tu khvalamde «gamopena» ar daikhura, q'vela eksp'onat's shens sats'olze davats'q'ob.",
+        "fr": "Très drôle. Si « l'exposition » n'a pas fermé d'ici demain, j'installe toutes les pièces sur ton lit."
+      },
+      {
+        "s": 1,
+        "ar": "მკაცრი კურატორი ყოფილხარ!",
+        "translit": "mk'atsri k'urat'ori q'opilkhar!",
+        "fr": "Eh bien, tu es une commissaire sévère !"
+      },
+      {
+        "s": 0,
+        "ar": "სამი თვეა, ვითმენ. ყველაფერს აქვს საზღვარი.",
+        "translit": "sami tvea, vitmen. q'velapers akvs sazghvari.",
+        "fr": "Ça fait trois mois que je patiente. Tout a ses limites."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, კარგი, ვნებდები. დღესვე გავრეცხავ.",
+        "translit": "k'argi, k'argi, vnebdebi. dghesve gavretskhav.",
+        "fr": "Bon, bon, je capitule. Je fais la vaisselle aujourd'hui même."
+      },
+      {
+        "s": 0,
+        "ar": "«დღესვე» — შენგან უკვე ბევრჯერ გამიგია.",
+        "translit": "«dghesve» — shengan uk've bevrjer gamigia.",
+        "fr": "« Aujourd'hui même », je te l'ai déjà entendu dire bien des fois."
+      },
+      {
+        "s": 1,
+        "ar": "ამჯერად სიტყვას გაძლევ. თუ არ შევასრულე, მთელი თვე მე დავალაგებ.",
+        "translit": "amjerad sit'q'vas gadzlev. tu ar shevasrule, mteli tve me davalageb.",
+        "fr": "Cette fois, je te donne ma parole. Si je ne la tiens pas, je fais le ménage tout le mois."
+      },
+      {
+        "s": 0,
+        "ar": "ჩავიწერე. მოწმედ კი ჩვენი კატა გვყავს.",
+        "translit": "chavits'ere. mots'med k'i chveni k'at'a gvq'avs.",
+        "fr": "C'est noté. Et notre chat nous servira de témoin."
+      },
+      {
+        "s": 1,
+        "ar": "კატა ჩემს მხარესაა, ყოველ შემთხვევაში — სანამ საჭმელს ვაძლევ.",
+        "translit": "k'at'a chems mkharesaa, q'ovel shemtkhvevashi — sanam sach'mels vadzlev.",
+        "fr": "Le chat est de mon côté, en tout cas tant que c'est moi qui le nourris."
+      }
+    ]
+  },
+  {
+    "id": "ka-d60",
+    "level": 5,
+    "situation": "Négociation d'affaires",
+    "title": "Un contrat d'exportation de vin",
+    "speakers": [
+      "Revaz",
+      "Ana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ქალბატონო ანა, ჩვენი მხრიდან მზად ვართ, ექსპორტის მოცულობა გავზარდოთ, თუ ფასზე შევთანხმდებით.",
+        "translit": "kalbat'ono ana, chveni mkhridan mzad vart, eksp'ort'is motsuloba gavzardot, tu pasze shevtankhmdebit.",
+        "fr": "Madame Ana, de notre côté, nous sommes prêts à augmenter le volume d'exportation si nous nous entendons sur le prix."
+      },
+      {
+        "s": 1,
+        "ar": "ბატონო რევაზ, მოგეხსენებათ, რომ წლევანდელი მოსავალი უჩვეულოდ მცირე იყო. ფასის დაკლება გვიჭირს.",
+        "translit": "bat'ono revaz, mogekhsenebat, rom ts'levandeli mosavali uchveulod mtsire iq'o. pasis dak'leba gvich'irs.",
+        "fr": "Monsieur Revaz, comme vous le savez, la récolte de cette année a été exceptionnellement faible. Il nous est difficile de baisser le prix."
+      },
+      {
+        "s": 0,
+        "ar": "გასაგებია. თუმცა გრძელვადიანი ხელშეკრულება სტაბილურობას მოგიტანდათ, რაც თქვენთვისაც ხელსაყრელი იქნებოდა.",
+        "translit": "gasagebia. tumtsa grdzelvadiani khelshek'ruleba st'abilurobas mogit'andat, rats tkventvisats khelsaq'reli ikneboda.",
+        "fr": "Je comprends. Toutefois, un contrat à long terme vous apporterait de la stabilité, ce qui serait aussi à votre avantage."
+      },
+      {
+        "s": 1,
+        "ar": "არ უარვყოფ. რა ვადაზე საუბრობთ?",
+        "translit": "ar uarvq'op. ra vadaze saubrobt?",
+        "fr": "Je ne le nie pas. De quelle durée parlez-vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "სამ წელზე, წინასწარ შეთანხმებული მინიმალური შესყიდვით.",
+        "translit": "sam ts'elze, ts'inasts'ar shetankhmebuli minimaluri shesq'idvit.",
+        "fr": "De trois ans, avec un volume d'achat minimal convenu à l'avance."
+      },
+      {
+        "s": 1,
+        "ar": "ასეთ პირობებში, შესაძლოა, ხუთპროცენტიანი ფასდაკლება განვიხილოთ, მაგრამ არა მეტი.",
+        "translit": "aset p'irobebshi, shesadzloa, khutp'rotsent'iani pasdak'leba ganvikhilot, magram ara met'i.",
+        "fr": "Dans ces conditions, nous pourrions envisager une remise de cinq pour cent, mais pas davantage."
+      },
+      {
+        "s": 0,
+        "ar": "ჩვენ რვა პროცენტზე ვვარაუდობდით. იქნებ შუალედური ვარიანტი მოვძებნოთ?",
+        "translit": "chven rva p'rotsent'ze vvaraudobdit. ikneb shualeduri variant'i movdzebnot?",
+        "fr": "Nous tablions sur huit pour cent. Peut-être pourrions-nous trouver une solution intermédiaire ?"
+      },
+      {
+        "s": 1,
+        "ar": "ექვსი პროცენტი, იმ პირობით, რომ ტრანსპორტირების ხარჯებს თქვენ აიღებთ.",
+        "translit": "ekvsi p'rotsent'i, im p'irobit, rom t'ransp'ort'irebis kharjebs tkven aighebt.",
+        "fr": "Six pour cent, à condition que vous preniez en charge les frais de transport."
+      },
+      {
+        "s": 0,
+        "ar": "ეს გონივრული წინადადებაა. ხელმძღვანელობასთან შევათანხმებ და ორშაბათამდე გაცნობებთ.",
+        "translit": "es gonivruli ts'inadadebaa. khelmdzghvanelobastan shevatankhmeb da orshabatamde gatsnobebt.",
+        "fr": "C'est une proposition raisonnable. J'en conviendrai avec ma direction et je vous informerai d'ici lundi."
+      },
+      {
+        "s": 1,
+        "ar": "შესანიშნავია. იმედი მაქვს, ეს ხანგრძლივი თანამშრომლობის დასაწყისი იქნება.",
+        "translit": "shesanishnavia. imedi makvs, es khangrdzlivi tanamshromlobis dasats'q'isi ikneba.",
+        "fr": "Parfait. J'espère que ce sera le début d'une longue collaboration."
+      },
+      {
+        "s": 0,
+        "ar": "ჩვენც ასე გვსურს. ხელმოწერის შემდეგ კი, თქვენი საფერავით აღვნიშნოთ.",
+        "translit": "chvents ase gvsurs. khelmots'eris shemdeg k'i, tkveni saperavit aghvnishnot.",
+        "fr": "Nous le souhaitons aussi. Et après la signature, fêtons ça avec votre saperavi."
+      }
+    ]
+  },
+  {
+    "id": "ka-d61",
+    "level": 5,
+    "situation": "Rumeurs au bureau",
+    "title": "Ne pas vendre la peau de l'ours",
+    "speakers": [
+      "Lasha",
+      "Keti"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გაიგე? ამბობენ, რომ განყოფილების ხელმძღვანელად დამნიშნავენ.",
+        "translit": "gaige? amboben, rom ganq'opilebis khelmdzghvanelad damnishnaven.",
+        "fr": "Tu as entendu ? On dit que je vais être nommé chef de service."
+      },
+      {
+        "s": 1,
+        "ar": "ვინ ამბობს? ოფიციალურია თუ ჭორია?",
+        "translit": "vin ambobs? opitsialuria tu ch'oria?",
+        "fr": "Qui dit ça ? C'est officiel ou c'est une rumeur ?"
+      },
+      {
+        "s": 0,
+        "ar": "ოფიციალურად ჯერ არაფერი უთქვამთ, მაგრამ დირექტორმა მრავალმნიშვნელოვნად შემომხედა.",
+        "translit": "opitsialurad jer araperi utkvamt, magram direkt'orma mravalmnishvnelovnad shemomkheda.",
+        "fr": "Officiellement, rien n'a encore été dit, mais le directeur m'a lancé un regard lourd de sens."
+      },
+      {
+        "s": 1,
+        "ar": "მრავალმნიშვნელოვნად? შეიძლება უბრალოდ შენი ჰალსტუხი მოეწონა.",
+        "translit": "mravalmnishvnelovnad? sheidzleba ubralod sheni halst'ukhi moets'ona.",
+        "fr": "Lourd de sens ? Ta cravate lui a peut-être simplement plu."
+      },
+      {
+        "s": 0,
+        "ar": "შენ სულ ცივ წყალს მასხამ.",
+        "translit": "shen sul tsiv ts'q'als maskham.",
+        "fr": "Tu me refroidis toujours."
+      },
+      {
+        "s": 1,
+        "ar": "ცივ წყალს კი არა, სიფრთხილეს გირჩევ. წიწილებს შემოდგომაზე თვლიანო, ხომ იცი.",
+        "translit": "tsiv ts'q'als k'i ara, siprtkhiles girchev. ts'its'ilebs shemodgomaze tvliano, khom itsi.",
+        "fr": "Je ne te refroidis pas, je te conseille la prudence. Il ne faut pas vendre la peau de l'ours avant de l'avoir tué, tu sais."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, მაგრამ თუ დამნიშნეს, პირველი შენ გაიგებ.",
+        "translit": "k'argi, magram tu damnishnes, p'irveli shen gaigeb.",
+        "fr": "D'accord, mais si on me nomme, tu seras la première au courant."
+      },
+      {
+        "s": 1,
+        "ar": "და თუ არ დაგნიშნეს?",
+        "translit": "da tu ar dagnishnes?",
+        "fr": "Et si on ne te nomme pas ?"
+      },
+      {
+        "s": 0,
+        "ar": "მაშინ ვიტყვი, რომ ეს თანამდებობა არც მინდოდა.",
+        "translit": "mashin vit'q'vi, rom es tanamdeboba arts mindoda.",
+        "fr": "Alors je dirai que je ne voulais même pas de ce poste."
+      },
+      {
+        "s": 1,
+        "ar": "აი, ესაა ნამდვილი ქართული დიპლომატია!",
+        "translit": "ai, esaa namdvili kartuli dip'lomat'ia!",
+        "fr": "Ça, c'est de la vraie diplomatie géorgienne !"
+      },
+      {
+        "s": 0,
+        "ar": "დიპლომატია კი არა, თავდაცვის ინსტინქტი.",
+        "translit": "dip'lomat'ia k'i ara, tavdatsvis inst'inkt'i.",
+        "fr": "Pas de la diplomatie : de l'instinct de survie."
+      }
+    ]
+  },
+  {
+    "id": "ka-d62",
+    "level": 5,
+    "situation": "Consultation juridique",
+    "title": "La clôture du voisin",
+    "speakers": [
+      "Gela",
+      "Nato"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ქალბატონო ნატო, მეზობელმა ჩვენს ეზოში ღობე ისე ააშენა, რომ ნაკვეთის ნაწილი მიითვისა.",
+        "translit": "kalbat'ono nat'o, mezobelma chvens ezoshi ghobe ise aashena, rom nak'vetis nats'ili miitvisa.",
+        "fr": "Madame Nato, mon voisin a construit une clôture dans notre cour de telle façon qu'il s'est approprié une partie du terrain."
+      },
+      {
+        "s": 1,
+        "ar": "საკადასტრო ნახაზი გაქვთ? მის გარეშე რაიმეს დამტკიცება რთული იქნება.",
+        "translit": "sak'adast'ro nakhazi gakvt? mis gareshe raimes damt'k'itseba rtuli ikneba.",
+        "fr": "Vous avez le plan cadastral ? Sans lui, il sera difficile de prouver quoi que ce soit."
+      },
+      {
+        "s": 0,
+        "ar": "მაქვს, თუმცა ძველია, საბჭოთა დროინდელი.",
+        "translit": "makvs, tumtsa dzvelia, sabch'ota droindeli.",
+        "fr": "Oui, mais il est ancien, il date de l'époque soviétique."
+      },
+      {
+        "s": 1,
+        "ar": "ეს პრობლემას ქმნის. ახალი აზომვა რომ ჩაგეტარებინათ, საქმე ბევრად მარტივი იქნებოდა.",
+        "translit": "es p'roblemas kmnis. akhali azomva rom chaget'arebinat, sakme bevrad mart'ivi ikneboda.",
+        "fr": "Cela pose problème. Si vous aviez fait faire un nouveau bornage, l'affaire serait bien plus simple."
+      },
+      {
+        "s": 0,
+        "ar": "ვინ წარმოიდგენდა, რომ ოცდაათი წლის მეგობრობის შემდეგ ასე მოიქცეოდა?",
+        "translit": "vin ts'armoidgenda, rom otsdaati ts'lis megobrobis shemdeg ase moiktseoda?",
+        "fr": "Qui aurait imaginé qu'après trente ans d'amitié il agirait ainsi ?"
+      },
+      {
+        "s": 1,
+        "ar": "სამწუხაროდ, მიწის საკითხებში მეგობრობა ხშირად უკანა პლანზე გადადის.",
+        "translit": "samts'ukharod, mits'is sak'itkhebshi megobroba khshirad uk'ana p'lanze gadadis.",
+        "fr": "Malheureusement, en matière de terrain, l'amitié passe souvent au second plan."
+      },
+      {
+        "s": 0,
+        "ar": "სასამართლომდე მისვლა აუცილებელია?",
+        "translit": "sasamartlomde misvla autsilebelia?",
+        "fr": "Faut-il forcément aller jusqu'au tribunal ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა. გირჩევთ, ჯერ მედიაციას მიმართოთ. ეს უფრო იაფია და ურთიერთობასაც შეინარჩუნებთ.",
+        "translit": "ara. girchevt, jer mediatsias mimartot. es upro iapia da urtiertobasats sheinarchunebt.",
+        "fr": "Non. Je vous conseille de recourir d'abord à la médiation. C'est moins cher et vous préserverez la relation."
+      },
+      {
+        "s": 0,
+        "ar": "მას შემდეგ, რაც მოხდა, ეს ურთიერთობა დიდად აღარ მაინტერესებს.",
+        "translit": "mas shemdeg, rats mokhda, es urtiertoba didad aghar maint'eresebs.",
+        "fr": "Après ce qui s'est passé, cette relation ne m'intéresse plus guère."
+      },
+      {
+        "s": 1,
+        "ar": "მესმის თქვენი, მაგრამ მეზობლები მაინც იქნებით. ცუდი მშვიდობა კარგ ომს სჯობიაო, ნათქვამია.",
+        "translit": "mesmis tkveni, magram mezoblebi maints iknebit. tsudi mshvidoba k'arg oms sjobiao, natkvamia.",
+        "fr": "Je vous comprends, mais vous resterez voisins. Une mauvaise paix vaut mieux qu'une bonne guerre, dit-on."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, ვცდი. ოღონდ ახალ აზომვასაც ჩავატარებ — ყოველი შემთხვევისთვის.",
+        "translit": "k'argi, vtsdi. oghond akhal azomvasats chavat'areb — q'oveli shemtkhvevistvis.",
+        "fr": "Bien, j'essaierai. Mais je ferai aussi faire un nouveau bornage, à tout hasard."
+      },
+      {
+        "s": 1,
+        "ar": "ბრძნული გადაწყვეტილებაა.",
+        "translit": "brdznuli gadats'q'vet'ilebaa.",
+        "fr": "C'est une sage décision."
+      }
+    ]
+  },
+  {
+    "id": "ka-d63",
+    "level": 5,
+    "situation": "Traduction",
+    "title": "Traduire l'intraduisible",
+    "speakers": [
+      "Tekla",
+      "Otar"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "«შემოგევლე» ფრანგულად როგორ ითარგმნება? ამ სიტყვას შესატყვისს ვერაფრით ვუძებნი.",
+        "translit": "«shemogevle» prangulad rogor itargmneba? am sit'q'vas shesat'q'viss veraprit vudzebni.",
+        "fr": "Comment traduit-on « shemogevle » en français ? Je n'arrive pas à trouver d'équivalent à ce mot."
+      },
+      {
+        "s": 1,
+        "ar": "სიტყვასიტყვით — «შენს გარშემო შემოვივლი», ანუ შენს ტკივილს ჩემზე ავიღებ. ფრანგულში ასეთი რამ არ არსებობს.",
+        "translit": "sit'q'vasit'q'vit — «shens garshemo shemovivli», anu shens t'k'ivils chemze avigheb. prangulshi aseti ram ar arsebobs.",
+        "fr": "Littéralement : « je tournerai autour de toi », c'est-à-dire je prendrai ta douleur sur moi. Ça n'existe pas en français."
+      },
+      {
+        "s": 0,
+        "ar": "ჰოდა, რა ვქნა? «ჩემო ძვირფასო» დავწერო? ძალიან ფერმკრთალია.",
+        "translit": "hoda, ra vkna? «chemo dzvirpaso» davts'ero? dzalian permk'rtalia.",
+        "fr": "Alors, que faire ? Écrire « mon chéri » ? C'est bien trop fade."
+      },
+      {
+        "s": 1,
+        "ar": "მთარგმნელი, როგორც ამბობენ, ავტორის მეტოქეა. ზოგჯერ სიტყვა კი არა, ემოცია უნდა თარგმნო.",
+        "translit": "mtargmneli, rogorts amboben, avt'oris met'okea. zogjer sit'q'va k'i ara, emotsia unda targmno.",
+        "fr": "Le traducteur, comme on dit, est le rival de l'auteur. Parfois, ce n'est pas le mot qu'il faut traduire, mais l'émotion."
+      },
+      {
+        "s": 0,
+        "ar": "ანუ კონტექსტის მიხედვით ვიმოქმედო?",
+        "translit": "anu k'ont'ekst'is mikhedvit vimokmedo?",
+        "fr": "Donc je dois agir selon le contexte ?"
+      },
+      {
+        "s": 1,
+        "ar": "სწორედ. დედის პირში ეს სინაზეა, ბებიის პირში — თითქმის ლოცვა.",
+        "translit": "sts'ored. dedis p'irshi es sinazea, bebiis p'irshi — titkmis lotsva.",
+        "fr": "Exactement. Dans la bouche d'une mère, c'est de la tendresse ; dans celle d'une grand-mère, presque une prière."
+      },
+      {
+        "s": 0,
+        "ar": "ძალიან ლამაზად თქვი. ეგ ფრაზა შენიშვნაში ხომ არ ჩავსვა?",
+        "translit": "dzalian lamazad tkvi. eg praza shenishvnashi khom ar chavsva?",
+        "fr": "C'est joliment dit. Et si je mettais cette phrase en note ?"
+      },
+      {
+        "s": 1,
+        "ar": "შენიშვნები მკითხველს აღიზიანებს. სჯობს, ტექსტი თავისით ლაპარაკობდეს.",
+        "translit": "shenishvnebi mk'itkhvels aghizianebs. sjobs, t'ekst'i tavisit lap'arak'obdes.",
+        "fr": "Les notes agacent le lecteur. Mieux vaut que le texte parle de lui-même."
+      },
+      {
+        "s": 0,
+        "ar": "იოლი სათქმელია. შენ ოცი წელია თარგმნი, მე — ორი.",
+        "translit": "ioli satkmelia. shen otsi ts'elia targmni, me — ori.",
+        "fr": "Facile à dire. Toi, tu traduis depuis vingt ans, moi depuis deux."
+      },
+      {
+        "s": 1,
+        "ar": "ჰოდა, ოცი წლის შემდეგ შენც ასე იტყვი. ახლა კი მოდი, ეს აბზაცი ერთად გავარჩიოთ.",
+        "translit": "hoda, otsi ts'lis shemdeg shents ase it'q'vi. akhla k'i modi, es abzatsi ertad gavarchiot.",
+        "fr": "Eh bien, dans vingt ans, tu diras la même chose. Et maintenant, viens, décortiquons ce paragraphe ensemble."
+      }
+    ]
+  },
+  {
+    "id": "ka-d64",
+    "level": 5,
+    "situation": "Affaire de famille",
+    "title": "La maison de grand-mère",
+    "speakers": [
+      "Maia",
+      "Shota"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "შოთა, ბებიას სახლის გაყიდვაზე უნდა ვილაპარაკოთ. მყიდველმა კარგი ფასი შემოგვთავაზა.",
+        "translit": "shota, bebias sakhlis gaq'idvaze unda vilap'arak'ot. mq'idvelma k'argi pasi shemogvtavaza.",
+        "fr": "Chota, il faut qu'on parle de la vente de la maison de grand-mère. Un acheteur nous a fait une bonne offre."
+      },
+      {
+        "s": 1,
+        "ar": "ფასი რა შუაშია? იმ სახლში გავიზარდეთ.",
+        "translit": "pasi ra shuashia? im sakhlshi gavizardet.",
+        "fr": "Qu'est-ce que le prix vient faire là-dedans ? On a grandi dans cette maison."
+      },
+      {
+        "s": 0,
+        "ar": "ვიცი, ჩემთვისაც ძვირფასია. მაგრამ წლებია, ცარიელი დგას და ნელ-ნელა ინგრევა.",
+        "translit": "vitsi, chemtvisats dzvirpasia. magram ts'lebia, tsarieli dgas da nel-nela ingreva.",
+        "fr": "Je sais, elle m'est chère aussi. Mais elle est vide depuis des années et elle tombe peu à peu en ruine."
+      },
+      {
+        "s": 1,
+        "ar": "ვინ გვიშლის ხელს, რომ შევაკეთოთ?",
+        "translit": "vin gvishlis khels, rom shevak'etot?",
+        "fr": "Qu'est-ce qui nous empêche de la retaper ?"
+      },
+      {
+        "s": 0,
+        "ar": "ფული და დრო, ძმაო. შენ თბილისში ხარ, მე — ბერლინში. ვინ მოუვლის?",
+        "translit": "puli da dro, dzmao. shen tbilisshi khar, me — berlinshi. vin mouvlis?",
+        "fr": "L'argent et le temps, mon frère. Toi, tu es à Tbilissi, moi à Berlin. Qui s'en occupera ?"
+      },
+      {
+        "s": 1,
+        "ar": "ზაფხულობით ჩამოვალ. ერთხელ თუ გავყიდით, უკან ვეღარ დავიბრუნებთ — ეს შენც კარგად იცი.",
+        "translit": "zapkhulobit chamoval. ertkhel tu gavq'idit, uk'an veghar davibrunebt — es shents k'argad itsi.",
+        "fr": "Je viendrai l'été. Une fois vendue, on ne pourra plus la récupérer — tu le sais très bien."
+      },
+      {
+        "s": 0,
+        "ar": "მესმის შენი. მაგრამ ბებია იტყოდა, რომ სახლი ხალხისთვისაა და არა მოგონებებისთვის.",
+        "translit": "mesmis sheni. magram bebia it'q'oda, rom sakhli khalkhistvisaa da ara mogonebebistvis.",
+        "fr": "Je te comprends. Mais grand-mère aurait dit qu'une maison est faite pour les gens, pas pour les souvenirs."
+      },
+      {
+        "s": 1,
+        "ar": "ბებიას სიტყვებს ჩემს წინააღმდეგ ნუ იყენებ. ეს სამართლიანი არ არის.",
+        "translit": "bebias sit'q'vebs chems ts'inaaghmdeg nu iq'eneb. es samartliani ar aris.",
+        "fr": "N'utilise pas les mots de grand-mère contre moi. Ce n'est pas juste."
+      },
+      {
+        "s": 0,
+        "ar": "მართალი ხარ, ბოდიში. აბა, შენ რას გვთავაზობ?",
+        "translit": "martali khar, bodishi. aba, shen ras gvtavazob?",
+        "fr": "Tu as raison, pardon. Alors, qu'est-ce que tu proposes ?"
+      },
+      {
+        "s": 1,
+        "ar": "სახლი სტუმრებს გავაქირაოთ. ასე თავს გაიმართლებს და ჩვენც შევინარჩუნებთ.",
+        "translit": "sakhli st'umrebs gavakiraot. ase tavs gaimartlebs da chvents shevinarchunebt.",
+        "fr": "Louons-la à des visiteurs. Comme ça, elle se rentabilisera et on la gardera."
+      },
+      {
+        "s": 0,
+        "ar": "ეს აზრად არ მომსვლია. ცდად ღირს — ერთი წელი ვცადოთ.",
+        "translit": "es azrad ar momsvlia. tsdad ghirs — erti ts'eli vtsadot.",
+        "fr": "Je n'y avais pas pensé. Ça vaut la peine d'essayer — tentons le coup pendant un an."
+      },
+      {
+        "s": 1,
+        "ar": "თუ არ გამოვიდა, მაშინ ვიფიქროთ გაყიდვაზე. სიტყვას გაძლევ.",
+        "translit": "tu ar gamovida, mashin vipikrot gaq'idvaze. sit'q'vas gadzlev.",
+        "fr": "Si ça ne marche pas, on réfléchira à la vente. Je te donne ma parole."
+      },
+      {
+        "s": 0,
+        "ar": "შევთანხმდით. ბებია ახლა ალბათ გვიღიმის.",
+        "translit": "shevtankhmdit. bebia akhla albat gvighimis.",
+        "fr": "Marché conclu. Grand-mère doit nous sourire en ce moment."
+      }
+    ]
   }
 ]

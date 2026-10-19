@@ -1516,5 +1516,2639 @@
         "fr": "Merci, c'est gentil de ta part."
       }
     ]
+  },
+  {
+    "id": "ar-d29",
+    "level": 3,
+    "situation": "Chez le médecin",
+    "title": "Une forte fièvre",
+    "speakers": [
+      "Hind",
+      "Youssef"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "تَفَضَّلْ بِالْجُلُوسِ. مِمَّ تَشْكُو؟",
+        "translit": "tafaḍḍal bi-l-julūs. mimma tashkū?",
+        "fr": "Asseyez-vous, je vous en prie. De quoi souffrez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "عِنْدِي صُدَاعٌ شَدِيدٌ وَحَرَارَةٌ مُنْذُ ثَلَاثَةِ أَيَّامٍ.",
+        "translit": "ʿindī ṣudāʿun shadīdun wa-ḥarāratun mundhu thalāthati ʾayyām.",
+        "fr": "J'ai un fort mal de tête et de la fièvre depuis trois jours."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ تَشْعُرُ بِأَلَمٍ فِي الْحَلْقِ أَيْضًا؟",
+        "translit": "hal tashʿuru bi-ʾalamin fī l-ḥalqi ʾayḍan?",
+        "fr": "Avez-vous aussi mal à la gorge ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، قَلِيلًا، وَأَسْعُلُ كَثِيرًا فِي اللَّيْلِ.",
+        "translit": "naʿam, qalīlan, wa-ʾasʿulu kathīran fī l-layl.",
+        "fr": "Oui, un peu, et je tousse beaucoup la nuit."
+      },
+      {
+        "s": 0,
+        "ar": "افْتَحْ فَمَكَ مِنْ فَضْلِكَ. حَلْقُكَ أَحْمَرُ قَلِيلًا.",
+        "translit": "iftaḥ famaka min faḍlik. ḥalquka ʾaḥmaru qalīlan.",
+        "fr": "Ouvrez la bouche, s'il vous plaît. Votre gorge est un peu rouge."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ هُوَ شَيْءٌ خَطِيرٌ يَا دُكْتُورَةُ؟",
+        "translit": "hal huwa shayʾun khaṭīrun yā duktūra?",
+        "fr": "C'est grave, docteure ?"
+      },
+      {
+        "s": 0,
+        "ar": "لَا، لَا تَقْلَقْ. إِنَّهَا نَزْلَةُ بَرْدٍ قَوِيَّةٌ فَقَطْ.",
+        "translit": "lā, lā taqlaq. ʾinnahā nazlatu bardin qawiyyatun faqaṭ.",
+        "fr": "Non, ne vous inquiétez pas. C'est seulement un gros rhume."
+      },
+      {
+        "s": 1,
+        "ar": "مَاذَا يَجِبُ أَنْ أَفْعَلَ؟",
+        "translit": "mādhā yajibu ʾan ʾafʿal?",
+        "fr": "Que dois-je faire ?"
+      },
+      {
+        "s": 0,
+        "ar": "سَأَكْتُبُ لَكَ دَوَاءً. خُذْهُ ثَلَاثَ مَرَّاتٍ فِي الْيَوْمِ بَعْدَ الْأَكْلِ.",
+        "translit": "sa-ʾaktubu laka dawāʾan. khudhhu thalātha marrātin fī l-yawmi baʿda l-ʾakl.",
+        "fr": "Je vais vous prescrire un médicament. Prenez-le trois fois par jour après les repas."
+      },
+      {
+        "s": 1,
+        "ar": "وَهَلْ أَسْتَطِيعُ أَنْ أَذْهَبَ إِلَى الْعَمَلِ غَدًا؟",
+        "translit": "wa-hal ʾastaṭīʿu ʾan ʾadhhaba ʾilā l-ʿamali ghadan?",
+        "fr": "Et est-ce que je peux aller travailler demain ?"
+      },
+      {
+        "s": 0,
+        "ar": "مِنَ الْأَفْضَلِ أَنْ تَرْتَاحَ يَوْمَيْنِ، وَاشْرَبْ مَاءً كَثِيرًا.",
+        "translit": "mina l-ʾafḍali ʾan tartāḥa yawmayn, wa-shrab māʾan kathīran.",
+        "fr": "Il vaut mieux vous reposer deux jours, et buvez beaucoup d'eau."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا جَزِيلًا يَا دُكْتُورَةُ.",
+        "translit": "shukran jazīlan yā duktūra.",
+        "fr": "Merci beaucoup, docteure."
+      }
+    ]
+  },
+  {
+    "id": "ar-d30",
+    "level": 3,
+    "situation": "Louer un appartement",
+    "title": "La visite de l'appartement",
+    "speakers": [
+      "Leïla",
+      "Samir"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَرْحَبًا، اتَّصَلْتُ بِكَ أَمْسِ بِخُصُوصِ الشَّقَّةِ الْمَعْرُوضَةِ لِلْإِيجَارِ.",
+        "translit": "marḥaban, ittaṣaltu bika ʾamsi bi-khuṣūṣi sh-shaqqati l-maʿrūḍati li-l-ʾījār.",
+        "fr": "Bonjour, je vous ai appelé hier au sujet de l'appartement à louer."
+      },
+      {
+        "s": 1,
+        "ar": "أَهْلًا بِكِ، تَفَضَّلِي. هَذِهِ هِيَ الشَّقَّةُ: غُرْفَتَا نَوْمٍ وَصَالُونٌ وَمَطْبَخٌ.",
+        "translit": "ʾahlan biki, tafaḍḍalī. hādhihi hiya sh-shaqqa: ghurfatā nawmin wa-ṣālūnun wa-maṭbakh.",
+        "fr": "Bienvenue, entrez. Voici l'appartement : deux chambres, un salon et une cuisine."
+      },
+      {
+        "s": 0,
+        "ar": "إِنَّهَا مُضِيئَةٌ وَوَاسِعَةٌ. كَمِ الْإِيجَارُ فِي الشَّهْرِ؟",
+        "translit": "ʾinnahā muḍīʾatun wa-wāsiʿa. kami l-ʾījāru fī sh-shahr?",
+        "fr": "Il est lumineux et spacieux. Combien coûte le loyer par mois ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَلْفٌ وَمِئَتَا دِرْهَمٍ، بِالْإِضَافَةِ إِلَى الْمَاءِ وَالْكَهْرَبَاءِ.",
+        "translit": "ʾalfun wa-miʾatā dirham, bi-l-ʾiḍāfati ʾilā l-māʾi wa-l-kahrabāʾ.",
+        "fr": "Mille deux cents dirhams, plus l'eau et l'électricité."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا أَغْلَى قَلِيلًا مِمَّا تَوَقَّعْتُ. هَلْ يُمْكِنُ أَنْ نَتَفَاهَمَ عَلَى السِّعْرِ؟",
+        "translit": "hādhā ʾaghlā qalīlan mimmā tawaqqaʿt. hal yumkinu ʾan natafāhama ʿalā s-siʿr?",
+        "fr": "C'est un peu plus cher que prévu. Peut-on s'arranger sur le prix ?"
+      },
+      {
+        "s": 1,
+        "ar": "إِذَا وَقَّعْتِ عَقْدًا لِسَنَةٍ كَامِلَةٍ، أُخَفِّضُ الْإِيجَارَ مِئَةَ دِرْهَمٍ.",
+        "translit": "ʾidhā waqqaʿti ʿaqdan li-sanatin kāmila, ʾukhaffiḍu l-ʾījāra miʾata dirham.",
+        "fr": "Si vous signez un bail d'un an, je baisse le loyer de cent dirhams."
+      },
+      {
+        "s": 0,
+        "ar": "مَعْقُولٌ. وَهَلْ يَجِبُ أَنْ أَدْفَعَ تَأْمِينًا؟",
+        "translit": "maʿqūl. wa-hal yajibu ʾan ʾadfaʿa taʾmīnan?",
+        "fr": "C'est raisonnable. Et faut-il payer une caution ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، إِيجَارَ شَهْرٍ وَاحِدٍ، وَسَأُعِيدُهُ لَكِ عِنْدَ الْمُغَادَرَةِ.",
+        "translit": "naʿam, ʾījāra shahrin wāḥid, wa-sa-ʾuʿīduhu laki ʿinda l-mughādara.",
+        "fr": "Oui, un mois de loyer, que je vous rendrai à votre départ."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَتَى يُمْكِنُنِي أَنْ أَنْتَقِلَ؟",
+        "translit": "wa-matā yumkinunī ʾan ʾantaqil?",
+        "fr": "Et quand pourrais-je emménager ?"
+      },
+      {
+        "s": 1,
+        "ar": "الشَّقَّةُ فَارِغَةٌ، فَيُمْكِنُكِ أَنْ تَنْتَقِلِي فِي بِدَايَةِ الشَّهْرِ الْقَادِمِ.",
+        "translit": "ash-shaqqatu fārigha, fa-yumkinuki ʾan tantaqilī fī bidāyati sh-shahri l-qādim.",
+        "fr": "L'appartement est vide, vous pouvez donc emménager au début du mois prochain."
+      },
+      {
+        "s": 0,
+        "ar": "مُمْتَازٌ، سَأُفَكِّرُ اللَّيْلَةَ وَأَتَّصِلُ بِكَ غَدًا.",
+        "translit": "mumtāz, sa-ʾufakkiru l-laylata wa-ʾattaṣilu bika ghadan.",
+        "fr": "Parfait, je vais y réfléchir ce soir et je vous appelle demain."
+      }
+    ]
+  },
+  {
+    "id": "ar-d31",
+    "level": 3,
+    "situation": "À la banque",
+    "title": "Ouvrir un compte",
+    "speakers": [
+      "Omar",
+      "Nadia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "صَبَاحَ الْخَيْرِ، كَيْفَ أَسْتَطِيعُ أَنْ أُسَاعِدَكِ؟",
+        "translit": "ṣabāḥa l-khayr, kayfa ʾastaṭīʿu ʾan ʾusāʿidaki?",
+        "fr": "Bonjour, en quoi puis-je vous aider ?"
+      },
+      {
+        "s": 1,
+        "ar": "أُرِيدُ أَنْ أَفْتَحَ حِسَابًا جَدِيدًا، لِأَنِّي بَدَأْتُ عَمَلًا فِي هَذِهِ الْمَدِينَةِ.",
+        "translit": "ʾurīdu ʾan ʾaftaḥa ḥisāban jadīdan, li-ʾannī badaʾtu ʿamalan fī hādhihi l-madīna.",
+        "fr": "Je voudrais ouvrir un nouveau compte, parce que j'ai commencé un travail dans cette ville."
+      },
+      {
+        "s": 0,
+        "ar": "أَهْلًا بِكِ. هَلْ مَعَكِ بِطَاقَةُ الْهُوِيَّةِ وَعَقْدُ الْعَمَلِ؟",
+        "translit": "ʾahlan biki. hal maʿaki biṭāqatu l-huwiyyati wa-ʿaqdu l-ʿamal?",
+        "fr": "Bienvenue. Avez-vous votre carte d'identité et votre contrat de travail ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، تَفَضَّلْ. وَأَحْضَرْتُ أَيْضًا فَاتُورَةَ الْكَهْرَبَاءِ لِإِثْبَاتِ الْعُنْوَانِ.",
+        "translit": "naʿam, tafaḍḍal. wa-ʾaḥḍartu ʾayḍan fātūrata l-kahrabāʾi li-ʾithbāti l-ʿunwān.",
+        "fr": "Oui, les voici. J'ai aussi apporté une facture d'électricité comme justificatif de domicile."
+      },
+      {
+        "s": 0,
+        "ar": "مُمْتَازٌ. هَلْ تُرِيدِينَ بِطَاقَةً بَنْكِيَّةً مَعَ الْحِسَابِ؟",
+        "translit": "mumtāz. hal turīdīna biṭāqatan bankiyyatan maʿa l-ḥisāb?",
+        "fr": "Parfait. Voulez-vous une carte bancaire avec le compte ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، مِنْ فَضْلِكَ. هَلْ هُنَاكَ رُسُومٌ شَهْرِيَّةٌ؟",
+        "translit": "naʿam, min faḍlik. hal hunāka rusūmun shahriyya?",
+        "fr": "Oui, s'il vous plaît. Y a-t-il des frais mensuels ?"
+      },
+      {
+        "s": 0,
+        "ar": "عِشْرُونَ دِرْهَمًا فِي الشَّهْرِ، وَلَكِنَّ السَّنَةَ الْأُولَى مَجَّانِيَّةٌ.",
+        "translit": "ʿishrūna dirhaman fī sh-shahr, wa-lākinna s-sanata l-ʾūlā majjāniyya.",
+        "fr": "Vingt dirhams par mois, mais la première année est gratuite."
+      },
+      {
+        "s": 1,
+        "ar": "وَمَتَى تَصِلُ الْبِطَاقَةُ؟",
+        "translit": "wa-matā taṣilu l-biṭāqa?",
+        "fr": "Et quand la carte arrivera-t-elle ?"
+      },
+      {
+        "s": 0,
+        "ar": "بَعْدَ أُسْبُوعٍ تَقْرِيبًا. سَنُرْسِلُ لَكِ رِسَالَةً عِنْدَمَا تَكُونُ جَاهِزَةً.",
+        "translit": "baʿda ʾusbūʿin taqrīban. sa-nursilu laki risālatan ʿindamā takūnu jāhiza.",
+        "fr": "Dans une semaine environ. Nous vous enverrons un message quand elle sera prête."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا. وَهَلْ أَسْتَطِيعُ أَنْ أُحَوِّلَ مَالًا إِلَى الْخَارِجِ مِنَ التَّطْبِيقِ؟",
+        "translit": "shukran. wa-hal ʾastaṭīʿu ʾan ʾuḥawwila mālan ʾilā l-khāriji mina t-taṭbīq?",
+        "fr": "Merci. Et puis-je faire des virements vers l'étranger depuis l'application ?"
+      },
+      {
+        "s": 0,
+        "ar": "طَبْعًا، وَلَكِنْ بِرُسُومٍ صَغِيرَةٍ عَلَى كُلِّ تَحْوِيلٍ.",
+        "translit": "ṭabʿan, wa-lākin bi-rusūmin ṣaghīratin ʿalā kulli taḥwīl.",
+        "fr": "Bien sûr, mais avec de petits frais sur chaque virement."
+      }
+    ]
+  },
+  {
+    "id": "ar-d32",
+    "level": 3,
+    "situation": "À la poste",
+    "title": "Un colis pour la France",
+    "speakers": [
+      "Rachid",
+      "Amina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مِنْ فَضْلِكِ، أُرِيدُ أَنْ أُرْسِلَ هَذَا الطَّرْدَ إِلَى فَرَنْسَا.",
+        "translit": "min faḍliki, ʾurīdu ʾan ʾursila hādhā ṭ-ṭarda ʾilā faransā.",
+        "fr": "S'il vous plaît, je voudrais envoyer ce colis en France."
+      },
+      {
+        "s": 1,
+        "ar": "ضَعْهُ عَلَى الْمِيزَانِ مِنْ فَضْلِكَ. مَاذَا يُوجَدُ فِيهِ؟",
+        "translit": "ḍaʿhu ʿalā l-mīzāni min faḍlik. mādhā yūjadu fīh?",
+        "fr": "Posez-le sur la balance, s'il vous plaît. Qu'y a-t-il dedans ?"
+      },
+      {
+        "s": 0,
+        "ar": "كُتُبٌ وَبَعْضُ الْهَدَايَا لِأُخْتِي، فَعِيدُ مِيلَادِهَا الْأُسْبُوعَ الْقَادِمَ.",
+        "translit": "kutubun wa-baʿḍu l-hadāyā li-ʾukhtī, fa-ʿīdu mīlādihā l-ʾusbūʿa l-qādim.",
+        "fr": "Des livres et quelques cadeaux pour ma sœur : son anniversaire est la semaine prochaine."
+      },
+      {
+        "s": 1,
+        "ar": "وَزْنُهُ ثَلَاثَةُ كِيلُوغْرَامَاتٍ. هَلْ تُرِيدُ الْبَرِيدَ الْعَادِيَّ أَمِ السَّرِيعَ؟",
+        "translit": "waznuhu thalāthatu kīlūghrāmāt. hal turīdu l-barīda l-ʿādiyya ʾami s-sarīʿ?",
+        "fr": "Il pèse trois kilos. Vous voulez l'envoi normal ou express ?"
+      },
+      {
+        "s": 0,
+        "ar": "مَا الْفَرْقُ بَيْنَهُمَا؟",
+        "translit": "mā l-farqu baynahumā?",
+        "fr": "Quelle est la différence entre les deux ?"
+      },
+      {
+        "s": 1,
+        "ar": "الْعَادِيُّ يَصِلُ بَعْدَ عَشَرَةِ أَيَّامٍ، أَمَّا السَّرِيعُ فَيَصِلُ بَعْدَ ثَلَاثَةِ أَيَّامٍ، لَكِنَّهُ أَغْلَى.",
+        "translit": "al-ʿādiyyu yaṣilu baʿda ʿasharati ʾayyām, ʾammā s-sarīʿu fa-yaṣilu baʿda thalāthati ʾayyām, lākinnahu ʾaghlā.",
+        "fr": "L'envoi normal arrive en dix jours, alors que l'express arrive en trois jours, mais il est plus cher."
+      },
+      {
+        "s": 0,
+        "ar": "إِذَنْ أَخْتَارُ السَّرِيعَ، حَتَّى يَصِلَ قَبْلَ عِيدِ مِيلَادِهَا.",
+        "translit": "ʾidhan ʾakhtāru s-sarīʿ, ḥattā yaṣila qabla ʿīdi mīlādihā.",
+        "fr": "Alors je prends l'express, pour qu'il arrive avant son anniversaire."
+      },
+      {
+        "s": 1,
+        "ar": "امْلَأْ هَذِهِ الِاسْتِمَارَةَ: الْعُنْوَانُ الْكَامِلُ وَرَقْمُ الْهَاتِفِ.",
+        "translit": "imlaʾ hādhihi l-istimāra: al-ʿunwānu l-kāmilu wa-raqmu l-hātif.",
+        "fr": "Remplissez ce formulaire : l'adresse complète et le numéro de téléphone."
+      },
+      {
+        "s": 0,
+        "ar": "تَفَضَّلِي. كَمْ يَجِبُ أَنْ أَدْفَعَ؟",
+        "translit": "tafaḍḍalī. kam yajibu ʾan ʾadfaʿ?",
+        "fr": "Voilà. Combien dois-je payer ?"
+      },
+      {
+        "s": 1,
+        "ar": "مِئَتَانِ وَخَمْسُونَ دِرْهَمًا. وَهَذَا رَقْمُ التَّتَبُّعِ لِتَعْرِفَ أَيْنَ طَرْدُكَ.",
+        "translit": "miʾatāni wa-khamsūna dirhaman. wa-hādhā raqmu t-tatabbuʿi li-taʿrifa ʾayna ṭarduk.",
+        "fr": "Deux cent cinquante dirhams. Et voici le numéro de suivi pour savoir où est votre colis."
+      }
+    ]
+  },
+  {
+    "id": "ar-d33",
+    "level": 3,
+    "situation": "Raconter sa journée",
+    "title": "Une journée catastrophique",
+    "speakers": [
+      "Sara",
+      "Mehdi"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَا بِكَ؟ تَبْدُو مُتْعَبًا جِدًّا الْيَوْمَ.",
+        "translit": "mā bika? tabdū mutʿaban jiddan al-yawm.",
+        "fr": "Qu'est-ce qui t'arrive ? Tu as l'air très fatigué aujourd'hui."
+      },
+      {
+        "s": 1,
+        "ar": "لَا تَسْأَلِي! كَانَ يَوْمُ أَمْسِ يَوْمًا سَيِّئًا جِدًّا.",
+        "translit": "lā tasʾalī! kāna yawmu ʾamsi yawman sayyiʾan jiddan.",
+        "fr": "Ne m'en parle pas ! Hier a été une très mauvaise journée."
+      },
+      {
+        "s": 0,
+        "ar": "لِمَاذَا؟ مَاذَا حَدَثَ؟",
+        "translit": "limādhā? mādhā ḥadath?",
+        "fr": "Pourquoi ? Que s'est-il passé ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَوَّلًا، تَعَطَّلَتْ سَيَّارَتِي فِي الطَّرِيقِ، فَوَصَلْتُ إِلَى الْعَمَلِ مُتَأَخِّرًا سَاعَةً كَامِلَةً.",
+        "translit": "ʾawwalan, taʿaṭṭalat sayyāratī fī ṭ-ṭarīq, fa-waṣaltu ʾilā l-ʿamali mutaʾakhkhiran sāʿatan kāmila.",
+        "fr": "D'abord, ma voiture est tombée en panne en route, donc je suis arrivé au travail avec une heure de retard."
+      },
+      {
+        "s": 0,
+        "ar": "يَا لَلْأَسَفِ! وَهَلْ غَضِبَ الْمُدِيرُ؟",
+        "translit": "yā la-l-ʾasaf! wa-hal ghaḍiba l-mudīr?",
+        "fr": "Quel dommage ! Et le directeur s'est fâché ?"
+      },
+      {
+        "s": 1,
+        "ar": "قَلِيلًا. ثُمَّ نَسِيتُ هَاتِفِي فِي الْمَكْتَبِ عِنْدَمَا خَرَجْتُ، فَرَجَعْتُ لِآخُذَهُ.",
+        "translit": "qalīlan. thumma nasītu hātifī fī l-maktabi ʿindamā kharajt, fa-rajaʿtu li-ʾākhudhah.",
+        "fr": "Un peu. Ensuite, j'ai oublié mon téléphone au bureau en sortant, alors je suis retourné le chercher."
+      },
+      {
+        "s": 0,
+        "ar": "وَبَعْدَ ذَلِكَ؟",
+        "translit": "wa-baʿda dhālik?",
+        "fr": "Et après ?"
+      },
+      {
+        "s": 1,
+        "ar": "بَعْدَ ذَلِكَ بَدَأَ الْمَطَرُ، وَلَمْ تَكُنْ مَعِي مِظَلَّةٌ، فَوَصَلْتُ إِلَى الْبَيْتِ مُبْتَلًّا تَمَامًا.",
+        "translit": "baʿda dhālika badaʾa l-maṭar, wa-lam takun maʿī miẓalla, fa-waṣaltu ʾilā l-bayti mubtallan tamāman.",
+        "fr": "Après, il s'est mis à pleuvoir, je n'avais pas de parapluie, et je suis rentré trempé."
+      },
+      {
+        "s": 0,
+        "ar": "مِسْكِينٌ! أَتَمَنَّى أَنْ يَكُونَ الْيَوْمُ أَفْضَلَ.",
+        "translit": "miskīn! ʾatamannā ʾan yakūna l-yawmu ʾafḍal.",
+        "fr": "Mon pauvre ! J'espère qu'aujourd'hui sera meilleur."
+      },
+      {
+        "s": 1,
+        "ar": "إِنْ شَاءَ اللَّهُ. عَلَى الْأَقَلِّ أَصْلَحَ الْمِيكَانِيكِيُّ السَّيَّارَةَ هَذَا الصَّبَاحَ.",
+        "translit": "ʾin shāʾa llāh. ʿalā l-ʾaqalli ʾaṣlaḥa l-mīkānīkiyyu s-sayyārata hādhā ṣ-ṣabāḥ.",
+        "fr": "Si Dieu le veut. Au moins, le mécanicien a réparé la voiture ce matin."
+      }
+    ]
+  },
+  {
+    "id": "ar-d34",
+    "level": 3,
+    "situation": "Projets et rêves",
+    "title": "Plus tard, je voudrais…",
+    "speakers": [
+      "Karim",
+      "Yasmina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَاذَا تُرِيدِينَ أَنْ تَفْعَلِي بَعْدَ أَنْ تُنْهِيَ دِرَاسَتَكِ؟",
+        "translit": "mādhā turīdīna ʾan tafʿalī baʿda ʾan tunhiya dirāsataki?",
+        "fr": "Qu'est-ce que tu veux faire après tes études ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَحْلُمُ بِأَنْ أَعْمَلَ طَبِيبَةً فِي مُنَظَّمَةٍ دَوْلِيَّةٍ.",
+        "translit": "ʾaḥlumu bi-ʾan ʾaʿmala ṭabībatan fī munaẓẓamatin dawliyya.",
+        "fr": "Je rêve de travailler comme médecin dans une organisation internationale."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا حُلْمٌ جَمِيلٌ! وَلِمَاذَا اخْتَرْتِ هَذَا الْمَجَالَ؟",
+        "translit": "hādhā ḥulmun jamīl! wa-limādhā khtarti hādhā l-majāl?",
+        "fr": "C'est un beau rêve ! Et pourquoi as-tu choisi ce domaine ?"
+      },
+      {
+        "s": 1,
+        "ar": "لِأَنَّنِي أُرِيدُ أَنْ أُسَاعِدَ النَّاسَ الَّذِينَ لَا يَسْتَطِيعُونَ الْوُصُولَ إِلَى الْعِلَاجِ.",
+        "translit": "li-ʾannanī ʾurīdu ʾan ʾusāʿida n-nāsa lladhīna lā yastaṭīʿūna l-wuṣūla ʾilā l-ʿilāj.",
+        "fr": "Parce que je veux aider les gens qui n'ont pas accès aux soins."
+      },
+      {
+        "s": 0,
+        "ar": "وَأَنَا أَتَمَنَّى أَنْ أَفْتَحَ مَطْعَمًا صَغِيرًا يَوْمًا مَا.",
+        "translit": "wa-ʾanā ʾatamannā ʾan ʾaftaḥa maṭʿaman ṣaghīran yawman mā.",
+        "fr": "Moi, j'aimerais ouvrir un petit restaurant un jour."
+      },
+      {
+        "s": 1,
+        "ar": "حَقًّا؟ لَمْ أَكُنْ أَعْرِفُ أَنَّكَ تُحِبُّ الطَّبْخَ!",
+        "translit": "ḥaqqan? lam ʾakun ʾaʿrifu ʾannaka tuḥibbu ṭ-ṭabkh!",
+        "fr": "Vraiment ? Je ne savais pas que tu aimais cuisiner !"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، تَعَلَّمْتُهُ مِنْ أُمِّي. لَكِنِّي أَحْتَاجُ أَوَّلًا إِلَى أَنْ أَجْمَعَ بَعْضَ الْمَالِ.",
+        "translit": "naʿam, taʿallamtuhu min ʾummī. lākinnī ʾaḥtāju ʾawwalan ʾilā ʾan ʾajmaʿa baʿḍa l-māl.",
+        "fr": "Oui, j'ai appris avec ma mère. Mais il faut d'abord que j'économise un peu d'argent."
+      },
+      {
+        "s": 1,
+        "ar": "إِذَا فَتَحْتَهُ، فَسَأَكُونُ أَوَّلَ زَبُونَةٍ عِنْدَكَ!",
+        "translit": "ʾidhā fataḥtahu, fa-sa-ʾakūnu ʾawwala zabūnatin ʿindak!",
+        "fr": "Si tu l'ouvres, je serai ta première cliente !"
+      },
+      {
+        "s": 0,
+        "ar": "اتَّفَقْنَا، وَسَتَأْكُلِينَ مَجَّانًا.",
+        "translit": "ittafaqnā, wa-sa-taʾkulīna majjānan.",
+        "fr": "Marché conclu, et tu mangeras gratuitement."
+      }
+    ]
+  },
+  {
+    "id": "ar-d35",
+    "level": 3,
+    "situation": "Un objet perdu",
+    "title": "Au bureau des objets trouvés",
+    "speakers": [
+      "Malika",
+      "Hassan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "عَفْوًا، هَلْ هَذَا مَكْتَبُ الْمَفْقُودَاتِ؟",
+        "translit": "ʿafwan, hal hādhā maktabu l-mafqūdāt?",
+        "fr": "Excusez-moi, c'est bien le bureau des objets trouvés ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ يَا سَيِّدَتِي. مَاذَا فَقَدْتِ؟",
+        "translit": "naʿam yā sayyidatī. mādhā faqadti?",
+        "fr": "Oui, madame. Qu'avez-vous perdu ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَسِيتُ حَقِيبَتِي فِي الْقِطَارِ الَّذِي وَصَلَ مِنَ الرِّبَاطِ صَبَاحَ الْيَوْمِ.",
+        "translit": "nasītu ḥaqībatī fī l-qiṭāri lladhī waṣala mina r-ribāṭi ṣabāḥa l-yawm.",
+        "fr": "J'ai oublié mon sac dans le train arrivé de Rabat ce matin."
+      },
+      {
+        "s": 1,
+        "ar": "كَيْفَ هِيَ؟ صِفِيهَا لِي مِنْ فَضْلِكِ.",
+        "translit": "kayfa hiya? ṣifīhā lī min faḍliki.",
+        "fr": "Comment est-il ? Décrivez-le-moi, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "حَقِيبَةُ ظَهْرٍ زَرْقَاءُ صَغِيرَةٌ، وَعَلَيْهَا شِعَارُ جَامِعَةٍ.",
+        "translit": "ḥaqībatu ẓahrin zarqāʾu ṣaghīra, wa-ʿalayhā shiʿāru jāmiʿa.",
+        "fr": "Un petit sac à dos bleu, avec le logo d'une université dessus."
+      },
+      {
+        "s": 1,
+        "ar": "وَمَاذَا كَانَ فِيهَا؟",
+        "translit": "wa-mādhā kāna fīhā?",
+        "fr": "Et qu'y avait-il dedans ?"
+      },
+      {
+        "s": 0,
+        "ar": "حَاسُوبِي وَدَفْتَرٌ وَمِفْتَاحُ الْبَيْتِ. الْحَاسُوبُ هُوَ الْأَهَمُّ، لِأَنَّ فِيهِ كُلَّ عَمَلِي.",
+        "translit": "ḥāsūbī wa-daftarun wa-miftāḥu l-bayt. al-ḥāsūbu huwa l-ʾahamm, li-ʾanna fīhi kulla ʿamalī.",
+        "fr": "Mon ordinateur, un cahier et la clé de la maison. L'ordinateur est le plus important, parce que tout mon travail est dedans."
+      },
+      {
+        "s": 1,
+        "ar": "انْتَظِرِي لَحْظَةً، سَأَبْحَثُ فِي الْخِزَانَةِ.",
+        "translit": "intaẓirī laḥẓa, sa-ʾabḥathu fī l-khizāna.",
+        "fr": "Attendez un instant, je vais chercher dans l'armoire."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ هِيَ هَذِهِ؟ وَجَدَهَا عَامِلُ النَّظَافَةِ قَبْلَ سَاعَةٍ.",
+        "translit": "hal hiya hādhihi? wajadahā ʿāmilu n-naẓāfati qabla sāʿa.",
+        "fr": "C'est celui-ci ? Un agent d'entretien l'a trouvé il y a une heure."
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، هِيَ! الْحَمْدُ لِلَّهِ! كَيْفَ أَشْكُرُكَ؟",
+        "translit": "naʿam, hiya! al-ḥamdu lillāh! kayfa ʾashkuruk?",
+        "fr": "Oui, c'est lui ! Dieu merci ! Comment vous remercier ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا شُكْرَ عَلَى وَاجِبٍ. وَقِّعِي هُنَا فَقَطْ مِنْ فَضْلِكِ.",
+        "translit": "lā shukra ʿalā wājib. waqqiʿī hunā faqaṭ min faḍliki.",
+        "fr": "Il n'y a pas de quoi, c'est mon travail. Signez juste ici, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "ar-d36",
+    "level": 3,
+    "situation": "Une réparation",
+    "title": "Le plombier",
+    "speakers": [
+      "Fatima",
+      "Ali"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَهْلًا، شُكْرًا لِأَنَّكَ جِئْتَ بِسُرْعَةٍ.",
+        "translit": "ʾahlan, shukran li-ʾannaka jiʾta bi-surʿa.",
+        "fr": "Bonjour, merci d'être venu si vite."
+      },
+      {
+        "s": 1,
+        "ar": "الْعَفْوُ. أَيْنَ الْمُشْكِلَةُ بِالضَّبْطِ؟",
+        "translit": "al-ʿafw. ʾayna l-mushkilatu bi-ḍ-ḍabṭ?",
+        "fr": "Je vous en prie. Où est le problème exactement ?"
+      },
+      {
+        "s": 0,
+        "ar": "فِي الْمَطْبَخِ. الْمَاءُ يَتَسَرَّبُ مِنْ تَحْتِ الْمَغْسَلَةِ مُنْذُ الْبَارِحَةِ.",
+        "translit": "fī l-maṭbakh. al-māʾu yatasarrabu min taḥti l-maghsalati mundhu l-bāriḥa.",
+        "fr": "Dans la cuisine. L'eau fuit sous l'évier depuis hier soir."
+      },
+      {
+        "s": 1,
+        "ar": "دَعِينِي أَرَى. الْأُنْبُوبُ مَكْسُورٌ، وَيَجِبُ أَنْ أُغَيِّرَهُ.",
+        "translit": "daʿīnī ʾarā. al-ʾunbūbu maksūr, wa-yajibu ʾan ʾughayyirah.",
+        "fr": "Laissez-moi voir. Le tuyau est cassé, il faut que je le change."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ يَسْتَغْرِقُ الْإِصْلَاحُ وَقْتًا طَوِيلًا؟",
+        "translit": "hal yastaghriqu l-ʾiṣlāḥu waqtan ṭawīlan?",
+        "fr": "La réparation va prendre longtemps ?"
+      },
+      {
+        "s": 1,
+        "ar": "سَاعَةً تَقْرِيبًا، إِذَا كَانَتِ الْقِطْعَةُ مَوْجُودَةً فِي سَيَّارَتِي.",
+        "translit": "sāʿatan taqrīban, ʾidhā kānati l-qiṭʿatu mawjūdatan fī sayyāratī.",
+        "fr": "Une heure environ, si j'ai la pièce dans ma voiture."
+      },
+      {
+        "s": 0,
+        "ar": "وَكَمْ سَيُكَلِّفُ ذَلِكَ؟",
+        "translit": "wa-kam sa-yukallifu dhālik?",
+        "fr": "Et combien ça va coûter ?"
+      },
+      {
+        "s": 1,
+        "ar": "ثَلَاثَمِئَةِ دِرْهَمٍ مَعَ الْقِطْعَةِ.",
+        "translit": "thalāthamiʾati dirhamin maʿa l-qiṭʿa.",
+        "fr": "Trois cents dirhams avec la pièce."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا مَعْقُولٌ. وَبِالْمُنَاسَبَةِ، الْحَنَفِيَّةُ فِي الْحَمَّامِ تَقْطُرُ أَيْضًا.",
+        "translit": "hādhā maʿqūl. wa-bi-l-munāsaba, al-ḥanafiyyatu fī l-ḥammāmi taqṭuru ʾayḍan.",
+        "fr": "C'est raisonnable. Au fait, le robinet de la salle de bain goutte aussi."
+      },
+      {
+        "s": 1,
+        "ar": "لَا مُشْكِلَةَ، سَأُلْقِي نَظْرَةً عَلَيْهَا بَعْدَ أَنْ أَنْتَهِيَ مِنْ هُنَا.",
+        "translit": "lā mushkila, sa-ʾulqī naẓratan ʿalayhā baʿda ʾan ʾantahiya min hunā.",
+        "fr": "Pas de problème, j'y jetterai un œil quand j'aurai fini ici."
+      }
+    ]
+  },
+  {
+    "id": "ar-d37",
+    "level": 3,
+    "situation": "À l'agence de voyages",
+    "title": "Un voyage en Égypte",
+    "speakers": [
+      "Imane",
+      "Bilal"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءَ الْخَيْرِ، أُفَكِّرُ فِي رِحْلَةٍ إِلَى مِصْرَ فِي الصَّيْفِ.",
+        "translit": "masāʾa l-khayr, ʾufakkiru fī riḥlatin ʾilā miṣra fī ṣ-ṣayf.",
+        "fr": "Bonsoir, je pense faire un voyage en Égypte cet été."
+      },
+      {
+        "s": 1,
+        "ar": "اخْتِيَارٌ رَائِعٌ! كَمْ يَوْمًا تُرِيدِينَ أَنْ تَبْقَيْ هُنَاكَ؟",
+        "translit": "ikhtiyārun rāʾiʿ! kam yawman turīdīna ʾan tabqay hunāk?",
+        "fr": "Excellent choix ! Combien de jours voulez-vous y rester ?"
+      },
+      {
+        "s": 0,
+        "ar": "عَشَرَةَ أَيَّامٍ تَقْرِيبًا. أُرِيدُ أَنْ أَزُورَ الْقَاهِرَةَ وَالْأُقْصُرَ.",
+        "translit": "ʿasharata ʾayyāmin taqrīban. ʾurīdu ʾan ʾazūra l-qāhirata wa-l-ʾuqṣur.",
+        "fr": "Dix jours environ. Je voudrais visiter Le Caire et Louxor."
+      },
+      {
+        "s": 1,
+        "ar": "عِنْدَنَا بَرْنَامَجٌ يَشْمَلُ الطَّيَرَانَ وَالْفُنْدُقَ وَرِحْلَةً فِي النِّيلِ.",
+        "translit": "ʿindanā barnāmajun yashmalu ṭ-ṭayarāna wa-l-funduqa wa-riḥlatan fī n-nīl.",
+        "fr": "Nous avons une formule qui comprend le vol, l'hôtel et une croisière sur le Nil."
+      },
+      {
+        "s": 0,
+        "ar": "يَبْدُو مُمْتِعًا! وَكَمْ ثَمَنُهُ لِشَخْصٍ وَاحِدٍ؟",
+        "translit": "yabdū mumtiʿan! wa-kam thamanuhu li-shakhṣin wāḥid?",
+        "fr": "Ça a l'air génial ! Et combien ça coûte pour une personne ?"
+      },
+      {
+        "s": 1,
+        "ar": "تِسْعَةُ آلَافِ دِرْهَمٍ، وَلَكِنْ إِذَا حَجَزْتِ قَبْلَ نِهَايَةِ الشَّهْرِ تَحْصُلِينَ عَلَى تَخْفِيضٍ.",
+        "translit": "tisʿatu ʾālāfi dirham, wa-lākin ʾidhā ḥajazti qabla nihāyati sh-shahri taḥṣulīna ʿalā takhfīḍ.",
+        "fr": "Neuf mille dirhams, mais si vous réservez avant la fin du mois, vous avez une réduction."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ أَحْتَاجُ إِلَى تَأْشِيرَةٍ؟",
+        "translit": "hal ʾaḥtāju ʾilā taʾshīra?",
+        "fr": "Est-ce que j'ai besoin d'un visa ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، وَلَكِنْ يُمْكِنُ أَنْ نَطْلُبَهَا لَكِ. يَكْفِي أَنْ تُرْسِلِي لَنَا صُورَةَ جَوَازِ السَّفَرِ.",
+        "translit": "naʿam, wa-lākin yumkinu ʾan naṭlubahā laki. yakfī ʾan tursilī lanā ṣūrata jawāzi s-safar.",
+        "fr": "Oui, mais nous pouvons le demander pour vous. Il suffit de nous envoyer une copie de votre passeport."
+      },
+      {
+        "s": 0,
+        "ar": "سَأَتَكَلَّمُ مَعَ زَوْجِي أَوَّلًا، فَرُبَّمَا يَأْتِي مَعِي.",
+        "translit": "sa-ʾatakallamu maʿa zawjī ʾawwalan, fa-rubbamā yaʾtī maʿī.",
+        "fr": "Je vais d'abord en parler à mon mari, il viendra peut-être avec moi."
+      },
+      {
+        "s": 1,
+        "ar": "طَبْعًا. خُذِي هَذَا الْكُتَيِّبَ، فِيهِ كُلُّ التَّفَاصِيلِ.",
+        "translit": "ṭabʿan. khudhī hādhā l-kutayyib, fīhi kullu t-tafāṣīl.",
+        "fr": "Bien sûr. Prenez cette brochure, tous les détails y sont."
+      }
+    ]
+  },
+  {
+    "id": "ar-d38",
+    "level": 3,
+    "situation": "Au magasin",
+    "title": "Rendre une chemise",
+    "speakers": [
+      "Hamza",
+      "Lina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "السَّلَامُ عَلَيْكُمْ. اشْتَرَيْتُ هَذَا الْقَمِيصَ هُنَا يَوْمَ الْخَمِيسِ، وَأُرِيدُ أَنْ أُرْجِعَهُ.",
+        "translit": "as-salāmu ʿalaykum. ishtaraytu hādhā l-qamīṣa hunā yawma l-khamīs, wa-ʾurīdu ʾan ʾurjiʿah.",
+        "fr": "Bonjour. J'ai acheté cette chemise ici jeudi, et je voudrais la rendre."
+      },
+      {
+        "s": 1,
+        "ar": "وَعَلَيْكُمُ السَّلَامُ. مَا الْمُشْكِلَةُ فِيهِ؟",
+        "translit": "wa-ʿalaykumu s-salām. mā l-mushkilatu fīh?",
+        "fr": "Bonjour. Quel est le problème ?"
+      },
+      {
+        "s": 0,
+        "ar": "إِنَّهُ ضَيِّقٌ جِدًّا عَلَيَّ، وَلَاحَظْتُ أَيْضًا أَنَّ زِرًّا نَاقِصٌ.",
+        "translit": "ʾinnahu ḍayyiqun jiddan ʿalayy, wa-lāḥaẓtu ʾayḍan ʾanna zirran nāqiṣ.",
+        "fr": "Elle est trop serrée pour moi, et j'ai aussi remarqué qu'il manque un bouton."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ مَعَكَ الْإِيصَالُ؟",
+        "translit": "hal maʿaka l-ʾīṣāl?",
+        "fr": "Avez-vous le ticket de caisse ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، هَا هُوَ.",
+        "translit": "naʿam, hā huwa.",
+        "fr": "Oui, le voici."
+      },
+      {
+        "s": 1,
+        "ar": "حَسَنًا. هَلْ تُفَضِّلُ أَنْ نُعِيدَ لَكَ الْمَالَ أَمْ أَنْ تُبَدِّلَهُ بِمَقَاسٍ أَكْبَرَ؟",
+        "translit": "ḥasanan. hal tufaḍḍilu ʾan nuʿīda laka l-māla ʾam ʾan tubaddilahu bi-maqāsin ʾakbar?",
+        "fr": "Très bien. Vous préférez être remboursé ou l'échanger contre une taille plus grande ?"
+      },
+      {
+        "s": 0,
+        "ar": "أُفَضِّلُ أَنْ أُبَدِّلَهُ، فَاللَّوْنُ يُعْجِبُنِي كَثِيرًا.",
+        "translit": "ʾufaḍḍilu ʾan ʾubaddilah, fa-l-lawnu yuʿjibunī kathīran.",
+        "fr": "Je préfère l'échanger, la couleur me plaît beaucoup."
+      },
+      {
+        "s": 1,
+        "ar": "لِلْأَسَفِ، لَمْ يَبْقَ مِنْ هَذَا اللَّوْنِ إِلَّا الْمَقَاسُ الصَّغِيرُ.",
+        "translit": "li-l-ʾasaf, lam yabqa min hādhā l-lawni ʾillā l-maqāsu ṣ-ṣaghīr.",
+        "fr": "Malheureusement, dans cette couleur il ne reste que la petite taille."
+      },
+      {
+        "s": 0,
+        "ar": "يَا لَلْخَسَارَةِ! مَتَى تَصِلُكُمْ سِلَعٌ جَدِيدَةٌ؟",
+        "translit": "yā la-l-khasāra! matā taṣilukum silaʿun jadīda?",
+        "fr": "Dommage ! Quand recevez-vous de nouveaux articles ?"
+      },
+      {
+        "s": 1,
+        "ar": "الْأُسْبُوعَ الْقَادِمَ. أَسْتَطِيعُ أَنْ أَحْجِزَ لَكَ وَاحِدًا وَأَتَّصِلَ بِكَ عِنْدَمَا يَصِلُ.",
+        "translit": "al-ʾusbūʿa l-qādim. ʾastaṭīʿu ʾan ʾaḥjiza laka wāḥidan wa-ʾattaṣila bika ʿindamā yaṣil.",
+        "fr": "La semaine prochaine. Je peux vous en réserver une et vous appeler quand elle arrivera."
+      },
+      {
+        "s": 0,
+        "ar": "فِكْرَةٌ جَيِّدَةٌ. هَذَا رَقْمُ هَاتِفِي.",
+        "translit": "fikratun jayyida. hādhā raqmu hātifī.",
+        "fr": "Bonne idée. Voici mon numéro."
+      }
+    ]
+  },
+  {
+    "id": "ar-d39",
+    "level": 3,
+    "situation": "À la gare",
+    "title": "Le train est annulé",
+    "speakers": [
+      "Zineb",
+      "Khalid"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "عَفْوًا، لِمَاذَا أُلْغِيَ قِطَارُ السَّاعَةِ الْعَاشِرَةِ إِلَى مَرَّاكُشَ؟",
+        "translit": "ʿafwan, limādhā ʾulghiya qiṭāru s-sāʿati l-ʿāshirati ʾilā marrākush?",
+        "fr": "Excusez-moi, pourquoi le train de dix heures pour Marrakech a-t-il été annulé ?"
+      },
+      {
+        "s": 1,
+        "ar": "هُنَاكَ عُطْلٌ تِقْنِيٌّ فِي السِّكَّةِ. نَعْتَذِرُ عَنِ الْإِزْعَاجِ.",
+        "translit": "hunāka ʿuṭlun tiqniyyun fī s-sikka. naʿtadhiru ʿani l-ʾizʿāj.",
+        "fr": "Il y a une panne technique sur la voie. Nous nous excusons pour la gêne."
+      },
+      {
+        "s": 0,
+        "ar": "لَكِنْ عِنْدِي مَوْعِدٌ مُهِمٌّ هُنَاكَ بَعْدَ الظُّهْرِ! مَا الْحَلُّ؟",
+        "translit": "lākin ʿindī mawʿidun muhimmun hunāka baʿda ẓ-ẓuhr! mā l-ḥall?",
+        "fr": "Mais j'ai un rendez-vous important là-bas cet après-midi ! Quelle est la solution ?"
+      },
+      {
+        "s": 1,
+        "ar": "يُوجَدُ قِطَارٌ آخَرُ فِي السَّاعَةِ الْحَادِيَةَ عَشْرَةَ وَالنِّصْفِ، وَتَذْكِرَتُكِ صَالِحَةٌ لَهُ.",
+        "translit": "yūjadu qiṭārun ʾākharu fī s-sāʿati l-ḥādiyata ʿashrata wa-n-niṣf, wa-tadhkiratuki ṣāliḥatun lah.",
+        "fr": "Il y a un autre train à onze heures et demie, et votre billet est valable pour celui-ci."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَتَى يَصِلُ؟",
+        "translit": "wa-matā yaṣil?",
+        "fr": "Et il arrive quand ?"
+      },
+      {
+        "s": 1,
+        "ar": "فِي السَّاعَةِ الثَّانِيَةِ، إِذَا لَمْ يَتَأَخَّرْ.",
+        "translit": "fī s-sāʿati th-thāniya, ʾidhā lam yataʾakhkhar.",
+        "fr": "À deux heures, s'il n'a pas de retard."
+      },
+      {
+        "s": 0,
+        "ar": "سَأَصِلُ مُتَأَخِّرَةً قَلِيلًا إِذَنْ. هَلْ يُمْكِنُ أَنْ أَحْصُلَ عَلَى تَعْوِيضٍ؟",
+        "translit": "sa-ʾaṣilu mutaʾakhkhiratan qalīlan ʾidhan. hal yumkinu ʾan ʾaḥṣula ʿalā taʿwīḍ?",
+        "fr": "J'arriverai un peu en retard, alors. Est-ce que je peux obtenir un dédommagement ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، امْلَئِي هَذِهِ الِاسْتِمَارَةَ وَسَنُعِيدُ لَكِ نِصْفَ ثَمَنِ التَّذْكِرَةِ.",
+        "translit": "naʿam, imlaʾī hādhihi l-istimārata wa-sa-nuʿīdu laki niṣfa thamani t-tadhkira.",
+        "fr": "Oui, remplissez ce formulaire et nous vous rembourserons la moitié du billet."
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا. سَأَتَّصِلُ بِزُمَلَائِي لِأُخْبِرَهُمْ بِالتَّأْخِيرِ.",
+        "translit": "shukran. sa-ʾattaṣilu bi-zumalāʾī li-ʾukhbirahum bi-t-taʾkhīr.",
+        "fr": "Merci. Je vais appeler mes collègues pour les prévenir du retard."
+      }
+    ]
+  },
+  {
+    "id": "ar-d40",
+    "level": 3,
+    "situation": "Organiser une fête",
+    "title": "La fête surprise",
+    "speakers": [
+      "Nour",
+      "Tarik"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "يَا طَارِقُ، هَلْ تَذَكَّرْتَ أَنَّ عِيدَ مِيلَادِ سُعَادَ يَوْمَ الْجُمُعَةِ؟",
+        "translit": "yā ṭāriq, hal tadhakkarta ʾanna ʿīda mīlādi suʿāda yawma l-jumuʿa?",
+        "fr": "Tarik, tu t'es souvenu que l'anniversaire de Souad, c'est vendredi ?"
+      },
+      {
+        "s": 1,
+        "ar": "طَبْعًا! مَا رَأْيُكِ فِي أَنْ نُنَظِّمَ لَهَا حَفْلَةً مُفَاجِئَةً؟",
+        "translit": "ṭabʿan! mā raʾyuki fī ʾan nunaẓẓima lahā ḥaflatan mufājiʾa?",
+        "fr": "Bien sûr ! Qu'est-ce que tu dirais d'organiser une fête surprise pour elle ?"
+      },
+      {
+        "s": 0,
+        "ar": "فِكْرَةٌ رَائِعَةٌ! يُمْكِنُ أَنْ نَحْتَفِلَ فِي بَيْتِي، فَهُوَ أَوْسَعُ مِنْ بَيْتِكَ.",
+        "translit": "fikratun rāʾiʿa! yumkinu ʾan naḥtafila fī baytī, fa-huwa ʾawsaʿu min baytik.",
+        "fr": "Super idée ! On peut fêter ça chez moi, c'est plus grand que chez toi."
+      },
+      {
+        "s": 1,
+        "ar": "حَسَنًا. أَنَا سَأَدْعُو الْأَصْدِقَاءَ، وَأَنْتِ تَشْتَرِينَ الْكَعْكَةَ.",
+        "translit": "ḥasanan. ʾanā sa-ʾadʿū l-ʾaṣdiqāʾ, wa-ʾanti tashtarīna l-kaʿka.",
+        "fr": "D'accord. Moi, j'invite les amis, et toi, tu achètes le gâteau."
+      },
+      {
+        "s": 0,
+        "ar": "لَا تَنْسَ أَنْ تَدْعُوَ زُمَلَاءَهَا فِي الْعَمَلِ أَيْضًا.",
+        "translit": "lā tansa ʾan tadʿuwa zumalāʾahā fī l-ʿamali ʾayḍan.",
+        "fr": "N'oublie pas d'inviter aussi ses collègues de travail."
+      },
+      {
+        "s": 1,
+        "ar": "وَكَيْفَ نُحْضِرُهَا إِلَى بَيْتِكِ دُونَ أَنْ تَشُكَّ فِي شَيْءٍ؟",
+        "translit": "wa-kayfa nuḥḍiruhā ʾilā baytiki dūna ʾan tashukka fī shayʾ?",
+        "fr": "Et comment l'amener chez toi sans qu'elle se doute de rien ?"
+      },
+      {
+        "s": 0,
+        "ar": "سَأَقُولُ لَهَا إِنَّنِي أَحْتَاجُ إِلَى مُسَاعَدَتِهَا فِي نَقْلِ بَعْضِ الْأَثَاثِ.",
+        "translit": "sa-ʾaqūlu lahā ʾinnanī ʾaḥtāju ʾilā musāʿadatihā fī naqli baʿḍi l-ʾathāth.",
+        "fr": "Je lui dirai que j'ai besoin de son aide pour déplacer des meubles."
+      },
+      {
+        "s": 1,
+        "ar": "يَا لَكِ مِنْ مَاكِرَةٍ! سَتُصَدِّقُكِ بِالتَّأْكِيدِ.",
+        "translit": "yā laki min mākira! sa-tuṣaddiquki bi-t-taʾkīd.",
+        "fr": "Quelle rusée tu fais ! Elle te croira, c'est sûr."
+      },
+      {
+        "s": 0,
+        "ar": "الْمُهِمُّ أَلَّا يُخْبِرَهَا أَحَدٌ. سِرٌّ بَيْنَنَا!",
+        "translit": "al-muhimmu ʾallā yukhbirahā ʾaḥad. sirrun baynanā!",
+        "fr": "L'important, c'est que personne ne lui dise rien. C'est un secret entre nous !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d41",
+    "level": 4,
+    "situation": "Entretien d'embauche",
+    "title": "Vos points forts ?",
+    "speakers": [
+      "Mounir",
+      "Salma"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "شُكْرًا عَلَى حُضُورِكِ. حَدِّثِينَا قَلِيلًا عَنْ مَسِيرَتِكِ الْمِهْنِيَّةِ.",
+        "translit": "shukran ʿalā ḥuḍūriki. ḥaddithīnā qalīlan ʿan masīratiki l-mihniyya.",
+        "fr": "Merci d'être venue. Parlez-nous un peu de votre parcours professionnel."
+      },
+      {
+        "s": 1,
+        "ar": "عَمِلْتُ خَمْسَ سَنَوَاتٍ مَسْؤُولَةً عَنِ التَّسْوِيقِ فِي شَرِكَةٍ نَاشِئَةٍ، حَيْثُ أَشْرَفْتُ عَلَى فَرِيقٍ مِنْ سِتَّةِ أَشْخَاصٍ.",
+        "translit": "ʿamiltu khamsa sanawātin masʾūlatan ʿani t-taswīqi fī sharikatin nāshiʾa, ḥaythu ʾashraftu ʿalā farīqin min sittati ʾashkhāṣ.",
+        "fr": "J'ai travaillé cinq ans comme responsable marketing dans une start-up, où j'ai encadré une équipe de six personnes."
+      },
+      {
+        "s": 0,
+        "ar": "وَلِمَاذَا تُرِيدِينَ أَنْ تَتْرُكِي عَمَلَكِ الْحَالِيَّ؟",
+        "translit": "wa-limādhā turīdīna ʾan tatrukī ʿamalaki l-ḥāliyy?",
+        "fr": "Et pourquoi voulez-vous quitter votre poste actuel ?"
+      },
+      {
+        "s": 1,
+        "ar": "بِصَرَاحَةٍ، أَشْعُرُ أَنَّنِي تَعَلَّمْتُ هُنَاكَ كُلَّ مَا يُمْكِنُ أَنْ أَتَعَلَّمَهُ، وَأَبْحَثُ عَنْ تَحَدِّيَاتٍ جَدِيدَةٍ.",
+        "translit": "bi-ṣarāḥa, ʾashʿuru ʾannanī taʿallamtu hunāka kulla mā yumkinu ʾan ʾataʿallamah, wa-ʾabḥathu ʿan taḥaddiyātin jadīda.",
+        "fr": "Franchement, j'ai l'impression d'avoir appris là-bas tout ce que je pouvais, et je cherche de nouveaux défis."
+      },
+      {
+        "s": 0,
+        "ar": "مَا هِيَ، فِي رَأْيِكِ، أَهَمُّ نِقَاطِ قُوَّتِكِ؟",
+        "translit": "mā hiya, fī raʾyiki, ʾahammu niqāṭi quwwatik?",
+        "fr": "Selon vous, quels sont vos principaux points forts ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَنَا مُنَظَّمَةٌ وَأُحْسِنُ الْعَمَلَ تَحْتَ الضَّغْطِ. كَمَا أَنَّنِي أُتْقِنُ ثَلَاثَ لُغَاتٍ.",
+        "translit": "ʾanā munaẓẓamatun wa-ʾuḥsinu l-ʿamala taḥta ḍ-ḍaghṭ. kamā ʾannanī ʾutqinu thalātha lughāt.",
+        "fr": "Je suis organisée et je travaille bien sous pression. De plus, je maîtrise trois langues."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَاذَا عَنْ نِقَاطِ ضَعْفِكِ؟",
+        "translit": "wa-mādhā ʿan niqāṭi ḍaʿfik?",
+        "fr": "Et vos points faibles ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَحْيَانًا أُرِيدُ أَنْ يَكُونَ كُلُّ شَيْءٍ مِثَالِيًّا، مِمَّا يَجْعَلُنِي أَتَأَخَّرُ فِي التَّسْلِيمِ. لَكِنَّنِي تَعَلَّمْتُ أَنْ أُحَدِّدَ الْأَوْلَوِيَّاتِ.",
+        "translit": "ʾaḥyānan ʾurīdu ʾan yakūna kullu shayʾin mithāliyyan, mimmā yajʿalunī ʾataʾakhkharu fī t-taslīm. lākinnanī taʿallamtu ʾan ʾuḥaddida l-ʾawlawiyyāt.",
+        "fr": "Parfois, je veux que tout soit parfait, ce qui me fait rendre mon travail en retard. Mais j'ai appris à fixer des priorités."
+      },
+      {
+        "s": 0,
+        "ar": "إِجَابَةٌ صَادِقَةٌ. إِذَا قَبِلْنَاكِ، مَتَى يُمْكِنُكِ أَنْ تَبْدَئِي؟",
+        "translit": "ʾijābatun ṣādiqa. ʾidhā qabilnāki, matā yumkinuki ʾan tabdaʾī?",
+        "fr": "Réponse honnête. Si nous vous retenons, quand pourriez-vous commencer ?"
+      },
+      {
+        "s": 1,
+        "ar": "بَعْدَ شَهْرٍ، لِأَنَّ عَلَيَّ أَنْ أَحْتَرِمَ فَتْرَةَ الْإِشْعَارِ.",
+        "translit": "baʿda shahr, li-ʾanna ʿalayya ʾan ʾaḥtarima fatrata l-ʾishʿār.",
+        "fr": "Dans un mois, car je dois respecter mon préavis."
+      },
+      {
+        "s": 0,
+        "ar": "مَفْهُومٌ. هَلْ لَدَيْكِ أَيُّ سُؤَالٍ لَنَا؟",
+        "translit": "mafhūm. hal ladayki ʾayyu suʾālin lanā?",
+        "fr": "Entendu. Avez-vous des questions pour nous ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ: كَيْفَ تَرَوْنَ تَطَوُّرَ هَذَا الْمَنْصِبِ خِلَالَ السَّنَوَاتِ الْقَادِمَةِ؟",
+        "translit": "naʿam: kayfa tarawna taṭawwura hādhā l-manṣibi khilāla s-sanawāti l-qādima?",
+        "fr": "Oui : comment voyez-vous l'évolution de ce poste dans les années à venir ?"
+      }
+    ]
+  },
+  {
+    "id": "ar-d42",
+    "level": 4,
+    "situation": "Réclamation",
+    "title": "Toujours pas d'internet",
+    "speakers": [
+      "Driss",
+      "Houda"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَتَّصِلُ لِلْمَرَّةِ الثَّالِثَةِ هَذَا الْأُسْبُوعَ، وَمَا زَالَ الْإِنْتَرْنِتُ مَقْطُوعًا عِنْدِي.",
+        "translit": "ʾattaṣilu li-l-marrati th-thālithati hādhā l-ʾusbūʿ, wa-mā zāla l-ʾintarnitu maqṭūʿan ʿindī.",
+        "fr": "J'appelle pour la troisième fois cette semaine, et je n'ai toujours pas internet."
+      },
+      {
+        "s": 1,
+        "ar": "أَعْتَذِرُ عَنْ هَذَا الْإِزْعَاجِ يَا سَيِّدِي. هَلْ يُمْكِنُ أَنْ تُعْطِيَنِي رَقْمَ الْعَقْدِ؟",
+        "translit": "ʾaʿtadhiru ʿan hādhā l-ʾizʿāji yā sayyidī. hal yumkinu ʾan tuʿṭiyanī raqma l-ʿaqd?",
+        "fr": "Je suis désolée pour ce désagrément, monsieur. Pouvez-vous me donner votre numéro de contrat ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَعْطَيْتُهُ لِزَمِيلِكِ مَرَّتَيْنِ! أَلَا تُسَجِّلُونَ الْمُكَالَمَاتِ؟",
+        "translit": "ʾaʿṭaytuhu li-zamīliki marratayn! ʾa-lā tusajjilūna l-mukālamāt?",
+        "fr": "Je l'ai déjà donné deux fois à votre collègue ! Vous n'enregistrez pas les appels ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَفْهَمُ غَضَبَكَ تَمَامًا. وَجَدْتُ مَلَفَّكَ الْآنَ: يَبْدُو أَنَّ الْعُطْلَ فِي الشَّبَكَةِ وَلَيْسَ فِي جِهَازِكَ.",
+        "translit": "ʾafhamu ghaḍabaka tamāman. wajadtu malaffaka l-ʾān: yabdū ʾanna l-ʿuṭla fī sh-shabakati wa-laysa fī jihāzik.",
+        "fr": "Je comprends tout à fait votre colère. J'ai trouvé votre dossier : il semble que la panne vienne du réseau, pas de votre appareil."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا مَا قُلْتُهُ مُنْذُ الْبِدَايَةِ. أَنَا أَعْمَلُ مِنَ الْبَيْتِ، وَكُلُّ يَوْمٍ بِدُونِ إِنْتَرْنِتْ يُكَلِّفُنِي مَالًا.",
+        "translit": "hādhā mā qultuhu mundhu l-bidāya. ʾanā ʾaʿmalu mina l-bayt, wa-kullu yawmin bi-dūni ʾintarnit yukallifunī mālan.",
+        "fr": "C'est ce que je dis depuis le début. Je travaille de chez moi, et chaque jour sans internet me coûte de l'argent."
+      },
+      {
+        "s": 1,
+        "ar": "سَأُرْسِلُ إِلَيْكَ فَنِّيًّا غَدًا صَبَاحًا عَلَى سَبِيلِ الْأَوْلَوِيَّةِ.",
+        "translit": "sa-ʾursilu ʾilayka fanniyyan ghadan ṣabāḥan ʿalā sabīli l-ʾawlawiyya.",
+        "fr": "Je vous envoie un technicien demain matin en priorité."
+      },
+      {
+        "s": 0,
+        "ar": "غَدًا؟ وَمَاذَا عَنِ الْأَيَّامِ الَّتِي ضَاعَتْ؟ لَا أَنْوِي أَنْ أَدْفَعَ ثَمَنَ خِدْمَةٍ لَمْ أَحْصُلْ عَلَيْهَا.",
+        "translit": "ghadan? wa-mādhā ʿani l-ʾayyāmi llatī ḍāʿat? lā ʾanwī ʾan ʾadfaʿa thamana khidmatin lam ʾaḥṣul ʿalayhā.",
+        "fr": "Demain ? Et les jours perdus ? Je n'ai pas l'intention de payer un service que je n'ai pas reçu."
+      },
+      {
+        "s": 1,
+        "ar": "مَعَكَ حَقٌّ. سَأُضِيفُ إِلَى فَاتُورَتِكَ الْقَادِمَةِ تَعْوِيضًا يُعَادِلُ أُسْبُوعًا كَامِلًا.",
+        "translit": "maʿaka ḥaqq. sa-ʾuḍīfu ʾilā fātūratika l-qādimati taʿwīḍan yuʿādilu ʾusbūʿan kāmilan.",
+        "fr": "Vous avez raison. J'ajouterai sur votre prochaine facture un dédommagement équivalent à une semaine entière."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا أَقَلُّ مَا يُمْكِنُ. وَإِذَا تَكَرَّرَتِ الْمُشْكِلَةُ، فَسَأُلْغِي اشْتِرَاكِي نِهَائِيًّا.",
+        "translit": "hādhā ʾaqallu mā yumkin. wa-ʾidhā takarrarati l-mushkilatu, fa-sa-ʾulghī shtirākī nihāʾiyyan.",
+        "fr": "C'est le minimum. Et si le problème se reproduit, je résilierai définitivement mon abonnement."
+      },
+      {
+        "s": 1,
+        "ar": "أَتَفَهَّمُ ذَلِكَ. سَأُتَابِعُ مَلَفَّكَ شَخْصِيًّا، وَهَذَا رَقْمُ الشَّكْوَى لِلرُّجُوعِ إِلَيْهِ.",
+        "translit": "ʾatafahhamu dhālik. sa-ʾutābiʿu malaffaka shakhṣiyyan, wa-hādhā raqmu sh-shakwā li-r-rujūʿi ʾilayh.",
+        "fr": "Je le comprends. Je vais suivre votre dossier personnellement, et voici le numéro de réclamation pour référence."
+      }
+    ]
+  },
+  {
+    "id": "ar-d43",
+    "level": 4,
+    "situation": "Négociation",
+    "title": "Une voiture d'occasion",
+    "speakers": [
+      "Kenza",
+      "Anas"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "السَّيَّارَةُ تُعْجِبُنِي، لَكِنَّ السِّعْرَ مُرْتَفِعٌ بِالنِّسْبَةِ إِلَى عُمُرِهَا.",
+        "translit": "as-sayyāratu tuʿjibunī, lākinna s-siʿra murtafiʿun bi-n-nisbati ʾilā ʿumurihā.",
+        "fr": "La voiture me plaît, mais le prix est élevé pour son âge."
+      },
+      {
+        "s": 1,
+        "ar": "صَحِيحٌ أَنَّهَا لَيْسَتْ جَدِيدَةً، وَمَعَ ذَلِكَ فَهِيَ فِي حَالَةٍ مُمْتَازَةٍ، وَلَمْ تَتَعَرَّضْ لِأَيِّ حَادِثٍ.",
+        "translit": "ṣaḥīḥun ʾannahā laysat jadīda, wa-maʿa dhālika fa-hiya fī ḥālatin mumtāza, wa-lam tataʿarraḍ li-ʾayyi ḥādith.",
+        "fr": "C'est vrai qu'elle n'est pas neuve, mais elle est en excellent état et n'a jamais eu d'accident."
+      },
+      {
+        "s": 0,
+        "ar": "لَاحَظْتُ أَنَّ الْإِطَارَاتِ قَدِيمَةٌ، وَسَأَضْطَرُّ إِلَى تَغْيِيرِهَا قَرِيبًا.",
+        "translit": "lāḥaẓtu ʾanna l-ʾiṭārāti qadīma, wa-sa-ʾaḍṭarru ʾilā taghyīrihā qarīban.",
+        "fr": "J'ai remarqué que les pneus sont usés, et je devrai les changer bientôt."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا صَحِيحٌ. مَا السِّعْرُ الَّذِي تَقْتَرِحِينَهُ إِذَنْ؟",
+        "translit": "hādhā ṣaḥīḥ. mā s-siʿru lladhī taqtariḥīnahu ʾidhan?",
+        "fr": "C'est vrai. Quel prix proposez-vous, alors ?"
+      },
+      {
+        "s": 0,
+        "ar": "سِتُّونَ أَلْفًا، وَأَدْفَعُ نَقْدًا الْيَوْمَ.",
+        "translit": "sittūna ʾalfan, wa-ʾadfaʿu naqdan al-yawm.",
+        "fr": "Soixante mille, et je paie comptant aujourd'hui."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا قَلِيلٌ جِدًّا! لَا أَسْتَطِيعُ أَنْ أَنْزِلَ تَحْتَ سَبْعِينَ أَلْفًا.",
+        "translit": "hādhā qalīlun jiddan! lā ʾastaṭīʿu ʾan ʾanzila taḥta sabʿīna ʾalfan.",
+        "fr": "C'est beaucoup trop peu ! Je ne peux pas descendre en dessous de soixante-dix mille."
+      },
+      {
+        "s": 0,
+        "ar": "لِنَلْتَقِ فِي الْمُنْتَصَفِ: خَمْسَةٌ وَسِتُّونَ أَلْفًا، بِشَرْطِ أَنْ تُغَيِّرَ الزَّيْتَ قَبْلَ التَّسْلِيمِ.",
+        "translit": "li-naltaqi fī l-muntaṣaf: khamsatun wa-sittūna ʾalfan, bi-sharṭi ʾan tughayyira z-zayta qabla t-taslīm.",
+        "fr": "Coupons la poire en deux : soixante-cinq mille, à condition que vous fassiez la vidange avant la livraison."
+      },
+      {
+        "s": 1,
+        "ar": "أَنْتِ مُفَاوِضَةٌ صَعْبَةٌ! حَسَنًا، لَكِنْ بِشَرْطِ أَنْ تَدْفَعِي الْيَوْمَ كَمَا قُلْتِ.",
+        "translit": "ʾanti mufāwiḍatun ṣaʿba! ḥasanan, lākin bi-sharṭi ʾan tadfaʿī l-yawma kamā qulti.",
+        "fr": "Vous êtes une négociatrice coriace ! D'accord, mais à condition que vous payiez aujourd'hui comme vous l'avez dit."
+      },
+      {
+        "s": 0,
+        "ar": "اتَّفَقْنَا. وَأُرِيدُ أَيْضًا كُلَّ وَثَائِقِ الصِّيَانَةِ قَبْلَ أَنْ نُوَقِّعَ.",
+        "translit": "ittafaqnā. wa-ʾurīdu ʾayḍan kulla wathāʾiqi ṣ-ṣiyāna qabla ʾan nuwaqqiʿ.",
+        "fr": "Marché conclu. Je veux aussi tous les documents d'entretien avant de signer."
+      },
+      {
+        "s": 1,
+        "ar": "لَا مُشْكِلَةَ، كُلُّهَا فِي هَذَا الْمَلَفِّ. سَتَرَيْنَ أَنَّنِي لَمْ أُخْفِ عَنْكِ شَيْئًا.",
+        "translit": "lā mushkila, kulluhā fī hādhā l-malaff. sa-tarayna ʾannanī lam ʾukhfi ʿanki shayʾan.",
+        "fr": "Pas de problème, tout est dans ce dossier. Vous verrez que je ne vous ai rien caché."
+      }
+    ]
+  },
+  {
+    "id": "ar-d44",
+    "level": 4,
+    "situation": "L'actualité",
+    "title": "La pénurie d'eau",
+    "speakers": [
+      "Yassine",
+      "Ghita"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "هَلْ قَرَأْتِ الْخَبَرَ عَنْ نَقْصِ الْمِيَاهِ فِي الْجَنُوبِ؟",
+        "translit": "hal qaraʾti l-khabara ʿan naqṣi l-miyāhi fī l-janūb?",
+        "fr": "Tu as lu la nouvelle sur le manque d'eau dans le sud ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، وَهُوَ أَمْرٌ مُقْلِقٌ. يَقُولُ الْخُبَرَاءُ إِنَّ الْوَضْعَ سَيَزْدَادُ سُوءًا بِسَبَبِ قِلَّةِ الْأَمْطَارِ.",
+        "translit": "naʿam, wa-huwa ʾamrun muqliq. yaqūlu l-khubarāʾu ʾinna l-waḍʿa sa-yazdādu sūʾan bi-sababi qillati l-ʾamṭār.",
+        "fr": "Oui, et c'est inquiétant. Les experts disent que la situation va empirer à cause du manque de pluie."
+      },
+      {
+        "s": 0,
+        "ar": "فِي رَأْيِي، الْمُشْكِلَةُ لَيْسَتْ فِي الْمَطَرِ فَقَطْ، بَلْ فِي طَرِيقَةِ اسْتِهْلَاكِنَا لِلْمَاءِ أَيْضًا.",
+        "translit": "fī raʾyī, al-mushkilatu laysat fī l-maṭari faqaṭ, bal fī ṭarīqati stihlākinā li-l-māʾi ʾayḍan.",
+        "fr": "À mon avis, le problème n'est pas seulement la pluie, mais aussi notre façon de consommer l'eau."
+      },
+      {
+        "s": 1,
+        "ar": "تَقْصِدُ الزِّرَاعَةَ؟",
+        "translit": "taqṣidu z-zirāʿa?",
+        "fr": "Tu penses à l'agriculture ?"
+      },
+      {
+        "s": 0,
+        "ar": "بِالضَّبْطِ. نَزْرَعُ فَوَاكِهَ تَحْتَاجُ إِلَى كَمِّيَّاتٍ هَائِلَةٍ مِنَ الْمَاءِ، ثُمَّ نُصَدِّرُهَا إِلَى الْخَارِجِ.",
+        "translit": "bi-ḍ-ḍabṭ. nazraʿu fawākiha taḥtāju ʾilā kammiyyātin hāʾilatin mina l-māʾ, thumma nuṣaddiruhā ʾilā l-khārij.",
+        "fr": "Exactement. Nous cultivons des fruits qui demandent d'énormes quantités d'eau, puis nous les exportons."
+      },
+      {
+        "s": 1,
+        "ar": "لَكِنَّ هَذِهِ الصَّادِرَاتِ تُوَفِّرُ آلَافَ فُرَصِ الْعَمَلِ. لَا يُمْكِنُ أَنْ نَتَخَلَّى عَنْهَا بِسُهُولَةٍ.",
+        "translit": "lākinna hādhihi ṣ-ṣādirāti tuwaffiru ʾālāfa furaṣi l-ʿamal. lā yumkinu ʾan natakhallā ʿanhā bi-suhūla.",
+        "fr": "Mais ces exportations créent des milliers d'emplois. On ne peut pas y renoncer facilement."
+      },
+      {
+        "s": 0,
+        "ar": "لَا أَقُولُ إِنَّ عَلَيْنَا أَنْ نَتَخَلَّى عَنْهَا، وَإِنَّمَا أَنْ نَخْتَارَ زِرَاعَاتٍ تُنَاسِبُ مُنَاخَنَا.",
+        "translit": "lā ʾaqūlu ʾinna ʿalaynā ʾan natakhallā ʿanhā, wa-ʾinnamā ʾan nakhtāra zirāʿātin tunāsibu munākhanā.",
+        "fr": "Je ne dis pas qu'il faut y renoncer, mais qu'il faut choisir des cultures adaptées à notre climat."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا مَنْطِقِيٌّ. وَمَعَ ذَلِكَ، أَظُنُّ أَنَّ الْحَلَّ يَحْتَاجُ إِلَى وَقْتٍ طَوِيلٍ.",
+        "translit": "hādhā manṭiqiyy. wa-maʿa dhālik, ʾaẓunnu ʾanna l-ḥalla yaḥtāju ʾilā waqtin ṭawīl.",
+        "fr": "C'est logique. Cela dit, je pense que la solution prendra du temps."
+      },
+      {
+        "s": 0,
+        "ar": "لِذَلِكَ يَجِبُ أَنْ نَبْدَأَ الْآنَ، بَدَلًا مِنْ أَنْ نَنْتَظِرَ الْكَارِثَةَ.",
+        "translit": "li-dhālika yajibu ʾan nabdaʾa l-ʾān, badalan min ʾan nantaẓira l-kāritha.",
+        "fr": "C'est pour ça qu'il faut commencer maintenant, au lieu d'attendre la catastrophe."
+      },
+      {
+        "s": 1,
+        "ar": "وَعَلَى الْمُسْتَوَى الْفَرْدِيِّ؟ هَلْ تَعْتَقِدُ أَنَّ تَصَرُّفَاتِنَا الْيَوْمِيَّةَ تُغَيِّرُ شَيْئًا؟",
+        "translit": "wa-ʿalā l-mustawā l-fardiyy? hal taʿtaqidu ʾanna taṣarrufātinā l-yawmiyyata tughayyiru shayʾan?",
+        "fr": "Et au niveau individuel ? Tu crois que nos gestes quotidiens changent quelque chose ?"
+      },
+      {
+        "s": 0,
+        "ar": "كُلُّ قَطْرَةٍ مُهِمَّةٌ، كَمَا يُقَالُ. لَكِنَّ الْقَرَارَاتِ الْكَبِيرَةَ تَبْقَى سِيَاسِيَّةً.",
+        "translit": "kullu qaṭratin muhimma, kamā yuqāl. lākinna l-qarārāti l-kabīrata tabqā siyāsiyya.",
+        "fr": "Chaque goutte compte, comme on dit. Mais les grandes décisions restent politiques."
+      }
+    ]
+  },
+  {
+    "id": "ar-d45",
+    "level": 4,
+    "situation": "Au travail",
+    "title": "Le télétravail en question",
+    "speakers": [
+      "Hicham",
+      "Asmae"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "الشَّرِكَةُ تُفَكِّرُ فِي إِلْغَاءِ الْعَمَلِ عَنْ بُعْدٍ. مَا رَأْيُكِ؟",
+        "translit": "ash-sharikatu tufakkiru fī ʾilghāʾi l-ʿamali ʿan buʿd. mā raʾyuki?",
+        "fr": "L'entreprise envisage de supprimer le télétravail. Qu'en penses-tu ?"
+      },
+      {
+        "s": 1,
+        "ar": "سَيَكُونُ ذَلِكَ خَطَأً كَبِيرًا. مُنْذُ أَنْ بَدَأْتُ أَعْمَلُ مِنَ الْبَيْتِ، أَصْبَحْتُ أَكْثَرَ إِنْتَاجِيَّةً.",
+        "translit": "sa-yakūnu dhālika khaṭaʾan kabīran. mundhu ʾan badaʾtu ʾaʿmalu mina l-bayt, ʾaṣbaḥtu ʾakthara ʾintājiyya.",
+        "fr": "Ce serait une grosse erreur. Depuis que je travaille de chez moi, je suis plus productive."
+      },
+      {
+        "s": 0,
+        "ar": "رُبَّمَا أَنْتِ، لَكِنْ لَيْسَ الْجَمِيعُ. بَعْضُ الزُّمَلَاءِ يَشْعُرُونَ بِالْعُزْلَةِ.",
+        "translit": "rubbamā ʾanti, lākin laysa l-jamīʿ. baʿḍu z-zumalāʾi yashʿurūna bi-l-ʿuzla.",
+        "fr": "Toi peut-être, mais pas tout le monde. Certains collègues se sentent isolés."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا صَحِيحٌ، وَلَا أُنْكِرُ أَنَّ الْعَلَاقَاتِ الْإِنْسَانِيَّةَ تَتَأَثَّرُ. وَمَعَ ذَلِكَ، أُوَفِّرُ سَاعَتَيْنِ مِنَ التَّنَقُّلِ كُلَّ يَوْمٍ.",
+        "translit": "hādhā ṣaḥīḥ, wa-lā ʾunkiru ʾanna l-ʿalāqāti l-ʾinsāniyyata tataʾaththar. wa-maʿa dhālik, ʾuwaffiru sāʿatayni mina t-tanaqquli kulla yawm.",
+        "fr": "C'est vrai, et je ne nie pas que les relations humaines en pâtissent. Malgré tout, j'économise deux heures de trajet par jour."
+      },
+      {
+        "s": 0,
+        "ar": "أَفْهَمُكِ. أَمَّا أَنَا، فَأَجِدُ صُعُوبَةً فِي الْفَصْلِ بَيْنَ حَيَاتِي الْمِهْنِيَّةِ وَحَيَاتِي الشَّخْصِيَّةِ عِنْدَمَا أَبْقَى فِي الْبَيْتِ.",
+        "translit": "ʾafhamuki. ʾammā ʾanā, fa-ʾajidu ṣuʿūbatan fī l-faṣli bayna ḥayātī l-mihniyyati wa-ḥayātī sh-shakhṣiyya ʿindamā ʾabqā fī l-bayt.",
+        "fr": "Je te comprends. Moi, en revanche, j'ai du mal à séparer vie pro et vie perso quand je reste à la maison."
+      },
+      {
+        "s": 1,
+        "ar": "إِذَنْ لِمَاذَا لَا نَقْتَرِحُ حَلًّا وَسَطًا؟ يَوْمَانِ فِي الْبَيْتِ وَثَلَاثَةٌ فِي الْمَكْتَبِ مَثَلًا.",
+        "translit": "ʾidhan limādhā lā naqtariḥu ḥallan wasaṭan? yawmāni fī l-bayti wa-thalāthatun fī l-maktabi mathalan.",
+        "fr": "Alors pourquoi ne pas proposer une solution intermédiaire ? Deux jours à la maison et trois au bureau, par exemple."
+      },
+      {
+        "s": 0,
+        "ar": "فِكْرَةٌ مَعْقُولَةٌ. بِهَذِهِ الطَّرِيقَةِ يَحْتَفِظُ كُلُّ وَاحِدٍ بِشَيْءٍ مِنَ الْمُرُونَةِ.",
+        "translit": "fikratun maʿqūla. bi-hādhihi ṭ-ṭarīqati yaḥtafiẓu kullu wāḥidin bi-shayʾin mina l-murūna.",
+        "fr": "Idée raisonnable. Comme ça, chacun garde un peu de souplesse."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ تُوَافِقُ عَلَى أَنْ نَكْتُبَ اقْتِرَاحًا مُشْتَرَكًا وَنُقَدِّمَهُ لِلْمُدِيرَةِ؟",
+        "translit": "hal tuwāfiqu ʿalā ʾan naktuba qtirāḥan mushtarakan wa-nuqaddimahu li-l-mudīra?",
+        "fr": "Tu serais d'accord pour qu'on rédige une proposition commune et qu'on la présente à la directrice ?"
+      },
+      {
+        "s": 0,
+        "ar": "بِكُلِّ سُرُورٍ، بِشَرْطِ أَنْ نَسْتَنِدَ إِلَى أَرْقَامٍ وَلَيْسَ إِلَى انْطِبَاعَاتٍ فَقَطْ.",
+        "translit": "bi-kulli surūr, bi-sharṭi ʾan nastanida ʾilā ʾarqāmin wa-laysa ʾilā nṭibāʿātin faqaṭ.",
+        "fr": "Avec plaisir, à condition de s'appuyer sur des chiffres et pas seulement sur des impressions."
+      },
+      {
+        "s": 1,
+        "ar": "مُوَافِقَةٌ. سَأَجْمَعُ الْبَيَانَاتِ هَذَا الْأُسْبُوعَ.",
+        "translit": "muwāfiqa. sa-ʾajmaʿu l-bayānāti hādhā l-ʾusbūʿ.",
+        "fr": "D'accord. Je rassemble les données cette semaine."
+      }
+    ]
+  },
+  {
+    "id": "ar-d46",
+    "level": 4,
+    "situation": "Culture",
+    "title": "En sortant du cinéma",
+    "speakers": [
+      "Reda",
+      "Lamia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "كَيْفَ وَجَدْتِ الْفِيلْمَ؟ أَنَا شَعَرْتُ بِالْمَلَلِ فِي النِّصْفِ الثَّانِي.",
+        "translit": "kayfa wajadti l-fīlm? ʾanā shaʿartu bi-l-malali fī n-niṣfi th-thānī.",
+        "fr": "Tu as trouvé le film comment ? Moi, je me suis ennuyé dans la deuxième moitié."
+      },
+      {
+        "s": 1,
+        "ar": "حَقًّا؟ عَلَى الْعَكْسِ، أَعْجَبَتْنِي النِّهَايَةُ كَثِيرًا، لِأَنَّهَا تَتْرُكُ الْمُشَاهِدَ يُفَكِّرُ.",
+        "translit": "ḥaqqan? ʿalā l-ʿaks, ʾaʿjabatnī n-nihāyatu kathīran, li-ʾannahā tatruku l-mushāhida yufakkir.",
+        "fr": "Vraiment ? Au contraire, j'ai beaucoup aimé la fin, parce qu'elle laisse le spectateur réfléchir."
+      },
+      {
+        "s": 0,
+        "ar": "أَوْ تَتْرُكُهُ حَائِرًا! لَمْ أَفْهَمْ لِمَاذَا رَحَلَ الْبَطَلُ دُونَ أَنْ يُوَدِّعَ عَائِلَتَهُ.",
+        "translit": "ʾaw tatrukuhu ḥāʾiran! lam ʾafham limādhā raḥala l-baṭalu dūna ʾan yuwaddiʿa ʿāʾilatah.",
+        "fr": "Ou le laisse perplexe ! Je n'ai pas compris pourquoi le héros part sans dire au revoir à sa famille."
+      },
+      {
+        "s": 1,
+        "ar": "أَظُنُّ أَنَّ الْمُخْرِجَ أَرَادَ أَنْ يُبَيِّنَ أَنَّ بَعْضَ الْجُرُوحِ لَا تُشْفَى بِالْكَلَامِ.",
+        "translit": "ʾaẓunnu ʾanna l-mukhrija ʾarāda ʾan yubayyina ʾanna baʿḍa l-jurūḥi lā tushfā bi-l-kalām.",
+        "fr": "Je pense que le réalisateur voulait montrer que certaines blessures ne guérissent pas avec des mots."
+      },
+      {
+        "s": 0,
+        "ar": "تَفْسِيرٌ جَمِيلٌ، وَلَكِنَّ الْإِيقَاعَ كَانَ بَطِيئًا جِدًّا فِي رَأْيِي.",
+        "translit": "tafsīrun jamīl, wa-lākinna l-ʾīqāʿa kāna baṭīʾan jiddan fī raʾyī.",
+        "fr": "Belle interprétation, mais le rythme était trop lent à mon avis."
+      },
+      {
+        "s": 1,
+        "ar": "أَتَّفِقُ مَعَكَ فِي هَذِهِ النُّقْطَةِ. كَانَ مِنَ الْمُمْكِنِ حَذْفُ رُبْعِ سَاعَةٍ عَلَى الْأَقَلِّ.",
+        "translit": "ʾattafiqu maʿaka fī hādhihi n-nuqṭa. kāna mina l-mumkini ḥadhfu rubʿi sāʿatin ʿalā l-ʾaqall.",
+        "fr": "Je suis d'accord avec toi sur ce point. On aurait pu couper au moins un quart d'heure."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَعَ ذَلِكَ، يَجِبُ أَنْ أَعْتَرِفَ بِأَنَّ التَّصْوِيرَ كَانَ رَائِعًا، وَلَا سِيَّمَا مَشَاهِدُ الصَّحْرَاءِ.",
+        "translit": "wa-maʿa dhālik, yajibu ʾan ʾaʿtarifa bi-ʾanna t-taṣwīra kāna rāʾiʿan, wa-lā siyyamā mashāhidu ṣ-ṣaḥrāʾ.",
+        "fr": "Malgré tout, je dois reconnaître que la photographie était superbe, surtout les scènes dans le désert."
+      },
+      {
+        "s": 1,
+        "ar": "وَالْمُوسِيقَى أَيْضًا! سَأَبْحَثُ عَنْهَا الْيَوْمَ عَلَى الْإِنْتَرْنِتْ.",
+        "translit": "wa-l-mūsīqā ʾayḍan! sa-ʾabḥathu ʿanhā l-yawma ʿalā l-ʾintarnit.",
+        "fr": "Et la musique aussi ! Je vais la chercher sur internet aujourd'hui."
+      },
+      {
+        "s": 0,
+        "ar": "لَوْ كَانَ الْفِيلْمُ أَقْصَرَ لَكَانَ تُحْفَةً حَقِيقِيَّةً.",
+        "translit": "law kāna l-fīlmu ʾaqṣara la-kāna tuḥfatan ḥaqīqiyya.",
+        "fr": "S'il avait été plus court, ça aurait été un vrai chef-d'œuvre."
+      },
+      {
+        "s": 1,
+        "ar": "لِنَتَّفِقْ إِذَنْ: فِيلْمٌ جَيِّدٌ، لَكِنَّهُ لَيْسَ تُحْفَةً.",
+        "translit": "li-nattafiq ʾidhan: fīlmun jayyid, lākinnahu laysa tuḥfa.",
+        "fr": "Mettons-nous d'accord, alors : un bon film, mais pas un chef-d'œuvre."
+      }
+    ]
+  },
+  {
+    "id": "ar-d47",
+    "level": 4,
+    "situation": "Et si… ?",
+    "title": "Si tu gagnais un million",
+    "speakers": [
+      "Samia",
+      "Adam"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "لَوْ رَبِحْتَ مِلْيُونَ دِرْهَمٍ غَدًا، مَاذَا كُنْتَ سَتَفْعَلُ؟",
+        "translit": "law rabiḥta milyūna dirhamin ghadan, mādhā kunta sa-tafʿal?",
+        "fr": "Si tu gagnais un million de dirhams demain, qu'est-ce que tu ferais ?"
+      },
+      {
+        "s": 1,
+        "ar": "سُؤَالٌ صَعْبٌ! أَوَّلًا، لَسَدَّدْتُ دُيُونَ وَالِدَيَّ، ثُمَّ اشْتَرَيْتُ بَيْتًا قُرْبَ الْبَحْرِ.",
+        "translit": "suʾālun ṣaʿb! ʾawwalan, la-saddadtu duyūna wālidayy, thumma shtaraytu baytan qurba l-baḥr.",
+        "fr": "Question difficile ! D'abord, je rembourserais les dettes de mes parents, puis j'achèterais une maison près de la mer."
+      },
+      {
+        "s": 0,
+        "ar": "وَهَلْ كُنْتَ سَتَتْرُكُ عَمَلَكَ؟",
+        "translit": "wa-hal kunta sa-tatruku ʿamalak?",
+        "fr": "Et tu quitterais ton travail ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا أَظُنُّ. لَوْ لَمْ أَعْمَلْ لَشَعَرْتُ بِالْفَرَاغِ. وَأَنْتِ؟",
+        "translit": "lā ʾaẓunn. law lam ʾaʿmal la-shaʿartu bi-l-farāgh. wa-ʾanti?",
+        "fr": "Je ne crois pas. Si je ne travaillais pas, je me sentirais vide. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا لَتَرَكْتُهُ فَوْرًا! وَلَسَافَرْتُ حَوْلَ الْعَالَمِ سَنَةً كَامِلَةً.",
+        "translit": "ʾanā la-taraktuhu fawran! wa-la-sāfartu ḥawla l-ʿālami sanatan kāmila.",
+        "fr": "Moi, je le quitterais tout de suite ! Et je ferais le tour du monde pendant un an."
+      },
+      {
+        "s": 1,
+        "ar": "وَبَعْدَ سَنَةٍ؟ الْمَالُ لَا يَدُومُ إِذَا لَمْ تَسْتَثْمِرِيهِ.",
+        "translit": "wa-baʿda sana? al-mālu lā yadūmu ʾidhā lam tastathmirīh.",
+        "fr": "Et après un an ? L'argent ne dure pas si tu ne l'investis pas."
+      },
+      {
+        "s": 0,
+        "ar": "أَنْتَ عَقْلَانِيٌّ أَكْثَرَ مِنَ اللَّازِمِ! نَحْنُ نَحْلُمُ فَقَطْ.",
+        "translit": "ʾanta ʿaqlāniyyun ʾakthara mina l-lāzim! naḥnu naḥlumu faqaṭ.",
+        "fr": "Tu es trop raisonnable ! On ne fait que rêver."
+      },
+      {
+        "s": 1,
+        "ar": "مَعَكِ حَقٌّ. حَسَنًا، لَوْ كُنْتُ غَنِيًّا لَأَسَّسْتُ أَيْضًا مَدْرَسَةً فِي قَرْيَةِ جَدِّي.",
+        "translit": "maʿaki ḥaqq. ḥasanan, law kuntu ghaniyyan la-ʾassastu ʾayḍan madrasatan fī qaryati jaddī.",
+        "fr": "Tu as raison. Bon, si j'étais riche, je fonderais aussi une école dans le village de mon grand-père."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا أَجْمَلُ مِنْ كُلِّ رِحْلَاتِي! رُبَّمَا كُنْتُ سَأُسَاعِدُكَ فِيهَا.",
+        "translit": "hādhā ʾajmalu min kulli riḥlātī! rubbamā kuntu sa-ʾusāʿiduka fīhā.",
+        "fr": "C'est plus beau que tous mes voyages ! Je t'y aiderais peut-être."
+      },
+      {
+        "s": 1,
+        "ar": "إِذَنْ عَلَيْنَا أَوَّلًا أَنْ نَشْتَرِيَ تَذْكِرَةَ الْيَانَصِيبِ!",
+        "translit": "ʾidhan ʿalaynā ʾawwalan ʾan nashtariya tadhkirata l-yānaṣīb!",
+        "fr": "Alors il faut d'abord qu'on achète un billet de loterie !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d48",
+    "level": 4,
+    "situation": "En famille",
+    "title": "Les écrans à la maison",
+    "speakers": [
+      "Ayoub",
+      "Widad"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ابْنُنَا يَقْضِي أَكْثَرَ مِنْ أَرْبَعِ سَاعَاتٍ يَوْمِيًّا عَلَى هَاتِفِهِ. هَذَا لَمْ يَعُدْ مَقْبُولًا.",
+        "translit": "ibnunā yaqḍī ʾakthara min ʾarbaʿi sāʿātin yawmiyyan ʿalā hātifih. hādhā lam yaʿud maqbūlan.",
+        "fr": "Notre fils passe plus de quatre heures par jour sur son téléphone. Ce n'est plus acceptable."
+      },
+      {
+        "s": 1,
+        "ar": "أَتَّفِقُ مَعَكَ، لَكِنَّ مَنْعَهُ تَمَامًا لَيْسَ حَلًّا. كُلُّ أَصْدِقَائِهِ يَتَوَاصَلُونَ عَبْرَ هَذِهِ التَّطْبِيقَاتِ.",
+        "translit": "ʾattafiqu maʿak, lākinna manʿahu tamāman laysa ḥallan. kullu ʾaṣdiqāʾihi yatawāṣalūna ʿabra hādhihi t-taṭbīqāt.",
+        "fr": "Je suis d'accord, mais le lui interdire complètement n'est pas une solution. Tous ses amis communiquent par ces applis."
+      },
+      {
+        "s": 0,
+        "ar": "لَا أُرِيدُ أَنْ أَمْنَعَهُ، وَإِنَّمَا أَنْ نَضَعَ قَوَاعِدَ وَاضِحَةً.",
+        "translit": "lā ʾurīdu ʾan ʾamnaʿah, wa-ʾinnamā ʾan naḍaʿa qawāʿida wāḍiḥa.",
+        "fr": "Je ne veux pas le lui interdire, mais qu'on fixe des règles claires."
+      },
+      {
+        "s": 1,
+        "ar": "مِثْلَ مَاذَا؟",
+        "translit": "mithla mādhā?",
+        "fr": "Comme quoi ?"
+      },
+      {
+        "s": 0,
+        "ar": "لَا هَاتِفَ عَلَى مَائِدَةِ الطَّعَامِ، وَلَا شَاشَاتِ بَعْدَ السَّاعَةِ التَّاسِعَةِ لَيْلًا.",
+        "translit": "lā hātifa ʿalā māʾidati ṭ-ṭaʿām, wa-lā shāshāti baʿda s-sāʿati t-tāsiʿati laylan.",
+        "fr": "Pas de téléphone à table, et pas d'écrans après neuf heures du soir."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا مَعْقُولٌ، بِشَرْطِ أَنْ نَحْتَرِمَ نَحْنُ أَيْضًا هَذِهِ الْقَوَاعِدَ، فَالْأَطْفَالُ يُقَلِّدُونَ آبَاءَهُمْ.",
+        "translit": "hādhā maʿqūl, bi-sharṭi ʾan naḥtarima naḥnu ʾayḍan hādhihi l-qawāʿid, fa-l-ʾaṭfālu yuqallidūna ʾābāʾahum.",
+        "fr": "C'est raisonnable, à condition que nous aussi, nous respections ces règles : les enfants imitent leurs parents."
+      },
+      {
+        "s": 0,
+        "ar": "تَقْصِدِينَنِي أَنَا؟ أَنَا أَسْتَعْمِلُ الْهَاتِفَ لِلْعَمَلِ فَقَطْ!",
+        "translit": "taqṣidīnanī ʾanā? ʾanā ʾastaʿmilu l-hātifa li-l-ʿamali faqaṭ!",
+        "fr": "C'est de moi que tu parles ? Moi, j'utilise le téléphone uniquement pour le travail !"
+      },
+      {
+        "s": 1,
+        "ar": "وَمُبَارَيَاتُ كُرَةِ الْقَدَمِ؟ هَلْ هِيَ عَمَلٌ أَيْضًا؟",
+        "translit": "wa-mubārayātu kurati l-qadam? hal hiya ʿamalun ʾayḍan?",
+        "fr": "Et les matchs de foot ? C'est du travail aussi ?"
+      },
+      {
+        "s": 0,
+        "ar": "حَسَنًا، حَسَنًا، فَهِمْتُ الرِّسَالَةَ. سَأَكُونُ قُدْوَةً ابْتِدَاءً مِنَ اللَّيْلَةِ.",
+        "translit": "ḥasanan, ḥasanan, fahimtu r-risāla. sa-ʾakūnu qudwatan ibtidāʾan mina l-layla.",
+        "fr": "Bon, bon, message reçu. Je montrerai l'exemple à partir de ce soir."
+      },
+      {
+        "s": 1,
+        "ar": "سَنَتَحَدَّثُ مَعَهُ مَعًا بِهُدُوءٍ، حَتَّى لَا يَشْعُرَ بِأَنَّهُ عِقَابٌ.",
+        "translit": "sa-nataḥaddathu maʿahu maʿan bi-hudūʾ, ḥattā lā yashʿura bi-ʾannahu ʿiqāb.",
+        "fr": "On lui en parlera ensemble calmement, pour qu'il ne le vive pas comme une punition."
+      }
+    ]
+  },
+  {
+    "id": "ar-d49",
+    "level": 4,
+    "situation": "Choix de vie",
+    "title": "La ville ou la campagne ?",
+    "speakers": [
+      "Othmane",
+      "Siham"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أُفَكِّرُ جِدِّيًّا فِي مُغَادَرَةِ الْمَدِينَةِ وَالِاسْتِقْرَارِ فِي الْقَرْيَةِ.",
+        "translit": "ʾufakkiru jiddiyyan fī mughādarati l-madīnati wa-l-istiqrāri fī l-qarya.",
+        "fr": "Je pense sérieusement à quitter la ville pour m'installer à la campagne."
+      },
+      {
+        "s": 1,
+        "ar": "أَنْتَ؟ الَّذِي لَا يَسْتَطِيعُ أَنْ يَعِيشَ بِدُونِ مَقَاهٍ وَسِينِمَا؟",
+        "translit": "ʾanta? alladhī lā yastaṭīʿu ʾan yaʿīsha bi-dūni maqāhin wa-sīnimā?",
+        "fr": "Toi ? Celui qui ne peut pas vivre sans cafés ni cinéma ?"
+      },
+      {
+        "s": 0,
+        "ar": "لَقَدْ تَعِبْتُ مِنَ الضَّجِيجِ وَالتَّلَوُّثِ وَالِازْدِحَامِ. أُرِيدُ حَيَاةً أَهْدَأَ.",
+        "translit": "laqad taʿibtu mina ḍ-ḍajīji wa-t-talawwuthi wa-l-izdiḥām. ʾurīdu ḥayātan ʾahdaʾ.",
+        "fr": "J'en ai assez du bruit, de la pollution et des embouteillages. Je veux une vie plus calme."
+      },
+      {
+        "s": 1,
+        "ar": "أَفْهَمُ ذَلِكَ، لَكِنْ هَلْ فَكَّرْتَ فِي الْعَمَلِ؟ فُرَصُ الشُّغْلِ هُنَاكَ قَلِيلَةٌ.",
+        "translit": "ʾafhamu dhālik, lākin hal fakkarta fī l-ʿamal? furaṣu sh-shughli hunāka qalīla.",
+        "fr": "Je comprends, mais as-tu pensé au travail ? Il y a peu d'emplois là-bas."
+      },
+      {
+        "s": 0,
+        "ar": "بِفَضْلِ الْإِنْتَرْنِتْ، أَسْتَطِيعُ أَنْ أَعْمَلَ مِنْ أَيِّ مَكَانٍ تَقْرِيبًا.",
+        "translit": "bi-faḍli l-ʾintarnit, ʾastaṭīʿu ʾan ʾaʿmala min ʾayyi makānin taqrīban.",
+        "fr": "Grâce à internet, je peux travailler de presque n'importe où."
+      },
+      {
+        "s": 1,
+        "ar": "وَالْخِدْمَاتُ؟ الْمُسْتَشْفَى الْأَقْرَبُ يَبْعُدُ أَحْيَانًا خَمْسِينَ كِيلُومِتْرًا.",
+        "translit": "wa-l-khidmāt? al-mustashfā l-ʾaqrabu yabʿudu ʾaḥyānan khamsīna kīlūmitran.",
+        "fr": "Et les services ? L'hôpital le plus proche est parfois à cinquante kilomètres."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا عَيْبٌ حَقِيقِيٌّ، لَا أُنْكِرُهُ. وَمَعَ ذَلِكَ، أَظُنُّ أَنَّ الْهُدُوءَ يَسْتَحِقُّ بَعْضَ التَّضْحِيَاتِ.",
+        "translit": "hādhā ʿaybun ḥaqīqiyy, lā ʾunkiruh. wa-maʿa dhālik, ʾaẓunnu ʾanna l-hudūʾa yastaḥiqqu baʿḍa t-taḍḥiyāt.",
+        "fr": "C'est un vrai inconvénient, je ne le nie pas. Malgré tout, je pense que le calme vaut quelques sacrifices."
+      },
+      {
+        "s": 1,
+        "ar": "لَوْ كُنْتُ مَكَانَكَ، لَجَرَّبْتُ أَوَّلًا بِضْعَةَ أَشْهُرٍ قَبْلَ أَنْ أَبِيعَ شَقَّتِي.",
+        "translit": "law kuntu makānaka, la-jarrabtu ʾawwalan biḍʿata ʾashhurin qabla ʾan ʾabīʿa shaqqatī.",
+        "fr": "À ta place, j'essaierais d'abord quelques mois avant de vendre mon appartement."
+      },
+      {
+        "s": 0,
+        "ar": "نَصِيحَةٌ حَكِيمَةٌ. سَأَسْتَأْجِرُ بَيْتًا هُنَاكَ خِلَالَ الصَّيْفِ وَأَرَى.",
+        "translit": "naṣīḥatun ḥakīma. sa-ʾastaʾjiru baytan hunāka khilāla ṣ-ṣayfi wa-ʾarā.",
+        "fr": "Sage conseil. Je vais louer une maison là-bas cet été, et on verra."
+      },
+      {
+        "s": 1,
+        "ar": "وَإِذَا لَمْ يُعْجِبْكَ، فَعَلَى الْأَقَلِّ تَكُونُ قَدْ قَضَيْتَ عُطْلَةً جَمِيلَةً.",
+        "translit": "wa-ʾidhā lam yuʿjibka, fa-ʿalā l-ʾaqalli takūnu qad qaḍayta ʿuṭlatan jamīla.",
+        "fr": "Et si ça ne te plaît pas, au moins tu auras passé de belles vacances."
+      }
+    ]
+  },
+  {
+    "id": "ar-d50",
+    "level": 4,
+    "situation": "Entre voisins",
+    "title": "La musique trop forte",
+    "speakers": [
+      "Hajar",
+      "Jalal"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءَ الْخَيْرِ يَا جَارِي. آسِفَةٌ عَلَى الْإِزْعَاجِ، لَكِنْ أُرِيدُ أَنْ أُكَلِّمَكَ فِي مَوْضُوعٍ حَسَّاسٍ.",
+        "translit": "masāʾa l-khayri yā jārī. ʾāsifatun ʿalā l-ʾizʿāj, lākin ʾurīdu ʾan ʾukallimaka fī mawḍūʿin ḥassās.",
+        "fr": "Bonsoir, cher voisin. Désolée de vous déranger, mais je voudrais vous parler d'un sujet délicat."
+      },
+      {
+        "s": 1,
+        "ar": "تَفَضَّلِي، مَا الْأَمْرُ؟",
+        "translit": "tafaḍḍalī, mā l-ʾamr?",
+        "fr": "Je vous en prie, de quoi s'agit-il ?"
+      },
+      {
+        "s": 0,
+        "ar": "الْمُوسِيقَى عِنْدَكُمْ تَسْتَمِرُّ أَحْيَانًا حَتَّى الْوَاحِدَةِ لَيْلًا، وَأَنَا أَسْتَيْقِظُ فِي الْخَامِسَةِ لِلْعَمَلِ.",
+        "translit": "al-mūsīqā ʿindakum tastamirru ʾaḥyānan ḥattā l-wāḥidati laylan, wa-ʾanā ʾastayqiẓu fī l-khāmisati li-l-ʿamal.",
+        "fr": "Chez vous, la musique dure parfois jusqu'à une heure du matin, et moi je me lève à cinq heures pour travailler."
+      },
+      {
+        "s": 1,
+        "ar": "لَمْ أَكُنْ أَعْلَمُ أَنَّ الصَّوْتَ يَصِلُ إِلَيْكِ. لِمَاذَا لَمْ تُخْبِرِينِي مِنْ قَبْلُ؟",
+        "translit": "lam ʾakun ʾaʿlamu ʾanna ṣ-ṣawta yaṣilu ʾilayki. limādhā lam tukhbirīnī min qabl?",
+        "fr": "Je ne savais pas que le son vous parvenait. Pourquoi ne m'avez-vous pas prévenu plus tôt ?"
+      },
+      {
+        "s": 0,
+        "ar": "كُنْتُ أَتَرَدَّدُ، لِأَنَّنِي لَا أُحِبُّ أَنْ أَبْدُوَ جَارَةً مُزْعِجَةً.",
+        "translit": "kuntu ʾataraddadu, li-ʾannanī lā ʾuḥibbu ʾan ʾabduwa jāratan muzʿija.",
+        "fr": "J'hésitais, parce que je n'aime pas passer pour une voisine pénible."
+      },
+      {
+        "s": 1,
+        "ar": "بِالْعَكْسِ، أَنَا الَّذِي يَجِبُ أَنْ يَعْتَذِرَ. ابْنِي يَتَدَرَّبُ مَعَ فِرْقَتِهِ اسْتِعْدَادًا لِحَفْلٍ.",
+        "translit": "bi-l-ʿaks, ʾanā lladhī yajibu ʾan yaʿtadhir. ibnī yatadarrabu maʿa firqatihi stiʿdādan li-ḥafl.",
+        "fr": "Au contraire, c'est moi qui dois m'excuser. Mon fils répète avec son groupe pour préparer un concert."
+      },
+      {
+        "s": 0,
+        "ar": "أَفْهَمُ، وَلَا أُرِيدُ أَنْ أَمْنَعَهُ مِنْ هِوَايَتِهِ. هَلْ يُمْكِنُ أَنْ يَتَوَقَّفَ قَبْلَ الْعَاشِرَةِ عَلَى الْأَقَلِّ؟",
+        "translit": "ʾafham, wa-lā ʾurīdu ʾan ʾamnaʿahu min hiwāyatih. hal yumkinu ʾan yatawaqqafa qabla l-ʿāshirati ʿalā l-ʾaqall?",
+        "fr": "Je comprends, et je ne veux pas le priver de sa passion. Peut-il au moins s'arrêter avant dix heures ?"
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا طَلَبٌ مَعْقُولٌ جِدًّا. سَأَتَكَلَّمُ مَعَهُ اللَّيْلَةَ، وَسَنَضَعُ أَيْضًا سَجَّادًا عَلَى الْأَرْضِ لِتَخْفِيفِ الصَّوْتِ.",
+        "translit": "hādhā ṭalabun maʿqūlun jiddan. sa-ʾatakallamu maʿahu l-layla, wa-sa-naḍaʿu ʾayḍan sajjādan ʿalā l-ʾarḍi li-takhfīfi ṣ-ṣawt.",
+        "fr": "C'est une demande tout à fait raisonnable. Je lui parlerai ce soir, et nous mettrons aussi des tapis pour atténuer le bruit."
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا لِتَفَهُّمِكَ. كُنْتُ خَائِفَةً مِنْ أَنْ تَغْضَبَ.",
+        "translit": "shukran li-tafahhumik. kuntu khāʾifatan min ʾan taghḍab.",
+        "fr": "Merci de votre compréhension. J'avais peur que vous vous fâchiez."
+      },
+      {
+        "s": 1,
+        "ar": "«الْجَارُ قَبْلَ الدَّارِ»، كَمَا يَقُولُونَ. وَأَنْتِ مَدْعُوَّةٌ إِلَى الْحَفْلِ طَبْعًا!",
+        "translit": "«al-jāru qabla d-dār», kamā yaqūlūn. wa-ʾanti madʿuwwatun ʾilā l-ḥafli ṭabʿan!",
+        "fr": "« Le voisin avant la maison », comme on dit. Et vous êtes invitée au concert, bien sûr !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d51",
+    "level": 4,
+    "situation": "L'école",
+    "title": "Faut-il supprimer les notes ?",
+    "speakers": [
+      "Khadija",
+      "Mustapha"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "قَرَأْتُ أَنَّ بَعْضَ الْمَدَارِسِ فِي أُورُوبَّا أَلْغَتِ الْعَلَامَاتِ فِي السَّنَوَاتِ الْأُولَى. مَا رَأْيُكَ؟",
+        "translit": "qaraʾtu ʾanna baʿḍa l-madārisi fī ʾūrūbbā ʾalghati l-ʿalāmāti fī s-sanawāti l-ʾūlā. mā raʾyuk?",
+        "fr": "J'ai lu que certaines écoles en Europe ont supprimé les notes les premières années. Qu'en penses-tu ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَشُكُّ فِي فَائِدَةِ ذَلِكَ. بِدُونِ عَلَامَاتٍ، كَيْفَ يَعْرِفُ التِّلْمِيذُ مُسْتَوَاهُ؟",
+        "translit": "ʾashukku fī fāʾidati dhālik. bi-dūni ʿalāmāt, kayfa yaʿrifu t-tilmīdhu mustawāh?",
+        "fr": "Je doute que ce soit utile. Sans notes, comment un élève connaît-il son niveau ?"
+      },
+      {
+        "s": 0,
+        "ar": "يُمْكِنُ أَنْ نُقَيِّمَهُ بِالْكَلِمَاتِ بَدَلًا مِنَ الْأَرْقَامِ، فَنُبَيِّنَ لَهُ مَا أَتْقَنَهُ وَمَا يَجِبُ أَنْ يُحَسِّنَهُ.",
+        "translit": "yumkinu ʾan nuqayyimahu bi-l-kalimāti badalan mina l-ʾarqām, fa-nubayyina lahu mā ʾatqanahu wa-mā yajibu ʾan yuḥassinah.",
+        "fr": "On peut l'évaluer avec des mots au lieu de chiffres, en lui montrant ce qu'il maîtrise et ce qu'il doit améliorer."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا جَمِيلٌ نَظَرِيًّا، لَكِنَّهُ يَتَطَلَّبُ وَقْتًا هَائِلًا. عِنْدِي أَرْبَعُونَ تِلْمِيذًا فِي الْقِسْمِ!",
+        "translit": "hādhā jamīlun naẓariyyan, lākinnahu yataṭallabu waqtan hāʾilan. ʿindī ʾarbaʿūna tilmīdhan fī l-qism!",
+        "fr": "C'est beau en théorie, mais ça demande un temps fou. J'ai quarante élèves en classe !"
+      },
+      {
+        "s": 0,
+        "ar": "مَعَكَ حَقٌّ فِي هَذَا. الْمُشْكِلَةُ الْحَقِيقِيَّةُ هِيَ الِاكْتِظَاظُ، وَلَيْسَتِ الْعَلَامَاتِ.",
+        "translit": "maʿaka ḥaqqun fī hādhā. al-mushkilatu l-ḥaqīqiyyatu hiya l-iktiẓāẓ, wa-laysati l-ʿalāmāt.",
+        "fr": "Tu as raison là-dessus. Le vrai problème, ce sont les classes surchargées, pas les notes."
+      },
+      {
+        "s": 1,
+        "ar": "ثُمَّ إِنَّ الْعَلَامَاتِ تُحَفِّزُ بَعْضَ التَّلَامِيذِ. أَنَا شَخْصِيًّا كُنْتُ أَجْتَهِدُ لِأَحْصُلَ عَلَى أَعْلَى عَلَامَةٍ.",
+        "translit": "thumma ʾinna l-ʿalāmāti tuḥaffizu baʿḍa t-talāmīdh. ʾanā shakhṣiyyan kuntu ʾajtahidu li-ʾaḥṣula ʿalā ʾaʿlā ʿalāma.",
+        "fr": "Et puis les notes motivent certains élèves. Moi, personnellement, je travaillais dur pour avoir la meilleure note."
+      },
+      {
+        "s": 0,
+        "ar": "وَتُحْبِطُ آخَرِينَ كَثِيرِينَ! تِلْمِيذٌ يَحْصُلُ عَلَى صِفْرٍ مَرَّةً بَعْدَ مَرَّةٍ قَدْ يَفْقِدُ ثِقَتَهُ بِنَفْسِهِ نِهَائِيًّا.",
+        "translit": "wa-tuḥbiṭu ʾākharīna kathīrīn! tilmīdhun yaḥṣulu ʿalā ṣifrin marratan baʿda marratin qad yafqidu thiqatahu bi-nafsihi nihāʾiyyan.",
+        "fr": "Et elles en découragent beaucoup d'autres ! Un élève qui a zéro encore et encore peut perdre définitivement confiance en lui."
+      },
+      {
+        "s": 1,
+        "ar": "نُقْطَةٌ مُهِمَّةٌ. رُبَّمَا الْحَلُّ هُوَ أَنْ نَجْمَعَ بَيْنَ الطَّرِيقَتَيْنِ: عَلَامَةٌ وَتَعْلِيقٌ مُفَصَّلٌ.",
+        "translit": "nuqṭatun muhimma. rubbamā l-ḥallu huwa ʾan najmaʿa bayna ṭ-ṭarīqatayn: ʿalāmatun wa-taʿlīqun mufaṣṣal.",
+        "fr": "Point important. La solution, c'est peut-être de combiner les deux : une note et un commentaire détaillé."
+      },
+      {
+        "s": 0,
+        "ar": "أَخِيرًا نَتَّفِقُ عَلَى شَيْءٍ! لِنَقْتَرِحْ ذَلِكَ فِي اجْتِمَاعِ الْأَسَاتِذَةِ الْقَادِمِ.",
+        "translit": "ʾakhīran nattafiqu ʿalā shayʾ! li-naqtariḥ dhālika fī jtimāʿi l-ʾasātidhati l-qādim.",
+        "fr": "Enfin on est d'accord sur quelque chose ! Proposons-le à la prochaine réunion des profs."
+      }
+    ]
+  },
+  {
+    "id": "ar-d52",
+    "level": 4,
+    "situation": "Débat de société",
+    "title": "Trop de touristes ?",
+    "speakers": [
+      "Karima",
+      "Walid"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "هَلْ رَأَيْتَ عَدَدَ السُّيَّاحِ فِي الْمَدِينَةِ الْقَدِيمَةِ هَذَا الصَّيْفَ؟ لَمْ نَعُدْ نَسْتَطِيعُ الْمَشْيَ فِي الْأَزِقَّةِ!",
+        "translit": "hal raʾayta ʿadada s-suyyāḥi fī l-madīnati l-qadīmati hādhā ṣ-ṣayf? lam naʿud nastaṭīʿu l-mashya fī l-ʾaziqqa!",
+        "fr": "Tu as vu le nombre de touristes dans la vieille ville cet été ? On ne peut même plus marcher dans les ruelles !"
+      },
+      {
+        "s": 1,
+        "ar": "صَحِيحٌ، لَكِنْ لَا تَنْسَيْ أَنَّ السِّيَاحَةَ مَصْدَرُ رِزْقٍ لِآلَافِ الْعَائِلَاتِ.",
+        "translit": "ṣaḥīḥ, lākin lā tansay ʾanna s-siyāḥata maṣdaru rizqin li-ʾālāfi l-ʿāʾilāt.",
+        "fr": "C'est vrai, mais n'oublie pas que le tourisme fait vivre des milliers de familles."
+      },
+      {
+        "s": 0,
+        "ar": "لَا أُنْكِرُ ذَلِكَ. وَلَكِنَّ الْإِيجَارَاتِ ارْتَفَعَتْ كَثِيرًا لِأَنَّ الْمُلَّاكَ يُفَضِّلُونَ الْكِرَاءَ لِلسُّيَّاحِ.",
+        "translit": "lā ʾunkiru dhālik. wa-lākinna l-ʾījārāti rtafaʿat kathīran li-ʾanna l-mullāka yufaḍḍilūna l-kirāʾa li-s-suyyāḥ.",
+        "fr": "Je ne le nie pas. Mais les loyers ont beaucoup augmenté parce que les propriétaires préfèrent louer aux touristes."
+      },
+      {
+        "s": 1,
+        "ar": "وَمَاذَا تَقْتَرِحِينَ؟ أَنْ نُغْلِقَ الْأَبْوَابَ فِي وُجُوهِهِمْ؟",
+        "translit": "wa-mādhā taqtariḥīn? ʾan nughliqa l-ʾabwāba fī wujūhihim?",
+        "fr": "Et que proposes-tu ? Qu'on leur ferme la porte au nez ?"
+      },
+      {
+        "s": 0,
+        "ar": "طَبْعًا لَا. وَلَكِنْ يُمْكِنُ تَحْدِيدُ عَدَدِ الشُّقَقِ الْمُخَصَّصَةِ لِلْكِرَاءِ السِّيَاحِيِّ، كَمَا فَعَلَتْ مُدُنٌ أُخْرَى.",
+        "translit": "ṭabʿan lā. wa-lākin yumkinu taḥdīdu ʿadadi sh-shuqaqi l-mukhaṣṣaṣati li-l-kirāʾi s-siyāḥiyy, kamā faʿalat mudunun ʾukhrā.",
+        "fr": "Bien sûr que non. Mais on peut limiter le nombre d'appartements réservés à la location touristique, comme l'ont fait d'autres villes."
+      },
+      {
+        "s": 1,
+        "ar": "هَذِهِ فِكْرَةٌ تَسْتَحِقُّ النِّقَاشَ. بِالرَّغْمِ مِنْ ذَلِكَ، أَخْشَى أَنْ يَذْهَبَ السُّيَّاحُ إِلَى بَلَدٍ آخَرَ.",
+        "translit": "hādhihi fikratun tastaḥiqqu n-niqāsh. bi-r-raghmi min dhālik, ʾakhshā ʾan yadhhaba s-suyyāḥu ʾilā baladin ʾākhar.",
+        "fr": "C'est une idée qui mérite d'être discutée. Malgré cela, je crains que les touristes partent dans un autre pays."
+      },
+      {
+        "s": 0,
+        "ar": "لَوْ حَافَظْنَا عَلَى رُوحِ الْمَدِينَةِ لَجَاءُوا بِأَعْدَادٍ أَكْبَرَ، فَهُمْ يَأْتُونَ لِيَرَوْا حَيَاةً حَقِيقِيَّةً، لَا مَتْحَفًا.",
+        "translit": "law ḥāfaẓnā ʿalā rūḥi l-madīnati la-jāʾū bi-ʾaʿdādin ʾakbar, fa-hum yaʾtūna li-yaraw ḥayātan ḥaqīqiyyatan, lā matḥafan.",
+        "fr": "Si nous préservions l'âme de la ville, ils viendraient encore plus nombreux : ils viennent voir une vraie vie, pas un musée."
+      },
+      {
+        "s": 1,
+        "ar": "كَلَامُكِ مُقْنِعٌ. رُبَّمَا الْمَطْلُوبُ هُوَ التَّوَازُنُ بَيْنَ مَصْلَحَةِ السُّكَّانِ وَمَصْلَحَةِ الِاقْتِصَادِ.",
+        "translit": "kalāmuki muqniʿ. rubbamā l-maṭlūbu huwa t-tawāzunu bayna maṣlaḥati s-sukkāni wa-maṣlaḥati l-iqtiṣād.",
+        "fr": "Ce que tu dis est convaincant. Il faut peut-être un équilibre entre l'intérêt des habitants et celui de l'économie."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا بِالضَّبْطِ مَا أَقُولُهُ، وَإِلَّا فَسَتُصْبِحُ الْمَدِينَةُ دِيكُورًا جَمِيلًا بِلَا سُكَّانٍ.",
+        "translit": "hādhā bi-ḍ-ḍabṭi mā ʾaqūluh, wa-ʾillā fa-sa-tuṣbiḥu l-madīnatu dīkūran jamīlan bi-lā sukkān.",
+        "fr": "C'est exactement ce que je dis, sinon la ville deviendra un joli décor sans habitants."
+      }
+    ]
+  },
+  {
+    "id": "ar-d53",
+    "level": 5,
+    "situation": "Débat",
+    "title": "L'IA va-t-elle nous remplacer ?",
+    "speakers": [
+      "Hakim",
+      "Ilham"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "يَزْعُمُ كَثِيرُونَ أَنَّ الذَّكَاءَ الِاصْطِنَاعِيَّ سَيَقْضِي عَلَى نِصْفِ الْوَظَائِفِ فِي غُضُونِ عَقْدٍ. أَلَا تَرَيْنَ فِي ذَلِكَ مُبَالَغَةً؟",
+        "translit": "yazʿumu kathīrūna ʾanna dh-dhakāʾa l-iṣṭināʿiyya sa-yaqḍī ʿalā niṣfi l-waẓāʾifi fī ghuḍūni ʿaqd. ʾa-lā tarayna fī dhālika mubālagha?",
+        "fr": "Beaucoup prétendent que l'intelligence artificielle va supprimer la moitié des emplois d'ici dix ans. Tu ne trouves pas que c'est exagéré ?"
+      },
+      {
+        "s": 1,
+        "ar": "قَدْ تَكُونُ الْأَرْقَامُ مُبَالَغًا فِيهَا، غَيْرَ أَنَّ الِاتِّجَاهَ لَا يَقْبَلُ الْجَدَلَ. يَكْفِي أَنْ تَنْظُرَ إِلَى مَا حَدَثَ فِي قِطَاعِ التَّرْجَمَةِ.",
+        "translit": "qad takūnu l-ʾarqāmu mubālaghan fīhā, ghayra ʾanna l-ittijāha lā yaqbalu l-jadal. yakfī ʾan tanẓura ʾilā mā ḥadatha fī qiṭāʿi t-tarjama.",
+        "fr": "Les chiffres sont peut-être exagérés, mais la tendance est indiscutable. Il suffit de regarder ce qui s'est passé dans le secteur de la traduction."
+      },
+      {
+        "s": 0,
+        "ar": "التَّارِيخُ يُعَلِّمُنَا الْعَكْسَ: كُلُّ ثَوْرَةٍ تِقْنِيَّةٍ أَلْغَتْ مِهَنًا وَأَنْشَأَتْ مِهَنًا أُخْرَى لَمْ يَكُنْ أَحَدٌ يَتَخَيَّلُهَا.",
+        "translit": "at-tārīkhu yuʿallimunā l-ʿaks: kullu thawratin tiqniyyatin ʾalghat mihanan wa-ʾanshaʾat mihanan ʾukhrā lam yakun ʾaḥadun yatakhayyaluhā.",
+        "fr": "L'histoire nous enseigne le contraire : chaque révolution technique a supprimé des métiers et en a créé d'autres que personne n'imaginait."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا صَحِيحٌ عَلَى الْمَدَى الْبَعِيدِ، وَلَكِنْ مَاذَا عَنِ الْجِيلِ الَّذِي يَدْفَعُ الثَّمَنَ فِي أَثْنَاءِ ذَلِكَ؟ لَا يُمْكِنُ أَنْ نَقُولَ لِعَامِلٍ فِي الْخَمْسِينَ: «اصْبِرْ، فَأَحْفَادُكَ سَيَسْتَفِيدُونَ».",
+        "translit": "hādhā ṣaḥīḥun ʿalā l-madā l-baʿīd, wa-lākin mādhā ʿani l-jīli lladhī yadfaʿu th-thamana fī ʾathnāʾi dhālik? lā yumkinu ʾan naqūla li-ʿāmilin fī l-khamsīn: «iṣbir, fa-ʾaḥfāduka sa-yastafīdūn».",
+        "fr": "C'est vrai à long terme, mais qu'en est-il de la génération qui en paie le prix entre-temps ? On ne peut pas dire à un travailleur de cinquante ans : « Patience, tes petits-enfants en profiteront. »"
+      },
+      {
+        "s": 0,
+        "ar": "أُسَلِّمُ لَكِ بِذَلِكَ. وَمِنْ هُنَا تَأْتِي مَسْؤُولِيَّةُ الدَّوْلَةِ فِي التَّكْوِينِ الْمُسْتَمِرِّ وَإِعَادَةِ التَّأْهِيلِ.",
+        "translit": "ʾusallimu laki bi-dhālik. wa-min hunā taʾtī masʾūliyyatu d-dawlati fī t-takwīni l-mustamirri wa-ʾiʿādati t-taʾhīl.",
+        "fr": "Je te l'accorde. D'où la responsabilité de l'État en matière de formation continue et de reconversion."
+      },
+      {
+        "s": 1,
+        "ar": "بِشَرْطِ أَلَّا يَبْقَى ذَلِكَ حِبْرًا عَلَى وَرَقٍ، كَمَا هِيَ الْعَادَةُ.",
+        "translit": "bi-sharṭi ʾallā yabqā dhālika ḥibran ʿalā waraq, kamā hiya l-ʿāda.",
+        "fr": "À condition que ça ne reste pas lettre morte, comme d'habitude."
+      },
+      {
+        "s": 0,
+        "ar": "أَرَاكِ مُتَشَائِمَةً! أَلَيْسَ مِنَ الْمُمْكِنِ أَنْ تُحَرِّرَنَا الْآلَاتُ مِنَ الْمَهَامِّ الْمُمِلَّةِ لِنَتَفَرَّغَ لِمَا هُوَ أَكْثَرُ إِبْدَاعًا؟",
+        "translit": "ʾarāki mutashāʾima! ʾa-laysa mina l-mumkini ʾan tuḥarriranā l-ʾālātu mina l-mahāmmi l-mumillati li-natafarragha li-mā huwa ʾaktharu ʾibdāʿan?",
+        "fr": "Je te trouve pessimiste ! N'est-il pas possible que les machines nous libèrent des tâches ennuyeuses pour nous consacrer à des choses plus créatives ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَسْتُ مُتَشَائِمَةً بَلْ وَاقِعِيَّةً. الْآلَةُ لَا تُحَرِّرُ أَحَدًا مِنْ تِلْقَاءِ نَفْسِهَا، وَإِنَّمَا يَتَوَقَّفُ الْأَمْرُ عَلَى مَنْ يَمْلِكُهَا.",
+        "translit": "lastu mutashāʾimatan bal wāqiʿiyya. al-ʾālatu lā tuḥarriru ʾaḥadan min tilqāʾi nafsihā, wa-ʾinnamā yatawaqqafu l-ʾamru ʿalā man yamlikuhā.",
+        "fr": "Je ne suis pas pessimiste, mais réaliste. La machine ne libère personne d'elle-même : tout dépend de qui la possède."
+      },
+      {
+        "s": 0,
+        "ar": "إِذَنْ نَحْنُ مُتَّفِقَانِ فِي الْجَوْهَرِ: الْمُشْكِلَةُ لَيْسَتْ فِي التِّقْنِيَةِ بَلْ فِي كَيْفِيَّةِ تَوْزِيعِ ثِمَارِهَا.",
+        "translit": "ʾidhan naḥnu muttafiqāni fī l-jawhar: al-mushkilatu laysat fī t-tiqniyati bal fī kayfiyyati tawzīʿi thimārihā.",
+        "fr": "Alors on est d'accord sur le fond : le problème n'est pas la technologie, mais la façon d'en répartir les fruits."
+      },
+      {
+        "s": 1,
+        "ar": "هَكَذَا تَلْتَقِي الْآرَاءُ فِي النِّهَايَةِ، وَإِنِ اخْتَلَفَتِ الطُّرُقُ.",
+        "translit": "hākadhā taltaqī l-ʾārāʾu fī n-nihāya, wa-ʾini khtalafati ṭ-ṭuruq.",
+        "fr": "C'est ainsi que les avis finissent par se rejoindre, même si les chemins diffèrent."
+      }
+    ]
+  },
+  {
+    "id": "ar-d54",
+    "level": 5,
+    "situation": "Convaincre",
+    "title": "La bourse d'études",
+    "speakers": [
+      "Nora",
+      "Amine"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَا زِلْتُ لَا أَفْهَمُ لِمَاذَا تَرَدَّدْتَ فِي قَبُولِ الْمِنْحَةِ. فُرْصَةٌ كَهَذِهِ لَا تَتَكَرَّرُ.",
+        "translit": "mā ziltu lā ʾafhamu limādhā taraddadta fī qabūli l-minḥa. furṣatun ka-hādhihi lā tatakarrar.",
+        "fr": "Je ne comprends toujours pas pourquoi tu as hésité à accepter la bourse. Une occasion pareille ne se représente pas."
+      },
+      {
+        "s": 1,
+        "ar": "الْأَمْرُ لَيْسَ بِهَذِهِ الْبَسَاطَةِ. عُمْرِي خَمْسٌ وَثَلَاثُونَ سَنَةً، وَعِنْدِي عَمَلٌ مُسْتَقِرٌّ وَالْتِزَامَاتٌ.",
+        "translit": "al-ʾamru laysa bi-hādhihi l-basāṭa. ʿumrī khamsun wa-thalāthūna sana, wa-ʿindī ʿamalun mustaqirrun wa-ltizāmāt.",
+        "fr": "Ce n'est pas si simple. J'ai trente-cinq ans, un travail stable et des engagements."
+      },
+      {
+        "s": 0,
+        "ar": "وَهَلْ لِلتَّعَلُّمِ سِنٌّ؟ «اطْلُبُوا الْعِلْمَ مِنَ الْمَهْدِ إِلَى اللَّحْدِ»، كَمَا كَانَ يُرَدِّدُ جَدُّكَ.",
+        "translit": "wa-hal li-t-taʿallumi sinn? «uṭlubū l-ʿilma mina l-mahdi ʾilā l-laḥd», kamā kāna yuraddidu jadduk.",
+        "fr": "Et il y a un âge pour apprendre ? « Cherchez le savoir du berceau à la tombe », comme le répétait ton grand-père."
+      },
+      {
+        "s": 1,
+        "ar": "جَدِّي لَمْ يَكُنْ يَدْفَعُ إِيجَارًا فِي الْعَاصِمَةِ! بِصَرَاحَةٍ، أَخَافُ أَنْ أَخْسَرَ كُلَّ مَا بَنَيْتُهُ.",
+        "translit": "jaddī lam yakun yadfaʿu ʾījāran fī l-ʿāṣima! bi-ṣarāḥa, ʾakhāfu ʾan ʾakhsara kulla mā banaytuh.",
+        "fr": "Mon grand-père ne payait pas de loyer dans la capitale ! Franchement, j'ai peur de perdre tout ce que j'ai construit."
+      },
+      {
+        "s": 0,
+        "ar": "أَتَفَهَّمُ خَوْفَكَ، لَكِنْ دَعْنَا نَنْظُرْ إِلَى الْأُمُورِ بِهُدُوءٍ: الْمِنْحَةُ تُغَطِّي الرُّسُومَ وَالسَّكَنَ، وَمُدِيرُكَ وَافَقَ عَلَى عُطْلَةٍ بِلَا رَاتِبٍ.",
+        "translit": "ʾatafahhamu khawfak, lākin daʿnā nanẓur ʾilā l-ʾumūri bi-hudūʾ: al-minḥatu tughaṭṭī r-rusūma wa-s-sakan, wa-mudīruka wāfaqa ʿalā ʿuṭlatin bi-lā rātib.",
+        "fr": "Je comprends ta peur, mais regardons les choses calmement : la bourse couvre les frais et le logement, et ton directeur a accepté un congé sans solde."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا صَحِيحٌ. وَمَعَ ذَلِكَ، مَاذَا لَوْ فَشِلْتُ؟",
+        "translit": "hādhā ṣaḥīḥ. wa-maʿa dhālik, mādhā law fashilt?",
+        "fr": "C'est vrai. Et pourtant, et si j'échouais ?"
+      },
+      {
+        "s": 0,
+        "ar": "وَمَاذَا لَوْ نَجَحْتَ؟ مَنْ لَا يُخَاطِرُ لَا يَرْبَحُ شَيْئًا. ثُمَّ إِنَّ النَّدَمَ عَلَى مَا لَمْ نَفْعَلْهُ أَشَدُّ مِنَ النَّدَمِ عَلَى مَا فَعَلْنَاهُ.",
+        "translit": "wa-mādhā law najaḥt? man lā yukhāṭiru lā yarbaḥu shayʾan. thumma ʾinna n-nadama ʿalā mā lam nafʿalhu ʾashaddu mina n-nadami ʿalā mā faʿalnāh.",
+        "fr": "Et si tu réussissais ? Qui ne risque rien n'a rien. Et puis, on regrette davantage ce qu'on n'a pas fait que ce qu'on a fait."
+      },
+      {
+        "s": 1,
+        "ar": "أَنْتِ تَعْرِفِينَ كَيْفَ تُقْنِعِينَ النَّاسَ! كَانَ يَجِبُ أَنْ تَصِيرِي مُحَامِيَةً.",
+        "translit": "ʾanti taʿrifīna kayfa tuqniʿīna n-nās! kāna yajibu ʾan taṣīrī muḥāmiya.",
+        "fr": "Toi, tu sais convaincre les gens ! Tu aurais dû devenir avocate."
+      },
+      {
+        "s": 0,
+        "ar": "لَا تُغَيِّرِ الْمَوْضُوعَ! أَعْطِنِي جَوَابًا قَبْلَ نِهَايَةِ الْأُسْبُوعِ، فَالْمَوْعِدُ النِّهَائِيُّ يَقْتَرِبُ.",
+        "translit": "lā tughayyiri l-mawḍūʿ! ʾaʿṭinī jawāban qabla nihāyati l-ʾusbūʿ, fa-l-mawʿidu n-nihāʾiyyu yaqtarib.",
+        "fr": "Ne change pas de sujet ! Donne-moi une réponse avant la fin de la semaine, la date limite approche."
+      },
+      {
+        "s": 1,
+        "ar": "اتَّفَقْنَا. سَأَسْتَشِيرُ وَالِدَتِي اللَّيْلَةَ، وَأَظُنُّنِي أَعْرِفُ مُسْبَقًا مَا سَتَقُولُهُ.",
+        "translit": "ittafaqnā. sa-ʾastashīru wālidatī l-layla, wa-ʾaẓunnunī ʾaʿrifu musbaqan mā sa-taqūluh.",
+        "fr": "D'accord. Je consulte ma mère ce soir, et je crois savoir d'avance ce qu'elle va dire."
+      }
+    ]
+  },
+  {
+    "id": "ar-d55",
+    "level": 5,
+    "situation": "Démarche administrative",
+    "title": "Le permis de construire",
+    "speakers": [
+      "Latifa",
+      "Saïd"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "السَّلَامُ عَلَيْكُمْ. جِئْتُ أَسْتَفْسِرُ عَنْ مَآلِ طَلَبِ رُخْصَةِ الْبِنَاءِ الَّذِي أَوْدَعْتُهُ مُنْذُ ثَلَاثَةِ أَشْهُرٍ.",
+        "translit": "as-salāmu ʿalaykum. jiʾtu ʾastafsiru ʿan maʾāli ṭalabi rukhṣati l-bināʾi lladhī ʾawdaʿtuhu mundhu thalāthati ʾashhur.",
+        "fr": "Bonjour. Je viens me renseigner sur le sort de la demande de permis de construire que j'ai déposée il y a trois mois."
+      },
+      {
+        "s": 1,
+        "ar": "وَعَلَيْكُمُ السَّلَامُ. هَلْ تَتَفَضَّلِينَ بِإِعْطَائِي رَقْمَ الْمَلَفِّ؟",
+        "translit": "wa-ʿalaykumu s-salām. hal tatafaḍḍalīna bi-ʾiʿṭāʾī raqma l-malaff?",
+        "fr": "Bonjour. Auriez-vous l'obligeance de me donner le numéro du dossier ?"
+      },
+      {
+        "s": 0,
+        "ar": "تَفَضَّلْ، هَذَا هُوَ الْإِيصَالُ. وَأَوَدُّ أَنْ أُشِيرَ إِلَى أَنَّ الْقَانُونَ يُحَدِّدُ أَجَلَ الرَّدِّ بِشَهْرَيْنِ.",
+        "translit": "tafaḍḍal, hādhā huwa l-ʾīṣāl. wa-ʾawaddu ʾan ʾushīra ʾilā ʾanna l-qānūna yuḥaddidu ʾajala r-raddi bi-shahrayn.",
+        "fr": "Voici le récépissé. Et je tiens à signaler que la loi fixe le délai de réponse à deux mois."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا صَحِيحٌ يَا سَيِّدَتِي، غَيْرَ أَنَّ مَلَفَّكِ يَنْقُصُهُ تَصْمِيمٌ مُصَادَقٌ عَلَيْهِ مِنْ قِبَلِ مُهَنْدِسٍ مِعْمَارِيٍّ، وَقَدْ رَاسَلْنَاكِ بِهَذَا الشَّأْنِ.",
+        "translit": "hādhā ṣaḥīḥun yā sayyidatī, ghayra ʾanna malaffaki yanquṣuhu taṣmīmun muṣādaqun ʿalayhi min qibali muhandisin miʿmāriyy, wa-qad rāsalnāki bi-hādhā sh-shaʾn.",
+        "fr": "C'est exact, madame, mais il manque à votre dossier un plan visé par un architecte, et nous vous avons écrit à ce sujet."
+      },
+      {
+        "s": 0,
+        "ar": "لَمْ تَصِلْنِي أَيُّ مُرَاسَلَةٍ. إِلَى أَيِّ عُنْوَانٍ أَرْسَلْتُمُوهَا؟",
+        "translit": "lam taṣilnī ʾayyu murāsala. ʾilā ʾayyi ʿunwānin ʾarsaltumūhā?",
+        "fr": "Je n'ai reçu aucun courrier. À quelle adresse l'avez-vous envoyé ?"
+      },
+      {
+        "s": 1,
+        "ar": "إِلَى الْعُنْوَانِ الْمَذْكُورِ فِي الِاسْتِمَارَةِ: شَارِعُ الْأَنْدَلُسِ، رَقْمُ خَمْسَةَ عَشَرَ.",
+        "translit": "ʾilā l-ʿunwāni l-madhkūri fī l-istimāra: shāriʿu l-ʾandalus, raqmu khamsata ʿashar.",
+        "fr": "À l'adresse indiquée sur le formulaire : rue d'Andalousie, numéro quinze."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا عُنْوَانِي السَّابِقُ! لَقَدْ أَبْلَغْتُ الْإِدَارَةَ بِتَغْيِيرِهِ، وَمَعِي مَا يُثْبِتُ ذَلِكَ.",
+        "translit": "hādhā ʿunwāniya s-sābiq! laqad ʾablaghtu l-ʾidārata bi-taghyīrih, wa-maʿī mā yuthbitu dhālik.",
+        "fr": "C'est mon ancienne adresse ! J'avais pourtant informé l'administration du changement, et j'ai de quoi le prouver."
+      },
+      {
+        "s": 1,
+        "ar": "أَعْتَذِرُ عَنْ هَذَا السَّهْوِ. سَأُصَحِّحُ الْعُنْوَانَ فَوْرًا، وَيُمْكِنُكِ أَنْ تُسَلِّمِينِي التَّصْمِيمَ مُبَاشَرَةً دُونَ إِعَادَةِ الْإِجْرَاءَاتِ مِنَ الْبِدَايَةِ.",
+        "translit": "ʾaʿtadhiru ʿan hādhā s-sahw. sa-ʾuṣaḥḥiḥu l-ʿunwāna fawran, wa-yumkinuki ʾan tusallimīnī t-taṣmīma mubāsharatan dūna ʾiʿādati l-ʾijrāʾāti mina l-bidāya.",
+        "fr": "Je vous présente mes excuses pour cet oubli. Je corrige l'adresse immédiatement, et vous pourrez me remettre le plan directement sans reprendre la procédure depuis le début."
+      },
+      {
+        "s": 0,
+        "ar": "وَهَلْ سَيُحْتَسَبُ الْأَجَلُ مِنْ تَارِيخِ الْإِيدَاعِ الْأَوَّلِ أَمْ مِنْ تَارِيخِ اسْتِكْمَالِ الْمَلَفِّ؟",
+        "translit": "wa-hal sa-yuḥtasabu l-ʾajalu min tārīkhi l-ʾīdāʿi l-ʾawwali ʾam min tārīkhi stikmāli l-malaff?",
+        "fr": "Et le délai sera-t-il calculé à partir de la date du premier dépôt ou de celle où le dossier sera complet ?"
+      },
+      {
+        "s": 1,
+        "ar": "مِنْ تَارِيخِ اسْتِكْمَالِهِ، لِلْأَسَفِ، فَتِلْكَ هِيَ الْإِجْرَاءَاتُ الْمَعْمُولُ بِهَا. لَكِنَّنِي سَأُرْفِقُ بِهِ مُلَاحَظَةً أَطْلُبُ فِيهَا مُعَالَجَتَهُ بِصِفَةٍ مُسْتَعْجَلَةٍ.",
+        "translit": "min tārīkhi stikmālih, li-l-ʾasaf, fa-tilka hiya l-ʾijrāʾātu l-maʿmūlu bihā. lākinnanī sa-ʾurfiqu bihi mulāḥaẓatan ʾaṭlubu fīhā muʿālajatahu bi-ṣifatin mustaʿjala.",
+        "fr": "À partir de la date où il est complet, malheureusement : c'est la procédure en vigueur. Mais j'y joindrai une note demandant qu'il soit traité en urgence."
+      },
+      {
+        "s": 0,
+        "ar": "أَشْكُرُكَ عَلَى تَعَاوُنِكَ. سَأُحْضِرُ الْوَثِيقَةَ فِي أَقْرَبِ الْآجَالِ.",
+        "translit": "ʾashkuruka ʿalā taʿāwunik. sa-ʾuḥḍiru l-wathīqata fī ʾaqrabi l-ʾājāl.",
+        "fr": "Je vous remercie de votre coopération. J'apporterai le document dans les meilleurs délais."
+      }
+    ]
+  },
+  {
+    "id": "ar-d56",
+    "level": 5,
+    "situation": "Humour",
+    "title": "Le régime commence lundi",
+    "speakers": [
+      "Rim",
+      "Fouad"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَلَمْ تَقُلْ لِي الْأُسْبُوعَ الْمَاضِيَ إِنَّكَ بَدَأْتَ حِمْيَةً صَارِمَةً؟ وَهَا أَنْتَ تَلْتَهِمُ قِطْعَةَ الْحَلْوَى الثَّالِثَةَ!",
+        "translit": "ʾa-lam taqul lī l-ʾusbūʿa l-māḍiya ʾinnaka badaʾta ḥimyatan ṣārima? wa-hā ʾanta taltahimu qiṭʿata l-ḥalwā th-thālitha!",
+        "fr": "Tu ne m'as pas dit la semaine dernière que tu avais commencé un régime strict ? Et te voilà en train d'engloutir ta troisième pâtisserie !"
+      },
+      {
+        "s": 1,
+        "ar": "الْحِمْيَةُ تَبْدَأُ يَوْمَ الِاثْنَيْنِ، وَالْيَوْمُ جُمُعَةٌ. أَنَا رَجُلٌ يَحْتَرِمُ الْمَوَاعِيدَ!",
+        "translit": "al-ḥimyatu tabdaʾu yawma l-ithnayn, wa-l-yawmu jumuʿa. ʾanā rajulun yaḥtarimu l-mawāʿīd!",
+        "fr": "Le régime commence lundi, et on est vendredi. Je suis un homme qui respecte les échéances !"
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا مَا قُلْتَهُ قَبْلَ شَهْرٍ أَيْضًا. يَبْدُو أَنَّ يَوْمَ الِاثْنَيْنِ عِنْدَكَ لَا يَأْتِي أَبَدًا.",
+        "translit": "hādhā mā qultahu qabla shahrin ʾayḍan. yabdū ʾanna yawma l-ithnayni ʿindaka lā yaʾtī ʾabadan.",
+        "fr": "C'est ce que tu disais déjà il y a un mois. On dirait que ton lundi n'arrive jamais."
+      },
+      {
+        "s": 1,
+        "ar": "لَا تَظْلِمِينِي! أَنَا أُطَبِّقُ نِظَامًا عِلْمِيًّا دَقِيقًا: آكُلُ الْحَلْوَى بِسُرْعَةٍ حَتَّى لَا تَنْتَبِهَ لَهَا السُّعْرَاتُ الْحَرَارِيَّةُ.",
+        "translit": "lā taẓlimīnī! ʾanā ʾuṭabbiqu niẓāman ʿilmiyyan daqīqan: ʾākulu l-ḥalwā bi-surʿatin ḥattā lā tantabiha lahā s-suʿrātu l-ḥarāriyya.",
+        "fr": "Ne sois pas injuste ! J'applique une méthode scientifique rigoureuse : je mange les gâteaux vite pour que les calories ne s'en rendent pas compte."
+      },
+      {
+        "s": 0,
+        "ar": "نَظَرِيَّةٌ عَبْقَرِيَّةٌ تَسْتَحِقُّ جَائِزَةَ نُوبِلْ!",
+        "translit": "naẓariyyatun ʿabqariyyatun tastaḥiqqu jāʾizata nūbil!",
+        "fr": "Une théorie géniale qui mérite le prix Nobel !"
+      },
+      {
+        "s": 1,
+        "ar": "أَعْرِفُ، أَعْرِفُ. لَكِنْ كَمَا يَقُولُ الْمَثَلُ: «لَا تُؤَجِّلْ عَمَلَ الْيَوْمِ إِلَى الْغَدِ»، وَأَكْلُ هَذِهِ الْحَلْوَى هُوَ عَمَلُ الْيَوْمِ.",
+        "translit": "ʾaʿrif, ʾaʿrif. lākin kamā yaqūlu l-mathal: «lā tuʾajjil ʿamala l-yawmi ʾilā l-ghad», wa-ʾaklu hādhihi l-ḥalwā huwa ʿamalu l-yawm.",
+        "fr": "Je sais, je sais. Mais comme dit le proverbe : « Ne remets pas à demain ce que tu peux faire aujourd'hui », et manger ces gâteaux, c'est le travail d'aujourd'hui."
+      },
+      {
+        "s": 0,
+        "ar": "مَا شَاءَ اللَّهُ! تَسْتَعْمِلُ الْأَمْثَالَ عِنْدَمَا تُنَاسِبُكَ فَقَطْ.",
+        "translit": "mā shāʾa llāh! tastaʿmilu l-ʾamthāla ʿindamā tunāsibuka faqaṭ.",
+        "fr": "Ma parole ! Tu ne cites les proverbes que quand ça t'arrange."
+      },
+      {
+        "s": 1,
+        "ar": "وَهَلْ هُنَاكَ سَبَبٌ آخَرُ لِاسْتِعْمَالِهَا؟",
+        "translit": "wa-hal hunāka sababun ʾākharu li-stiʿmālihā?",
+        "fr": "Il y a une autre raison de les citer ?"
+      },
+      {
+        "s": 0,
+        "ar": "سَأُذَكِّرُكَ بِكَلَامِكَ هَذَا عِنْدَمَا يَضِيقُ عَلَيْكَ قَمِيصُكَ الْجَدِيدُ.",
+        "translit": "sa-ʾudhakkiruka bi-kalāmika hādhā ʿindamā yaḍīqu ʿalayka qamīṣuka l-jadīd.",
+        "fr": "Je te rappellerai ces paroles quand ta nouvelle chemise sera trop serrée."
+      },
+      {
+        "s": 1,
+        "ar": "حِينَئِذٍ أَشْتَرِي قَمِيصًا أَوْسَعَ. لِكُلِّ مُشْكِلَةٍ حَلٌّ!",
+        "translit": "ḥīnaʾidhin ʾashtarī qamīṣan ʾawsaʿ. li-kulli mushkilatin ḥall!",
+        "fr": "Dans ce cas, j'achèterai une chemise plus large. Chaque problème a sa solution !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d57",
+    "level": 5,
+    "situation": "Proverbes et conseils",
+    "title": "Les conseils de l'oncle",
+    "speakers": [
+      "Moussa",
+      "Zahra"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَا لِي أَرَاكِ مَهْمُومَةً يَا ابْنَةَ أَخِي؟",
+        "translit": "mā lī ʾarāki mahmūmatan yā bnata ʾakhī?",
+        "fr": "Qu'as-tu donc, ma nièce ? Tu as l'air bien soucieuse."
+      },
+      {
+        "s": 1,
+        "ar": "مَشْرُوعِي يَتَعَثَّرُ يَا عَمِّي. خَسِرْتُ زَبُونَيْنِ كَبِيرَيْنِ هَذَا الشَّهْرَ، وَبَدَأْتُ أَشُكُّ فِي قُدْرَتِي عَلَى الِاسْتِمْرَارِ.",
+        "translit": "mashrūʿī yataʿaththaru yā ʿammī. khasirtu zabūnayni kabīrayni hādhā sh-shahr, wa-badaʾtu ʾashukku fī qudratī ʿalā l-istimrār.",
+        "fr": "Mon projet bat de l'aile, mon oncle. J'ai perdu deux gros clients ce mois-ci, et je commence à douter de ma capacité à continuer."
+      },
+      {
+        "s": 0,
+        "ar": "كُلُّ بِدَايَةٍ صَعْبَةٌ، وَمَا مِنْ تَاجِرٍ نَاجِحٍ إِلَّا وَقَدْ تَعَثَّرَ مَرَّاتٍ عَدِيدَةً.",
+        "translit": "kullu bidāyatin ṣaʿba, wa-mā min tājirin nājiḥin ʾillā wa-qad taʿaththara marrātin ʿadīda.",
+        "fr": "Tout début est difficile, et il n'y a pas de commerçant prospère qui n'ait trébuché bien des fois."
+      },
+      {
+        "s": 1,
+        "ar": "لَكِنَّنِي اسْتَثْمَرْتُ كُلَّ مُدَّخَرَاتِي، وَأَخْشَى أَنْ أَخْرُجَ مِنْ هَذِهِ التَّجْرِبَةِ خَالِيَةَ الْيَدَيْنِ.",
+        "translit": "lākinnanī stathmartu kulla muddakharātī, wa-ʾakhshā ʾan ʾakhruja min hādhihi t-tajribati khāliyata l-yadayn.",
+        "fr": "Mais j'ai investi toutes mes économies, et j'ai peur de sortir de cette expérience les mains vides."
+      },
+      {
+        "s": 0,
+        "ar": "مِنَ الْآنَ فَصَاعِدًا، لَا تَضَعِي الْبَيْضَ كُلَّهُ فِي سَلَّةٍ وَاحِدَةٍ. ابْحَثِي عَنْ زَبَائِنَ صِغَارٍ مُتَعَدِّدِينَ بَدَلًا مِنْ زَبُونٍ كَبِيرٍ وَاحِدٍ.",
+        "translit": "mina l-ʾāni fa-ṣāʿidan, lā taḍaʿī l-bayḍa kullahu fī sallatin wāḥida. ibḥathī ʿan zabāʾina ṣighārin mutaʿaddidīna badalan min zabūnin kabīrin wāḥid.",
+        "fr": "Désormais, ne mets pas tous tes œufs dans le même panier. Cherche plusieurs petits clients plutôt qu'un seul gros."
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا مَا كَانَ يَنْصَحُنِي بِهِ أَبِي أَيْضًا، لَكِنِّي لَمْ أُصْغِ إِلَيْهِ.",
+        "translit": "hādhā mā kāna yanṣaḥunī bihi ʾabī ʾayḍan, lākinnī lam ʾuṣghi ʾilayh.",
+        "fr": "C'est aussi ce que me conseillait mon père, mais je ne l'ai pas écouté."
+      },
+      {
+        "s": 0,
+        "ar": "«أَكْبَرُ مِنْكَ بِيَوْمٍ أَعْلَمُ مِنْكَ بِسَنَةٍ»، كَمَا يَقُولُ الْمَثَلُ. وَلَكِنْ لَا بَأْسَ، فَالْخَطَأُ أَحْسَنُ مُعَلِّمٍ.",
+        "translit": "«ʾakbaru minka bi-yawmin ʾaʿlamu minka bi-sana», kamā yaqūlu l-mathal. wa-lākin lā baʾs, fa-l-khaṭaʾu ʾaḥsanu muʿallim.",
+        "fr": "« Plus âgé que toi d'un jour, plus savant que toi d'un an », comme dit le proverbe. Mais ce n'est pas grave : l'erreur est le meilleur des maîtres."
+      },
+      {
+        "s": 1,
+        "ar": "وَمَاذَا لَوْ لَمْ يَتَحَسَّنِ الْوَضْعُ رَغْمَ كُلِّ شَيْءٍ؟",
+        "translit": "wa-mādhā law lam yataḥassani l-waḍʿu raghma kulli shayʾ?",
+        "fr": "Et si la situation ne s'améliore pas malgré tout ?"
+      },
+      {
+        "s": 0,
+        "ar": "حِينَئِذٍ تُغْلِقِينَ الْبَابَ بِشَجَاعَةٍ وَتَفْتَحِينَ غَيْرَهُ. «تَجْرِي الرِّيَاحُ بِمَا لَا تَشْتَهِي السُّفُنُ»، لَكِنَّ الْبَحَّارَ الْمَاهِرَ يُعَدِّلُ أَشْرِعَتَهُ.",
+        "translit": "ḥīnaʾidhin tughliqīna l-bāba bi-shajāʿatin wa-taftaḥīna ghayrah. «tajrī r-riyāḥu bi-mā lā tashtahī s-sufun», lākinna l-baḥḥāra l-māhira yuʿaddilu ʾashriʿatah.",
+        "fr": "Alors tu fermeras cette porte avec courage et tu en ouvriras une autre. « Les vents ne soufflent pas comme le souhaitent les navires », mais le bon marin ajuste ses voiles."
+      },
+      {
+        "s": 1,
+        "ar": "كَلَامُكَ يُرِيحُنِي يَا عَمِّي. سَأُعِيدُ النَّظَرَ فِي خُطَّتِي هَذَا الْأُسْبُوعَ.",
+        "translit": "kalāmuka yurīḥunī yā ʿammī. sa-ʾuʿīdu n-naẓara fī khuṭṭatī hādhā l-ʾusbūʿ.",
+        "fr": "Tes paroles me réconfortent, mon oncle. Je vais revoir mon plan cette semaine."
+      },
+      {
+        "s": 0,
+        "ar": "وَتَعَالَيْ إِلَيَّ بِالْأَرْقَامِ، فَأَنَا مَا زِلْتُ أُجِيدُ الْحِسَابَ رَغْمَ شَيْبِ رَأْسِي.",
+        "translit": "wa-taʿālay ʾilayya bi-l-ʾarqām, fa-ʾanā mā ziltu ʾujīdu l-ḥisāba raghma shaybi raʾsī.",
+        "fr": "Et viens me voir avec les chiffres : je sais encore bien compter, malgré mes cheveux blancs."
+      }
+    ]
+  },
+  {
+    "id": "ar-d58",
+    "level": 5,
+    "situation": "Réunion de crise",
+    "title": "Le projet en retard",
+    "speakers": [
+      "Naïma",
+      "Ismaïl"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "لَقَدْ دَعَوْتُكَ لِأَنَّ التَّأَخُّرَ فِي تَسْلِيمِ الْمَشْرُوعِ بَلَغَ حَدًّا لَا يُمْكِنُ السُّكُوتُ عَنْهُ.",
+        "translit": "laqad daʿawtuka li-ʾanna t-taʾakhkhura fī taslīmi l-mashrūʿi balagha ḥaddan lā yumkinu s-sukūtu ʿanh.",
+        "fr": "Je vous ai convoqué parce que le retard dans la livraison du projet a atteint un niveau qu'on ne peut plus passer sous silence."
+      },
+      {
+        "s": 1,
+        "ar": "أُدْرِكُ ذَلِكَ تَمَامًا، وَأَتَحَمَّلُ نَصِيبِي مِنَ الْمَسْؤُولِيَّةِ. غَيْرَ أَنَّ ثَمَّةَ عَوَامِلَ خَارِجَةً عَنْ إِرَادَتِنَا.",
+        "translit": "ʾudriku dhālika tamāman, wa-ʾataḥammalu naṣībī mina l-masʾūliyya. ghayra ʾanna thammata ʿawāmila khārijatan ʿan ʾirādatinā.",
+        "fr": "J'en suis pleinement conscient, et j'assume ma part de responsabilité. Toutefois, certains facteurs échappent à notre volonté."
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا أُصْغِي إِلَيْكَ، فَتَفَضَّلْ.",
+        "translit": "ʾanā ʾuṣghī ʾilayk, fa-tafaḍḍal.",
+        "fr": "Je vous écoute, allez-y."
+      },
+      {
+        "s": 1,
+        "ar": "أَوَّلًا، تَأَخَّرَ الْمُوَرِّدُ فِي تَسْلِيمِ الْمُعَدَّاتِ أَكْثَرَ مِنْ شَهْرٍ. ثَانِيًا، غَادَرَنَا اثْنَانِ مِنْ أَكْفَإِ الْمُهَنْدِسِينَ فِي مُنْتَصَفِ الْمَشْرُوعِ.",
+        "translit": "ʾawwalan, taʾakhkhara l-muwarridu fī taslīmi l-muʿaddāti ʾakthara min shahr. thāniyan, ghādaranā thnāni min ʾakfaʾi l-muhandisīna fī muntaṣafi l-mashrūʿ.",
+        "fr": "Premièrement, le fournisseur a livré le matériel avec plus d'un mois de retard. Deuxièmement, deux de nos meilleurs ingénieurs nous ont quittés en plein milieu du projet."
+      },
+      {
+        "s": 0,
+        "ar": "كَانَ يَنْبَغِي أَنْ تُبْلِغَنِي بِذَلِكَ فِي حِينِهِ، لَا أَنْ أَكْتَشِفَهُ مِنَ الْعَمِيلِ.",
+        "translit": "kāna yanbaghī ʾan tublighanī bi-dhālika fī ḥīnih, lā ʾan ʾaktashifahu mina l-ʿamīl.",
+        "fr": "Vous auriez dû m'en informer en temps voulu, et non me laisser l'apprendre par le client."
+      },
+      {
+        "s": 1,
+        "ar": "مَعَكِ حَقٌّ، وَذَلِكَ خَطَأٌ مِنِّي لَا أُبَرِّرُهُ. ظَنَنْتُ أَنَّنَا سَنَتَدَارَكُ التَّأَخُّرَ قَبْلَ أَنْ يَسْتَفْحِلَ.",
+        "translit": "maʿaki ḥaqq, wa-dhālika khaṭaʾun minnī lā ʾubarriruh. ẓanantu ʾannanā sa-natadāraku t-taʾakhkhura qabla ʾan yastafḥil.",
+        "fr": "Vous avez raison, et c'est une erreur de ma part que je ne cherche pas à justifier. Je pensais que nous rattraperions le retard avant qu'il ne s'aggrave."
+      },
+      {
+        "s": 0,
+        "ar": "مَا فَاتَ مَاتَ. الْمُهِمُّ الْآنَ: مَا الَّذِي تَقْتَرِحُهُ لِتَدَارُكِ الْوَضْعِ؟",
+        "translit": "mā fāta māt. al-muhimmu l-ʾān: mā lladhī taqtariḥuhu li-tadāruki l-waḍʿ?",
+        "fr": "Ce qui est fait est fait. L'important maintenant : que proposez-vous pour redresser la situation ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَقْتَرِحُ تَعْزِيزَ الْفَرِيقِ بِمُهَنْدِسَيْنِ مُتَعَاقِدَيْنِ لِمُدَّةِ شَهْرَيْنِ، وَتَقْسِيمَ مَا تَبَقَّى إِلَى مَرَاحِلَ يُسَلَّمُ كُلٌّ مِنْهَا عَلَى حِدَةٍ.",
+        "translit": "ʾaqtariḥu taʿzīza l-farīqi bi-muhandisayni mutaʿāqidayni li-muddati shahrayn, wa-taqsīma mā tabaqqā ʾilā marāḥila yusallamu kullun minhā ʿalā ḥida.",
+        "fr": "Je propose de renforcer l'équipe avec deux ingénieurs contractuels pendant deux mois, et de découper le reste en phases livrées chacune séparément."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَا كُلْفَةُ ذَلِكَ؟ أَحْتَاجُ إِلَى تَقْدِيرٍ دَقِيقٍ قَبْلَ أَنْ أَعْرِضَ الْأَمْرَ عَلَى مَجْلِسِ الْإِدَارَةِ.",
+        "translit": "wa-mā kulfatu dhālik? ʾaḥtāju ʾilā taqdīrin daqīqin qabla ʾan ʾaʿriḍa l-ʾamra ʿalā majlisi l-ʾidāra.",
+        "fr": "Et quel en est le coût ? J'ai besoin d'une estimation précise avant de soumettre la question au conseil d'administration."
+      },
+      {
+        "s": 1,
+        "ar": "سَأُوَافِيكِ بِتَقْرِيرٍ مُفَصَّلٍ صَبَاحَ الْغَدِ، يَتَضَمَّنُ الْكُلْفَةَ وَجَدْوَلًا زَمَنِيًّا جَدِيدًا.",
+        "translit": "sa-ʾuwāfīki bi-taqrīrin mufaṣṣalin ṣabāḥa l-ghad, yataḍammanu l-kulfata wa-jadwalan zamaniyyan jadīdan.",
+        "fr": "Je vous ferai parvenir demain matin un rapport détaillé, comprenant le coût et un nouveau calendrier."
+      },
+      {
+        "s": 0,
+        "ar": "حَسَنًا. وَأَرْجُو أَنْ يَكُونَ هَذَا الْجَدْوَلُ وَاقِعِيًّا هَذِهِ الْمَرَّةَ، فَلَا مَجَالَ لِخَيْبَةٍ أُخْرَى.",
+        "translit": "ḥasanan. wa-ʾarjū ʾan yakūna hādhā l-jadwalu wāqiʿiyyan hādhihi l-marra, fa-lā majāla li-khaybatin ʾukhrā.",
+        "fr": "Bien. Et j'espère que ce calendrier sera réaliste cette fois, car il n'y a pas de place pour une autre déception."
+      }
+    ]
+  },
+  {
+    "id": "ar-d59",
+    "level": 5,
+    "situation": "Débat",
+    "title": "L'arabe à l'ère numérique",
+    "speakers": [
+      "Bachir",
+      "Hanane"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَلَا تُلَاحِظِينَ أَنَّ الشَّبَابَ صَارُوا يَكْتُبُونَ الْعَرَبِيَّةَ بِحُرُوفٍ لَاتِينِيَّةٍ وَأَرْقَامٍ؟ هَذَا يُنْذِرُ بِكَارِثَةٍ لُغَوِيَّةٍ.",
+        "translit": "ʾa-lā tulāḥiẓīna ʾanna sh-shabāba ṣārū yaktubūna l-ʿarabiyyata bi-ḥurūfin lātīniyyatin wa-ʾarqām? hādhā yundhiru bi-kārithatin lughawiyya.",
+        "fr": "Tu ne remarques pas que les jeunes écrivent maintenant l'arabe en lettres latines et en chiffres ? Ça annonce une catastrophe linguistique."
+      },
+      {
+        "s": 1,
+        "ar": "أَلَيْسَ فِي كَلَامِكَ شَيْءٌ مِنَ التَّهْوِيلِ؟ اللُّغَةُ كَائِنٌ حَيٌّ، تَتَكَيَّفُ مَعَ الْوَسَائِلِ الْمُتَاحَةِ.",
+        "translit": "ʾa-laysa fī kalāmika shayʾun mina t-tahwīl? al-lughatu kāʾinun ḥayy, tatakayyafu maʿa l-wasāʾili l-mutāḥa.",
+        "fr": "N'y a-t-il pas un peu de dramatisation dans ce que tu dis ? La langue est un être vivant, elle s'adapte aux moyens disponibles."
+      },
+      {
+        "s": 0,
+        "ar": "التَّكَيُّفُ شَيْءٌ وَالتَّخَلِّي شَيْءٌ آخَرُ. حِينَ يَعْجِزُ طَالِبٌ جَامِعِيٌّ عَنْ كِتَابَةِ فِقْرَةٍ سَلِيمَةٍ، فَالْمُشْكِلَةُ أَعْمَقُ مِنْ مُجَرَّدِ وَسِيلَةٍ.",
+        "translit": "at-takayyufu shayʾun wa-t-takhallī shayʾun ʾākhar. ḥīna yaʿjizu ṭālibun jāmiʿiyyun ʿan kitābati fiqratin salīma, fa-l-mushkilatu ʾaʿmaqu min mujarradi wasīla.",
+        "fr": "S'adapter est une chose, abandonner en est une autre. Quand un étudiant est incapable d'écrire un paragraphe correct, le problème est plus profond qu'une simple question d'outil."
+      },
+      {
+        "s": 1,
+        "ar": "لَا أَخْتَلِفُ مَعَكَ فِي التَّشْخِيصِ، بَلْ فِي تَحْدِيدِ الْمُتَّهَمِ. فَالْمَسْؤُولُ فِي نَظَرِي مَنَاهِجُ تَعْلِيمٍ تُقَدِّمُ اللُّغَةَ قَوَاعِدَ جَافَّةً لَا حَيَاةَ فِيهَا.",
+        "translit": "lā ʾakhtalifu maʿaka fī t-tashkhīṣ, bal fī taḥdīdi l-muttaham. fa-l-masʾūlu fī naẓarī manāhiju taʿlīmin tuqaddimu l-lughata qawāʿida jāffatan lā ḥayāta fīhā.",
+        "fr": "Je suis d'accord avec toi sur le diagnostic, pas sur le coupable. Le responsable, à mes yeux, ce sont des programmes qui présentent la langue comme des règles arides, sans vie."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَا الْبَدِيلُ الَّذِي تَقْتَرِحِينَهُ؟",
+        "translit": "wa-mā l-badīlu lladhī taqtariḥīnah?",
+        "fr": "Et quelle alternative proposes-tu ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَنْ يُقْبِلَ التَّلَامِيذُ عَلَى الْعَرَبِيَّةِ عَبْرَ مَا يُحِبُّونَهُ: الْأَغَانِي وَالْأَفْلَامِ وَالْأَلْعَابِ وَالْقِصَصِ الْمُعَاصِرَةِ، لَا عَبْرَ نُصُوصٍ لَا تَمُتُّ إِلَى وَاقِعِهِمْ بِصِلَةٍ.",
+        "translit": "ʾan yuqbila t-talāmīdhu ʿalā l-ʿarabiyyati ʿabra mā yuḥibbūnah: al-ʾaghānī wa-l-ʾaflāmi wa-l-ʾalʿābi wa-l-qiṣaṣi l-muʿāṣira, lā ʿabra nuṣūṣin lā tamuttu ʾilā wāqiʿihim bi-ṣila.",
+        "fr": "Que les élèves viennent à l'arabe par ce qu'ils aiment : les chansons, les films, les jeux et les récits contemporains, et non par des textes sans aucun rapport avec leur réalité."
+      },
+      {
+        "s": 0,
+        "ar": "فِكْرَةٌ وَجِيهَةٌ، شَرِيطَةَ أَلَّا نُضَحِّيَ بِالتُّرَاثِ. فَالَّذِي لَا يَقْرَأُ الْمُتَنَبِّيَ يَفُوتُهُ نِصْفُ جَمَالِ هَذِهِ اللُّغَةِ.",
+        "translit": "fikratun wajīha, sharīṭata ʾallā nuḍaḥḥiya bi-t-turāth. fa-lladhī lā yaqraʾu l-mutanabbiya yafūtuhu niṣfu jamāli hādhihi l-lugha.",
+        "fr": "Idée pertinente, à condition de ne pas sacrifier le patrimoine. Qui ne lit pas al-Mutanabbi passe à côté de la moitié de la beauté de cette langue."
+      },
+      {
+        "s": 1,
+        "ar": "وَمَنْ قَالَ إِنَّ الْمُتَنَبِّيَ لَا يُمْكِنُ أَنْ يُقَدَّمَ بِطَرِيقَةٍ حَيَّةٍ؟ شِعْرُهُ مَلِيءٌ بِالْكِبْرِيَاءِ وَالسُّخْرِيَةِ، وَهَذَا مَا يُحِبُّهُ الْمُرَاهِقُونَ تَحْدِيدًا!",
+        "translit": "wa-man qāla ʾinna l-mutanabbiya lā yumkinu ʾan yuqaddama bi-ṭarīqatin ḥayya? shiʿruhu malīʾun bi-l-kibriyāʾi wa-s-sukhriya, wa-hādhā mā yuḥibbuhu l-murāhiqūna taḥdīdan!",
+        "fr": "Et qui a dit qu'on ne pouvait pas présenter al-Mutanabbi de façon vivante ? Sa poésie est pleine d'orgueil et d'ironie, et c'est précisément ce qu'aiment les adolescents !"
+      },
+      {
+        "s": 0,
+        "ar": "أَعْتَرِفُ بِأَنَّكِ أَفْحَمْتِنِي هَذِهِ الْمَرَّةَ.",
+        "translit": "ʾaʿtarifu bi-ʾannaki ʾafḥamtinī hādhihi l-marra.",
+        "fr": "J'avoue que tu m'as cloué le bec cette fois."
+      },
+      {
+        "s": 1,
+        "ar": "«الْخَيْلُ وَاللَّيْلُ وَالْبَيْدَاءُ تَعْرِفُنِي»، أَلَيْسَ كَذَلِكَ؟",
+        "translit": "«al-khaylu wa-l-laylu wa-l-baydāʾu taʿrifunī», ʾa-laysa ka-dhālik?",
+        "fr": "« Les chevaux, la nuit et le désert me connaissent », n'est-ce pas ?"
+      }
+    ]
+  },
+  {
+    "id": "ar-d60",
+    "level": 5,
+    "situation": "Négociation commerciale",
+    "title": "Le contrat de fourniture",
+    "speakers": [
+      "Rachida",
+      "Kamal"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "اطَّلَعْنَا عَلَى عَرْضِكُمْ بِاهْتِمَامٍ، غَيْرَ أَنَّ الْأَسْعَارَ الْمُقْتَرَحَةَ تَتَجَاوَزُ الْمِيزَانِيَّةَ الْمَرْصُودَةَ بِنَحْوِ الْخُمُسِ.",
+        "translit": "iṭṭalaʿnā ʿalā ʿarḍikum bi-htimām, ghayra ʾanna l-ʾasʿāra l-muqtaraḥata tatajāwazu l-mīzāniyyata l-marṣūdata bi-naḥwi l-khumus.",
+        "fr": "Nous avons examiné votre offre avec attention, mais les prix proposés dépassent d'environ un cinquième le budget alloué."
+      },
+      {
+        "s": 1,
+        "ar": "نَتَفَهَّمُ قُيُودَكُمْ، وَلَكِنْ أَرْجُو أَنْ تَأْخُذُوا بِعَيْنِ الِاعْتِبَارِ جَوْدَةَ الْمَوَادِّ وَمُدَّةَ الضَّمَانِ الَّتِي تَفُوقُ مَا يُقَدِّمُهُ مُنَافِسُونَا.",
+        "translit": "natafahhamu quyūdakum, wa-lākin ʾarjū ʾan taʾkhudhū bi-ʿayni l-iʿtibāri jawdata l-mawāddi wa-muddata ḍ-ḍamāni llatī tafūqu mā yuqaddimuhu munāfisūnā.",
+        "fr": "Nous comprenons vos contraintes, mais je vous prie de prendre en considération la qualité des matériaux et la durée de garantie, supérieure à celle de nos concurrents."
+      },
+      {
+        "s": 0,
+        "ar": "لَا نُشَكِّكُ فِي الْجَوْدَةِ، وَإِلَّا لَمَا جَلَسْنَا إِلَى هَذِهِ الطَّاوِلَةِ. لَكِنَّ الْمِيزَانِيَّةَ لَيْسَتْ قَابِلَةً لِلتَّمْدِيدِ.",
+        "translit": "lā nushakkiku fī l-jawda, wa-ʾillā la-mā jalasnā ʾilā hādhihi ṭ-ṭāwila. lākinna l-mīzāniyyata laysat qābilatan li-t-tamdīd.",
+        "fr": "Nous ne mettons pas en doute la qualité, sinon nous ne serions pas à cette table. Mais le budget ne peut pas être augmenté."
+      },
+      {
+        "s": 1,
+        "ar": "فِي هَذِهِ الْحَالِ، يُمْكِنُنَا أَنْ نُخَفِّضَ السِّعْرَ بِعَشَرَةٍ فِي الْمِئَةِ، شَرِيطَةَ أَنْ يَمْتَدَّ الْعَقْدُ ثَلَاثَ سَنَوَاتٍ بَدَلًا مِنْ سَنَةٍ.",
+        "translit": "fī hādhihi l-ḥāl, yumkinunā ʾan nukhaffiḍa s-siʿra bi-ʿasharatin fī l-miʾa, sharīṭata ʾan yamtadda l-ʿaqdu thalātha sanawātin badalan min sana.",
+        "fr": "Dans ce cas, nous pouvons baisser le prix de dix pour cent, à condition que le contrat porte sur trois ans au lieu d'un."
+      },
+      {
+        "s": 0,
+        "ar": "الْتِزَامٌ طَوِيلٌ كَهَذَا يَحْتَاجُ إِلَى ضَمَانَاتٍ. مَاذَا لَوْ تَرَاجَعَتْ جَوْدَةُ التَّسْلِيمِ فِي السَّنَةِ الثَّانِيَةِ؟",
+        "translit": "iltizāmun ṭawīlun ka-hādhā yaḥtāju ʾilā ḍamānāt. mādhā law tarājaʿat jawdatu t-taslīmi fī s-sanati th-thāniya?",
+        "fr": "Un engagement aussi long nécessite des garanties. Et si la qualité des livraisons baissait la deuxième année ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَقْتَرِحُ إِدْرَاجَ بَنْدٍ جَزَائِيٍّ يُتِيحُ لَكُمْ فَسْخَ الْعَقْدِ دُونَ تَعْوِيضٍ إِذَا لَمْ نَحْتَرِمِ الْمَعَايِيرَ الْمُتَّفَقَ عَلَيْهَا.",
+        "translit": "naqtariḥu ʾidrāja bandin jazāʾiyyin yutīḥu lakum faskha l-ʿaqdi dūna taʿwīḍin ʾidhā lam naḥtarimi l-maʿāyīra l-muttafaqa ʿalayhā.",
+        "fr": "Nous proposons d'insérer une clause pénale qui vous permette de résilier le contrat sans indemnité si nous ne respectons pas les normes convenues."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا يُطَمْئِنُنَا نِسْبِيًّا. وَمَاذَا عَنْ آجَالِ الدَّفْعِ؟ نَحْنُ نَعْمَلُ عَادَةً بِأَجَلِ تِسْعِينَ يَوْمًا.",
+        "translit": "hādhā yuṭamʾinunā nisbiyyan. wa-mādhā ʿan ʾājāli d-dafʿ? naḥnu naʿmalu ʿādatan bi-ʾajali tisʿīna yawman.",
+        "fr": "Voilà qui nous rassure, relativement. Et les délais de paiement ? Nous travaillons d'habitude à quatre-vingt-dix jours."
+      },
+      {
+        "s": 1,
+        "ar": "تِسْعُونَ يَوْمًا مُدَّةٌ طَوِيلَةٌ عَلَى شَرِكَةٍ بِحَجْمِنَا. أَلَا يُمْكِنُ أَنْ نَلْتَقِيَ عِنْدَ سِتِّينَ؟",
+        "translit": "tisʿūna yawman muddatun ṭawīlatun ʿalā sharikatin bi-ḥajminā. ʾa-lā yumkinu ʾan naltaqiya ʿinda sittīn?",
+        "fr": "Quatre-vingt-dix jours, c'est long pour une entreprise de notre taille. Ne pourrions-nous pas nous retrouver à soixante ?"
+      },
+      {
+        "s": 0,
+        "ar": "سِتُّونَ يَوْمًا مَقْبُولَةٌ، بِشَرْطِ أَنْ يُثَبَّتَ السِّعْرُ طِيلَةَ مُدَّةِ الْعَقْدِ.",
+        "translit": "sittūna yawman maqbūla, bi-sharṭi ʾan yuthabbata s-siʿru ṭīlata muddati l-ʿaqd.",
+        "fr": "Soixante jours, c'est acceptable, à condition que le prix soit fixe pendant toute la durée du contrat."
+      },
+      {
+        "s": 1,
+        "ar": "يَبْدُو أَنَّنَا وَصَلْنَا إِلَى صِيغَةٍ تُرْضِي الطَّرَفَيْنِ. سَأُعِدُّ مُسَوَّدَةَ الْعَقْدِ وَأُرْسِلُهَا إِلَيْكُمْ مَطْلَعَ الْأُسْبُوعِ.",
+        "translit": "yabdū ʾannanā waṣalnā ʾilā ṣīghatin turḍī ṭ-ṭarafayn. sa-ʾuʿiddu musawwadata l-ʿaqdi wa-ʾursiluhā ʾilaykum maṭlaʿa l-ʾusbūʿ.",
+        "fr": "Il semble que nous soyons parvenus à une formule qui satisfait les deux parties. Je préparerai le projet de contrat et vous l'enverrai en début de semaine."
+      }
+    ]
+  },
+  {
+    "id": "ar-d61",
+    "level": 5,
+    "situation": "Humour",
+    "title": "Le guichet numéro sept",
+    "speakers": [
+      "Dounia",
+      "Younes"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَا الَّذِي جَرَى؟ وَجْهُكَ يُوحِي بِأَنَّكَ خَرَجْتَ لِتَوِّكَ مِنْ مَعْرَكَةٍ.",
+        "translit": "mā lladhī jarā? wajhuka yūḥī bi-ʾannaka kharajta li-tawwika min maʿraka.",
+        "fr": "Qu'est-ce qui s'est passé ? À voir ta tête, on dirait que tu sors d'une bataille."
+      },
+      {
+        "s": 1,
+        "ar": "أَسْوَأُ مِنْ مَعْرَكَةٍ: مِنَ الْإِدَارَةِ! قَضَيْتُ الصَّبَاحَ كُلَّهُ أَتَنَقَّلُ بَيْنَ الشَّبَابِيكِ مِنْ أَجْلِ وَرَقَةٍ وَاحِدَةٍ.",
+        "translit": "ʾaswaʾu min maʿraka: mina l-ʾidāra! qaḍaytu ṣ-ṣabāḥa kullahu ʾatanaqqalu bayna sh-shabābīki min ʾajli waraqatin wāḥida.",
+        "fr": "Pire qu'une bataille : de l'administration ! J'ai passé toute la matinée à aller d'un guichet à l'autre pour une seule feuille."
+      },
+      {
+        "s": 0,
+        "ar": "دَعْنِي أُخَمِّنْ: أَرْسَلُوكَ إِلَى الشُّبَّاكِ رَقْمِ ثَلَاثَةٍ، فَأَرْسَلَكَ إِلَى الشُّبَّاكِ رَقْمِ سَبْعَةٍ، فَأَعَادَكَ إِلَى الْأَوَّلِ؟",
+        "translit": "daʿnī ʾukhammin: ʾarsalūka ʾilā sh-shubbāki raqmi thalātha, fa-ʾarsalaka ʾilā sh-shubbāki raqmi sabʿa, fa-ʾaʿādaka ʾilā l-ʾawwal?",
+        "fr": "Laisse-moi deviner : on t'a envoyé au guichet trois, qui t'a envoyé au guichet sept, qui t'a renvoyé au premier ?"
+      },
+      {
+        "s": 1,
+        "ar": "بِالضَّبْطِ! وَفِي النِّهَايَةِ قَالُوا لِي إِنَّ النِّظَامَ مُعَطَّلٌ، وَإِنَّ عَلَيَّ أَنْ أَعُودَ غَدًا «إِنْ شَاءَ اللَّهُ».",
+        "translit": "bi-ḍ-ḍabṭ! wa-fī n-nihāyati qālū lī ʾinna n-niẓāma muʿaṭṭal, wa-ʾinna ʿalayya ʾan ʾaʿūda ghadan «ʾin shāʾa llāh».",
+        "fr": "Exactement ! Et à la fin, on m'a dit que le système était en panne et que je devais revenir demain, « si Dieu le veut »."
+      },
+      {
+        "s": 0,
+        "ar": "«إِنْ شَاءَ اللَّهُ» فِي الْإِدَارَةِ تَعْنِي أَحْيَانًا: «لَا تَحْلُمْ كَثِيرًا»!",
+        "translit": "«ʾin shāʾa llāh» fī l-ʾidārati taʿnī ʾaḥyānan: «lā taḥlum kathīran»!",
+        "fr": "« Si Dieu le veut », à l'administration, ça veut parfois dire : « N'y compte pas trop » !"
+      },
+      {
+        "s": 1,
+        "ar": "أَضْحَكْتِنِي رَغْمَ أَنْفِي! وَلَكِنْ صَدِّقِينِي، لَمْ يَكُنِ الْأَمْرُ مُضْحِكًا هُنَاكَ.",
+        "translit": "ʾaḍḥaktinī raghma ʾanfī! wa-lākin ṣaddiqīnī, lam yakuni l-ʾamru muḍḥikan hunāk.",
+        "fr": "Tu me fais rire malgré moi ! Mais crois-moi, ce n'était pas drôle sur place."
+      },
+      {
+        "s": 0,
+        "ar": "لِي نَصِيحَةٌ مُجَرَّبَةٌ: اذْهَبْ غَدًا مَعَ الْفَجْرِ، وَخُذْ مَعَكَ نُسْخَتَيْنِ مِنْ كُلِّ وَثِيقَةٍ، وَكِتَابًا طَوِيلًا، وَكَثِيرًا مِنَ الصَّبْرِ.",
+        "translit": "lī naṣīḥatun mujarraba: idhhab ghadan maʿa l-fajr, wa-khudh maʿaka nuskhatayni min kulli wathīqa, wa-kitāban ṭawīlan, wa-kathīran mina ṣ-ṣabr.",
+        "fr": "J'ai un conseil éprouvé : vas-y demain dès l'aube, avec deux copies de chaque document, un long livre et beaucoup de patience."
+      },
+      {
+        "s": 1,
+        "ar": "«الصَّبْرُ مِفْتَاحُ الْفَرَجِ»، أَعْرِفُ. لَكِنَّ مِفْتَاحِي يَبْدُو أَنَّهُ ضَاعَ عِنْدَ الشُّبَّاكِ رَقْمِ سَبْعَةٍ.",
+        "translit": "«aṣ-ṣabru miftāḥu l-faraj», ʾaʿrif. lākinna miftāḥī yabdū ʾannahu ḍāʿa ʿinda sh-shubbāki raqmi sabʿa.",
+        "fr": "« La patience est la clé de la délivrance », je sais. Mais ma clé à moi semble s'être perdue au guichet sept."
+      },
+      {
+        "s": 0,
+        "ar": "لَا تَيْأَسْ. وَإِذَا تَعَقَّدَ الْأَمْرُ، فَعِنْدِي ابْنُ عَمٍّ يَعْمَلُ هُنَاكَ، وَهُوَ يَعْرِفُ مِنْ أَيْنَ تُؤْكَلُ الْكَتِفُ.",
+        "translit": "lā tayʾas. wa-ʾidhā taʿaqqada l-ʾamr, fa-ʿindī bnu ʿammin yaʿmalu hunāk, wa-huwa yaʿrifu min ʾayna tuʾkalu l-katif.",
+        "fr": "Ne désespère pas. Et si ça se complique, j'ai un cousin qui travaille là-bas, et il sait par quel bout prendre les choses."
+      },
+      {
+        "s": 1,
+        "ar": "الْآنَ فَقَطْ تُخْبِرِينَنِي؟ كَانَ بِإِمْكَانِكِ أَنْ تُوَفِّرِي عَلَيَّ صَبَاحًا كَامِلًا!",
+        "translit": "al-ʾāna faqaṭ tukhbirīnanī? kāna bi-ʾimkāniki ʾan tuwaffirī ʿalayya ṣabāḥan kāmilan!",
+        "fr": "C'est maintenant que tu me le dis ? Tu aurais pu m'épargner une matinée entière !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d62",
+    "level": 5,
+    "situation": "Tradition et modernité",
+    "title": "Un mariage à mille invités",
+    "speakers": [
+      "Yousra",
+      "Marouane"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "سَمِعْتُ أَنَّ أَخَاكَ سَيُقِيمُ حَفْلَ زِفَافٍ لِأَلْفِ مَدْعُوٍّ. أَلَيْسَ هَذَا ضَرْبًا مِنَ الْإِسْرَافِ؟",
+        "translit": "samiʿtu ʾanna ʾakhāka sa-yuqīmu ḥafla zifāfin li-ʾalfi madʿuww. ʾa-laysa hādhā ḍarban mina l-ʾisrāf?",
+        "fr": "J'ai entendu dire que ton frère va organiser un mariage pour mille invités. N'est-ce pas une forme de gaspillage ?"
+      },
+      {
+        "s": 1,
+        "ar": "هِيَ عَادَاتُ الْعَائِلَةِ، وَلَا يَسْتَطِيعُ أَنْ يَخْرُجَ عَنْهَا دُونَ أَنْ يُثِيرَ غَضَبَ الْكِبَارِ.",
+        "translit": "hiya ʿādātu l-ʿāʾila, wa-lā yastaṭīʿu ʾan yakhruja ʿanhā dūna ʾan yuthīra ghaḍaba l-kibār.",
+        "fr": "Ce sont les coutumes de la famille, et il ne peut pas s'en écarter sans provoquer la colère des aînés."
+      },
+      {
+        "s": 0,
+        "ar": "وَلَكِنَّهُ سَيَسْتَدِينُ لِذَلِكَ، عَلَى مَا يَبْدُو. أَلَيْسَ مِنَ الْأَحْكَمِ أَنْ يَبْدَأَ حَيَاتَهُ الزَّوْجِيَّةَ دُونَ دُيُونٍ؟",
+        "translit": "wa-lākinnahu sa-yastadīnu li-dhālik, ʿalā mā yabdū. ʾa-laysa mina l-ʾaḥkami ʾan yabdaʾa ḥayātahu z-zawjiyyata dūna duyūn?",
+        "fr": "Mais il va s'endetter pour ça, à ce qu'il paraît. N'est-il pas plus sage de commencer sa vie de couple sans dettes ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا أُخَالِفُكِ الرَّأْيَ. لَكِنَّ النَّاسَ هُنَا يَقُولُونَ: «الْعُرْسُ لَيْلَةٌ وَتَدْبِيرُهُ سَنَةٌ»، وَكَأَنَّ الْأَمْرَ قَدَرٌ مَحْتُومٌ.",
+        "translit": "lā ʾukhālifuki r-raʾy. lākinna n-nāsa hunā yaqūlūn: «al-ʿursu laylatun wa-tadbīruhu sana», wa-ka-ʾanna l-ʾamra qadarun maḥtūm.",
+        "fr": "Je ne te contredis pas. Mais les gens ici disent : « La noce dure une nuit, et sa préparation un an », comme si c'était une fatalité."
+      },
+      {
+        "s": 0,
+        "ar": "الْعَادَاتُ يَصْنَعُهَا النَّاسُ، وَبِإِمْكَانِهِمْ أَنْ يُغَيِّرُوهَا. لَوْ تَجَرَّأَ شَابٌّ وَاحِدٌ فِي كُلِّ عَائِلَةٍ عَلَى الِاكْتِفَاءِ بِحَفْلٍ بَسِيطٍ، لَتَغَيَّرَ الْمُجْتَمَعُ فِي جِيلٍ وَاحِدٍ.",
+        "translit": "al-ʿādātu yaṣnaʿuhā n-nās, wa-bi-ʾimkānihim ʾan yughayyirūhā. law tajarraʾa shābbun wāḥidun fī kulli ʿāʾilatin ʿalā l-iktifāʾi bi-ḥaflin basīṭ, la-taghayyara l-mujtamaʿu fī jīlin wāḥid.",
+        "fr": "Les coutumes, ce sont les gens qui les font, et ils peuvent les changer. Si un seul jeune par famille osait se contenter d'une fête simple, la société changerait en une génération."
+      },
+      {
+        "s": 1,
+        "ar": "سَهْلٌ أَنْ نَقُولَ ذَلِكَ وَنَحْنُ خَارِجَ الْمَعْرَكَةِ! جَرِّبِي أَنْتِ أَنْ تُقْنِعِي أُمِّي بِأَنَّ ثَلَاثِينَ مَدْعُوًّا يَكْفُونَ.",
+        "translit": "sahlun ʾan naqūla dhālika wa-naḥnu khārija l-maʿraka! jarribī ʾanti ʾan tuqniʿī ʾummī bi-ʾanna thalāthīna madʿuwwan yakfūn.",
+        "fr": "Facile à dire quand on n'est pas dans la bataille ! Essaie, toi, de convaincre ma mère que trente invités suffisent."
+      },
+      {
+        "s": 0,
+        "ar": "لَسْتُ انْتِحَارِيَّةً إِلَى هَذَا الْحَدِّ! وَلَكِنْ أَلَا يُمْكِنُ إِيجَادُ حَلٍّ وَسَطٍ، كَأَنْ يُقَامَ حَفْلٌ مُتَوَاضِعٌ وَيُخَصَّصَ الْبَاقِي لِشِرَاءِ مَسْكَنٍ؟",
+        "translit": "lastu ntiḥāriyyatan ʾilā hādhā l-ḥadd! wa-lākin ʾa-lā yumkinu ʾījādu ḥallin wasaṭ, ka-ʾan yuqāma ḥaflun mutawāḍiʿun wa-yukhaṣṣaṣa l-bāqī li-shirāʾi maskan?",
+        "fr": "Je ne suis pas suicidaire à ce point ! Mais ne peut-on pas trouver un juste milieu : une fête modeste, et le reste consacré à l'achat d'un logement ?"
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا بِالضَّبْطِ مَا اقْتَرَحَتْهُ خَطِيبَتُهُ، فَقَامَتِ الدُّنْيَا وَلَمْ تَقْعُدْ.",
+        "translit": "hādhā bi-ḍ-ḍabṭi mā qtaraḥathu khaṭībatuh, fa-qāmati d-dunyā wa-lam taqʿud.",
+        "fr": "C'est exactement ce qu'a proposé sa fiancée, et ça a fait un scandale."
+      },
+      {
+        "s": 0,
+        "ar": "إِذَنْ فَالْعَرُوسُ أَعْقَلُ مِنَ الْجَمِيعِ! أَتَمَنَّى أَنْ تَنْتَصِرَ فِي النِّهَايَةِ.",
+        "translit": "ʾidhan fa-l-ʿarūsu ʾaʿqalu mina l-jamīʿ! ʾatamannā ʾan tantaṣira fī n-nihāya.",
+        "fr": "La mariée est donc la plus sensée de tous ! J'espère qu'elle aura gain de cause."
+      },
+      {
+        "s": 1,
+        "ar": "وَأَنَا أَيْضًا، سِرًّا! لَكِنْ إِيَّاكِ أَنْ تَقُولِي ذَلِكَ أَمَامَ أُمِّي.",
+        "translit": "wa-ʾanā ʾayḍan, sirran! lākin ʾiyyāki ʾan taqūlī dhālika ʾamāma ʾummī.",
+        "fr": "Moi aussi, en secret ! Mais surtout, ne dis jamais ça devant ma mère."
+      }
+    ]
+  },
+  {
+    "id": "ar-d63",
+    "level": 5,
+    "situation": "Interview",
+    "title": "Entretien avec un romancier",
+    "speakers": [
+      "Malak",
+      "Salah"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أُسْتَاذَ صَلَاحٍ، رِوَايَتُكَ الْأَخِيرَةُ أَثَارَتْ جَدَلًا وَاسِعًا. هَلْ كُنْتَ تَتَوَقَّعُ هَذِهِ الضَّجَّةَ؟",
+        "translit": "ʾustādha ṣalāḥ, riwāyatuka l-ʾakhīratu ʾathārat jadalan wāsiʿan. hal kunta tatawaqqaʿu hādhihi ḍ-ḍajja?",
+        "fr": "Monsieur Salah, votre dernier roman a suscité une vive polémique. Vous attendiez-vous à un tel tapage ?"
+      },
+      {
+        "s": 1,
+        "ar": "الْكَاتِبُ لَا يَكْتُبُ لِيُثِيرَ الضَّجِيجَ، وَإِنَّمَا لِيَطْرَحَ أَسْئِلَةً. أَمَّا رُدُودُ الْفِعْلِ فَلَيْسَتْ بِيَدِهِ.",
+        "translit": "al-kātibu lā yaktubu li-yuthīra ḍ-ḍajīj, wa-ʾinnamā li-yaṭraḥa ʾasʾila. ʾammā rudūdu l-fiʿli fa-laysat bi-yadih.",
+        "fr": "Un écrivain n'écrit pas pour faire du bruit, mais pour poser des questions. Quant aux réactions, elles ne dépendent pas de lui."
+      },
+      {
+        "s": 0,
+        "ar": "يَتَّهِمُكَ بَعْضُ النُّقَّادِ بِأَنَّكَ شَوَّهْتَ صُورَةَ الْمَدِينَةِ الَّتِي نَشَأْتَ فِيهَا. بِمَ تَرُدُّ عَلَيْهِمْ؟",
+        "translit": "yattahimuka baʿḍu n-nuqqādi bi-ʾannaka shawwahta ṣūrata l-madīnati llatī nashaʾta fīhā. bima taruddu ʿalayhim?",
+        "fr": "Certains critiques vous accusent d'avoir terni l'image de la ville où vous avez grandi. Que leur répondez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَقُولُ لَهُمْ إِنَّ مَنْ يُحِبُّ مَدِينَتَهُ لَا يُجَمِّلُ عُيُوبَهَا، بَلْ يُسَمِّيهَا بِأَسْمَائِهَا. فَالْمِرْآةُ الَّتِي تَكْذِبُ لَا تَنْفَعُ أَحَدًا.",
+        "translit": "ʾaqūlu lahum ʾinna man yuḥibbu madīnatahu lā yujammilu ʿuyūbahā, bal yusammīhā bi-ʾasmāʾihā. fa-l-mirʾātu llatī takdhibu lā tanfaʿu ʾaḥadan.",
+        "fr": "Je leur dis que celui qui aime sa ville n'embellit pas ses défauts, mais les appelle par leur nom. Un miroir qui ment ne sert à personne."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَعَ ذَلِكَ، أَلَا تَخْشَى أَنْ يُقْرَأَ عَمَلُكَ قِرَاءَةً سِيَاسِيَّةً تَخْتَزِلُهُ فِي مَوْقِفٍ وَاحِدٍ؟",
+        "translit": "wa-maʿa dhālik, ʾa-lā takhshā ʾan yuqraʾa ʿamaluka qirāʾatan siyāsiyyatan takhtaziluhu fī mawqifin wāḥid?",
+        "fr": "Et pourtant, ne craignez-vous pas que votre œuvre fasse l'objet d'une lecture politique qui la réduise à une seule prise de position ?"
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا قَدَرُ كُلِّ نَصٍّ يَخْرُجُ إِلَى النَّاسِ. بِمُجَرَّدِ أَنْ يُنْشَرَ الْكِتَابُ، يَصِيرُ مِلْكًا لِقُرَّائِهِ، يَقْرَؤُونَهُ كَمَا يَشَاؤُونَ.",
+        "translit": "hādhā qadaru kulli naṣṣin yakhruju ʾilā n-nās. bi-mujarradi ʾan yunshara l-kitāb, yaṣīru milkan li-qurrāʾih, yaqraʾūnahu kamā yashāʾūn.",
+        "fr": "C'est le destin de tout texte qui sort dans le monde. Dès qu'un livre est publié, il appartient à ses lecteurs, qui le lisent comme ils l'entendent."
+      },
+      {
+        "s": 0,
+        "ar": "سُؤَالٌ أَخِيرٌ: يُقَالُ إِنَّكَ تَكْتُبُ كُلَّ صَبَاحٍ قَبْلَ طُلُوعِ الشَّمْسِ. هَلْ هَذِهِ حَقِيقَةٌ أَمْ أُسْطُورَةٌ؟",
+        "translit": "suʾālun ʾakhīr: yuqālu ʾinnaka taktubu kulla ṣabāḥin qabla ṭulūʿi sh-shams. hal hādhihi ḥaqīqatun ʾam ʾusṭūra?",
+        "fr": "Une dernière question : on dit que vous écrivez chaque matin avant le lever du soleil. Réalité ou légende ?"
+      },
+      {
+        "s": 1,
+        "ar": "حَقِيقَةٌ، لِلْأَسَفِ! فَالْأَفْكَارُ عِنْدِي كَالطُّيُورِ: لَا تُغَرِّدُ إِلَّا فِي الْفَجْرِ، ثُمَّ تَطِيرُ بِلَا رَجْعَةٍ.",
+        "translit": "ḥaqīqatun, li-l-ʾasaf! fa-l-ʾafkāru ʿindī ka-ṭ-ṭuyūr: lā tugharridu ʾillā fī l-fajr, thumma taṭīru bi-lā rajʿa.",
+        "fr": "Réalité, hélas ! Chez moi, les idées sont comme les oiseaux : elles ne chantent qu'à l'aube, puis s'envolent sans retour."
+      },
+      {
+        "s": 0,
+        "ar": "صُورَةٌ شِعْرِيَّةٌ جَمِيلَةٌ نَخْتِمُ بِهَا هَذَا اللِّقَاءَ. شُكْرًا جَزِيلًا عَلَى وَقْتِكَ.",
+        "translit": "ṣūratun shiʿriyyatun jamīlatun nakhtimu bihā hādhā l-liqāʾ. shukran jazīlan ʿalā waqtik.",
+        "fr": "Une belle image poétique pour conclure cet entretien. Merci beaucoup pour votre temps."
+      },
+      {
+        "s": 1,
+        "ar": "الشُّكْرُ لَكِ وَلِقُرَّاءِ جَرِيدَتِكُمْ، وَأَرْجُو أَلَّا تَكُونَ صَرَاحَتِي قَدْ أَزْعَجَتْ أَحَدًا.",
+        "translit": "ash-shukru laki wa-li-qurrāʾi jarīdatikum, wa-ʾarjū ʾallā takūna ṣarāḥatī qad ʾazʿajat ʾaḥadan.",
+        "fr": "C'est moi qui vous remercie, vous et les lecteurs de votre journal, et j'espère que ma franchise n'aura dérangé personne."
+      }
+    ]
+  },
+  {
+    "id": "ar-d64",
+    "level": 5,
+    "situation": "Plaidoyer",
+    "title": "Un jardin pour le quartier",
+    "speakers": [
+      "Sanaa",
+      "Mourad"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "سَيِّدِي الرَّئِيسَ، أَشْكُرُكُمْ عَلَى إِتَاحَةِ الْفُرْصَةِ لِي لِعَرْضِ مَشْرُوعِ الْحَدِيقَةِ الْمُشْتَرَكَةِ أَمَامَ الْمَجْلِسِ.",
+        "translit": "sayyidī r-raʾīs, ʾashkurukum ʿalā ʾitāḥati l-furṣati lī li-ʿarḍi mashrūʿi l-ḥadīqati l-mushtarakati ʾamāma l-majlis.",
+        "fr": "Monsieur le président, je vous remercie de me donner l'occasion de présenter au conseil le projet de jardin partagé."
+      },
+      {
+        "s": 1,
+        "ar": "تَفَضَّلِي، وَلَكِنْ أُذَكِّرُكِ بِأَنَّ وَقْتَ الْمُدَاخَلَةِ لَا يَتَجَاوَزُ عَشْرَ دَقَائِقَ.",
+        "translit": "tafaḍḍalī, wa-lākin ʾudhakkiruki bi-ʾanna waqta l-mudākhalati lā yatajāwazu ʿashra daqāʾiq.",
+        "fr": "Je vous en prie, mais je vous rappelle que le temps de parole ne dépasse pas dix minutes."
+      },
+      {
+        "s": 0,
+        "ar": "سَأَكُونُ مُوجَزَةً. الْأَرْضُ الْمَهْجُورَةُ خَلْفَ الْمَدْرَسَةِ تَحَوَّلَتْ إِلَى مَكَبٍّ لِلنُّفَايَاتِ، فِي حِينِ أَنَّ أَطْفَالَ الْحَيِّ لَا يَجِدُونَ مَكَانًا يَلْعَبُونَ فِيهِ.",
+        "translit": "sa-ʾakūnu mūjaza. al-ʾarḍu l-mahjūratu khalfa l-madrasati taḥawwalat ʾilā makabbin li-n-nufāyāt, fī ḥīni ʾanna ʾaṭfāla l-ḥayyi lā yajidūna makānan yalʿabūna fīh.",
+        "fr": "Je serai brève. Le terrain abandonné derrière l'école s'est transformé en décharge, alors que les enfants du quartier n'ont nulle part où jouer."
+      },
+      {
+        "s": 1,
+        "ar": "نَحْنُ عَلَى عِلْمٍ بِذَلِكَ، غَيْرَ أَنَّ الْبَلَدِيَّةَ تُعَانِي عَجْزًا فِي الْمِيزَانِيَّةِ، كَمَا لَا يَخْفَى عَلَيْكِ.",
+        "translit": "naḥnu ʿalā ʿilmin bi-dhālik, ghayra ʾanna l-baladiyyata tuʿānī ʿajzan fī l-mīzāniyya, kamā lā yakhfā ʿalayki.",
+        "fr": "Nous en sommes conscients, mais la commune souffre d'un déficit budgétaire, comme vous ne l'ignorez pas."
+      },
+      {
+        "s": 0,
+        "ar": "وَهُنَا بَيْتُ الْقَصِيدِ: لَا نَطْلُبُ مِنَ الْبَلَدِيَّةِ إِلَّا الْأَرْضَ وَالْمَاءَ. أَمَّا الْعَمَلُ فَسَيَتَكَفَّلُ بِهِ مُتَطَوِّعُو الْحَيِّ، وَقَدْ جَمَعْنَا حَتَّى الْآنَ أَكْثَرَ مِنْ سِتِّينَ تَوْقِيعًا.",
+        "translit": "wa-hunā baytu l-qaṣīd: lā naṭlubu mina l-baladiyyati ʾillā l-ʾarḍa wa-l-māʾ. ʾammā l-ʿamalu fa-sa-yatakaffalu bihi mutaṭawwiʿū l-ḥayy, wa-qad jamaʿnā ḥattā l-ʾāna ʾakthara min sittīna tawqīʿan.",
+        "fr": "Et c'est là le nœud de l'affaire : nous ne demandons à la commune que le terrain et l'eau. Le travail, ce sont les bénévoles du quartier qui s'en chargeront, et nous avons déjà réuni plus de soixante signatures."
+      },
+      {
+        "s": 1,
+        "ar": "وَمَنْ يَضْمَنُ اسْتِمْرَارَ الْمَشْرُوعِ بَعْدَ أَنْ يَخْبُوَ الْحَمَاسُ الْأَوَّلُ؟ رَأَيْنَا مُبَادَرَاتٍ كَثِيرَةً تَبْدَأُ بِقُوَّةٍ ثُمَّ تَنْطَفِئُ.",
+        "translit": "wa-man yaḍmanu stimrāra l-mashrūʿi baʿda ʾan yakhbuwa l-ḥamāsu l-ʾawwal? raʾaynā mubādarātin kathīratan tabdaʾu bi-quwwatin thumma tanṭafiʾ.",
+        "fr": "Et qui garantit que le projet continuera une fois l'enthousiasme initial retombé ? Nous avons vu beaucoup d'initiatives démarrer en force puis s'éteindre."
+      },
+      {
+        "s": 0,
+        "ar": "سُؤَالٌ مَشْرُوعٌ. لِذَلِكَ أَسَّسْنَا جَمْعِيَّةً قَانُونِيَّةً، وَاتَّفَقْنَا مَعَ الْمَدْرَسَةِ عَلَى أَنْ يَتَوَلَّى التَّلَامِيذُ رِعَايَةَ جُزْءٍ مِنَ الْحَدِيقَةِ ضِمْنَ أَنْشِطَتِهِمْ.",
+        "translit": "suʾālun mashrūʿ. li-dhālika ʾassasnā jamʿiyyatan qānūniyya, wa-ttafaqnā maʿa l-madrasati ʿalā ʾan yatawallā t-talāmīdhu riʿāyata juzʾin mina l-ḥadīqati ḍimna ʾanshiṭatihim.",
+        "fr": "Question légitime. C'est pourquoi nous avons fondé une association déclarée, et convenu avec l'école que les élèves entretiendraient une partie du jardin dans le cadre de leurs activités."
+      },
+      {
+        "s": 1,
+        "ar": "يَبْدُو أَنَّكِ أَعْدَدْتِ لِكُلِّ اعْتِرَاضٍ جَوَابًا.",
+        "translit": "yabdū ʾannaki ʾaʿdadti li-kulli ʿtirāḍin jawāban.",
+        "fr": "On dirait que vous avez préparé une réponse à chaque objection."
+      },
+      {
+        "s": 0,
+        "ar": "«مَنْ جَدَّ وَجَدَ»، يَا سَيِّدِي. وَأُضِيفُ أَنَّ الْمَشْرُوعَ لَنْ يُكَلِّفَ الْبَلَدِيَّةَ دِرْهَمًا وَاحِدًا، بَلْ سَيُوَفِّرُ عَلَيْهَا تَكَالِيفَ تَنْظِيفِ الْأَرْضِ كُلَّ سَنَةٍ.",
+        "translit": "«man jadda wajad», yā sayyidī. wa-ʾuḍīfu ʾanna l-mashrūʿa lan yukallifa l-baladiyyata dirhaman wāḥidan, bal sa-yuwaffiru ʿalayhā takālīfa tanẓīfi l-ʾarḍi kulla sana.",
+        "fr": "« Qui cherche trouve », monsieur. J'ajoute que le projet ne coûtera pas un seul dirham à la commune, et lui épargnera même les frais de nettoyage du terrain chaque année."
+      },
+      {
+        "s": 1,
+        "ar": "حُجَجُكِ مُقْنِعَةٌ. سَأَعْرِضُ الْمُقْتَرَحَ لِلتَّصْوِيتِ فِي الدَّوْرَةِ الْقَادِمَةِ، وَأُوصِي شَخْصِيًّا بِالْمُوَافَقَةِ عَلَيْهِ.",
+        "translit": "ḥujajuki muqniʿa. sa-ʾaʿriḍu l-muqtaraḥa li-t-taṣwīti fī d-dawrati l-qādima, wa-ʾūṣī shakhṣiyyan bi-l-muwāfaqati ʿalayh.",
+        "fr": "Vos arguments sont convaincants. Je soumettrai la proposition au vote à la prochaine session, et je recommanderai personnellement de l'approuver."
+      }
+    ]
   }
 ]

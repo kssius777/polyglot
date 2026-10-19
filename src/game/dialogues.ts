@@ -74,7 +74,8 @@ export function dialogueQuiz(d: Dialogue, all: Dialogue[], rng: Rng, size = quiz
     const line = d.lines[index]
     const answer = { key: `${d.id}:${index}`, line }
     const near = shuffle(
-      pool.filter((c) => c.line.ar !== line.ar),
+      // Une même réplique (« Merci beaucoup ! ») revient dans plusieurs dialogues : on ne la propose qu'une fois.
+      [...new Map(pool.filter((c) => c.line.ar !== line.ar).map((c) => [c.line.ar, c])).values()],
       rng,
     )
       .slice(0, 12)

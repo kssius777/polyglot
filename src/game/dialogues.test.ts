@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { dialogueQuiz } from './dialogues'
+import { dialogueQuiz, quizSize } from './dialogues'
 
 /** Les dialogues sont vérifiés comme les cartes : écriture de la langue seulement, accents russes, français présent. */
 interface Line {
@@ -23,26 +23,31 @@ const SCRIPT: Record<string, RegExp> = {
   ka: /^[ა-ჺ\s,.!?:;«»—–-]+$/,
 }
 
+/** Nombre de répliques permis par niveau : les dialogues s'allongent avec le niveau. */
+const LINES: Record<number, [number, number]> = { 1: [4, 8], 2: [4, 8], 3: [6, 12], 4: [8, 14], 5: [8, 14] }
+
 const FILES = import.meta.glob<Dialogue[]>('../../data/dialogues/*.json', { eager: true, import: 'default' })
 const load = (lang: string): Dialogue[] => FILES[`../../data/dialogues/${lang}.json`] ?? []
 
 describe.each(['ar', 'ru', 'ka'])('dialogues %s', (lang) => {
   const all = load(lang)
 
-  it('a assez de dialogues, A1 puis A2', () => {
+  it('a assez de dialogues à chaque niveau, de A1 à C1', () => {
     expect(all.length).toBeGreaterThanOrEqual(25)
-    expect(all.some((d) => d.level === 1)).toBe(true)
-    expect(all.some((d) => d.level === 2)).toBe(true)
+    for (const level of [1, 2]) expect(all.filter((d) => d.level === level).length).toBeGreaterThanOrEqual(10)
+    for (const level of [3, 4, 5])
+      expect(all.filter((d) => d.level === level).length, `niveau ${level}`).toBeGreaterThanOrEqual(10)
     expect(new Set(all.map((d) => d.id)).size).toBe(all.length)
   })
 
   it.each(all.map((d) => [d.id, d] as const))('%s est bien formé', (_, d) => {
-    expect([1, 2]).toContain(d.level)
+    expect([1, 2, 3, 4, 5]).toContain(d.level)
     expect(d.title.trim()).not.toBe('')
     expect(d.situation.trim()).not.toBe('')
     expect(d.speakers).toHaveLength(2)
-    expect(d.lines.length).toBeGreaterThanOrEqual(4)
-    expect(d.lines.length).toBeLessThanOrEqual(8)
+    const [min, max] = LINES[d.level]
+    expect(d.lines.length).toBeGreaterThanOrEqual(min)
+    expect(d.lines.length).toBeLessThanOrEqual(max)
     for (const l of d.lines) {
       expect([0, 1]).toContain(l.s)
       expect(l.ar, l.ar).toMatch(SCRIPT[lang])
@@ -65,11 +70,12 @@ describe.each(['ar', 'ru', 'ka'])('dialogues %s', (lang) => {
 })
 
 describe('exercice des dialogues', () => {
-  it.each(['ar', 'ru', 'ka'])("%s : 3 questions dans l'ordre, 4 choix distincts dont la bonne réponse", (lang) => {
+  it.each(['ar', 'ru', 'ka'])("%s : questions dans l'ordre, 4 choix distincts dont la bonne réponse", (lang) => {
     const all = load(lang)
     for (const d of all) {
       const qs = dialogueQuiz(d, all, Math.random)
-      expect(qs).toHaveLength(3)
+      expect(qs).toHaveLength(quizSize(d.level))
+      if (d.level >= 4) expect(qs.some((q) => q.mode === 'missing')).toBe(true)
       for (const q of qs) {
         expect(q.index).toBeGreaterThan(0)
         expect(q.choices).toHaveLength(4)

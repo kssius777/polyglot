@@ -6587,3 +6587,28 @@ body:has(.quiz-screen) {
     radial-gradient(circle at 50% 45%, color-mix(in srgb, var(--lang) 45%, #2e3680), #1f265e 72%) padding-box,
     linear-gradient(135deg, #fff4cc, #c39a2e 30%, #fbe39a 52%, #9c7618 75%, #f3d77c) border-box;
 }
+/* Exercice : les répliques autour du trou restent compactes pour que les choix soient visibles sans défiler */
+.dl-quiz .dl-lines {
+  gap: 8px;
+}
+.dl-quiz .dl-bubble {
+  padding: 9px 13px 10px;
+  gap: 2px;
+}
+.dl-quiz .dl-target,
+html[data-lang] .dl-quiz .dl-target {
+  font-size: 1.12rem;
+  line-height: 1.5;
+}
+html[data-lang='ar'] .dl-quiz .dl-target {
+  font-size: 1.3rem;
+  line-height: 1.7;
+}
+.dl-quiz .dl-translit {
+  font-size: 0.86rem;
+}
+.dl-quiz .dl-fr {
+  margin-top: 2px;
+  padding-top: 5px;
+  font-size: 0.84rem;
+}

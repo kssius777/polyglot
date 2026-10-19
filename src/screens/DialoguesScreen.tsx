@@ -255,6 +255,11 @@ function Quiz({
   const [i, setI] = useState(0)
   const [chosen, setChosen] = useState<Choice | null>(null)
   const [good, setGood] = useState(0)
+  // Le français des répliques autour est caché (on le touche pour le voir) : les choix restent visibles sans défiler.
+  const [fr, setFr] = useState<'before' | 'after' | 'both' | null>(null)
+  const showFr = (which: 'before' | 'after') => fr === which || fr === 'both' || !!chosen
+  const toggleFr = (which: 'before' | 'after') =>
+    setFr((f) => (f === 'both' ? (which === 'before' ? 'after' : 'before') : f === which ? null : f ? 'both' : which))
   const q = questions[i]
   const correct = chosen?.key === q.answer.key
   const last = i + 1 >= questions.length
@@ -275,6 +280,7 @@ function Quiz({
       return
     }
     setChosen(null)
+    setFr(null)
     setI((n) => n + 1)
   }, [last, good, save, setSave, d.id, onDone, questions.length])
 
@@ -287,7 +293,7 @@ function Quiz({
       <div className={`question dl-body ${chosen ? 'answered' : ''}`}>
         <p className="prompt">{after ? 'Quelle réplique manque ?' : `Que répond ${d.speakers[missing.s]} ?`}</p>
         <ol className="dl-lines">
-          <Bubble line={before} who={d.speakers[before.s]} showFr />
+          <Bubble line={before} who={d.speakers[before.s]} showFr={showFr('before')} onClick={() => toggleFr('before')} />
           {chosen ? (
             <Bubble line={missing} who={d.speakers[missing.s]} showFr extra={correct ? 'glow-win' : 'glow-lose'} />
           ) : (
@@ -302,7 +308,7 @@ function Quiz({
               </div>
             </li>
           )}
-          {after && <Bubble line={after} who={d.speakers[after.s]} showFr />}
+          {after && <Bubble line={after} who={d.speakers[after.s]} showFr={showFr('after')} onClick={() => toggleFr('after')} />}
         </ol>
         <div className="choices choices-ar">
           {q.choices.map((c) => {
