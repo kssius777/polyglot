@@ -1,4 +1,5 @@
-import { useEffect, useRef, useState, type ReactNode } from 'react'
+import { useEffect, useState, type ReactNode } from 'react'
+import { Check, Sparkles, X } from 'lucide-react'
 import type { Card } from '../game/cards'
 import type { Question } from '../game/rules'
 import { GameCard, type Face } from './GameCard'
@@ -33,12 +34,23 @@ export function QuestionView({ question, copies, onAnswer, feedback, glow, onNex
   const { card, type, choices } = question
   const toArabic = type.startsWith('fr-ar')
   const answered = chosen !== null
-  const afterRef = useRef<HTMLDivElement>(null)
+  const correct = chosen?.id === card.id
+  // Sans indication (test de niveau), la carte réagit simplement à la réponse.
+  const reaction = glow === undefined ? (correct ? 'win' : 'lose') : glow
+  const tone = correct ? 'good' : reaction === null ? 'new' : 'bad'
 
-  // Sur téléphone, on s'assure que le bouton « Suivante » reste visible après la réponse.
+  // Sur ordinateur, Entrée ou Espace passe à la carte suivante.
   useEffect(() => {
-    if (answered) afterRef.current?.scrollIntoView?.({ block: 'nearest', behavior: 'smooth' })
-  }, [answered])
+    if (!answered) return
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault()
+        onNext()
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [answered, onNext])
 
   // Avant la réponse on montre le côté de la question ; après, le recto révèle tout : le mot, sa prononciation et son sens.
   const face: Face = answered || !toArabic ? 'front' : 'back'
@@ -50,9 +62,16 @@ export function QuestionView({ question, copies, onAnswer, feedback, glow, onNex
   }
 
   return (
-    <div className="question">
+    <div className={`question ${answered ? 'answered' : ''}`}>
       <p className="prompt">{PROMPTS[type]}</p>
-      <GameCard card={card} face={face} translit={answered} copies={copies} glow={answered ? glow : null} width={CARD_WIDTH} />
+      <GameCard
+        card={card}
+        face={face}
+        translit={answered}
+        copies={copies}
+        glow={answered ? reaction : null}
+        width={CARD_WIDTH}
+      />
       <div className={`choices ${toArabic ? 'choices-ar' : ''}`}>
         {choices.map((c) => {
           const state = !answered ? '' : c.id === card.id ? 'right' : c === chosen ? 'wrong' : 'dim'
@@ -73,11 +92,37 @@ export function QuestionView({ question, copies, onAnswer, feedback, glow, onNex
         })}
       </div>
       {answered && (
-        <div className="after" ref={afterRef}>
-          {feedback && <div className="feedback">{feedback}</div>}
-          <button className="btn primary" onClick={onNext} autoFocus>
-            {nextLabel}
-          </button>
+        <div className={`verdict ${tone}`} role="status">
+          <div className="verdict-inner">
+            <span className="verdict-icon" aria-hidden>
+              {tone === 'good' ? (
+                <Check size={26} strokeWidth={3} />
+              ) : tone === 'bad' ? (
+                <X size={26} strokeWidth={3} />
+              ) : (
+                <Sparkles size={24} />
+              )}
+            </span>
+            <div className="verdict-text">
+              <b>{tone === 'good' ? 'Bonne réponse !' : tone === 'bad' ? 'Pas tout à fait' : 'Nouvelle carte'}</b>
+              {!correct && (
+                <span className="verdict-answer">
+                  Réponse :{' '}
+                  {toArabic ? (
+                    <span {...TEXT_ATTRS}>
+                      <TargetText text={card.ar} />
+                    </span>
+                  ) : (
+                    card.fr
+                  )}
+                </span>
+              )}
+              {feedback && <div className="verdict-detail">{feedback}</div>}
+            </div>
+            <button className="verdict-next" onClick={onNext} autoFocus>
+              {nextLabel}
+            </button>
+          </div>
         </div>
       )}
       <Alphabet />

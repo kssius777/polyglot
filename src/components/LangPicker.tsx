@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import { Check, ChevronDown } from 'lucide-react'
-import { LANG, LANGS, switchLang, type LangId } from '../game/lang'
+import { ACTIVE_LANGS, LANG, LANG_PAUSED, LANGS, switchLang, type LangId } from '../game/lang'
 
 /** Bouton de langue : chaque langue garde sa propre collection, on passe de l'une à l'autre sans rien perdre. */
 export function LangPicker() {
-  const [open, setOpen] = useState(false)
+  // Si la dernière langue utilisée est en pause, on ouvre directement le choix.
+  const [open, setOpen] = useState(LANG_PAUSED)
   return (
     <>
       <button className="lang-btn" onClick={() => setOpen(true)} aria-label="Changer de langue">
@@ -14,8 +15,9 @@ export function LangPicker() {
         <div className="modal" onClick={() => setOpen(false)}>
           <div className="modal-body lang-sheet" onClick={(e) => e.stopPropagation()}>
             <h3>Quelle langue ?</h3>
+            {LANG_PAUSED && <p className="muted">Le chinois est en pause pour l'instant : ta partie est gardée de côté.</p>}
             <p className="muted">Chaque langue a sa propre collection, son niveau et ses statistiques.</p>
-            {(Object.keys(LANGS) as LangId[]).map((id) => {
+            {ACTIVE_LANGS.map((id) => {
               const l = LANGS[id]
               return (
                 <button

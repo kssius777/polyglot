@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "ru-d01",
+    "level": 1,
+    "situation": "Salutations",
+    "title": "Salut, ça va ?",
+    "speakers": [
+      "Ivan",
+      "Anna"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Приве́т, А́нна! Как дела́?",
+        "translit": "privét, Ánna! kak delá?",
+        "fr": "Salut, Anna ! Comment ça va ?"
+      },
+      {
+        "s": 1,
+        "ar": "Приве́т, Ива́н! Хорошо́, спаси́бо. А у тебя́?",
+        "translit": "privét, Iván! khoroshó, spasíbo. a u tebyá?",
+        "fr": "Salut, Ivan ! Bien, merci. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "То́же хорошо́. Что но́вого?",
+        "translit": "tózhe khoroshó. chto nóvovo?",
+        "fr": "Bien aussi. Quoi de neuf ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ничего́ осо́бенного. Ну, мне пора́. Пока́!",
+        "translit": "nichevó osóbennovo. nu, mne porá. poká!",
+        "fr": "Rien de spécial. Bon, je dois y aller. Salut !"
+      },
+      {
+        "s": 0,
+        "ar": "Пока́! До за́втра!",
+        "translit": "poká! do závtra!",
+        "fr": "Salut ! À demain !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d02",
+    "level": 1,
+    "situation": "Se présenter",
+    "title": "Faire connaissance",
+    "speakers": [
+      "Dmitri",
+      "Olga"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте! Меня́ зову́т Дми́трий. А как вас зову́т?",
+        "translit": "zdrávstvuyte! menyá zovút Dmítriy. a kak vas zovút?",
+        "fr": "Bonjour ! Je m'appelle Dmitri. Et vous, comment vous appelez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "О́льга. О́чень прия́тно!",
+        "translit": "Ól'ga. óchen' priyátno!",
+        "fr": "Olga. Enchantée !"
+      },
+      {
+        "s": 0,
+        "ar": "Мне то́же о́чень прия́тно. Вы отку́да?",
+        "translit": "mne tózhe óchen' priyátno. vy otkúda?",
+        "fr": "Moi de même. D'où venez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "Я из Петербу́рга. А вы?",
+        "translit": "ya iz Peterbúrga. a vy?",
+        "fr": "Je suis de Saint-Pétersbourg. Et vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "А я из Москвы́.",
+        "translit": "a ya iz Moskvý.",
+        "fr": "Et moi, de Moscou."
+      }
+    ]
+  },
+  {
+    "id": "ru-d03",
+    "level": 1,
+    "situation": "Au café",
+    "title": "Un café, s'il vous plaît",
+    "speakers": [
+      "Sergueï",
+      "Maria"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Здра́вствуйте! Что вы бу́дете?",
+        "translit": "zdrávstvuyte! chto vy búdete?",
+        "fr": "Bonjour ! Qu'est-ce que vous prenez ?"
+      },
+      {
+        "s": 0,
+        "ar": "Чёрный ко́фе, пожа́луйста.",
+        "translit": "chórnyy kófe, pozháluysta.",
+        "fr": "Un café noir, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "С са́харом?",
+        "translit": "s sákharom?",
+        "fr": "Avec du sucre ?"
+      },
+      {
+        "s": 0,
+        "ar": "Нет, без са́хара. И ещё оди́н круасса́н.",
+        "translit": "net, bez sákhara. i yeshchó odín kruassán.",
+        "fr": "Non, sans sucre. Et aussi un croissant."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́. Сто пятьдеся́т рубле́й.",
+        "translit": "khoroshó. sto pyat'desyát rubléy.",
+        "fr": "D'accord. Cent cinquante roubles."
+      },
+      {
+        "s": 0,
+        "ar": "Вот, пожа́луйста. Спаси́бо!",
+        "translit": "vot, pozháluysta. spasíbo!",
+        "fr": "Voilà. Merci !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d04",
+    "level": 1,
+    "situation": "Au marché",
+    "title": "Des pommes, s'il vous plaît",
+    "speakers": [
+      "Natacha",
+      "Pavel"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте! Ско́лько сто́ят я́блоки?",
+        "translit": "zdrávstvuyte! skól'ko stóyat yábloki?",
+        "fr": "Bonjour ! Combien coûtent les pommes ?"
+      },
+      {
+        "s": 1,
+        "ar": "Сто рубле́й за килогра́мм.",
+        "translit": "sto rubléy za kilográmm.",
+        "fr": "Cent roubles le kilo."
+      },
+      {
+        "s": 0,
+        "ar": "Да́йте, пожа́луйста, два килогра́мма.",
+        "translit": "dáyte, pozháluysta, dva kilográmma.",
+        "fr": "Donnez-m'en deux kilos, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "Бо́льше ничего́?",
+        "translit": "ból'she nichevó?",
+        "fr": "Rien d'autre ?"
+      },
+      {
+        "s": 0,
+        "ar": "Нет, спаси́бо. Э́то всё.",
+        "translit": "net, spasíbo. éto vsyo.",
+        "fr": "Non, merci. C'est tout."
+      },
+      {
+        "s": 1,
+        "ar": "С вас две́сти рубле́й.",
+        "translit": "s vas dvésti rubléy.",
+        "fr": "Ça vous fait deux cents roubles."
+      }
+    ]
+  },
+  {
+    "id": "ru-d05",
+    "level": 1,
+    "situation": "Demander son chemin",
+    "title": "Où est le métro ?",
+    "speakers": [
+      "Alexeï",
+      "Elena"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Извини́те, вы не зна́ете, где метро́?",
+        "translit": "izviníte, vy ne znáyete, gde metró?",
+        "fr": "Excusez-moi, vous savez où est le métro ?"
+      },
+      {
+        "s": 1,
+        "ar": "Иди́те пря́мо, пото́м напра́во.",
+        "translit": "idíte pryámo, potóm naprávo.",
+        "fr": "Allez tout droit, puis à droite."
+      },
+      {
+        "s": 0,
+        "ar": "Э́то далеко́?",
+        "translit": "éto dalekó?",
+        "fr": "C'est loin ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, бли́зко. Пять мину́т пешко́м.",
+        "translit": "net, blízko. pyat' minút peshkóm.",
+        "fr": "Non, c'est tout près. Cinq minutes à pied."
+      },
+      {
+        "s": 0,
+        "ar": "Большо́е спаси́бо!",
+        "translit": "bol'shóye spasíbo!",
+        "fr": "Merci beaucoup !"
+      },
+      {
+        "s": 1,
+        "ar": "Не́ за что!",
+        "translit": "né za chto!",
+        "fr": "De rien !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d06",
+    "level": 1,
+    "situation": "La famille",
+    "title": "Ta famille",
+    "speakers": [
+      "Mikhaïl",
+      "Tatiana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Та́ня, у тебя́ больша́я семья́?",
+        "translit": "Tánya, u tebyá bol'sháya sem'yá?",
+        "fr": "Tania, tu as une grande famille ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, у меня́ два бра́та и сестра́. А у тебя́?",
+        "translit": "da, u menyá dva bráta i sestrá. a u tebyá?",
+        "fr": "Oui, j'ai deux frères et une sœur. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "А у меня́ то́лько сестра́. Она́ ещё шко́льница.",
+        "translit": "a u menyá tól'ko sestrá. oná yeshchó shkól'nitsa.",
+        "fr": "Moi, seulement une sœur. Elle est encore à l'école."
+      },
+      {
+        "s": 1,
+        "ar": "А где живу́т твои́ роди́тели?",
+        "translit": "a gde zhivút tvoí rodíteli?",
+        "fr": "Et tes parents, ils habitent où ?"
+      },
+      {
+        "s": 0,
+        "ar": "В Каза́ни. Па́па — врач, а ма́ма — учи́тельница.",
+        "translit": "v Kazáni. pápa — vrach, a máma — uchítel'nitsa.",
+        "fr": "À Kazan. Papa est médecin et maman est institutrice."
+      }
+    ]
+  },
+  {
+    "id": "ru-d07",
+    "level": 1,
+    "situation": "Au téléphone",
+    "title": "On va au cinéma ?",
+    "speakers": [
+      "Andreï",
+      "Irina"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Алло́!",
+        "translit": "alló!",
+        "fr": "Allô ?"
+      },
+      {
+        "s": 0,
+        "ar": "Приве́т, Ири́на! Э́то Андре́й. Ты сейча́с занята́?",
+        "translit": "privét, Irína! éto Andréy. ty seychás zanyatá?",
+        "fr": "Salut, Irina ! C'est Andreï. Tu es occupée, là ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, не о́чень. Что случи́лось?",
+        "translit": "net, ne óchen'. chto sluchílos'?",
+        "fr": "Non, pas trop. Qu'est-ce qui se passe ?"
+      },
+      {
+        "s": 0,
+        "ar": "Ничего́. Хо́чешь пойти́ в кино́ сего́дня ве́чером?",
+        "translit": "nichevó. khóchesh' poytí v kinó sevódnya vécherom?",
+        "fr": "Rien de grave. Tu veux aller au cinéma ce soir ?"
+      },
+      {
+        "s": 1,
+        "ar": "С удово́льствием! Во ско́лько?",
+        "translit": "s udovól'stviyem! vo skól'ko?",
+        "fr": "Avec plaisir ! À quelle heure ?"
+      },
+      {
+        "s": 0,
+        "ar": "В семь часо́в. Встре́тимся у кинотеа́тра.",
+        "translit": "v sem' chasóv. vstrétimsya u kinoteátra.",
+        "fr": "À sept heures. On se retrouve devant le cinéma."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́, до ве́чера!",
+        "translit": "khoroshó, do véchera!",
+        "fr": "D'accord, à ce soir !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d08",
+    "level": 1,
+    "situation": "La météo",
+    "title": "Quel froid !",
+    "speakers": [
+      "Nikolaï",
+      "Svetlana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Кака́я сего́дня пого́да?",
+        "translit": "kakáya sevódnya pogóda?",
+        "fr": "Quel temps fait-il aujourd'hui ?"
+      },
+      {
+        "s": 1,
+        "ar": "Хо́лодно, и идёт снег.",
+        "translit": "khólodno, i idyót sneg.",
+        "fr": "Il fait froid et il neige."
+      },
+      {
+        "s": 0,
+        "ar": "Ско́лько гра́дусов?",
+        "translit": "skól'ko grádusov?",
+        "fr": "Il fait combien de degrés ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ми́нус де́сять.",
+        "translit": "mínus désyat'.",
+        "fr": "Moins dix."
+      },
+      {
+        "s": 0,
+        "ar": "Брр! Я оста́нусь до́ма.",
+        "translit": "brr! ya ostánus' dóma.",
+        "fr": "Brrr ! Je reste à la maison."
+      },
+      {
+        "s": 1,
+        "ar": "А я пойду́ гуля́ть. Я люблю́ зи́му!",
+        "translit": "a ya poydú gulyát'. ya lyublyú zímu!",
+        "fr": "Moi, je vais me promener. J'adore l'hiver !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d09",
+    "level": 1,
+    "situation": "Au restaurant",
+    "title": "Commander un plat",
+    "speakers": [
+      "Boris",
+      "Katia"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "До́брый ве́чер! Вот меню́.",
+        "translit": "dóbryy vécher! vot menyú.",
+        "fr": "Bonsoir ! Voici la carte."
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо. Что вы мне посове́туете?",
+        "translit": "spasíbo. chto vy mne posovétuyete?",
+        "fr": "Merci. Qu'est-ce que vous me conseillez ?"
+      },
+      {
+        "s": 1,
+        "ar": "Попро́буйте борщ. Он о́чень вку́сный.",
+        "translit": "popróbuyte borshch. on óchen' vkúsnyy.",
+        "fr": "Goûtez le bortsch. Il est délicieux."
+      },
+      {
+        "s": 0,
+        "ar": "Хорошо́, борщ и сала́т, пожа́луйста.",
+        "translit": "khoroshó, borshch i salát, pozháluysta.",
+        "fr": "D'accord, un bortsch et une salade, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "А что бу́дете пить?",
+        "translit": "a chto búdete pit'?",
+        "fr": "Et comme boisson ?"
+      },
+      {
+        "s": 0,
+        "ar": "Стака́н воды́, пожа́луйста.",
+        "translit": "stakán vodý, pozháluysta.",
+        "fr": "Un verre d'eau, s'il vous plaît."
+      }
+    ]
+  },
+  {
+    "id": "ru-d10",
+    "level": 1,
+    "situation": "Dans un magasin",
+    "title": "Acheter une veste",
+    "speakers": [
+      "Ioulia",
+      "Oleg"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Здра́вствуйте! Вам помо́чь?",
+        "translit": "zdrávstvuyte! vam pomóch'?",
+        "fr": "Bonjour ! Je peux vous aider ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, я ищу́ ку́ртку.",
+        "translit": "da, ya ishchú kúrtku.",
+        "fr": "Oui, je cherche une veste."
+      },
+      {
+        "s": 1,
+        "ar": "Како́й у вас разме́р?",
+        "translit": "kakóy u vas razmér?",
+        "fr": "Quelle taille faites-vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "Со́рок четы́ре.",
+        "translit": "sórok chetýre.",
+        "fr": "Du quarante-quatre."
+      },
+      {
+        "s": 1,
+        "ar": "Вот э́та, си́няя. Хоти́те приме́рить?",
+        "translit": "vot éta, sínyaya. khotíte primérit'?",
+        "fr": "Celle-ci, la bleue. Vous voulez l'essayer ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, спаси́бо. Где приме́рочная?",
+        "translit": "da, spasíbo. gde primérochnaya?",
+        "fr": "Oui, merci. Où est la cabine d'essayage ?"
+      },
+      {
+        "s": 1,
+        "ar": "Там, сле́ва.",
+        "translit": "tam, sléva.",
+        "fr": "Là-bas, à gauche."
+      }
+    ]
+  },
+  {
+    "id": "ru-d11",
+    "level": 1,
+    "situation": "Transports",
+    "title": "Le bon bus",
+    "speakers": [
+      "Sergueï",
+      "Natacha"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Скажи́те, пожа́луйста, э́тот авто́бус идёт в центр?",
+        "translit": "skazhíte, pozháluysta, étot avtóbus idyót v tsentr?",
+        "fr": "Dites-moi, s'il vous plaît, ce bus va au centre-ville ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, вам ну́жен со́рок второ́й.",
+        "translit": "net, vam núzhen sórok vtoróy.",
+        "fr": "Non, il vous faut le quarante-deux."
+      },
+      {
+        "s": 0,
+        "ar": "А где остано́вка?",
+        "translit": "a gde ostanóvka?",
+        "fr": "Et où est l'arrêt ?"
+      },
+      {
+        "s": 1,
+        "ar": "Вон там, напро́тив апте́ки.",
+        "translit": "von tam, naprótiv aptéki.",
+        "fr": "Là-bas, en face de la pharmacie."
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо большо́е!",
+        "translit": "spasíbo bol'shóye!",
+        "fr": "Merci beaucoup !"
+      },
+      {
+        "s": 1,
+        "ar": "Пожа́луйста.",
+        "translit": "pozháluysta.",
+        "fr": "Je vous en prie."
+      }
+    ]
+  },
+  {
+    "id": "ru-d12",
+    "level": 1,
+    "situation": "Chez des amis",
+    "title": "Bienvenue chez moi",
+    "speakers": [
+      "Elena",
+      "Dmitri"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Приве́т, Ди́ма! Проходи́, раздева́йся.",
+        "translit": "privét, Díma! prokhodí, razdeváysya.",
+        "fr": "Salut, Dima ! Entre, enlève ton manteau."
+      },
+      {
+        "s": 1,
+        "ar": "Приве́т! Э́то тебе́ — цветы́ и торт.",
+        "translit": "privét! éto tebé — tsvetý i tort.",
+        "fr": "Salut ! C'est pour toi : des fleurs et un gâteau."
+      },
+      {
+        "s": 0,
+        "ar": "Ой, спаси́бо! Не на́до бы́ло.",
+        "translit": "oy, spasíbo! ne nádo býlo.",
+        "fr": "Oh, merci ! Il ne fallait pas."
+      },
+      {
+        "s": 1,
+        "ar": "Как у тебя́ ую́тно!",
+        "translit": "kak u tebyá uyútno!",
+        "fr": "C'est vraiment chaleureux chez toi !"
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо! Сади́сь. Хо́чешь ча́ю?",
+        "translit": "spasíbo! sadís'. khóchesh' cháyu?",
+        "fr": "Merci ! Assieds-toi. Tu veux du thé ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, с удово́льствием.",
+        "translit": "da, s udovól'stviyem.",
+        "fr": "Oui, avec plaisir."
+      }
+    ]
+  },
+  {
+    "id": "ru-d13",
+    "level": 1,
+    "situation": "Au travail",
+    "title": "La réunion",
+    "speakers": [
+      "Mikhaïl",
+      "Irina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "До́брое у́тро, Ири́на Петро́вна!",
+        "translit": "dóbroye útro, Irína Petróvna!",
+        "fr": "Bonjour, Irina Petrovna !"
+      },
+      {
+        "s": 1,
+        "ar": "До́брое у́тро, Михаи́л! Собра́ние в де́сять часо́в.",
+        "translit": "dóbroye útro, Mikhaíl! sobrániye v désyat' chasóv.",
+        "fr": "Bonjour, Mikhaïl ! La réunion est à dix heures."
+      },
+      {
+        "s": 0,
+        "ar": "Где? В большо́м за́ле?",
+        "translit": "gde? v bol'shóm zále?",
+        "fr": "Où ? Dans la grande salle ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, в моём кабине́те.",
+        "translit": "net, v moyóm kabinéte.",
+        "fr": "Non, dans mon bureau."
+      },
+      {
+        "s": 0,
+        "ar": "Хорошо́. Мне взять докуме́нты?",
+        "translit": "khoroshó. mne vzyat' dokuménty?",
+        "fr": "D'accord. Je dois apporter les documents ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, пожа́луйста. Спаси́бо!",
+        "translit": "da, pozháluysta. spasíbo!",
+        "fr": "Oui, s'il vous plaît. Merci !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d14",
+    "level": 1,
+    "situation": "Les loisirs",
+    "title": "Ton temps libre",
+    "speakers": [
+      "Alexeï",
+      "Olga"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "О́ля, что ты лю́бишь де́лать в свобо́дное вре́мя?",
+        "translit": "Ólya, chto ty lyúbish' délat' v svobódnoye vrémya?",
+        "fr": "Olia, qu'est-ce que tu aimes faire pendant ton temps libre ?"
+      },
+      {
+        "s": 1,
+        "ar": "Я люблю́ чита́ть и рисова́ть. А ты?",
+        "translit": "ya lyublyú chitát' i risovát'. a ty?",
+        "fr": "J'aime lire et dessiner. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "А я игра́ю в футбо́л.",
+        "translit": "a ya igráyu v futból.",
+        "fr": "Moi, je joue au foot."
+      },
+      {
+        "s": 1,
+        "ar": "Пра́вда? Ка́ждый день?",
+        "translit": "právda? kázhdyy den'?",
+        "fr": "C'est vrai ? Tous les jours ?"
+      },
+      {
+        "s": 0,
+        "ar": "Нет, по суббо́там.",
+        "translit": "net, po subbótam.",
+        "fr": "Non, le samedi."
+      },
+      {
+        "s": 1,
+        "ar": "Здо́рово!",
+        "translit": "zdórovo!",
+        "fr": "Super !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d15",
+    "level": 1,
+    "situation": "Chez le médecin",
+    "title": "Mal à la gorge",
+    "speakers": [
+      "Andreï",
+      "Tatiana"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Здра́вствуйте! На что жа́луетесь?",
+        "translit": "zdrávstvuyte! na chto zháluyetes'?",
+        "fr": "Bonjour ! Qu'est-ce qui ne va pas ?"
+      },
+      {
+        "s": 0,
+        "ar": "У меня́ боли́т го́рло.",
+        "translit": "u menyá bolít górlo.",
+        "fr": "J'ai mal à la gorge."
+      },
+      {
+        "s": 1,
+        "ar": "Температу́ра есть?",
+        "translit": "temperatúra yest'?",
+        "fr": "Vous avez de la fièvre ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, три́дцать во́семь.",
+        "translit": "da, trídtsat' vósem'.",
+        "fr": "Oui, trente-huit."
+      },
+      {
+        "s": 1,
+        "ar": "Откро́йте рот, пожа́луйста... Э́то просту́да.",
+        "translit": "otkróyte rot, pozháluysta... éto prostúda.",
+        "fr": "Ouvrez la bouche, s'il vous plaît... C'est un rhume."
+      },
+      {
+        "s": 0,
+        "ar": "Что мне де́лать?",
+        "translit": "chto mne délat'?",
+        "fr": "Qu'est-ce que je dois faire ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пе́йте чай с мёдом и отдыха́йте.",
+        "translit": "péyte chay s myódom i otdykháyte.",
+        "fr": "Buvez du thé au miel et reposez-vous."
+      }
+    ]
+  },
+  {
+    "id": "ru-d16",
+    "level": 1,
+    "situation": "À l'hôtel",
+    "title": "J'ai une réservation",
+    "speakers": [
+      "Boris",
+      "Svetlana"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "До́брый день! Чем могу́ помо́чь?",
+        "translit": "dóbryy den'! chem mogú pomóch'?",
+        "fr": "Bonjour ! Que puis-je faire pour vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте! Я заброни́ровал но́мер. Моя́ фами́лия Петро́в.",
+        "translit": "zdrávstvuyte! ya zabroníroval nómer. moyá famíliya Petróv.",
+        "fr": "Bonjour ! J'ai réservé une chambre. Mon nom est Petrov."
+      },
+      {
+        "s": 1,
+        "ar": "Да, вот. Но́мер на три но́чи?",
+        "translit": "da, vot. nómer na tri nóchi?",
+        "fr": "Oui, je vois. Une chambre pour trois nuits ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, пра́вильно.",
+        "translit": "da, právil'no.",
+        "fr": "Oui, c'est ça."
+      },
+      {
+        "s": 1,
+        "ar": "Ваш па́спорт, пожа́луйста.",
+        "translit": "vash pásport, pozháluysta.",
+        "fr": "Votre passeport, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "Вот, пожа́луйста. Во ско́лько за́втрак?",
+        "translit": "vot, pozháluysta. vo skól'ko závtrak?",
+        "fr": "Voici. Le petit-déjeuner est à quelle heure ?"
+      },
+      {
+        "s": 1,
+        "ar": "С семи́ до десяти́. Ваш но́мер — три́ста пять.",
+        "translit": "s semí do desyatí. vash nómer — trísta pyat'.",
+        "fr": "De sept heures à dix heures. Votre chambre, c'est la trois cent cinq."
+      }
+    ]
+  },
+  {
+    "id": "ru-d17",
+    "level": 2,
+    "situation": "À l'aéroport",
+    "title": "L'enregistrement",
+    "speakers": [
+      "Olga",
+      "Nikolaï"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "До́брый день! Ваш па́спорт и биле́т, пожа́луйста.",
+        "translit": "dóbryy den'! vash pásport i bilét, pozháluysta.",
+        "fr": "Bonjour ! Votre passeport et votre billet, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "Вот, пожа́луйста. Я лечу́ в Новосиби́рск.",
+        "translit": "vot, pozháluysta. ya lechú v Novosibírsk.",
+        "fr": "Voici. Je pars pour Novossibirsk."
+      },
+      {
+        "s": 1,
+        "ar": "У вас есть бага́ж?",
+        "translit": "u vas yest' bagázh?",
+        "fr": "Vous avez des bagages ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, оди́н чемода́н. Мо́жно ме́сто у окна́?",
+        "translit": "da, odín chemodán. mózhno mésto u okná?",
+        "fr": "Oui, une valise. Est-ce que je peux avoir une place côté hublot ?"
+      },
+      {
+        "s": 1,
+        "ar": "Коне́чно. Поса́дка начнётся в два́дцать два со́рок, вы́ход но́мер пять.",
+        "translit": "konéshno. posádka nachnyótsya v dvádtsat' dva sórok, výkhod nómer pyat'.",
+        "fr": "Bien sûr. L'embarquement commence à vingt-deux heures quarante, porte numéro cinq."
+      },
+      {
+        "s": 0,
+        "ar": "А самолёт не заде́рживается?",
+        "translit": "a samolyót ne zadérzhivayetsya?",
+        "fr": "Et l'avion n'est pas en retard ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, всё по расписа́нию. Прия́тного полёта!",
+        "translit": "net, vsyo po raspisániyu. priyátnovo polyóta!",
+        "fr": "Non, tout est à l'heure. Bon vol !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d18",
+    "level": 2,
+    "situation": "Faire des projets",
+    "title": "Ce week-end",
+    "speakers": [
+      "Ivan",
+      "Maria"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ма́ша, каки́е у тебя́ пла́ны на выходны́е?",
+        "translit": "Másha, kakíye u tebyá plány na vykhodnýye?",
+        "fr": "Macha, qu'est-ce que tu fais ce week-end ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ещё не зна́ю. Мо́жет быть, пое́ду на да́чу к роди́телям. А что?",
+        "translit": "yeshchó ne znáyu. mózhet byt', poyédu na dáchu k rodítelyam. a chto?",
+        "fr": "Je ne sais pas encore. J'irai peut-être à la datcha chez mes parents. Pourquoi ?"
+      },
+      {
+        "s": 0,
+        "ar": "Мы с друзья́ми хоти́м пойти́ в похо́д в суббо́ту. Пойдёшь с на́ми?",
+        "translit": "my s druz'yámi khotím poytí v pokhód v subbótu. poydyósh' s námi?",
+        "fr": "Avec des amis, on veut faire une randonnée samedi. Tu viens avec nous ?"
+      },
+      {
+        "s": 1,
+        "ar": "Здо́рово! А куда́ и́менно?",
+        "translit": "zdórovo! a kudá ímenno?",
+        "fr": "Génial ! Et où exactement ?"
+      },
+      {
+        "s": 0,
+        "ar": "В лес за го́родом. Вернёмся в воскресе́нье ве́чером.",
+        "translit": "v les za górodom. vernyómsya v voskresén'ye vécherom.",
+        "fr": "Dans une forêt en dehors de la ville. On rentre dimanche soir."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́, я с ва́ми! Что мне взять?",
+        "translit": "khoroshó, ya s vámi! chto mne vzyat'?",
+        "fr": "D'accord, je viens ! Qu'est-ce que je dois prendre ?"
+      },
+      {
+        "s": 0,
+        "ar": "Удо́бную о́бувь, тёплую ку́ртку и хоро́шее настрое́ние!",
+        "translit": "udóbnuyu óbuv', tyópluyu kúrtku i khorósheye nastroyéniye!",
+        "fr": "Des chaussures confortables, une veste chaude et de la bonne humeur !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d19",
+    "level": 2,
+    "situation": "Au restaurant",
+    "title": "L'addition, s'il vous plaît",
+    "speakers": [
+      "Pavel",
+      "Natacha"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Де́вушка, мо́жно счёт, пожа́луйста?",
+        "translit": "dévushka, mózhno schot, pozháluysta?",
+        "fr": "Mademoiselle, l'addition, s'il vous plaît !"
+      },
+      {
+        "s": 1,
+        "ar": "Коне́чно. Вам всё понра́вилось?",
+        "translit": "konéshno. vam vsyo ponrávilos'?",
+        "fr": "Bien sûr. Tout vous a plu ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, всё бы́ло о́чень вку́сно, осо́бенно пельме́ни.",
+        "translit": "da, vsyo býlo óchen' vkúsno, osóbenno pel'méni.",
+        "fr": "Oui, tout était délicieux, surtout les pelmeni."
+      },
+      {
+        "s": 1,
+        "ar": "Спаси́бо! Вы бу́дете плати́ть ка́ртой и́ли нали́чными?",
+        "translit": "spasíbo! vy búdete platít' kártoy íli nalíchnymi?",
+        "fr": "Merci ! Vous payez par carte ou en espèces ?"
+      },
+      {
+        "s": 0,
+        "ar": "Ка́ртой. И заверни́те мне, пожа́луйста, пиро́г с собо́й.",
+        "translit": "kártoy. i zaverníte mne, pozháluysta, piróg s sobóy.",
+        "fr": "Par carte. Et emballez-moi la tarte à emporter, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́, сейча́с принесу́.",
+        "translit": "khoroshó, seychás prinesú.",
+        "fr": "Très bien, je vous apporte ça tout de suite."
+      }
+    ]
+  },
+  {
+    "id": "ru-d20",
+    "level": 2,
+    "situation": "Transports",
+    "title": "Au guichet de la gare",
+    "speakers": [
+      "Alexeï",
+      "Svetlana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте! Мне ну́жен биле́т до Каза́ни на за́втра.",
+        "translit": "zdrávstvuyte! mne núzhen bilét do Kazáni na závtra.",
+        "fr": "Bonjour ! Il me faut un billet pour Kazan, pour demain."
+      },
+      {
+        "s": 1,
+        "ar": "На у́тро и́ли на ве́чер?",
+        "translit": "na útro íli na vécher?",
+        "fr": "Le matin ou le soir ?"
+      },
+      {
+        "s": 0,
+        "ar": "Лу́чше на ве́чер. Ско́лько сто́ит купе́?",
+        "translit": "lúchshe na vécher. skól'ko stóit kupé?",
+        "fr": "Plutôt le soir. Combien coûte une place en compartiment ?"
+      },
+      {
+        "s": 1,
+        "ar": "Четы́ре ты́сячи рубле́й. Есть ещё плацка́рт — две ты́сячи.",
+        "translit": "chetýre týsyachi rubléy. yest' yeshchó platskárt — dve týsyachi.",
+        "fr": "Quatre mille roubles. Il y a aussi le wagon ouvert : deux mille."
+      },
+      {
+        "s": 0,
+        "ar": "Тогда́ купе́, пожа́луйста. Ни́жнее ме́сто, е́сли мо́жно.",
+        "translit": "togdá kupé, pozháluysta. nízhneye mésto, yésli mózhno.",
+        "fr": "Alors un compartiment, s'il vous plaît. Une couchette du bas, si possible."
+      },
+      {
+        "s": 1,
+        "ar": "Хорошо́. По́езд отправля́ется в девятна́дцать три́дцать с пе́рвого пути́.",
+        "translit": "khoroshó. póyezd otpravlyáyetsya v devyatnádtsat' trídtsat' s pérvovo putí.",
+        "fr": "D'accord. Le train part à dix-neuf heures trente, voie numéro un."
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо! А ско́лько е́хать?",
+        "translit": "spasíbo! a skól'ko yékhat'?",
+        "fr": "Merci ! Et le trajet dure combien de temps ?"
+      },
+      {
+        "s": 1,
+        "ar": "Приме́рно двена́дцать часо́в.",
+        "translit": "primérno dvenádtsat' chasóv.",
+        "fr": "Environ douze heures."
+      }
+    ]
+  },
+  {
+    "id": "ru-d21",
+    "level": 2,
+    "situation": "Demander son chemin",
+    "title": "Dans la mauvaise direction",
+    "speakers": [
+      "Sergueï",
+      "Ioulia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Прости́те, вы не подска́жете, как дойти́ до Третьяко́вской галере́и?",
+        "translit": "prostíte, vy ne podskázhete, kak doytí do Tret'yakóvskoy galeréi?",
+        "fr": "Pardon, pourriez-vous m'indiquer comment aller à la galerie Tretiakov ?"
+      },
+      {
+        "s": 1,
+        "ar": "Вы идёте не в ту сто́рону. Верни́тесь к мосту́ и перейди́те че́рез ре́ку.",
+        "translit": "vy idyóte ne v tu stóronu. vernítes' k mostú i pereydíte chérez réku.",
+        "fr": "Vous allez dans la mauvaise direction. Revenez jusqu'au pont et traversez la rivière."
+      },
+      {
+        "s": 0,
+        "ar": "А пото́м?",
+        "translit": "a potóm?",
+        "fr": "Et ensuite ?"
+      },
+      {
+        "s": 1,
+        "ar": "Пото́м иди́те пря́мо мину́т де́сять. Галере́я бу́дет спра́ва.",
+        "translit": "potóm idíte pryámo minút désyat'. galeréya búdet správa.",
+        "fr": "Ensuite, allez tout droit pendant une dizaine de minutes. La galerie sera sur votre droite."
+      },
+      {
+        "s": 0,
+        "ar": "Мо́жет, лу́чше дое́хать на метро́?",
+        "translit": "mózhet, lúchshe doyékhat' na metró?",
+        "fr": "C'est peut-être mieux d'y aller en métro ?"
+      },
+      {
+        "s": 1,
+        "ar": "Мо́жно, но пешко́м быстре́е. И заодно́ погу́ляете!",
+        "translit": "mózhno, no peshkóm bystréye. i zaodnó pogúlyayete!",
+        "fr": "C'est possible, mais à pied c'est plus rapide. Et vous en profiterez pour vous promener !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d22",
+    "level": 2,
+    "situation": "Au téléphone",
+    "title": "Prendre rendez-vous",
+    "speakers": [
+      "Andreï",
+      "Maria"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Поликли́ника, слу́шаю вас.",
+        "translit": "poliklínika, slúshayu vas.",
+        "fr": "Centre médical, je vous écoute."
+      },
+      {
+        "s": 0,
+        "ar": "До́брый день. Я хоте́л бы записа́ться к зубно́му врачу́.",
+        "translit": "dóbryy den'. ya khotél by zapisát'sya k zubnómu vrachú.",
+        "fr": "Bonjour. Je voudrais prendre rendez-vous chez le dentiste."
+      },
+      {
+        "s": 1,
+        "ar": "Ва́ша фами́лия?",
+        "translit": "vásha famíliya?",
+        "fr": "Votre nom ?"
+      },
+      {
+        "s": 0,
+        "ar": "Смирно́в, Андре́й Смирно́в.",
+        "translit": "Smirnóv, Andréy Smirnóv.",
+        "fr": "Smirnov, Andreï Smirnov."
+      },
+      {
+        "s": 1,
+        "ar": "Есть вре́мя в четве́рг в оди́ннадцать утра́. Вам удо́бно?",
+        "translit": "yest' vrémya v chetvérg v odínnadtsat' utrá. vam udóbno?",
+        "fr": "Il y a un créneau jeudi à onze heures du matin. Ça vous convient ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, вполне́. А что ну́жно взять с собо́й?",
+        "translit": "da, vpolné. a chto núzhno vzyat' s sobóy?",
+        "fr": "Oui, tout à fait. Et qu'est-ce qu'il faut apporter ?"
+      },
+      {
+        "s": 1,
+        "ar": "То́лько па́спорт и по́лис.",
+        "translit": "tól'ko pásport i pólis.",
+        "fr": "Seulement votre passeport et votre carte d'assurance maladie."
+      },
+      {
+        "s": 0,
+        "ar": "Поня́тно. Спаси́бо, до свида́ния!",
+        "translit": "ponyátno. spasíbo, do svidániya!",
+        "fr": "Entendu. Merci, au revoir !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d23",
+    "level": 2,
+    "situation": "Se présenter",
+    "title": "La nouvelle voisine",
+    "speakers": [
+      "Mikhaïl",
+      "Elena"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ты но́вая сосе́дка? Я Ми́ша, живу́ на тре́тьем этаже́.",
+        "translit": "ty nóvaya sosédka? ya Mísha, zhivú na trét'yem etazhé.",
+        "fr": "Tu es la nouvelle voisine ? Moi, c'est Micha, j'habite au troisième étage."
+      },
+      {
+        "s": 1,
+        "ar": "Да, я Ле́на. Я перее́хала на про́шлой неде́ле.",
+        "translit": "da, ya Léna. ya pereyékhala na próshloy nedéle.",
+        "fr": "Oui, moi c'est Lena. J'ai emménagé la semaine dernière."
+      },
+      {
+        "s": 0,
+        "ar": "Добро́ пожа́ловать! А отку́да ты перее́хала?",
+        "translit": "dobró pozhálovat'! a otkúda ty pereyékhala?",
+        "fr": "Bienvenue ! Et tu viens d'où ?"
+      },
+      {
+        "s": 1,
+        "ar": "Из Екатеринбу́рга. Я нашла́ здесь рабо́ту — я архите́ктор.",
+        "translit": "iz Yekaterinbúrga. ya nashlá zdes' rabótu — ya arkhitéktor.",
+        "fr": "D'Iekaterinbourg. J'ai trouvé du travail ici : je suis architecte."
+      },
+      {
+        "s": 0,
+        "ar": "Здо́рово! А я программи́ст, рабо́таю до́ма. Е́сли что́-то ну́жно — заходи́!",
+        "translit": "zdórovo! a ya programmíst, rabótayu dóma. yésli chtó-to núzhno — zakhodí!",
+        "fr": "Super ! Moi, je suis programmeur, je travaille à la maison. Si tu as besoin de quoi que ce soit, passe me voir !"
+      },
+      {
+        "s": 1,
+        "ar": "Спаси́бо, о́чень ми́ло!",
+        "translit": "spasíbo, óchen' mílo!",
+        "fr": "Merci, c'est très gentil !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d24",
+    "level": 2,
+    "situation": "Dans un magasin",
+    "title": "Échanger des chaussures",
+    "speakers": [
+      "Natacha",
+      "Boris"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Здра́вствуйте! Я купи́ла у вас э́ти боти́нки вчера́, но они́ мне малы́.",
+        "translit": "zdrávstvuyte! ya kupíla u vas éti botínki vcherá, no oní mne malý.",
+        "fr": "Bonjour ! J'ai acheté ces chaussures chez vous hier, mais elles sont trop petites."
+      },
+      {
+        "s": 1,
+        "ar": "Чек у вас сохрани́лся?",
+        "translit": "chek u vas sokhranílsya?",
+        "fr": "Vous avez gardé le ticket ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, вот он.",
+        "translit": "da, vot on.",
+        "fr": "Oui, le voici."
+      },
+      {
+        "s": 1,
+        "ar": "Хоти́те поменя́ть на друго́й разме́р и́ли верну́ть де́ньги?",
+        "translit": "khotíte pomenyát' na drugóy razmér íli vernút' dén'gi?",
+        "fr": "Vous voulez les échanger contre une autre pointure ou être remboursée ?"
+      },
+      {
+        "s": 0,
+        "ar": "Лу́чше поменя́ть. Есть три́дцать восьмо́й?",
+        "translit": "lúchshe pomenyát'. yest' trídtsat' vos'móy?",
+        "fr": "Plutôt les échanger. Vous avez du trente-huit ?"
+      },
+      {
+        "s": 1,
+        "ar": "Сейча́с посмотрю́... Да, есть. Приме́рьте, пожа́луйста.",
+        "translit": "seychás posmotryú... da, yest'. primér'te, pozháluysta.",
+        "fr": "Je regarde... Oui, nous l'avons. Essayez-les, je vous prie."
+      },
+      {
+        "s": 0,
+        "ar": "Вот э́ти как раз. Спаси́бо!",
+        "translit": "vot éti kak raz. spasíbo!",
+        "fr": "Celles-ci me vont parfaitement. Merci !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d25",
+    "level": 2,
+    "situation": "La famille",
+    "title": "La photo de famille",
+    "speakers": [
+      "Oleg",
+      "Ioulia"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "Что э́то за фотогра́фия?",
+        "translit": "chto éto za fotográfiya?",
+        "fr": "C'est quoi, cette photo ?"
+      },
+      {
+        "s": 0,
+        "ar": "Э́то моя́ семья́ на да́че про́шлым ле́том.",
+        "translit": "éto moyá sem'yá na dáche próshlym létom.",
+        "fr": "C'est ma famille à la datcha, l'été dernier."
+      },
+      {
+        "s": 1,
+        "ar": "А кто э́тот мужчи́на с бородо́й?",
+        "translit": "a kto étot muzhchína s borodóy?",
+        "fr": "Et qui est cet homme avec la barbe ?"
+      },
+      {
+        "s": 0,
+        "ar": "Мой дя́дя Ко́ля, ма́мин брат. Он рыба́к и всегда́ всех смеши́т.",
+        "translit": "moy dyádya Kólya, mámin brat. on rybák i vsegdá vsekh smeshít.",
+        "fr": "Mon oncle Kolia, le frère de ma mère. Il est pêcheur et il fait toujours rire tout le monde."
+      },
+      {
+        "s": 1,
+        "ar": "А э́та де́вочка — твоя́ племя́нница?",
+        "translit": "a éta dévochka — tvoyá plemyánnitsa?",
+        "fr": "Et cette petite fille, c'est ta nièce ?"
+      },
+      {
+        "s": 0,
+        "ar": "Да, Со́ня. Ей уже́ семь лет, в сентябре́ она́ пойдёт в шко́лу.",
+        "translit": "da, Sónya. yey uzhé sem' let, v sentyabré oná poydyót v shkólu.",
+        "fr": "Oui, Sonia. Elle a déjà sept ans, elle entre à l'école en septembre."
+      }
+    ]
+  },
+  {
+    "id": "ru-d26",
+    "level": 2,
+    "situation": "Au travail",
+    "title": "L'imprimante en panne",
+    "speakers": [
+      "Dmitri",
+      "Svetlana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Све́та, ты не зна́ешь, почему́ не рабо́тает при́нтер?",
+        "translit": "Svéta, ty ne znáyesh', pochemú ne rabótayet prínter?",
+        "fr": "Sveta, tu sais pourquoi l'imprimante ne marche pas ?"
+      },
+      {
+        "s": 1,
+        "ar": "Ка́жется, кончи́лась бума́га. Я сейча́с принесу́.",
+        "translit": "kázhetsya, konchílas' bumága. ya seychás prinesú.",
+        "fr": "Je crois qu'il n'y a plus de papier. Je vais en chercher."
+      },
+      {
+        "s": 0,
+        "ar": "Спаси́бо! Мне ну́жно распеча́тать отчёт до обе́да.",
+        "translit": "spasíbo! mne núzhno raspechátat' otchót do obéda.",
+        "fr": "Merci ! Je dois imprimer le rapport avant le déjeuner."
+      },
+      {
+        "s": 1,
+        "ar": "Ты уже́ его́ зако́нчил? Молоде́ц!",
+        "translit": "ty uzhé yevó zakónchil? molodéts!",
+        "fr": "Tu l'as déjà fini ? Bravo !"
+      },
+      {
+        "s": 0,
+        "ar": "Почти́. Оста́лось прове́рить ци́фры.",
+        "translit": "pochtí. ostálos' provérit' tsífry.",
+        "fr": "Presque. Il reste à vérifier les chiffres."
+      },
+      {
+        "s": 1,
+        "ar": "Е́сли хо́чешь, я могу́ помо́чь по́сле обе́да.",
+        "translit": "yésli khóchesh', ya mogú pomóch' pósle obéda.",
+        "fr": "Si tu veux, je peux t'aider après le déjeuner."
+      },
+      {
+        "s": 0,
+        "ar": "Бы́ло бы здо́рово, спаси́бо!",
+        "translit": "býlo by zdórovo, spasíbo!",
+        "fr": "Ce serait génial, merci !"
+      }
+    ]
+  },
+  {
+    "id": "ru-d27",
+    "level": 2,
+    "situation": "La météo",
+    "title": "Le pique-nique et la pluie",
+    "speakers": [
+      "Anna",
+      "Pavel"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ты ви́дел прогно́з пого́ды на за́втра?",
+        "translit": "ty vídel prognóz pogódy na závtra?",
+        "fr": "Tu as vu la météo pour demain ?"
+      },
+      {
+        "s": 1,
+        "ar": "Да, обеща́ют дождь и си́льный ве́тер.",
+        "translit": "da, obeshcháyut dozhd' i síl'nyy véter.",
+        "fr": "Oui, ils annoncent de la pluie et un vent fort."
+      },
+      {
+        "s": 0,
+        "ar": "Жаль! Я хоте́ла устро́ить пикни́к в па́рке.",
+        "translit": "zhal'! ya khotéla ustróit' pikník v párke.",
+        "fr": "Dommage ! Je voulais faire un pique-nique au parc."
+      },
+      {
+        "s": 1,
+        "ar": "Мо́жет, перенесём на воскресе́нье? Говоря́т, бу́дет со́лнечно и тепло́.",
+        "translit": "mózhet, perenesyóm na voskresén'ye? govoryát, búdet sólnechno i tepló.",
+        "fr": "Et si on le repoussait à dimanche ? Il paraît qu'il fera beau et chaud."
+      },
+      {
+        "s": 0,
+        "ar": "Хоро́шая иде́я! Тогда́ я всех предупрежу́.",
+        "translit": "khoróshaya idéya! togdá ya vsekh preduprezhú.",
+        "fr": "Bonne idée ! Alors je préviens tout le monde."
+      },
+      {
+        "s": 1,
+        "ar": "А я возьму́ мяч и гита́ру.",
+        "translit": "a ya voz'mú myach i gitáru.",
+        "fr": "Et moi, j'apporte un ballon et la guitare."
+      }
+    ]
+  },
+  {
+    "id": "ru-d28",
+    "level": 2,
+    "situation": "Les loisirs",
+    "title": "Une soirée au Bolchoï",
+    "speakers": [
+      "Tatiana",
+      "Nikolaï"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "Ко́ля, ты уже́ был в Большо́м теа́тре?",
+        "translit": "Kólya, ty uzhé byl v Bol'shóm teátre?",
+        "fr": "Kolia, tu es déjà allé au Bolchoï ?"
+      },
+      {
+        "s": 1,
+        "ar": "Нет, ни ра́зу. Говоря́т, биле́ты о́чень дороги́е.",
+        "translit": "net, ni rázu. govoryát, biléty óchen' dorogíye.",
+        "fr": "Non, jamais. Il paraît que les billets sont très chers."
+      },
+      {
+        "s": 0,
+        "ar": "Да, но мне подари́ли два биле́та на «Лебеди́ное о́зеро». Пойдёшь со мной?",
+        "translit": "da, no mne podaríli dva biléta na «Lebedínoye ózero». poydyósh' so mnoy?",
+        "fr": "Oui, mais on m'a offert deux billets pour « Le Lac des cygnes ». Tu viens avec moi ?"
+      },
+      {
+        "s": 1,
+        "ar": "Коне́чно! А когда́ спекта́кль?",
+        "translit": "konéshno! a kogdá spektákl'?",
+        "fr": "Bien sûr ! Et c'est quand, le spectacle ?"
+      },
+      {
+        "s": 0,
+        "ar": "В пя́тницу в семь ве́чера. Встре́тимся у вхо́да в полседьмо́го?",
+        "translit": "v pyátnitsu v sem' véchera. vstrétimsya u vkhóda v polsed'móvo?",
+        "fr": "Vendredi à sept heures du soir. On se retrouve à l'entrée à six heures et demie ?"
+      },
+      {
+        "s": 1,
+        "ar": "Договори́лись! Я так рад, спаси́бо, что пригласи́ла!",
+        "translit": "dogovorílis'! ya tak rad, spasíbo, chto priglasíla!",
+        "fr": "Entendu ! Je suis tellement content, merci de m'avoir invité !"
+      },
+      {
+        "s": 0,
+        "ar": "Не́ за что. То́лько не опа́здывай!",
+        "translit": "né za chto. tól'ko ne opázdyvay!",
+        "fr": "De rien. Mais ne sois pas en retard !"
+      }
+    ]
+  }
+]

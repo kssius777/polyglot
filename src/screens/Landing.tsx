@@ -2,7 +2,7 @@ import { GameCard } from '../components/GameCard'
 import { FigureCard } from '../components/FigureCard'
 import { CARD_BY_ID, CARDS, RARITIES, THEMES, type Rarity } from '../game/cards'
 import { FIGURE_BY_ID, FIGURES } from '../game/figures'
-import { LANG, LANGS, switchLang, TEXT_ATTRS, type LangId } from '../game/lang'
+import { ACTIVE_LANGS, LANG, LANGS, switchLang, TEXT_ATTRS, type LangId } from '../game/lang'
 import { LangPicker } from '../components/LangPicker'
 
 interface Props {
@@ -76,7 +76,7 @@ export function Landing({ onStart, returning }: Props) {
             </a>
           </div>
           <div className="lhero-langs">
-            {(Object.keys(LANGS) as LangId[]).map((id) => (
+            {ACTIVE_LANGS.map((id) => (
               <button key={id} className={`chip ${id === LANG.id ? 'on' : ''}`} onClick={() => id !== LANG.id && switchLang(id)}>
                 {LANGS[id].flag} {LANGS[id].name}
               </button>

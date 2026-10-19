@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { LANG, LANGS, switchLang, TEXT_ATTRS, type LangId } from '../game/lang'
+import { ACTIVE_LANGS, LANG, LANGS, switchLang, TEXT_ATTRS, type LangId } from '../game/lang'
 import { CARDS } from '../game/cards'
 import { applyPlacement, START_BOOSTERS, type PlacementResult, type Save } from '../game/rules'
 import { GOALS } from '../game/storage'
@@ -114,7 +114,7 @@ export function Onboarding({ save, returning, onDone, onAccount, onLanding }: Pr
       {step === 'lang' && (
         <Ask text="Salut ! Quelle langue veux-tu apprendre ?">
           <div className="onb-grid">
-            {Object.values(LANGS).map((l) => (
+            {ACTIVE_LANGS.map((id) => LANGS[id]).map((l) => (
               <button key={l.id} className={`onb-option big ${l.id === LANG.id ? 'on' : ''}`} onClick={() => pickLang(l.id)}>
                 <span className="onb-flag">{l.flag}</span>
                 <b>{l.name}</b>

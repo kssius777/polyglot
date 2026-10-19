@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "ka-d01",
+    "level": 1,
+    "situation": "Salutations",
+    "title": "Bonjour, comment ça va ?",
+    "speakers": [
+      "Giorgi",
+      "Nino"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობა, ნინო!",
+        "translit": "gamarjoba, nino!",
+        "fr": "Salut, Nino !"
+      },
+      {
+        "s": 1,
+        "ar": "გაგიმარჯოს, გიორგი! როგორ ხარ?",
+        "translit": "gagimarjos, giorgi! rogor khar?",
+        "fr": "Salut, Giorgi ! Comment vas-tu ?"
+      },
+      {
+        "s": 0,
+        "ar": "კარგად, მადლობა. შენ?",
+        "translit": "k'argad, madloba. shen?",
+        "fr": "Bien, merci. Et toi ?"
+      },
+      {
+        "s": 1,
+        "ar": "მეც კარგად ვარ.",
+        "translit": "mets k'argad var.",
+        "fr": "Moi aussi, je vais bien."
+      },
+      {
+        "s": 0,
+        "ar": "ნახვამდის!",
+        "translit": "nakhvamdis!",
+        "fr": "Au revoir !"
+      },
+      {
+        "s": 1,
+        "ar": "კარგად იყავი!",
+        "translit": "k'argad iq'avi!",
+        "fr": "Prends soin de toi !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d02",
+    "level": 1,
+    "situation": "Se présenter",
+    "title": "Enchanté !",
+    "speakers": [
+      "Levan",
+      "Mariam"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ! მე ლევანი ვარ.",
+        "translit": "gamarjobat! me levani var.",
+        "fr": "Bonjour ! Je suis Levan."
+      },
+      {
+        "s": 1,
+        "ar": "სასიამოვნოა, ლევან. მე მქვია მარიამი.",
+        "translit": "sasiamovnoa, levan. me mkvia mariami.",
+        "fr": "Enchantée, Levan. Je m'appelle Mariam."
+      },
+      {
+        "s": 0,
+        "ar": "საიდან ხართ?",
+        "translit": "saidan khart?",
+        "fr": "D'où venez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "თბილისიდან ვარ. თქვენ?",
+        "translit": "tbilisidan var. tkven?",
+        "fr": "Je suis de Tbilissi. Et vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "მე საფრანგეთიდან ვარ.",
+        "translit": "me saprangetidan var.",
+        "fr": "Moi, je viens de France."
+      },
+      {
+        "s": 1,
+        "ar": "ძალიან სასიამოვნოა!",
+        "translit": "dzalian sasiamovnoa!",
+        "fr": "Ravie de vous rencontrer !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d03",
+    "level": 1,
+    "situation": "Au café",
+    "title": "Un café, s'il vous plaît",
+    "speakers": [
+      "Tamar",
+      "Dato"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "გამარჯობათ! რას ინებებთ?",
+        "translit": "gamarjobat! ras inebebt?",
+        "fr": "Bonjour ! Que désirez-vous ?"
+      },
+      {
+        "s": 0,
+        "ar": "ერთი ყავა, თუ შეიძლება.",
+        "translit": "erti q'ava, tu sheidzleba.",
+        "fr": "Un café, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "შაქრით?",
+        "translit": "shakrit?",
+        "fr": "Avec du sucre ?"
+      },
+      {
+        "s": 0,
+        "ar": "არა, შაქრის გარეშე.",
+        "translit": "ara, shakris gareshe.",
+        "fr": "Non, sans sucre."
+      },
+      {
+        "s": 1,
+        "ar": "კიდევ რამე?",
+        "translit": "k'idev rame?",
+        "fr": "Autre chose ?"
+      },
+      {
+        "s": 0,
+        "ar": "არა, მადლობა. რა ღირს?",
+        "translit": "ara, madloba. ra ghirs?",
+        "fr": "Non, merci. Ça fait combien ?"
+      },
+      {
+        "s": 1,
+        "ar": "ხუთი ლარი.",
+        "translit": "khuti lari.",
+        "fr": "Cinq laris."
+      }
+    ]
+  },
+  {
+    "id": "ka-d04",
+    "level": 1,
+    "situation": "Au marché",
+    "title": "Des pommes, s'il vous plaît",
+    "speakers": [
+      "Eka",
+      "Zurab"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ! ვაშლი რა ღირს?",
+        "translit": "gamarjobat! vashli ra ghirs?",
+        "fr": "Bonjour ! Combien coûtent les pommes ?"
+      },
+      {
+        "s": 1,
+        "ar": "კილო სამი ლარია.",
+        "translit": "k'ilo sami laria.",
+        "fr": "Trois laris le kilo."
+      },
+      {
+        "s": 0,
+        "ar": "ორი კილო მომეცით, თუ შეიძლება.",
+        "translit": "ori k'ilo mometsit, tu sheidzleba.",
+        "fr": "Donnez-m'en deux kilos, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "აი, ინებეთ. ექვსი ლარი.",
+        "translit": "ai, inebet. ekvsi lari.",
+        "fr": "Voilà, tenez. Six laris."
+      },
+      {
+        "s": 0,
+        "ar": "ინებეთ. დიდი მადლობა!",
+        "translit": "inebet. didi madloba!",
+        "fr": "Tenez. Merci beaucoup !"
+      },
+      {
+        "s": 1,
+        "ar": "არაფრის!",
+        "translit": "arapris!",
+        "fr": "De rien !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d05",
+    "level": 1,
+    "situation": "La famille",
+    "title": "Tu as des frères et sœurs ?",
+    "speakers": [
+      "Nika",
+      "Ana"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ანა, და-ძმა გყავს?",
+        "translit": "ana, da-dzma gq'avs?",
+        "fr": "Ana, tu as des frères et sœurs ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, ერთი ძმა მყავს.",
+        "translit": "k'i, erti dzma mq'avs.",
+        "fr": "Oui, j'ai un frère."
+      },
+      {
+        "s": 0,
+        "ar": "რა ჰქვია?",
+        "translit": "ra hkvia?",
+        "fr": "Comment s'appelle-t-il ?"
+      },
+      {
+        "s": 1,
+        "ar": "დათო ჰქვია. შენ?",
+        "translit": "dato hkvia. shen?",
+        "fr": "Il s'appelle Dato. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "მე ორი და მყავს.",
+        "translit": "me ori da mq'avs.",
+        "fr": "Moi, j'ai deux sœurs."
+      },
+      {
+        "s": 1,
+        "ar": "რა კარგია!",
+        "translit": "ra k'argia!",
+        "fr": "C'est chouette !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d06",
+    "level": 1,
+    "situation": "Demander son chemin",
+    "title": "Où est le métro ?",
+    "speakers": [
+      "Irakli",
+      "Ketevan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, მეტრო სად არის?",
+        "translit": "uk'atsravad, met'ro sad aris?",
+        "fr": "Excusez-moi, où est le métro ?"
+      },
+      {
+        "s": 1,
+        "ar": "პირდაპირ წადით, მერე მარჯვნივ.",
+        "translit": "p'irdap'ir ts'adit, mere marjvniv.",
+        "fr": "Allez tout droit, puis à droite."
+      },
+      {
+        "s": 0,
+        "ar": "შორს არის?",
+        "translit": "shors aris?",
+        "fr": "C'est loin ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა, ახლოსაა. ხუთი წუთი.",
+        "translit": "ara, akhlosaa. khuti ts'uti.",
+        "fr": "Non, c'est tout près. Cinq minutes."
+      },
+      {
+        "s": 0,
+        "ar": "დიდი მადლობა!",
+        "translit": "didi madloba!",
+        "fr": "Merci beaucoup !"
+      },
+      {
+        "s": 1,
+        "ar": "არაფრის.",
+        "translit": "arapris.",
+        "fr": "De rien."
+      }
+    ]
+  },
+  {
+    "id": "ka-d07",
+    "level": 1,
+    "situation": "Au restaurant",
+    "title": "Un khatchapouri, s'il vous plaît",
+    "speakers": [
+      "Giorgi",
+      "Salomé"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "მენიუ მომიტანეთ, თუ შეიძლება.",
+        "translit": "meniu momit'anet, tu sheidzleba.",
+        "fr": "Apportez-moi le menu, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "აი, ინებეთ.",
+        "translit": "ai, inebet.",
+        "fr": "Voici."
+      },
+      {
+        "s": 0,
+        "ar": "ხაჭაპური მინდა და ერთი ჭიქა წყალი.",
+        "translit": "khach'ap'uri minda da erti ch'ika ts'q'ali.",
+        "fr": "Je voudrais un khatchapouri et un verre d'eau."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი. სულ ესაა?",
+        "translit": "k'argi. sul esaa?",
+        "fr": "Très bien. Ce sera tout ?"
+      },
+      {
+        "s": 0,
+        "ar": "კი, მადლობა.",
+        "translit": "k'i, madloba.",
+        "fr": "Oui, merci."
+      },
+      {
+        "s": 1,
+        "ar": "ხაჭაპური ათ წუთში იქნება.",
+        "translit": "khach'ap'uri at ts'utshi ikneba.",
+        "fr": "Le khatchapouri sera prêt dans dix minutes."
+      }
+    ]
+  },
+  {
+    "id": "ka-d08",
+    "level": 1,
+    "situation": "La météo",
+    "title": "Il fait froid !",
+    "speakers": [
+      "Nino",
+      "Luka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "დღეს ძალიან ცივა!",
+        "translit": "dghes dzalian tsiva!",
+        "fr": "Il fait très froid aujourd'hui !"
+      },
+      {
+        "s": 1,
+        "ar": "კი, და ხვალ თოვლი მოვა.",
+        "translit": "k'i, da khval tovli mova.",
+        "fr": "Oui, et demain il va neiger."
+      },
+      {
+        "s": 0,
+        "ar": "მართლა? მე თოვლი მიყვარს.",
+        "translit": "martla? me tovli miq'vars.",
+        "fr": "Vraiment ? Moi, j'adore la neige."
+      },
+      {
+        "s": 1,
+        "ar": "მე არ მიყვარს. ზაფხული მირჩევნია.",
+        "translit": "me ar miq'vars. zapkhuli mirchevnia.",
+        "fr": "Moi, je n'aime pas ça. Je préfère l'été."
+      },
+      {
+        "s": 0,
+        "ar": "ზაფხულში კი ძალიან ცხელა!",
+        "translit": "zapkhulshi k'i dzalian tskhela!",
+        "fr": "Mais en été, il fait très chaud !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d09",
+    "level": 1,
+    "situation": "Au téléphone",
+    "title": "Allô, c'est Tamar",
+    "speakers": [
+      "Tamar",
+      "Levan"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "ალო, გისმენთ.",
+        "translit": "alo, gisment.",
+        "fr": "Allô, j'écoute."
+      },
+      {
+        "s": 0,
+        "ar": "გამარჯობა, ლევან! თამარი ვარ.",
+        "translit": "gamarjoba, levan! tamari var.",
+        "fr": "Salut, Levan ! C'est Tamar."
+      },
+      {
+        "s": 1,
+        "ar": "ოჰ, თამარ! როგორ ხარ?",
+        "translit": "oh, tamar! rogor khar?",
+        "fr": "Oh, Tamar ! Comment vas-tu ?"
+      },
+      {
+        "s": 0,
+        "ar": "კარგად. სად ხარ ახლა?",
+        "translit": "k'argad. sad khar akhla?",
+        "fr": "Bien. Tu es où, là ?"
+      },
+      {
+        "s": 1,
+        "ar": "სახლში ვარ.",
+        "translit": "sakhlshi var.",
+        "fr": "Je suis à la maison."
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, საღამოს დაგირეკავ.",
+        "translit": "k'argi, saghamos dagirek'av.",
+        "fr": "D'accord, je te rappelle ce soir."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, ნახვამდის!",
+        "translit": "k'argi, nakhvamdis!",
+        "fr": "D'accord, au revoir !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d10",
+    "level": 1,
+    "situation": "Dans un magasin",
+    "title": "Cette chemise",
+    "speakers": [
+      "Mariam",
+      "Dato"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, ეს პერანგი რა ღირს?",
+        "translit": "uk'atsravad, es p'erangi ra ghirs?",
+        "fr": "Excusez-moi, combien coûte cette chemise ?"
+      },
+      {
+        "s": 1,
+        "ar": "ორმოცი ლარი.",
+        "translit": "ormotsi lari.",
+        "fr": "Quarante laris."
+      },
+      {
+        "s": 0,
+        "ar": "სხვა ფერი გაქვთ?",
+        "translit": "skhva peri gakvt?",
+        "fr": "Vous l'avez dans une autre couleur ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, ლურჯი და თეთრი.",
+        "translit": "k'i, lurji da tetri.",
+        "fr": "Oui, en bleu et en blanc."
+      },
+      {
+        "s": 0,
+        "ar": "თეთრს ავიღებ.",
+        "translit": "tetrs avigheb.",
+        "fr": "Je prends la blanche."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი არჩევანია!",
+        "translit": "k'argi archevania!",
+        "fr": "Bon choix !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d11",
+    "level": 1,
+    "situation": "Transports",
+    "title": "Le bus pour le centre",
+    "speakers": [
+      "Ana",
+      "Zurab"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, ეს ავტობუსი ცენტრში მიდის?",
+        "translit": "uk'atsravad, es avt'obusi tsent'rshi midis?",
+        "fr": "Excusez-moi, ce bus va au centre ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა, ცენტრში ოცდაორი ნომერი მიდის.",
+        "translit": "ara, tsent'rshi otsdaori nomeri midis.",
+        "fr": "Non, pour le centre, c'est le vingt-deux."
+      },
+      {
+        "s": 0,
+        "ar": "გაჩერება სად არის?",
+        "translit": "gachereba sad aris?",
+        "fr": "Où est l'arrêt ?"
+      },
+      {
+        "s": 1,
+        "ar": "იქ, ქუჩის მეორე მხარეს.",
+        "translit": "ik, kuchis meore mkhares.",
+        "fr": "Là-bas, de l'autre côté de la rue."
+      },
+      {
+        "s": 0,
+        "ar": "მადლობა!",
+        "translit": "madloba!",
+        "fr": "Merci !"
+      },
+      {
+        "s": 1,
+        "ar": "არაფრის.",
+        "translit": "arapris.",
+        "fr": "De rien."
+      }
+    ]
+  },
+  {
+    "id": "ka-d12",
+    "level": 1,
+    "situation": "Chez des amis",
+    "title": "Entre, Eka !",
+    "speakers": [
+      "Nika",
+      "Eka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "შემოდი, ეკა!",
+        "translit": "shemodi, ek'a!",
+        "fr": "Entre, Eka !"
+      },
+      {
+        "s": 1,
+        "ar": "გამარჯობა, ნიკა! ეს შენთვისაა.",
+        "translit": "gamarjoba, nik'a! es shentvisaa.",
+        "fr": "Salut, Nika ! C'est pour toi."
+      },
+      {
+        "s": 0,
+        "ar": "რა ლამაზი ყვავილებია! მადლობა. დაჯექი, ჩაი გინდა?",
+        "translit": "ra lamazi q'vavilebia! madloba. dajeki, chai ginda?",
+        "fr": "Quelles belles fleurs ! Merci. Assieds-toi, tu veux du thé ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, სიამოვნებით.",
+        "translit": "k'i, siamovnebit.",
+        "fr": "Oui, avec plaisir."
+      },
+      {
+        "s": 0,
+        "ar": "ახლახან ხაჭაპური გამოვაცხვე.",
+        "translit": "akhlakhan khach'ap'uri gamovatskhve.",
+        "fr": "Je viens de faire un khatchapouri."
+      },
+      {
+        "s": 1,
+        "ar": "ვაჰ, რა სურნელია!",
+        "translit": "vah, ra surnelia!",
+        "fr": "Waouh, ça sent bon !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d13",
+    "level": 1,
+    "situation": "Au travail",
+    "title": "Tu travailles où ?",
+    "speakers": [
+      "Irakli",
+      "Nino"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "სად მუშაობ?",
+        "translit": "sad mushaob?",
+        "fr": "Où travailles-tu ?"
+      },
+      {
+        "s": 1,
+        "ar": "სკოლაში ვმუშაობ. მასწავლებელი ვარ.",
+        "translit": "sk'olashi vmushaob. masts'avlebeli var.",
+        "fr": "Je travaille dans une école. Je suis professeure."
+      },
+      {
+        "s": 0,
+        "ar": "რას ასწავლი?",
+        "translit": "ras asts'avli?",
+        "fr": "Qu'est-ce que tu enseignes ?"
+      },
+      {
+        "s": 1,
+        "ar": "ინგლისურს. შენ რას საქმიანობ?",
+        "translit": "inglisurs. shen ras sakmianob?",
+        "fr": "L'anglais. Et toi, tu fais quoi ?"
+      },
+      {
+        "s": 0,
+        "ar": "მე ექიმი ვარ, საავადმყოფოში ვმუშაობ.",
+        "translit": "me ekimi var, saavadmq'oposhi vmushaob.",
+        "fr": "Je suis médecin, je travaille à l'hôpital."
+      },
+      {
+        "s": 1,
+        "ar": "საინტერესოა!",
+        "translit": "saint'eresoa!",
+        "fr": "Intéressant !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d14",
+    "level": 1,
+    "situation": "Chez le médecin",
+    "title": "J'ai mal à la tête",
+    "speakers": [
+      "Davit",
+      "Salomé"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "რა გაწუხებთ?",
+        "translit": "ra gats'ukhebt?",
+        "fr": "Qu'est-ce qui ne va pas ?"
+      },
+      {
+        "s": 1,
+        "ar": "თავი მტკივა.",
+        "translit": "tavi mt'k'iva.",
+        "fr": "J'ai mal à la tête."
+      },
+      {
+        "s": 0,
+        "ar": "სიცხე გაქვთ?",
+        "translit": "sitskhe gakvt?",
+        "fr": "Vous avez de la fièvre ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, ცოტა.",
+        "translit": "k'i, tsot'a.",
+        "fr": "Oui, un peu."
+      },
+      {
+        "s": 0,
+        "ar": "ეს წამალი დალიეთ და დაისვენეთ.",
+        "translit": "es ts'amali daliet da daisvenet.",
+        "fr": "Prenez ce médicament et reposez-vous."
+      },
+      {
+        "s": 1,
+        "ar": "მადლობა, ექიმო.",
+        "translit": "madloba, ekimo.",
+        "fr": "Merci, docteur."
+      }
+    ]
+  },
+  {
+    "id": "ka-d15",
+    "level": 1,
+    "situation": "À l'hôtel",
+    "title": "Une chambre, s'il vous plaît",
+    "speakers": [
+      "Mariam",
+      "Giorgi"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "გამარჯობათ! ოთახი გაქვთ?",
+        "translit": "gamarjobat! otakhi gakvt?",
+        "fr": "Bonjour ! Vous avez une chambre ?"
+      },
+      {
+        "s": 0,
+        "ar": "კი. რამდენი ღამით?",
+        "translit": "k'i. ramdeni ghamit?",
+        "fr": "Oui. Pour combien de nuits ?"
+      },
+      {
+        "s": 1,
+        "ar": "ორი ღამით.",
+        "translit": "ori ghamit.",
+        "fr": "Pour deux nuits."
+      },
+      {
+        "s": 0,
+        "ar": "თქვენი პასპორტი, თუ შეიძლება.",
+        "translit": "tkveni p'asp'ort'i, tu sheidzleba.",
+        "fr": "Votre passeport, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "აი, ინებეთ.",
+        "translit": "ai, inebet.",
+        "fr": "Voici."
+      },
+      {
+        "s": 0,
+        "ar": "თქვენი ოთახი მესამე სართულზეა.",
+        "translit": "tkveni otakhi mesame sartulzea.",
+        "fr": "Votre chambre est au troisième étage."
+      }
+    ]
+  },
+  {
+    "id": "ka-d16",
+    "level": 1,
+    "situation": "Les loisirs",
+    "title": "Tu aimes le foot ?",
+    "speakers": [
+      "Luka",
+      "Dato"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ფეხბურთი გიყვარს?",
+        "translit": "pekhburti giq'vars?",
+        "fr": "Tu aimes le foot ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, ძალიან! შენ?",
+        "translit": "k'i, dzalian! shen?",
+        "fr": "Oui, beaucoup ! Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "მე კალათბურთი მირჩევნია.",
+        "translit": "me k'alatburti mirchevnia.",
+        "fr": "Moi, je préfère le basket."
+      },
+      {
+        "s": 1,
+        "ar": "შაბათს ერთად ვითამაშოთ?",
+        "translit": "shabats ertad vitamashot?",
+        "fr": "On joue ensemble samedi ?"
+      },
+      {
+        "s": 0,
+        "ar": "კარგი იდეაა!",
+        "translit": "k'argi ideaa!",
+        "fr": "Bonne idée !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d17",
+    "level": 2,
+    "situation": "À l'aéroport",
+    "title": "L'enregistrement",
+    "speakers": [
+      "Tamar",
+      "Levan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გამარჯობათ! თქვენი პასპორტი და ბილეთი, თუ შეიძლება.",
+        "translit": "gamarjobat! tkveni p'asp'ort'i da bileti, tu sheidzleba.",
+        "fr": "Bonjour ! Votre passeport et votre billet, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "აი, ინებეთ. ფანჯარასთან დაჯდომა შეიძლება?",
+        "translit": "ai, inebet. panjarastan dajdoma sheidzleba?",
+        "fr": "Voici. Est-ce que je peux être côté hublot ?"
+      },
+      {
+        "s": 0,
+        "ar": "რა თქმა უნდა. ბარგი გაქვთ?",
+        "translit": "ra tkma unda. bargi gakvt?",
+        "fr": "Bien sûr. Vous avez des bagages ?"
+      },
+      {
+        "s": 1,
+        "ar": "დიახ, ერთი ჩემოდანი.",
+        "translit": "diakh, erti chemodani.",
+        "fr": "Oui, une valise."
+      },
+      {
+        "s": 0,
+        "ar": "ჩემოდანი აქ დადეთ. ჩასხდომა თერთმეტ საათზე დაიწყება, მეხუთე გასასვლელთან.",
+        "translit": "chemodani ak dadet. chaskhdoma tertmet' saatze daits'q'eba, mekhute gasasvleltan.",
+        "fr": "Posez la valise ici. L'embarquement commencera à onze heures, porte cinq."
+      },
+      {
+        "s": 1,
+        "ar": "გასაგებია, დიდი მადლობა.",
+        "translit": "gasagebia, didi madloba.",
+        "fr": "Compris, merci beaucoup."
+      }
+    ]
+  },
+  {
+    "id": "ka-d18",
+    "level": 2,
+    "situation": "Faire des projets",
+    "title": "Ce week-end, on part ?",
+    "speakers": [
+      "Nino",
+      "Giorgi"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "გიორგი, ამ შაბათ-კვირას რას აკეთებ?",
+        "translit": "giorgi, am shabat-k'viras ras ak'eteb?",
+        "fr": "Giorgi, qu'est-ce que tu fais ce week-end ?"
+      },
+      {
+        "s": 1,
+        "ar": "ჯერ არ ვიცი. რატომ?",
+        "translit": "jer ar vitsi. rat'om?",
+        "fr": "Je ne sais pas encore. Pourquoi ?"
+      },
+      {
+        "s": 0,
+        "ar": "მცხეთაში წასვლა მინდა. წამოხვალ?",
+        "translit": "mtskhetashi ts'asvla minda. ts'amokhval?",
+        "fr": "J'aimerais aller à Mtskheta. Tu viens ?"
+      },
+      {
+        "s": 1,
+        "ar": "სიამოვნებით! როდის წავალთ?",
+        "translit": "siamovnebit! rodis ts'avalt?",
+        "fr": "Avec plaisir ! On part quand ?"
+      },
+      {
+        "s": 0,
+        "ar": "შაბათს, დილის ათ საათზე.",
+        "translit": "shabats, dilis at saatze.",
+        "fr": "Samedi, à dix heures du matin."
+      },
+      {
+        "s": 1,
+        "ar": "შესანიშნავია. მანქანით წაგიყვან.",
+        "translit": "shesanishnavia. mankanit ts'agiq'van.",
+        "fr": "Parfait. Je t'emmène en voiture."
+      },
+      {
+        "s": 0,
+        "ar": "ძალიან კარგი! მაშინ შაბათამდე.",
+        "translit": "dzalian k'argi! mashin shabatamde.",
+        "fr": "Super ! Alors à samedi."
+      }
+    ]
+  },
+  {
+    "id": "ka-d19",
+    "level": 2,
+    "situation": "Au restaurant",
+    "title": "L'addition, s'il vous plaît",
+    "speakers": [
+      "Dato",
+      "Eka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, ანგარიში მომიტანეთ, თუ შეიძლება.",
+        "translit": "uk'atsravad, angarishi momit'anet, tu sheidzleba.",
+        "fr": "Excusez-moi, l'addition, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "რა თქმა უნდა. როგორ იყო ყველაფერი?",
+        "translit": "ra tkma unda. rogor iq'o q'velaperi?",
+        "fr": "Bien sûr. Tout s'est bien passé ?"
+      },
+      {
+        "s": 0,
+        "ar": "ძალიან გემრიელი იყო, განსაკუთრებით ხინკალი.",
+        "translit": "dzalian gemrieli iq'o, gansak'utrebit khink'ali.",
+        "fr": "C'était délicieux, surtout les khinkalis."
+      },
+      {
+        "s": 1,
+        "ar": "მიხარია! სულ ორმოცდათხუთმეტი ლარია.",
+        "translit": "mikharia! sul ormotsdatkhutmet'i laria.",
+        "fr": "J'en suis ravie ! En tout, ça fait cinquante-cinq laris."
+      },
+      {
+        "s": 0,
+        "ar": "ბარათით გადახდა შეიძლება?",
+        "translit": "baratit gadakhda sheidzleba?",
+        "fr": "Je peux payer par carte ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, ახლავე მოგიტანთ ტერმინალს.",
+        "translit": "k'i, akhlave mogit'ant t'erminals.",
+        "fr": "Oui, je vous apporte le terminal tout de suite."
+      },
+      {
+        "s": 0,
+        "ar": "მადლობა. მომსახურება შესანიშნავი იყო.",
+        "translit": "madloba. momsakhureba shesanishnavi iq'o.",
+        "fr": "Merci. Le service était excellent."
+      }
+    ]
+  },
+  {
+    "id": "ka-d20",
+    "level": 2,
+    "situation": "Au téléphone",
+    "title": "Réserver une table",
+    "speakers": [
+      "Ana",
+      "Irakli"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "რესტორანი «ძველი თბილისი», გისმენთ.",
+        "translit": "rest'orani «dzveli tbilisi», gisment.",
+        "fr": "Restaurant « Vieux Tbilissi », j'écoute."
+      },
+      {
+        "s": 0,
+        "ar": "გამარჯობათ, ხვალისთვის მაგიდის დაჯავშნა მინდა.",
+        "translit": "gamarjobat, khvalistvis magidis dajavshna minda.",
+        "fr": "Bonjour, je voudrais réserver une table pour demain."
+      },
+      {
+        "s": 1,
+        "ar": "რამდენი ადამიანისთვის?",
+        "translit": "ramdeni adamianistvis?",
+        "fr": "Pour combien de personnes ?"
+      },
+      {
+        "s": 0,
+        "ar": "ოთხი ადამიანისთვის, საღამოს რვა საათზე.",
+        "translit": "otkhi adamianistvis, saghamos rva saatze.",
+        "fr": "Pour quatre personnes, à huit heures du soir."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი. ვის სახელზე დავჯავშნო?",
+        "translit": "k'argi. vis sakhelze davjavshno?",
+        "fr": "Très bien. À quel nom ?"
+      },
+      {
+        "s": 0,
+        "ar": "ანა ბერიძე.",
+        "translit": "ana beridze.",
+        "fr": "Ana Beridze."
+      },
+      {
+        "s": 1,
+        "ar": "ხვალ გელოდებით, ქალბატონო ანა.",
+        "translit": "khval gelodebit, kalbat'ono ana.",
+        "fr": "Nous vous attendons demain, madame."
+      }
+    ]
+  },
+  {
+    "id": "ka-d21",
+    "level": 2,
+    "situation": "Demander son chemin",
+    "title": "Le Musée national",
+    "speakers": [
+      "Luka",
+      "Ketevan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, ეროვნული მუზეუმი როგორ ვიპოვო?",
+        "translit": "uk'atsravad, erovnuli muzeumi rogor vip'ovo?",
+        "fr": "Excusez-moi, comment trouver le Musée national ?"
+      },
+      {
+        "s": 1,
+        "ar": "რუსთაველის გამზირზე უნდა გახვიდეთ.",
+        "translit": "rustavelis gamzirze unda gakhvidet.",
+        "fr": "Il faut aller sur l'avenue Roustavéli."
+      },
+      {
+        "s": 0,
+        "ar": "ფეხით შორია?",
+        "translit": "pekhit shoria?",
+        "fr": "C'est loin à pied ?"
+      },
+      {
+        "s": 1,
+        "ar": "დაახლოებით თხუთმეტი წუთის სავალია. პირდაპირ იარეთ და მეორე შუქნიშანთან მარცხნივ მოუხვიეთ.",
+        "translit": "daakhloebit tkhutmet'i ts'utis savalia. p'irdap'ir iaret da meore shuknishantan martskhniv moukhviet.",
+        "fr": "Environ quinze minutes de marche. Allez tout droit et tournez à gauche au deuxième feu."
+      },
+      {
+        "s": 0,
+        "ar": "მეტროთი უფრო სწრაფი არ იქნება?",
+        "translit": "met'roti upro sts'rapi ar ikneba?",
+        "fr": "Ce ne serait pas plus rapide en métro ?"
+      },
+      {
+        "s": 1,
+        "ar": "არა, მეტროს სადგური უფრო შორსაა. ფეხით ჯობია.",
+        "translit": "ara, met'ros sadguri upro shorsaa. pekhit jobia.",
+        "fr": "Non, la station de métro est plus loin. Mieux vaut y aller à pied."
+      },
+      {
+        "s": 0,
+        "ar": "გასაგებია. დიდი მადლობა დახმარებისთვის!",
+        "translit": "gasagebia. didi madloba dakhmarebistvis!",
+        "fr": "Compris. Merci beaucoup pour votre aide !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d22",
+    "level": 2,
+    "situation": "Transports",
+    "title": "En taxi pour l'aéroport",
+    "speakers": [
+      "Zurab",
+      "Mariam"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "გამარჯობათ, აეროპორტამდე რა ღირს?",
+        "translit": "gamarjobat, aerop'ort'amde ra ghirs?",
+        "fr": "Bonjour, c'est combien jusqu'à l'aéroport ?"
+      },
+      {
+        "s": 0,
+        "ar": "ოცდაათი ლარი.",
+        "translit": "otsdaati lari.",
+        "fr": "Trente laris."
+      },
+      {
+        "s": 1,
+        "ar": "ძვირია. ოცდახუთ ლარად წამიყვანთ?",
+        "translit": "dzviria. otsdakhut larad ts'amiq'vant?",
+        "fr": "C'est cher. Vous m'y emmenez pour vingt-cinq laris ?"
+      },
+      {
+        "s": 0,
+        "ar": "კარგი, დაჯექით. ბარგი საბარგულში ჩავდო?",
+        "translit": "k'argi, dajekit. bargi sabargulshi chavdo?",
+        "fr": "D'accord, montez. Je mets les bagages dans le coffre ?"
+      },
+      {
+        "s": 1,
+        "ar": "კი, თუ შეიძლება. ვჩქარობ, თვითმფრინავზე არ უნდა დავაგვიანო.",
+        "translit": "k'i, tu sheidzleba. vchkarob, tvitmprinavze ar unda davagviano.",
+        "fr": "Oui, s'il vous plaît. Je suis pressée, je ne dois pas rater mon avion."
+      },
+      {
+        "s": 0,
+        "ar": "არ ინერვიულოთ, ოც წუთში მივალთ.",
+        "translit": "ar inerviulot, ots ts'utshi mivalt.",
+        "fr": "Ne vous inquiétez pas, on y sera dans vingt minutes."
+      }
+    ]
+  },
+  {
+    "id": "ka-d23",
+    "level": 2,
+    "situation": "À l'hôtel",
+    "title": "Un problème dans la chambre",
+    "speakers": [
+      "Giorgi",
+      "Salomé"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "უკაცრავად, ჩემს ოთახში კონდიციონერი არ მუშაობს.",
+        "translit": "uk'atsravad, chems otakhshi k'onditsioneri ar mushaobs.",
+        "fr": "Excusez-moi, la climatisation ne marche pas dans ma chambre."
+      },
+      {
+        "s": 1,
+        "ar": "ბოდიშს გიხდით. რომელ ოთახში ხართ?",
+        "translit": "bodishs gikhdit. romel otakhshi khart?",
+        "fr": "Toutes nos excuses. Vous êtes dans quelle chambre ?"
+      },
+      {
+        "s": 0,
+        "ar": "სამას თორმეტში.",
+        "translit": "samas tormet'shi.",
+        "fr": "La trois cent douze."
+      },
+      {
+        "s": 1,
+        "ar": "ახლავე გამოგიგზავნით ტექნიკოსს.",
+        "translit": "akhlave gamogigzavnit t'eknik'oss.",
+        "fr": "Je vous envoie un technicien tout de suite."
+      },
+      {
+        "s": 0,
+        "ar": "და საუზმე რომელ საათზეა?",
+        "translit": "da sauzme romel saatzea?",
+        "fr": "Et le petit-déjeuner, c'est à quelle heure ?"
+      },
+      {
+        "s": 1,
+        "ar": "შვიდიდან ათ საათამდე, პირველ სართულზე.",
+        "translit": "shvididan at saatamde, p'irvel sartulze.",
+        "fr": "De sept à dix heures, au rez-de-chaussée."
+      },
+      {
+        "s": 0,
+        "ar": "მადლობა, ძალიან თავაზიანი ხართ.",
+        "translit": "madloba, dzalian tavaziani khart.",
+        "fr": "Merci, vous êtes très aimable."
+      }
+    ]
+  },
+  {
+    "id": "ka-d24",
+    "level": 2,
+    "situation": "La famille",
+    "title": "Une photo de famille",
+    "speakers": [
+      "Tamar",
+      "Luka"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ეს ჩემი ოჯახის ფოტოა.",
+        "translit": "es chemi ojakhis pot'oa.",
+        "fr": "C'est une photo de ma famille."
+      },
+      {
+        "s": 1,
+        "ar": "რა ლამაზი ფოტოა! ეს ვინ არის?",
+        "translit": "ra lamazi pot'oa! es vin aris?",
+        "fr": "Quelle belle photo ! Qui est-ce ?"
+      },
+      {
+        "s": 0,
+        "ar": "ეს დედაჩემია, ის კი მამაჩემია.",
+        "translit": "es dedachemia, is k'i mamachemia.",
+        "fr": "Ça, c'est ma mère, et lui, c'est mon père."
+      },
+      {
+        "s": 1,
+        "ar": "ეს პატარა გოგო შენი და არის?",
+        "translit": "es p'at'ara gogo sheni da aris?",
+        "fr": "Cette petite fille, c'est ta sœur ?"
+      },
+      {
+        "s": 0,
+        "ar": "არა, ჩემი დისშვილია. ხუთი წლისაა.",
+        "translit": "ara, chemi disshvilia. khuti ts'lisaa.",
+        "fr": "Non, c'est ma nièce. Elle a cinq ans."
+      },
+      {
+        "s": 1,
+        "ar": "შენი მშობლები სად ცხოვრობენ?",
+        "translit": "sheni mshoblebi sad tskhovroben?",
+        "fr": "Où habitent tes parents ?"
+      },
+      {
+        "s": 0,
+        "ar": "ქუთაისში. ყოველ ზაფხულს მათთან ჩავდივარ.",
+        "translit": "kutaisshi. q'ovel zapkhuls mattan chavdivar.",
+        "fr": "À Koutaïssi. Chaque été, je vais chez eux."
+      }
+    ]
+  },
+  {
+    "id": "ka-d25",
+    "level": 2,
+    "situation": "Au travail",
+    "title": "La réunion de demain",
+    "speakers": [
+      "Davit",
+      "Nino"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "ნინო, ხვალ ათ საათზე შეხვედრა გვაქვს.",
+        "translit": "nino, khval at saatze shekhvedra gvakvs.",
+        "fr": "Nino, nous avons une réunion demain à dix heures."
+      },
+      {
+        "s": 1,
+        "ar": "კარგი. პრეზენტაცია მოვამზადო?",
+        "translit": "k'argi. p'rezent'atsia movamzado?",
+        "fr": "D'accord. Je prépare la présentation ?"
+      },
+      {
+        "s": 0,
+        "ar": "კი, თუ შეგიძლია. კლიენტები ბათუმიდან ჩამოდიან.",
+        "translit": "k'i, tu shegidzlia. k'lient'ebi batumidan chamodian.",
+        "fr": "Oui, si tu peux. Les clients viennent de Batoumi."
+      },
+      {
+        "s": 1,
+        "ar": "პრობლემა არ არის, დღესვე დავასრულებ.",
+        "translit": "p'roblema ar aris, dghesve davasruleb.",
+        "fr": "Pas de problème, je la termine dès aujourd'hui."
+      },
+      {
+        "s": 0,
+        "ar": "მადლობა. თუ რამე დაგჭირდება, მითხარი.",
+        "translit": "madloba. tu rame dagch'irdeba, mitkhari.",
+        "fr": "Merci. Si tu as besoin de quoi que ce soit, dis-le-moi."
+      },
+      {
+        "s": 1,
+        "ar": "აუცილებლად.",
+        "translit": "autsileblad.",
+        "fr": "Sans faute."
+      }
+    ]
+  },
+  {
+    "id": "ka-d26",
+    "level": 2,
+    "situation": "Les loisirs",
+    "title": "Un week-end à la montagne",
+    "speakers": [
+      "Ana",
+      "Irakli"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "შაბათ-კვირას რა გააკეთე?",
+        "translit": "shabat-k'viras ra gaak'ete?",
+        "fr": "Qu'est-ce que tu as fait ce week-end ?"
+      },
+      {
+        "s": 1,
+        "ar": "მეგობრებთან ერთად მთაში ვიყავი, ყაზბეგში.",
+        "translit": "megobrebtan ertad mtashi viq'avi, q'azbegshi.",
+        "fr": "J'étais à la montagne avec des amis, à Kazbegi."
+      },
+      {
+        "s": 0,
+        "ar": "ვაუ! როგორი ამინდი იყო?",
+        "translit": "vau! rogori amindi iq'o?",
+        "fr": "Waouh ! Il faisait quel temps ?"
+      },
+      {
+        "s": 1,
+        "ar": "მზიანი, მაგრამ ცოტა ცივი. ბევრი ვიარეთ.",
+        "translit": "mziani, magram tsot'a tsivi. bevri viaret.",
+        "fr": "Ensoleillé, mais un peu froid. On a beaucoup marché."
+      },
+      {
+        "s": 0,
+        "ar": "მეც მიყვარს ლაშქრობა. შემდეგ ჯერზე მეც წამიყვანეთ!",
+        "translit": "mets miq'vars lashkroba. shemdeg jerze mets ts'amiq'vanet!",
+        "fr": "Moi aussi, j'adore la randonnée. La prochaine fois, emmenez-moi !"
+      },
+      {
+        "s": 1,
+        "ar": "აუცილებლად!",
+        "translit": "autsileblad!",
+        "fr": "Promis !"
+      }
+    ]
+  },
+  {
+    "id": "ka-d27",
+    "level": 2,
+    "situation": "Chez le médecin",
+    "title": "Un gros rhume",
+    "speakers": [
+      "Ketevan",
+      "Levan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "მობრძანდით. რა გაწუხებთ?",
+        "translit": "mobrdzandit. ra gats'ukhebt?",
+        "fr": "Entrez. Qu'est-ce qui ne va pas ?"
+      },
+      {
+        "s": 1,
+        "ar": "სამი დღეა ვახველებ და ყელი მტკივა.",
+        "translit": "sami dghea vakhveleb da q'eli mt'k'iva.",
+        "fr": "Je tousse depuis trois jours et j'ai mal à la gorge."
+      },
+      {
+        "s": 0,
+        "ar": "სიცხე გქონდათ?",
+        "translit": "sitskhe gkondat?",
+        "fr": "Vous avez eu de la fièvre ?"
+      },
+      {
+        "s": 1,
+        "ar": "გუშინ ოცდათვრამეტი მქონდა.",
+        "translit": "gushin otsdatvramet'i mkonda.",
+        "fr": "Hier, j'avais trente-huit."
+      },
+      {
+        "s": 0,
+        "ar": "გაციებული ხართ. ბევრი თბილი ჩაი დალიეთ და სამი დღე სახლში დარჩით.",
+        "translit": "gatsiebuli khart. bevri tbili chai daliet da sami dghe sakhlshi darchit.",
+        "fr": "Vous avez pris froid. Buvez beaucoup de thé chaud et restez trois jours à la maison."
+      },
+      {
+        "s": 1,
+        "ar": "წამალი მჭირდება?",
+        "translit": "ts'amali mch'irdeba?",
+        "fr": "J'ai besoin de médicaments ?"
+      },
+      {
+        "s": 0,
+        "ar": "აი, რეცეპტი. დღეში ორჯერ მიიღეთ.",
+        "translit": "ai, retsep't'i. dgheshi orjer miighet.",
+        "fr": "Voici l'ordonnance. À prendre deux fois par jour."
+      }
+    ]
+  },
+  {
+    "id": "ka-d28",
+    "level": 2,
+    "situation": "Au marché",
+    "title": "On peut négocier ?",
+    "speakers": [
+      "Eka",
+      "Zurab"
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "ar": "ქალბატონო, მობრძანდით! ახალი ხილი მაქვს.",
+        "translit": "kalbat'ono, mobrdzandit! akhali khili makvs.",
+        "fr": "Approchez, madame ! J'ai des fruits frais."
+      },
+      {
+        "s": 0,
+        "ar": "ატამი რა ღირს?",
+        "translit": "at'ami ra ghirs?",
+        "fr": "Combien coûtent les pêches ?"
+      },
+      {
+        "s": 1,
+        "ar": "კილო ხუთი ლარია, ძალიან ტკბილია.",
+        "translit": "k'ilo khuti laria, dzalian t'k'bilia.",
+        "fr": "Cinq laris le kilo, elles sont très sucrées."
+      },
+      {
+        "s": 0,
+        "ar": "ძვირია. ოთხ ლარად მომცემთ?",
+        "translit": "dzviria. otkh larad momtsemt?",
+        "fr": "C'est cher. Vous me les laissez à quatre laris ?"
+      },
+      {
+        "s": 1,
+        "ar": "კარგი, თქვენთვის — ოთხ ლარად. რამდენი გინდათ?",
+        "translit": "k'argi, tkventvis — otkh larad. ramdeni gindat?",
+        "fr": "D'accord, pour vous — quatre laris. Vous en voulez combien ?"
+      },
+      {
+        "s": 0,
+        "ar": "სამი კილო. და ცოტა მწვანილიც, თუ შეიძლება.",
+        "translit": "sami k'ilo. da tsot'a mts'vanilits, tu sheidzleba.",
+        "fr": "Trois kilos. Et un peu d'herbes aussi, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "მწვანილი საჩუქრად!",
+        "translit": "mts'vanili sachukrad!",
+        "fr": "Les herbes, c'est cadeau !"
+      }
+    ]
+  }
+]

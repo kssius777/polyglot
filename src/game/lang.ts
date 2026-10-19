@@ -106,20 +106,30 @@ export const LANGS: Record<LangId, LangInfo> = {
   },
 }
 
+/** Langues proposées. Le chinois est en pause : ajouter 'zh' ici suffit pour le rouvrir (cartes et parties sont gardées). */
+export const ACTIVE_LANGS: LangId[] = ['ar', 'ru', 'ka']
+
 const LANG_KEY = 'cartarabic-lang'
 
-function readLang(): LangId {
+function storedLang(): string | null {
   try {
-    const v = localStorage.getItem(LANG_KEY)
-    if (v === 'ru' || v === 'ka' || v === 'ar' || v === 'zh') return v
+    return localStorage.getItem(LANG_KEY)
   } catch {
     // Stockage indisponible (ou tests) : arabe par défaut.
+    return null
   }
-  return 'ar'
+}
+
+function readLang(): LangId {
+  const v = storedLang()
+  return ACTIVE_LANGS.includes(v as LangId) ? (v as LangId) : 'ar'
 }
 
 /** Langue de la session, fixée au chargement de la page. */
 export const LANG = LANGS[readLang()]
+
+/** La langue choisie la dernière fois est en pause : on propose d'en choisir une autre. */
+export const LANG_PAUSED = ((v) => v !== null && v in LANGS && !ACTIVE_LANGS.includes(v as LangId))(storedLang())
 
 /** Change de langue : chaque langue ayant ses propres cartes, on recharge simplement la page. */
 export function switchLang(id: LangId) {

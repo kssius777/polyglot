@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "ar-d01",
+    "level": 1,
+    "situation": "Salutations",
+    "title": "Bonjour, comment ça va ?",
+    "speakers": [
+      "Karim",
+      "Salma"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "السَّلَامُ عَلَيْكُمْ يَا سَلْمَى!",
+        "translit": "as-salāmu ʿalaykum yā salmā!",
+        "fr": "Bonjour, Salma !"
+      },
+      {
+        "s": 1,
+        "ar": "وَعَلَيْكُمُ السَّلَامُ يَا كَرِيمُ! كَيْفَ حَالُكَ؟",
+        "translit": "wa-ʿalaykumu s-salām yā karīm! kayfa ḥāluka?",
+        "fr": "Bonjour, Karim ! Comment vas-tu ?"
+      },
+      {
+        "s": 0,
+        "ar": "بِخَيْرٍ، الْحَمْدُ لِلَّهِ. وَأَنْتِ؟",
+        "translit": "bi-khayr, al-ḥamdu lillāh. wa-ʾanti?",
+        "fr": "Bien, Dieu merci. Et toi ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَنَا بِخَيْرٍ أَيْضًا، شُكْرًا.",
+        "translit": "ʾanā bi-khayrin ʾayḍan, shukran.",
+        "fr": "Je vais bien aussi, merci."
+      },
+      {
+        "s": 0,
+        "ar": "إِلَى اللِّقَاءِ!",
+        "translit": "ʾilā l-liqāʾ!",
+        "fr": "À bientôt !"
+      },
+      {
+        "s": 1,
+        "ar": "مَعَ السَّلَامَةِ!",
+        "translit": "maʿa s-salāma!",
+        "fr": "Au revoir !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d02",
+    "level": 1,
+    "situation": "Se présenter",
+    "title": "Je m'appelle Youssef",
+    "speakers": [
+      "Youssef",
+      "Leïla"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَرْحَبًا! أَنَا يُوسُفُ. مَا اسْمُكِ؟",
+        "translit": "marḥaban! ʾanā yūsuf. mā smuki?",
+        "fr": "Salut ! Moi, c'est Youssef. Comment tu t'appelles ?"
+      },
+      {
+        "s": 1,
+        "ar": "مَرْحَبًا يَا يُوسُفُ! اسْمِي لَيْلَى.",
+        "translit": "marḥaban yā yūsuf! ismī laylā.",
+        "fr": "Salut, Youssef ! Je m'appelle Leïla."
+      },
+      {
+        "s": 0,
+        "ar": "تَشَرَّفْنَا! مِنْ أَيْنَ أَنْتِ؟",
+        "translit": "tasharrafnā! min ʾayna ʾanti?",
+        "fr": "Enchanté ! Tu viens d'où ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَنَا مِنْ فَرَنْسَا. وَأَنْتَ؟",
+        "translit": "ʾanā min faransā. wa-ʾanta?",
+        "fr": "Je suis de France. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا مِنَ الْمَغْرِبِ.",
+        "translit": "ʾanā mina l-maghrib.",
+        "fr": "Moi, je suis du Maroc."
+      },
+      {
+        "s": 1,
+        "ar": "فُرْصَةٌ سَعِيدَةٌ!",
+        "translit": "furṣatun saʿīda!",
+        "fr": "Ravie de te connaître !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d03",
+    "level": 1,
+    "situation": "Au café",
+    "title": "Un café, s'il vous plaît",
+    "speakers": [
+      "Nadia",
+      "Omar"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَهْلًا وَسَهْلًا! مَاذَا تَشْرَبُ؟",
+        "translit": "ʾahlan wa-sahlan! mādhā tashrab?",
+        "fr": "Bienvenue ! Qu'est-ce que vous prenez ?"
+      },
+      {
+        "s": 1,
+        "ar": "قَهْوَةً مِنْ فَضْلِكِ.",
+        "translit": "qahwatan min faḍliki.",
+        "fr": "Un café, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "بِالْحَلِيبِ أَمْ بِدُونِ حَلِيبٍ؟",
+        "translit": "bi-l-ḥalībi ʾam bi-dūni ḥalīb?",
+        "fr": "Avec du lait ou sans lait ?"
+      },
+      {
+        "s": 1,
+        "ar": "بِدُونِ حَلِيبٍ، وَمَعَ قَلِيلٍ مِنَ السُّكَّرِ.",
+        "translit": "bi-dūni ḥalīb, wa-maʿa qalīlin mina s-sukkar.",
+        "fr": "Sans lait, et avec un peu de sucre."
+      },
+      {
+        "s": 0,
+        "ar": "تَفَضَّلْ، هَذِهِ قَهْوَتُكَ.",
+        "translit": "tafaḍḍal, hādhihi qahwatuka.",
+        "fr": "Voici votre café."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا جَزِيلًا!",
+        "translit": "shukran jazīlan!",
+        "fr": "Merci beaucoup !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d04",
+    "level": 1,
+    "situation": "Au marché",
+    "title": "Combien coûtent les pommes ?",
+    "speakers": [
+      "Ahmed",
+      "Fatima"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "صَبَاحُ الْخَيْرِ! بِكَمِ التُّفَّاحُ؟",
+        "translit": "ṣabāḥu l-khayr! bi-kami t-tuffāḥ?",
+        "fr": "Bonjour ! Combien coûtent les pommes ?"
+      },
+      {
+        "s": 1,
+        "ar": "صَبَاحُ النُّورِ! الْكِيلُو بِعَشَرَةِ دَرَاهِمَ.",
+        "translit": "ṣabāḥu n-nūr! al-kīlū bi-ʿasharati darāhim.",
+        "fr": "Bonjour ! Dix dirhams le kilo."
+      },
+      {
+        "s": 0,
+        "ar": "أَعْطِينِي كِيلُو، مِنْ فَضْلِكِ.",
+        "translit": "ʾaʿṭīnī kīlū, min faḍliki.",
+        "fr": "Donnez-m'en un kilo, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "تَفَضَّلْ. هَلْ تُرِيدُ شَيْئًا آخَرَ؟",
+        "translit": "tafaḍḍal. hal turīdu shayʾan ʾākhar?",
+        "fr": "Voilà. Vous voulez autre chose ?"
+      },
+      {
+        "s": 0,
+        "ar": "لَا، شُكْرًا. هَذِهِ عَشَرَةُ دَرَاهِمَ.",
+        "translit": "lā, shukran. hādhihi ʿasharatu darāhim.",
+        "fr": "Non, merci. Voici dix dirhams."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا لَكَ، مَعَ السَّلَامَةِ!",
+        "translit": "shukran laka, maʿa s-salāma!",
+        "fr": "Merci à vous, au revoir !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d05",
+    "level": 1,
+    "situation": "Demander son chemin",
+    "title": "Où est la gare ?",
+    "speakers": [
+      "Sami",
+      "Mariam"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "عَفْوًا، أَيْنَ الْمَحَطَّةُ؟",
+        "translit": "ʿafwan, ʾayna l-maḥaṭṭa?",
+        "fr": "Excusez-moi, où est la gare ?"
+      },
+      {
+        "s": 1,
+        "ar": "اذْهَبْ إِلَى الْأَمَامِ، ثُمَّ إِلَى الْيَمِينِ.",
+        "translit": "idhhab ʾilā l-ʾamām, thumma ʾilā l-yamīn.",
+        "fr": "Allez tout droit, puis à droite."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ هِيَ بَعِيدَةٌ؟",
+        "translit": "hal hiya baʿīda?",
+        "fr": "C'est loin ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا، هِيَ قَرِيبَةٌ جِدًّا. خَمْسُ دَقَائِقَ مَشْيًا.",
+        "translit": "lā, hiya qarībatun jiddan. khamsu daqāʾiqa mashyan.",
+        "fr": "Non, c'est tout près. Cinq minutes à pied."
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا جَزِيلًا!",
+        "translit": "shukran jazīlan!",
+        "fr": "Merci beaucoup !"
+      },
+      {
+        "s": 1,
+        "ar": "عَفْوًا!",
+        "translit": "ʿafwan!",
+        "fr": "De rien !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d06",
+    "level": 1,
+    "situation": "La famille",
+    "title": "Frères et sœurs",
+    "speakers": [
+      "Hana",
+      "Ali"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "هَلْ عِنْدَكَ إِخْوَةٌ يَا عَلِيُّ؟",
+        "translit": "hal ʿindaka ʾikhwatun yā ʿaliyy?",
+        "fr": "Tu as des frères et sœurs, Ali ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، عِنْدِي أَخٌ وَأُخْتَانِ.",
+        "translit": "naʿam, ʿindī ʾakhun wa-ʾukhtān.",
+        "fr": "Oui, j'ai un frère et deux sœurs."
+      },
+      {
+        "s": 0,
+        "ar": "مَا اسْمُ أَخِيكَ؟",
+        "translit": "mā smu ʾakhīk?",
+        "fr": "Comment s'appelle ton frère ?"
+      },
+      {
+        "s": 1,
+        "ar": "اسْمُهُ حَسَنٌ، وَهُوَ طَالِبٌ. وَأَنْتِ؟",
+        "translit": "ismuhu ḥasan, wa-huwa ṭālib. wa-ʾanti?",
+        "fr": "Il s'appelle Hassan, il est étudiant. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا عِنْدِي أُخْتٌ وَاحِدَةٌ فَقَطْ.",
+        "translit": "ʾanā ʿindī ʾukhtun wāḥidatun faqaṭ.",
+        "fr": "Moi, j'ai seulement une sœur."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ هِيَ أَكْبَرُ مِنْكِ؟",
+        "translit": "hal hiya ʾakbaru minki?",
+        "fr": "Elle est plus âgée que toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "لَا، هِيَ أَصْغَرُ مِنِّي.",
+        "translit": "lā, hiya ʾaṣgharu minnī.",
+        "fr": "Non, elle est plus jeune que moi."
+      }
+    ]
+  },
+  {
+    "id": "ar-d07",
+    "level": 1,
+    "situation": "La météo",
+    "title": "Il fait chaud aujourd'hui",
+    "speakers": [
+      "Khaled",
+      "Amina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "الْجَوُّ حَارٌّ جِدًّا الْيَوْمَ!",
+        "translit": "al-jawwu ḥārrun jiddan al-yawm!",
+        "fr": "Il fait très chaud aujourd'hui !"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، الشَّمْسُ قَوِيَّةٌ.",
+        "translit": "naʿam, ash-shamsu qawiyya.",
+        "fr": "Oui, le soleil tape fort."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ تُحِبِّينَ الصَّيْفَ؟",
+        "translit": "hal tuḥibbīna ṣ-ṣayf?",
+        "fr": "Tu aimes l'été ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا، أُحِبُّ الشِّتَاءَ أَكْثَرَ. وَأَنْتَ؟",
+        "translit": "lā, ʾuḥibbu sh-shitāʾa ʾakthar. wa-ʾanta?",
+        "fr": "Non, je préfère l'hiver. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا أُحِبُّ الرَّبِيعَ.",
+        "translit": "ʾanā ʾuḥibbu r-rabīʿ.",
+        "fr": "Moi, j'aime le printemps."
+      },
+      {
+        "s": 1,
+        "ar": "الرَّبِيعُ جَمِيلٌ فِعْلًا.",
+        "translit": "ar-rabīʿu jamīlun fiʿlan.",
+        "fr": "Le printemps, c'est vraiment beau."
+      }
+    ]
+  },
+  {
+    "id": "ar-d08",
+    "level": 1,
+    "situation": "Au restaurant",
+    "title": "Qu'est-ce que vous conseillez ?",
+    "speakers": [
+      "Nour",
+      "Bilal"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءُ الْخَيْرِ! هَذِهِ قَائِمَةُ الطَّعَامِ.",
+        "translit": "masāʾu l-khayr! hādhihi qāʾimatu ṭ-ṭaʿām.",
+        "fr": "Bonsoir ! Voici la carte."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا. مَاذَا تَقْتَرِحِينَ؟",
+        "translit": "shukran. mādhā taqtariḥīn?",
+        "fr": "Merci. Qu'est-ce que vous conseillez ?"
+      },
+      {
+        "s": 0,
+        "ar": "الدَّجَاجُ مَعَ الْأَرُزِّ لَذِيذٌ جِدًّا.",
+        "translit": "ad-dajāju maʿa l-ʾaruzzi ladhīdhun jiddan.",
+        "fr": "Le poulet au riz est délicieux."
+      },
+      {
+        "s": 1,
+        "ar": "حَسَنًا، أُرِيدُ الدَّجَاجَ، وَمَاءً مِنْ فَضْلِكِ.",
+        "translit": "ḥasanan, ʾurīdu d-dajāja, wa-māʾan min faḍliki.",
+        "fr": "D'accord, je prends le poulet, et de l'eau, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "حَاضِرٌ. هَلْ تُرِيدُ شَيْئًا آخَرَ؟",
+        "translit": "ḥāḍir. hal turīdu shayʾan ʾākhar?",
+        "fr": "Très bien. Vous désirez autre chose ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا، هَذَا يَكْفِي، شُكْرًا.",
+        "translit": "lā, hādhā yakfī, shukran.",
+        "fr": "Non, ça suffit, merci."
+      }
+    ]
+  },
+  {
+    "id": "ar-d09",
+    "level": 1,
+    "situation": "Dans un magasin",
+    "title": "Je cherche une chemise",
+    "speakers": [
+      "Zaynab",
+      "Hamza"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَهْلًا! هَلْ أُسَاعِدُكَ؟",
+        "translit": "ʾahlan! hal ʾusāʿiduk?",
+        "fr": "Bonjour ! Je peux vous aider ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، أَبْحَثُ عَنْ قَمِيصٍ أَبْيَضَ.",
+        "translit": "naʿam, ʾabḥathu ʿan qamīṣin ʾabyaḍ.",
+        "fr": "Oui, je cherche une chemise blanche."
+      },
+      {
+        "s": 0,
+        "ar": "مَا مَقَاسُكَ؟",
+        "translit": "mā maqāsuk?",
+        "fr": "Quelle est votre taille ?"
+      },
+      {
+        "s": 1,
+        "ar": "مَقَاسِي مُتَوَسِّطٌ.",
+        "translit": "maqāsī mutawassiṭ.",
+        "fr": "Je fais du M."
+      },
+      {
+        "s": 0,
+        "ar": "تَفَضَّلْ، هَذَا قَمِيصٌ جَمِيلٌ.",
+        "translit": "tafaḍḍal, hādhā qamīṣun jamīl.",
+        "fr": "Tenez, voici une jolie chemise."
+      },
+      {
+        "s": 1,
+        "ar": "بِكَمْ هُوَ؟",
+        "translit": "bi-kam huwa?",
+        "fr": "Elle coûte combien ?"
+      },
+      {
+        "s": 0,
+        "ar": "بِخَمْسِينَ دِرْهَمًا.",
+        "translit": "bi-khamsīna dirhaman.",
+        "fr": "Cinquante dirhams."
+      },
+      {
+        "s": 1,
+        "ar": "مُمْتَازٌ، سَآخُذُهُ.",
+        "translit": "mumtāz, saʾākhudhuh.",
+        "fr": "Parfait, je la prends."
+      }
+    ]
+  },
+  {
+    "id": "ar-d10",
+    "level": 1,
+    "situation": "Au téléphone",
+    "title": "Allô, qui est à l'appareil ?",
+    "speakers": [
+      "Mounir",
+      "Rania"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَلُو، مَنْ يَتَكَلَّمُ؟",
+        "translit": "ʾalū, man yatakallam?",
+        "fr": "Allô, qui est à l'appareil ?"
+      },
+      {
+        "s": 1,
+        "ar": "أَنَا رَانِيَا. كَيْفَ حَالُكَ يَا مُنِيرُ؟",
+        "translit": "ʾanā rāniyā. kayfa ḥāluka yā munīr?",
+        "fr": "C'est Rania. Comment vas-tu, Mounir ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَهْلًا يَا رَانِيَا! أَنَا بِخَيْرٍ.",
+        "translit": "ʾahlan yā rāniyā! ʾanā bi-khayr.",
+        "fr": "Salut, Rania ! Je vais bien."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ أَنْتَ فِي الْبَيْتِ الْآنَ؟",
+        "translit": "hal ʾanta fī l-bayti l-ʾān?",
+        "fr": "Tu es à la maison en ce moment ?"
+      },
+      {
+        "s": 0,
+        "ar": "لَا، أَنَا فِي الْعَمَلِ. سَأَتَّصِلُ بِكِ مَسَاءً.",
+        "translit": "lā, ʾanā fī l-ʿamal. saʾattaṣilu biki masāʾan.",
+        "fr": "Non, je suis au travail. Je te rappelle ce soir."
+      },
+      {
+        "s": 1,
+        "ar": "حَسَنًا، إِلَى اللِّقَاءِ!",
+        "translit": "ḥasanan, ʾilā l-liqāʾ!",
+        "fr": "D'accord, à plus tard !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d11",
+    "level": 1,
+    "situation": "Transports",
+    "title": "Ce bus va en ville ?",
+    "speakers": [
+      "Tarek",
+      "Houda"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "عَفْوًا، هَلْ تَذْهَبُ هَذِهِ الْحَافِلَةُ إِلَى وَسَطِ الْمَدِينَةِ؟",
+        "translit": "ʿafwan, hal tadhhabu hādhihi l-ḥāfilatu ʾilā wasaṭi l-madīna?",
+        "fr": "Excusez-moi, ce bus va au centre-ville ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، تَذْهَبُ إِلَى هُنَاكَ.",
+        "translit": "naʿam, tadhhabu ʾilā hunāk.",
+        "fr": "Oui, il y va."
+      },
+      {
+        "s": 0,
+        "ar": "كَمْ ثَمَنُ التَّذْكِرَةِ؟",
+        "translit": "kam thamanu t-tadhkira?",
+        "fr": "Combien coûte le ticket ?"
+      },
+      {
+        "s": 1,
+        "ar": "دِرْهَمَانِ فَقَطْ.",
+        "translit": "dirhamāni faqaṭ.",
+        "fr": "Seulement deux dirhams."
+      },
+      {
+        "s": 0,
+        "ar": "وَأَيْنَ أَشْتَرِي التَّذْكِرَةَ؟",
+        "translit": "wa-ʾayna ʾashtarī t-tadhkira?",
+        "fr": "Et où est-ce que j'achète le ticket ?"
+      },
+      {
+        "s": 1,
+        "ar": "مِنَ السَّائِقِ مُبَاشَرَةً.",
+        "translit": "mina s-sāʾiqi mubāsharatan.",
+        "fr": "Directement au chauffeur."
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا لَكِ!",
+        "translit": "shukran laki!",
+        "fr": "Merci !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d12",
+    "level": 1,
+    "situation": "Chez des amis",
+    "title": "Bienvenue chez moi",
+    "speakers": [
+      "Samira",
+      "Adam"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "أَهْلًا وَسَهْلًا! تَفَضَّلْ بِالدُّخُولِ.",
+        "translit": "ʾahlan wa-sahlan! tafaḍḍal bi-d-dukhūl.",
+        "fr": "Bienvenue ! Entre, je t'en prie."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا يَا سَمِيرَةُ. بَيْتُكِ جَمِيلٌ!",
+        "translit": "shukran yā samīra. baytuki jamīl!",
+        "fr": "Merci, Samira. Ta maison est belle !"
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا! اجْلِسْ مِنْ فَضْلِكَ. هَلْ تُرِيدُ شَايًا؟",
+        "translit": "shukran! ijlis min faḍlik. hal turīdu shāyan?",
+        "fr": "Merci ! Assieds-toi. Tu veux du thé ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، بِكُلِّ سُرُورٍ.",
+        "translit": "naʿam, bi-kulli surūr.",
+        "fr": "Oui, avec plaisir."
+      },
+      {
+        "s": 0,
+        "ar": "تَفَضَّلْ، هَذَا شَايٌ بِالنَّعْنَاعِ.",
+        "translit": "tafaḍḍal, hādhā shāyun bi-n-naʿnāʿ.",
+        "fr": "Tiens, c'est du thé à la menthe."
+      },
+      {
+        "s": 1,
+        "ar": "لَذِيذٌ جِدًّا، شُكْرًا!",
+        "translit": "ladhīdhun jiddan, shukran!",
+        "fr": "Il est délicieux, merci !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d13",
+    "level": 1,
+    "situation": "Au travail",
+    "title": "Le nouveau collègue",
+    "speakers": [
+      "Yasmine",
+      "Hicham"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "صَبَاحُ الْخَيْرِ! هَلْ أَنْتَ الزَّمِيلُ الْجَدِيدُ؟",
+        "translit": "ṣabāḥu l-khayr! hal ʾanta z-zamīlu l-jadīd?",
+        "fr": "Bonjour ! C'est toi le nouveau collègue ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، اسْمِي هِشَامٌ، وَأَنَا مُهَنْدِسٌ.",
+        "translit": "naʿam, ismī hishām, wa-ʾanā muhandis.",
+        "fr": "Oui, je m'appelle Hicham, je suis ingénieur."
+      },
+      {
+        "s": 0,
+        "ar": "أَهْلًا بِكَ! أَنَا يَاسَمِينُ، أَعْمَلُ فِي الْمُحَاسَبَةِ.",
+        "translit": "ʾahlan bik! ʾanā yāsamīn, ʾaʿmalu fī l-muḥāsaba.",
+        "fr": "Bienvenue ! Moi, c'est Yasmine, je travaille à la comptabilité."
+      },
+      {
+        "s": 1,
+        "ar": "تَشَرَّفْتُ بِمَعْرِفَتِكِ.",
+        "translit": "tasharraftu bi-maʿrifatiki.",
+        "fr": "Enchanté de te connaître."
+      },
+      {
+        "s": 0,
+        "ar": "وَأَنَا أَيْضًا. مَكْتَبِي هُنَا إِذَا احْتَجْتَ شَيْئًا.",
+        "translit": "wa-ʾanā ʾayḍan. maktabī hunā ʾidhā ḥtajta shayʾan.",
+        "fr": "Moi aussi. Mon bureau est ici si tu as besoin de quelque chose."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا جَزِيلًا!",
+        "translit": "shukran jazīlan!",
+        "fr": "Merci beaucoup !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d14",
+    "level": 1,
+    "situation": "Chez le médecin",
+    "title": "J'ai mal à la tête",
+    "speakers": [
+      "Docteur Mourad",
+      "Souad"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَا بِكِ؟",
+        "translit": "mā biki?",
+        "fr": "Qu'est-ce qui ne va pas ?"
+      },
+      {
+        "s": 1,
+        "ar": "عِنْدِي صُدَاعٌ وَحُمَّى.",
+        "translit": "ʿindī ṣudāʿun wa-ḥummā.",
+        "fr": "J'ai mal à la tête et de la fièvre."
+      },
+      {
+        "s": 0,
+        "ar": "مُنْذُ مَتَى؟",
+        "translit": "mundhu matā?",
+        "fr": "Depuis quand ?"
+      },
+      {
+        "s": 1,
+        "ar": "مُنْذُ يَوْمَيْنِ.",
+        "translit": "mundhu yawmayn.",
+        "fr": "Depuis deux jours."
+      },
+      {
+        "s": 0,
+        "ar": "خُذِي هَذَا الدَّوَاءَ ثَلَاثَ مَرَّاتٍ فِي الْيَوْمِ.",
+        "translit": "khudhī hādhā d-dawāʾa thalātha marrātin fī l-yawm.",
+        "fr": "Prenez ce médicament trois fois par jour."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا يَا دُكْتُورُ.",
+        "translit": "shukran yā duktūr.",
+        "fr": "Merci, docteur."
+      },
+      {
+        "s": 0,
+        "ar": "شِفَاءً عَاجِلًا!",
+        "translit": "shifāʾan ʿājilan!",
+        "fr": "Prompt rétablissement !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d15",
+    "level": 1,
+    "situation": "À l'hôtel",
+    "title": "Une chambre pour deux nuits",
+    "speakers": [
+      "Malik",
+      "Jamila"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءُ الْخَيْرِ، أَهْلًا بِكِ فِي الْفُنْدُقِ.",
+        "translit": "masāʾu l-khayr, ʾahlan biki fī l-funduq.",
+        "fr": "Bonsoir, bienvenue à l'hôtel."
+      },
+      {
+        "s": 1,
+        "ar": "مَسَاءُ النُّورِ. أُرِيدُ غُرْفَةً لِشَخْصٍ وَاحِدٍ.",
+        "translit": "masāʾu n-nūr. ʾurīdu ghurfatan li-shakhṣin wāḥid.",
+        "fr": "Bonsoir. Je voudrais une chambre pour une personne."
+      },
+      {
+        "s": 0,
+        "ar": "لِكَمْ لَيْلَةً؟",
+        "translit": "li-kam laylatan?",
+        "fr": "Pour combien de nuits ?"
+      },
+      {
+        "s": 1,
+        "ar": "لِلَيْلَتَيْنِ.",
+        "translit": "li-laylatayn.",
+        "fr": "Pour deux nuits."
+      },
+      {
+        "s": 0,
+        "ar": "حَسَنًا. جَوَازَ السَّفَرِ مِنْ فَضْلِكِ.",
+        "translit": "ḥasanan. jawāza s-safari min faḍliki.",
+        "fr": "Très bien. Votre passeport, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "تَفَضَّلْ.",
+        "translit": "tafaḍḍal.",
+        "fr": "Le voici."
+      },
+      {
+        "s": 0,
+        "ar": "غُرْفَتُكِ فِي الطَّابِقِ الثَّانِي، وَهَذَا هُوَ الْمِفْتَاحُ.",
+        "translit": "ghurfatuki fī ṭ-ṭābiqi th-thānī, wa-hādhā huwa l-miftāḥ.",
+        "fr": "Votre chambre est au deuxième étage, et voici la clé."
+      }
+    ]
+  },
+  {
+    "id": "ar-d16",
+    "level": 1,
+    "situation": "Les loisirs",
+    "title": "Qu'est-ce que tu aimes faire ?",
+    "speakers": [
+      "Anas",
+      "Rim"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَاذَا تُحِبِّينَ أَنْ تَفْعَلِي فِي وَقْتِ الْفَرَاغِ؟",
+        "translit": "mādhā tuḥibbīna ʾan tafʿalī fī waqti l-farāgh?",
+        "fr": "Qu'est-ce que tu aimes faire pendant ton temps libre ?"
+      },
+      {
+        "s": 1,
+        "ar": "أُحِبُّ الْقِرَاءَةَ وَالرَّسْمَ. وَأَنْتَ؟",
+        "translit": "ʾuḥibbu l-qirāʾata wa-r-rasm. wa-ʾanta?",
+        "fr": "J'aime lire et dessiner. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا أُحِبُّ كُرَةَ الْقَدَمِ كَثِيرًا.",
+        "translit": "ʾanā ʾuḥibbu kurata l-qadami kathīran.",
+        "fr": "Moi, j'adore le football."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ تَلْعَبُ مَعَ فَرِيقٍ؟",
+        "translit": "hal talʿabu maʿa farīq?",
+        "fr": "Tu joues dans une équipe ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، أَلْعَبُ كُلَّ يَوْمِ سَبْتٍ.",
+        "translit": "naʿam, ʾalʿabu kulla yawmi sabt.",
+        "fr": "Oui, je joue tous les samedis."
+      },
+      {
+        "s": 1,
+        "ar": "رَائِعٌ!",
+        "translit": "rāʾiʿ!",
+        "fr": "Génial !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d17",
+    "level": 2,
+    "situation": "Faire des projets",
+    "title": "Ce week-end, à la mer ?",
+    "speakers": [
+      "Walid",
+      "Dounia"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَاذَا سَتَفْعَلِينَ فِي عُطْلَةِ نِهَايَةِ الْأُسْبُوعِ؟",
+        "translit": "mādhā sa-tafʿalīna fī ʿuṭlati nihāyati l-ʾusbūʿ?",
+        "fr": "Qu'est-ce que tu fais ce week-end ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا أَعْرِفُ بَعْدُ، رُبَّمَا أَزُورُ جَدَّتِي. لِمَاذَا؟",
+        "translit": "lā ʾaʿrifu baʿdu, rubbamā ʾazūru jaddatī. limādhā?",
+        "fr": "Je ne sais pas encore, je vais peut-être voir ma grand-mère. Pourquoi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أُرِيدُ أَنْ أَذْهَبَ إِلَى الْبَحْرِ يَوْمَ السَّبْتِ. هَلْ تَأْتِينَ مَعِي؟",
+        "translit": "ʾurīdu ʾan ʾadhhaba ʾilā l-baḥri yawma s-sabt. hal taʾtīna maʿī?",
+        "fr": "Je veux aller à la mer samedi. Tu viens avec moi ?"
+      },
+      {
+        "s": 1,
+        "ar": "فِكْرَةٌ جَمِيلَةٌ! أَزُورُ جَدَّتِي يَوْمَ الْأَحَدِ إِذَنْ.",
+        "translit": "fikratun jamīla! ʾazūru jaddatī yawma l-ʾaḥadi ʾidhan.",
+        "fr": "Bonne idée ! Alors je verrai ma grand-mère dimanche."
+      },
+      {
+        "s": 0,
+        "ar": "مُمْتَازٌ! نَلْتَقِي فِي السَّاعَةِ التَّاسِعَةِ صَبَاحًا.",
+        "translit": "mumtāz! naltaqī fī s-sāʿati t-tāsiʿati ṣabāḥan.",
+        "fr": "Parfait ! On se retrouve à neuf heures du matin."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ نَأْخُذُ السَّيَّارَةَ أَمِ الْقِطَارَ؟",
+        "translit": "hal naʾkhudhu s-sayyārata ʾami l-qiṭār?",
+        "fr": "On prend la voiture ou le train ?"
+      },
+      {
+        "s": 0,
+        "ar": "الْقِطَارُ أَفْضَلُ، فَهُوَ أَسْرَعُ وَأَرْخَصُ.",
+        "translit": "al-qiṭāru ʾafḍal, fa-huwa ʾasraʿu wa-ʾarkhaṣ.",
+        "fr": "Le train, c'est mieux : c'est plus rapide et moins cher."
+      },
+      {
+        "s": 1,
+        "ar": "اتَّفَقْنَا! إِلَى يَوْمِ السَّبْتِ.",
+        "translit": "ittafaqnā! ʾilā yawmi s-sabt.",
+        "fr": "Ça marche ! À samedi."
+      }
+    ]
+  },
+  {
+    "id": "ar-d18",
+    "level": 2,
+    "situation": "À l'aéroport",
+    "title": "À l'enregistrement",
+    "speakers": [
+      "Siham",
+      "Nabil"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءُ الْخَيْرِ! جَوَازَ السَّفَرِ وَالتَّذْكِرَةَ مِنْ فَضْلِكَ.",
+        "translit": "masāʾu l-khayr! jawāza s-safari wa-t-tadhkirata min faḍlik.",
+        "fr": "Bonsoir ! Votre passeport et votre billet, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "تَفَضَّلِي. أُسَافِرُ إِلَى الْقَاهِرَةِ.",
+        "translit": "tafaḍḍalī. ʾusāfiru ʾilā l-qāhira.",
+        "fr": "Tenez. Je pars pour Le Caire."
+      },
+      {
+        "s": 0,
+        "ar": "كَمْ حَقِيبَةً مَعَكَ؟",
+        "translit": "kam ḥaqībatan maʿak?",
+        "fr": "Combien de valises avez-vous ?"
+      },
+      {
+        "s": 1,
+        "ar": "حَقِيبَةٌ وَاحِدَةٌ، وَحَقِيبَةُ يَدٍ صَغِيرَةٌ.",
+        "translit": "ḥaqībatun wāḥida, wa-ḥaqībatu yadin ṣaghīra.",
+        "fr": "Une valise, et un petit bagage à main."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ تُفَضِّلُ مَقْعَدًا بِجَانِبِ النَّافِذَةِ أَمْ بِجَانِبِ الْمَمَرِّ؟",
+        "translit": "hal tufaḍḍilu maqʿadan bi-jānibi n-nāfidhati ʾam bi-jānibi l-mamarr?",
+        "fr": "Vous préférez une place côté hublot ou côté couloir ?"
+      },
+      {
+        "s": 1,
+        "ar": "بِجَانِبِ النَّافِذَةِ، لَوْ سَمَحْتِ.",
+        "translit": "bi-jānibi n-nāfidha, law samaḥti.",
+        "fr": "Côté hublot, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "تَفَضَّلْ بِطَاقَةَ الصُّعُودِ. الْبَوَّابَةُ السَّابِعَةُ، وَالصُّعُودُ بَعْدَ سَاعَةٍ.",
+        "translit": "tafaḍḍal biṭāqata ṣ-ṣuʿūd. al-bawwābatu s-sābiʿa, wa-ṣ-ṣuʿūdu baʿda sāʿa.",
+        "fr": "Voici votre carte d'embarquement. Porte sept, l'embarquement est dans une heure."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا جَزِيلًا!",
+        "translit": "shukran jazīlan!",
+        "fr": "Merci beaucoup !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d19",
+    "level": 2,
+    "situation": "Transports",
+    "title": "En taxi pour l'aéroport",
+    "speakers": [
+      "Imane",
+      "Hassan"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءُ الْخَيْرِ، إِلَى الْمَطَارِ مِنْ فَضْلِكَ.",
+        "translit": "masāʾu l-khayr, ʾilā l-maṭāri min faḍlik.",
+        "fr": "Bonsoir, à l'aéroport, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "حَاضِرٌ. هَلْ أَنْتِ مُسْتَعْجِلَةٌ؟",
+        "translit": "ḥāḍir. hal ʾanti mustaʿjila?",
+        "fr": "Très bien. Vous êtes pressée ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ قَلِيلًا، طَائِرَتِي بَعْدَ سَاعَتَيْنِ.",
+        "translit": "naʿam qalīlan, ṭāʾiratī baʿda sāʿatayn.",
+        "fr": "Oui, un peu : mon avion décolle dans deux heures."
+      },
+      {
+        "s": 1,
+        "ar": "لَا تَقْلَقِي، الطَّرِيقُ لَيْسَ مُزْدَحِمًا الْآنَ.",
+        "translit": "lā taqlaqī, aṭ-ṭarīqu laysa muzdaḥiman al-ʾān.",
+        "fr": "Ne vous inquiétez pas, il n'y a pas de bouchons en ce moment."
+      },
+      {
+        "s": 0,
+        "ar": "كَمْ تَسْتَغْرِقُ الرِّحْلَةُ تَقْرِيبًا؟",
+        "translit": "kam tastaghriqu r-riḥlatu taqrīban?",
+        "fr": "Le trajet prend combien de temps, à peu près ?"
+      },
+      {
+        "s": 1,
+        "ar": "حَوَالَيْ عِشْرِينَ دَقِيقَةً.",
+        "translit": "ḥawālay ʿishrīna daqīqa.",
+        "fr": "Environ vingt minutes."
+      },
+      {
+        "s": 0,
+        "ar": "وَكَمِ الْأُجْرَةُ؟",
+        "translit": "wa-kami l-ʾujra?",
+        "fr": "Et ça coûte combien ?"
+      },
+      {
+        "s": 1,
+        "ar": "مِئَةُ دِرْهَمٍ تَقْرِيبًا.",
+        "translit": "miʾatu dirhamin taqrīban.",
+        "fr": "Environ cent dirhams."
+      }
+    ]
+  },
+  {
+    "id": "ar-d20",
+    "level": 2,
+    "situation": "Au restaurant",
+    "title": "L'addition, s'il vous plaît",
+    "speakers": [
+      "Moustafa",
+      "Aïcha"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "لَوْ سَمَحْتِ، هَلْ عِنْدَكُمْ طَاوِلَةٌ لِشَخْصَيْنِ؟",
+        "translit": "law samaḥti, hal ʿindakum ṭāwilatun li-shakhṣayn?",
+        "fr": "Excusez-moi, vous avez une table pour deux ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، تَفَضَّلُوا مِنْ هُنَا.",
+        "translit": "naʿam, tafaḍḍalū min hunā.",
+        "fr": "Oui, par ici, je vous en prie."
+      },
+      {
+        "s": 0,
+        "ar": "مَا هُوَ طَبَقُ الْيَوْمِ؟",
+        "translit": "mā huwa ṭabaqu l-yawm?",
+        "fr": "Quel est le plat du jour ?"
+      },
+      {
+        "s": 1,
+        "ar": "سَمَكٌ مَشْوِيٌّ مَعَ الْخُضَارِ.",
+        "translit": "samakun mashwiyyun maʿa l-khuḍār.",
+        "fr": "Du poisson grillé avec des légumes."
+      },
+      {
+        "s": 0,
+        "ar": "مُمْتَازٌ، طَبَقَانِ مِنْ فَضْلِكِ، وَعَصِيرُ بُرْتُقَالٍ.",
+        "translit": "mumtāz, ṭabaqāni min faḍliki, wa-ʿaṣīru burtuqāl.",
+        "fr": "Parfait, deux plats, s'il vous plaît, et un jus d'orange."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ أَعْجَبَكُمُ الطَّعَامُ؟",
+        "translit": "hal ʾaʿjabakumu ṭ-ṭaʿām?",
+        "fr": "Le repas vous a plu ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، كَانَ لَذِيذًا جِدًّا. الْحِسَابَ مِنْ فَضْلِكِ.",
+        "translit": "naʿam, kāna ladhīdhan jiddan. al-ḥisāba min faḍliki.",
+        "fr": "Oui, c'était délicieux. L'addition, s'il vous plaît."
+      },
+      {
+        "s": 1,
+        "ar": "حَالًا. هَلْ تَدْفَعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
+        "translit": "ḥālan. hal tadfaʿu naqdan ʾam bi-l-biṭāqa?",
+        "fr": "Tout de suite. Vous payez en espèces ou par carte ?"
+      }
+    ]
+  },
+  {
+    "id": "ar-d21",
+    "level": 2,
+    "situation": "Demander son chemin",
+    "title": "Pour aller au musée",
+    "speakers": [
+      "Ziad",
+      "Khadija"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "عَفْوًا يَا سَيِّدَتِي، كَيْفَ أَصِلُ إِلَى الْمَتْحَفِ الْوَطَنِيِّ؟",
+        "translit": "ʿafwan yā sayyidatī, kayfa ʾaṣilu ʾilā l-matḥafi l-waṭaniyy?",
+        "fr": "Excusez-moi, madame, comment aller au musée national ?"
+      },
+      {
+        "s": 1,
+        "ar": "امْشِ فِي هَذَا الشَّارِعِ حَتَّى الْإِشَارَةِ الضَّوْئِيَّةِ.",
+        "translit": "imshi fī hādhā sh-shāriʿi ḥattā l-ʾishārati ḍ-ḍawʾiyya.",
+        "fr": "Suivez cette rue jusqu'au feu."
+      },
+      {
+        "s": 0,
+        "ar": "وَبَعْدَ ذَلِكَ؟",
+        "translit": "wa-baʿda dhālik?",
+        "fr": "Et ensuite ?"
+      },
+      {
+        "s": 1,
+        "ar": "انْعَطِفْ يَسَارًا، وَسَتَجِدُ الْمَتْحَفَ أَمَامَكَ، بِجَانِبِ الْحَدِيقَةِ.",
+        "translit": "inʿaṭif yasāran, wa-sa-tajidu l-matḥafa ʾamāmaka, bi-jānibi l-ḥadīqa.",
+        "fr": "Tournez à gauche, et vous verrez le musée devant vous, à côté du jardin."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ أَسْتَطِيعُ أَنْ أَذْهَبَ مَشْيًا؟",
+        "translit": "hal ʾastaṭīʿu ʾan ʾadhhaba mashyan?",
+        "fr": "Je peux y aller à pied ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، الْمَسَافَةُ عَشْرُ دَقَائِقَ فَقَطْ.",
+        "translit": "naʿam, al-masāfatu ʿashru daqāʾiqa faqaṭ.",
+        "fr": "Oui, c'est à seulement dix minutes."
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا جَزِيلًا، أَنْتِ لَطِيفَةٌ جِدًّا.",
+        "translit": "shukran jazīlan, ʾanti laṭīfatun jiddan.",
+        "fr": "Merci beaucoup, vous êtes très aimable."
+      },
+      {
+        "s": 1,
+        "ar": "الْعَفْوُ، زِيَارَةً مُمْتِعَةً!",
+        "translit": "al-ʿafw, ziyāratan mumtiʿa!",
+        "fr": "Je vous en prie, bonne visite !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d22",
+    "level": 2,
+    "situation": "Au téléphone",
+    "title": "Prendre rendez-vous",
+    "speakers": [
+      "Salwa",
+      "Idriss"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "عِيَادَةُ الدُّكْتُورِ سَلِيمٍ، صَبَاحُ الْخَيْرِ.",
+        "translit": "ʿiyādatu d-duktūri salīm, ṣabāḥu l-khayr.",
+        "fr": "Cabinet du docteur Salim, bonjour."
+      },
+      {
+        "s": 1,
+        "ar": "صَبَاحُ النُّورِ. أُرِيدُ أَنْ آخُذَ مَوْعِدًا مِنْ فَضْلِكِ.",
+        "translit": "ṣabāḥu n-nūr. ʾurīdu ʾan ʾākhudha mawʿidan min faḍliki.",
+        "fr": "Bonjour. Je voudrais prendre rendez-vous, s'il vous plaît."
+      },
+      {
+        "s": 0,
+        "ar": "هَلْ يُنَاسِبُكَ يَوْمُ الثُّلَاثَاءِ؟",
+        "translit": "hal yunāsibuka yawmu th-thulāthāʾ?",
+        "fr": "Mardi, ça vous convient ?"
+      },
+      {
+        "s": 1,
+        "ar": "لِلْأَسَفِ، أَنَا مَشْغُولٌ يَوْمَ الثُّلَاثَاءِ. مَاذَا عَنِ الْأَرْبِعَاءِ؟",
+        "translit": "li-l-ʾasaf, ʾanā mashghūlun yawma th-thulāthāʾ. mādhā ʿani l-ʾarbiʿāʾ?",
+        "fr": "Malheureusement, je suis pris mardi. Et mercredi ?"
+      },
+      {
+        "s": 0,
+        "ar": "الْأَرْبِعَاءُ فِي السَّاعَةِ الْعَاشِرَةِ صَبَاحًا، هَلْ هَذَا مُنَاسِبٌ؟",
+        "translit": "al-ʾarbiʿāʾu fī s-sāʿati l-ʿāshirati ṣabāḥan, hal hādhā munāsib?",
+        "fr": "Mercredi à dix heures du matin, ça vous va ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، مُنَاسِبٌ جِدًّا.",
+        "translit": "naʿam, munāsibun jiddan.",
+        "fr": "Oui, c'est parfait."
+      },
+      {
+        "s": 0,
+        "ar": "مَا اسْمُكَ الْكَامِلُ؟",
+        "translit": "mā smuka l-kāmil?",
+        "fr": "Quel est votre nom complet ?"
+      },
+      {
+        "s": 1,
+        "ar": "إِدْرِيسُ الْعَلَوِيُّ. شُكْرًا لَكِ.",
+        "translit": "ʾidrīsu l-ʿalawiyy. shukran laki.",
+        "fr": "Idriss Alaoui. Merci à vous."
+      }
+    ]
+  },
+  {
+    "id": "ar-d23",
+    "level": 2,
+    "situation": "Se présenter",
+    "title": "Tu étudies quoi ?",
+    "speakers": [
+      "Mehdi",
+      "Lina"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "هَلْ أَنْتِ طَالِبَةٌ هُنَا؟",
+        "translit": "hal ʾanti ṭālibatun hunā?",
+        "fr": "Tu es étudiante ici ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، أَدْرُسُ الطِّبَّ فِي السَّنَةِ الثَّانِيَةِ. وَأَنْتَ؟",
+        "translit": "naʿam, ʾadrusu ṭ-ṭibba fī s-sanati th-thāniya. wa-ʾanta?",
+        "fr": "Oui, je suis en deuxième année de médecine. Et toi ?"
+      },
+      {
+        "s": 0,
+        "ar": "أَنَا أَدْرُسُ اللُّغَاتِ، وَأَتَعَلَّمُ الْعَرَبِيَّةَ وَالْإِنْجِلِيزِيَّةَ.",
+        "translit": "ʾanā ʾadrusu l-lughāt, wa-ʾataʿallamu l-ʿarabiyyata wa-l-ʾinjilīziyya.",
+        "fr": "J'étudie les langues : j'apprends l'arabe et l'anglais."
+      },
+      {
+        "s": 1,
+        "ar": "عَرَبِيَّتُكَ جَيِّدَةٌ جِدًّا! مُنْذُ مَتَى تَتَعَلَّمُهَا؟",
+        "translit": "ʿarabiyyatuka jayyidatun jiddan! mundhu matā tataʿallamuhā?",
+        "fr": "Ton arabe est très bon ! Tu l'apprends depuis quand ?"
+      },
+      {
+        "s": 0,
+        "ar": "مُنْذُ سَنَتَيْنِ تَقْرِيبًا. وَأَنْتِ، هَلْ تَتَكَلَّمِينَ الْفَرَنْسِيَّةَ؟",
+        "translit": "mundhu sanatayni taqrīban. wa-ʾanti, hal tatakallamīna l-faransiyya?",
+        "fr": "Depuis deux ans environ. Et toi, tu parles français ?"
+      },
+      {
+        "s": 1,
+        "ar": "قَلِيلًا فَقَطْ. هَلْ تُسَاعِدُنِي؟",
+        "translit": "qalīlan faqaṭ. hal tusāʿidunī?",
+        "fr": "Juste un peu. Tu veux bien m'aider ?"
+      },
+      {
+        "s": 0,
+        "ar": "بِكُلِّ سُرُورٍ! وَأَنْتِ تُسَاعِدِينَنِي فِي الْعَرَبِيَّةِ.",
+        "translit": "bi-kulli surūr! wa-ʾanti tusāʿidīnanī fī l-ʿarabiyya.",
+        "fr": "Avec plaisir ! Et toi, tu m'aides en arabe."
+      },
+      {
+        "s": 1,
+        "ar": "اتَّفَقْنَا!",
+        "translit": "ittafaqnā!",
+        "fr": "Marché conclu !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d24",
+    "level": 2,
+    "situation": "La famille",
+    "title": "Une photo de famille",
+    "speakers": [
+      "Sara",
+      "Ayman"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَنْ هَؤُلَاءِ فِي الصُّورَةِ؟",
+        "translit": "man hāʾulāʾi fī ṣ-ṣūra?",
+        "fr": "Qui sont ces gens sur la photo ?"
+      },
+      {
+        "s": 1,
+        "ar": "هَذِهِ عَائِلَتِي. هَذَا أَبِي، وَهَذِهِ أُمِّي.",
+        "translit": "hādhihi ʿāʾilatī. hādhā ʾabī, wa-hādhihi ʾummī.",
+        "fr": "C'est ma famille. Voici mon père, et voici ma mère."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَنْ هَذَا الطِّفْلُ الصَّغِيرُ؟",
+        "translit": "wa-man hādhā ṭ-ṭiflu ṣ-ṣaghīr?",
+        "fr": "Et qui est ce petit enfant ?"
+      },
+      {
+        "s": 1,
+        "ar": "هَذَا ابْنُ أَخِي، عُمْرُهُ أَرْبَعُ سَنَوَاتٍ.",
+        "translit": "hādhā bnu ʾakhī, ʿumruhu ʾarbaʿu sanawāt.",
+        "fr": "C'est le fils de mon frère, il a quatre ans."
+      },
+      {
+        "s": 0,
+        "ar": "مَا شَاءَ اللَّهُ، هُوَ لَطِيفٌ جِدًّا! هَلْ تَسْكُنُونَ مَعًا؟",
+        "translit": "mā shāʾa llāh, huwa laṭīfun jiddan! hal taskunūna maʿan?",
+        "fr": "Qu'il est mignon ! Vous habitez ensemble ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَا، أَخِي يَسْكُنُ فِي مَدِينَةٍ أُخْرَى، لَكِنَّنَا نَلْتَقِي فِي كُلِّ عِيدٍ.",
+        "translit": "lā, ʾakhī yaskunu fī madīnatin ʾukhrā, lākinnanā naltaqī fī kulli ʿīd.",
+        "fr": "Non, mon frère vit dans une autre ville, mais on se retrouve à chaque fête."
+      },
+      {
+        "s": 0,
+        "ar": "هَذَا جَمِيلٌ. الْعَائِلَةُ مُهِمَّةٌ جِدًّا.",
+        "translit": "hādhā jamīl. al-ʿāʾilatu muhimmatun jiddan.",
+        "fr": "C'est bien. La famille, c'est très important."
+      }
+    ]
+  },
+  {
+    "id": "ar-d25",
+    "level": 2,
+    "situation": "Dans un magasin",
+    "title": "Échanger une robe",
+    "speakers": [
+      "Rahma",
+      "Fouad"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءُ الْخَيْرِ. اشْتَرَيْتُ هَذَا الْفُسْتَانَ أَمْسِ، لَكِنَّهُ صَغِيرٌ عَلَيَّ.",
+        "translit": "masāʾu l-khayr. ishtaraytu hādhā l-fustāna ʾamsi, lākinnahu ṣaghīrun ʿalayy.",
+        "fr": "Bonsoir. J'ai acheté cette robe hier, mais elle est trop petite pour moi."
+      },
+      {
+        "s": 1,
+        "ar": "لَا مُشْكِلَةَ. هَلْ تُرِيدِينَ مَقَاسًا أَكْبَرَ؟",
+        "translit": "lā mushkilata. hal turīdīna maqāsan ʾakbar?",
+        "fr": "Pas de problème. Vous voulez une taille au-dessus ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، مِنْ فَضْلِكَ. وَهَلْ عِنْدَكُمْ لَوْنٌ آخَرُ؟",
+        "translit": "naʿam, min faḍlik. wa-hal ʿindakum lawnun ʾākhar?",
+        "fr": "Oui, s'il vous plaît. Et vous l'avez dans une autre couleur ?"
+      },
+      {
+        "s": 1,
+        "ar": "عِنْدَنَا الْأَزْرَقُ وَالْأَسْوَدُ.",
+        "translit": "ʿindanā l-ʾazraqu wa-l-ʾaswad.",
+        "fr": "On a le bleu et le noir."
+      },
+      {
+        "s": 0,
+        "ar": "أُفَضِّلُ الْأَزْرَقَ. أَيْنَ غُرْفَةُ الْقِيَاسِ؟",
+        "translit": "ʾufaḍḍilu l-ʾazraq. ʾayna ghurfatu l-qiyās?",
+        "fr": "Je préfère le bleu. Où est la cabine d'essayage ?"
+      },
+      {
+        "s": 1,
+        "ar": "هُنَاكَ، عَلَى الْيَسَارِ. هَلْ مَعَكِ الْإِيصَالُ؟",
+        "translit": "hunāka, ʿalā l-yasār. hal maʿaki l-ʾīṣāl?",
+        "fr": "Là-bas, à gauche. Vous avez le ticket de caisse ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، تَفَضَّلْ.",
+        "translit": "naʿam, tafaḍḍal.",
+        "fr": "Oui, le voici."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا. سَأُبَدِّلُهُ لَكِ حَالًا.",
+        "translit": "shukran. sa-ʾubaddiluhu laki ḥālan.",
+        "fr": "Merci. Je vous l'échange tout de suite."
+      }
+    ]
+  },
+  {
+    "id": "ar-d26",
+    "level": 2,
+    "situation": "À l'hôtel",
+    "title": "Un problème dans la chambre",
+    "speakers": [
+      "Ibrahim",
+      "Asma"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "مَسَاءُ الْخَيْرِ، عِنْدِي مُشْكِلَةٌ فِي غُرْفَتِي.",
+        "translit": "masāʾu l-khayr, ʿindī mushkilatun fī ghurfatī.",
+        "fr": "Bonsoir, j'ai un problème dans ma chambre."
+      },
+      {
+        "s": 1,
+        "ar": "مَا الْمُشْكِلَةُ يَا سَيِّدِي؟",
+        "translit": "mā l-mushkilatu yā sayyidī?",
+        "fr": "Quel est le problème, monsieur ?"
+      },
+      {
+        "s": 0,
+        "ar": "الْمُكَيِّفُ لَا يَعْمَلُ، وَالْغُرْفَةُ حَارَّةٌ جِدًّا.",
+        "translit": "al-mukayyifu lā yaʿmal, wa-l-ghurfatu ḥārratun jiddan.",
+        "fr": "La climatisation ne marche pas, et il fait très chaud dans la chambre."
+      },
+      {
+        "s": 1,
+        "ar": "آسِفَةٌ جِدًّا! سَأُرْسِلُ عَامِلَ الصِّيَانَةِ فَوْرًا.",
+        "translit": "ʾāsifatun jiddan! sa-ʾursilu ʿāmila ṣ-ṣiyānati fawran.",
+        "fr": "Je suis vraiment désolée ! J'envoie tout de suite le technicien."
+      },
+      {
+        "s": 0,
+        "ar": "وَهَلْ يُمْكِنُ أَنْ أَحْصُلَ عَلَى مِنْشَفَةٍ إِضَافِيَّةٍ؟",
+        "translit": "wa-hal yumkinu ʾan ʾaḥṣula ʿalā minshafatin ʾiḍāfiyya?",
+        "fr": "Et est-ce que je pourrais avoir une serviette en plus ?"
+      },
+      {
+        "s": 1,
+        "ar": "طَبْعًا، سَتَصِلُكَ بَعْدَ قَلِيلٍ.",
+        "translit": "ṭabʿan, sa-taṣiluka baʿda qalīl.",
+        "fr": "Bien sûr, on vous l'apporte dans un instant."
+      },
+      {
+        "s": 0,
+        "ar": "وَمَتَى يَبْدَأُ الْفُطُورُ؟",
+        "translit": "wa-matā yabdaʾu l-fuṭūr?",
+        "fr": "Et le petit-déjeuner commence à quelle heure ?"
+      },
+      {
+        "s": 1,
+        "ar": "مِنَ السَّاعَةِ السَّابِعَةِ حَتَّى الْعَاشِرَةِ.",
+        "translit": "mina s-sāʿati s-sābiʿati ḥattā l-ʿāshira.",
+        "fr": "De sept heures à dix heures."
+      }
+    ]
+  },
+  {
+    "id": "ar-d27",
+    "level": 2,
+    "situation": "La météo",
+    "title": "Quel temps demain ?",
+    "speakers": [
+      "Yassine",
+      "Kenza"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "هَلْ سَمِعْتِ النَّشْرَةَ الْجَوِّيَّةَ؟",
+        "translit": "hal samiʿti n-nashrata l-jawwiyya?",
+        "fr": "Tu as écouté la météo ?"
+      },
+      {
+        "s": 1,
+        "ar": "نَعَمْ، سَيَكُونُ الْجَوُّ بَارِدًا وَمُمْطِرًا غَدًا.",
+        "translit": "naʿam, sa-yakūnu l-jawwu bāridan wa-mumṭiran ghadan.",
+        "fr": "Oui, demain il fera froid et il pleuvra."
+      },
+      {
+        "s": 0,
+        "ar": "لِلْأَسَفِ! كُنْتُ أُرِيدُ أَنْ أَذْهَبَ إِلَى الْجَبَلِ.",
+        "translit": "li-l-ʾasaf! kuntu ʾurīdu ʾan ʾadhhaba ʾilā l-jabal.",
+        "fr": "Dommage ! Je voulais aller à la montagne."
+      },
+      {
+        "s": 1,
+        "ar": "رُبَّمَا يَتَحَسَّنُ الطَّقْسُ يَوْمَ الْجُمُعَةِ.",
+        "translit": "rubbamā yataḥassanu ṭ-ṭaqsu yawma l-jumuʿa.",
+        "fr": "Le temps s'améliorera peut-être vendredi."
+      },
+      {
+        "s": 0,
+        "ar": "وَكَمْ سَتَكُونُ دَرَجَةُ الْحَرَارَةِ غَدًا؟",
+        "translit": "wa-kam sa-takūnu darajatu l-ḥarārati ghadan?",
+        "fr": "Et il fera combien de degrés demain ?"
+      },
+      {
+        "s": 1,
+        "ar": "حَوَالَيْ عَشْرِ دَرَجَاتٍ فَقَطْ.",
+        "translit": "ḥawālay ʿashri darajātin faqaṭ.",
+        "fr": "Environ dix degrés seulement."
+      },
+      {
+        "s": 0,
+        "ar": "إِذَنْ سَأَبْقَى فِي الْبَيْتِ وَأَقْرَأُ كِتَابًا.",
+        "translit": "ʾidhan sa-ʾabqā fī l-bayti wa-ʾaqraʾu kitāban.",
+        "fr": "Alors je resterai à la maison et je lirai un livre."
+      },
+      {
+        "s": 1,
+        "ar": "وَلَا تَنْسَ الْمِظَلَّةَ إِذَا خَرَجْتَ!",
+        "translit": "wa-lā tansa l-miẓallata ʾidhā kharajt!",
+        "fr": "Et n'oublie pas ton parapluie si tu sors !"
+      }
+    ]
+  },
+  {
+    "id": "ar-d28",
+    "level": 2,
+    "situation": "Au travail",
+    "title": "La réunion de demain",
+    "speakers": [
+      "Nawal",
+      "Jamal"
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "ar": "يَا جَمَالُ، هَلْ أَنْهَيْتَ التَّقْرِيرَ؟",
+        "translit": "yā jamāl, hal ʾanhayta t-taqrīr?",
+        "fr": "Jamal, tu as fini le rapport ?"
+      },
+      {
+        "s": 1,
+        "ar": "لَيْسَ بَعْدُ، سَأُنْهِيهِ الْيَوْمَ قَبْلَ الْمَسَاءِ.",
+        "translit": "laysa baʿdu, sa-ʾunhīhi l-yawma qabla l-masāʾ.",
+        "fr": "Pas encore, je le termine aujourd'hui avant ce soir."
+      },
+      {
+        "s": 0,
+        "ar": "جَيِّدٌ، لِأَنَّ الِاجْتِمَاعَ غَدًا فِي السَّاعَةِ التَّاسِعَةِ.",
+        "translit": "jayyid, li-ʾanna l-ijtimāʿa ghadan fī s-sāʿati t-tāsiʿa.",
+        "fr": "Bien, parce que la réunion est demain à neuf heures."
+      },
+      {
+        "s": 1,
+        "ar": "هَلْ سَيَحْضُرُ الْمُدِيرُ أَيْضًا؟",
+        "translit": "hal sa-yaḥḍuru l-mudīru ʾayḍan?",
+        "fr": "Le directeur sera là aussi ?"
+      },
+      {
+        "s": 0,
+        "ar": "نَعَمْ، وَسَيَحْضُرُ عَمِيلَانِ مِنْ شَرِكَةٍ أُخْرَى.",
+        "translit": "naʿam, wa-sa-yaḥḍuru ʿamīlāni min sharikatin ʾukhrā.",
+        "fr": "Oui, et deux clients d'une autre entreprise viendront aussi."
+      },
+      {
+        "s": 1,
+        "ar": "حَسَنًا، سَأُحَضِّرُ الْعَرْضَ أَيْضًا.",
+        "translit": "ḥasanan, sa-ʾuḥaḍḍiru l-ʿarḍa ʾayḍan.",
+        "fr": "D'accord, je vais aussi préparer la présentation."
+      },
+      {
+        "s": 0,
+        "ar": "شُكْرًا يَا جَمَالُ، عَمَلُكَ مُمْتَازٌ دَائِمًا.",
+        "translit": "shukran yā jamāl, ʿamaluka mumtāzun dāʾiman.",
+        "fr": "Merci, Jamal, ton travail est toujours excellent."
+      },
+      {
+        "s": 1,
+        "ar": "شُكْرًا لَكِ، هَذَا لُطْفٌ مِنْكِ.",
+        "translit": "shukran laki, hādhā luṭfun minki.",
+        "fr": "Merci, c'est gentil de ta part."
+      }
+    ]
+  }
+]
